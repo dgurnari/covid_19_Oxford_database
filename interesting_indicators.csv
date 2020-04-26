@@ -1,0 +1,41 @@
+code,description,type
+SP.POP.TOTL,Population total,Climate Change
+AG.SRF.TOTL.K2,Surface area (sq. km),Agriculture & Rural Development
+EN.URB.MCTY.TL.ZS,Population in urban agglomerations of more than 1 million (% of total population),Climate Change
+SP.POP.GROW,Population growth (annual %),Climate Change
+NY.GDP.MKTP.KN,GDP (constant LCU),Economy & Growth
+NY.GDP.MKTP.KD,GDP (constant 2010 US$),Economy & Growth
+NY.GDP.MKTP.CN,GDP (current LCU),Economy & Growth
+NY.GDP.MKTP.CD,GDP (current US$),Economy & Growth
+SP.DYN.CDRT.IN,"Death rate, crude (per 1,000 people)",Health
+SP.DYN.CBRT.IN,"Birth rate, crude (per 1,000 people)",Health
+SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",Health
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",Health
+SP.DYN.LE00.MA.IN,"Life expectancy at birth, male (years)",Health
+SP.DYN.LE00.FE.IN,"Life expectancy at birth, female (years)",Health
+SH.DYN.MORT.MA,"Mortality rate, under-5, male (per 1,000 live births)",Health
+SH.DYN.MORT.FE,"Mortality rate, under-5, female (per 1,000 live births)",Health
+SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",Health
+SH.DYN.NMRT,"Mortality rate, neonatal (per 1,000 live births)",Health
+SP.DYN.IMRT.MA.IN,"Mortality rate, infant, male (per 1,000 live births)",Health
+SP.DYN.IMRT.FE.IN,"Mortality rate, infant, female (per 1,000 live births)",Health
+SP.DYN.IMRT.IN,"Mortality rate, infant (per 1,000 live births)",Health
+SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)",Health
+SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)",Health
+SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),Health
+SH.STA.HYGN.ZS,People with basic handwashing facilities including soap and water (% of population),Health
+SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),Health
+EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",Enviroment
+EG.ELC.ACCS.ZS,Access to electricity (% of population),Economy & Growth
+NY.ADJ.NNTY.PC.CD,Adjusted net national income per capita (current US$),Economy & Growth
+NY.ADJ.NNTY.PC.KD,Adjusted net national income per capita (constant 2010 US$),Economy & Growth
+NY.ADJ.NNTY.PC.KD.ZG,Adjusted net national income per capita (annual % growth),Economy & Growth
+NY.ADJ.NNTY.CD,Adjusted net national income (current US$),Economy & Growth
+NY.ADJ.NNTY.KD,Adjusted net national income (constant 2010 US$),Economy & Growth
+NY.ADJ.NNTY.KD.ZG,Adjusted net national income (annual % growth),Economy & Growth
+SE.ENR.PRSC.FM.ZS,"School enrollment, primary and secondary (gross), gender parity index (GPI)",Social Development
+EN.POP.SLUM.UR.ZS,Population living in slums (% of urban population),Poverty
+SI.POV.GAPS,Poverty gap at $1.90 a day (2011 PPP) (%),Poverty
+SI.POV.LMIC.GP,Poverty gap at $3.20 a day (2011 PPP) (%),Poverty
+SI.POV.UMIC.GP,Poverty gap at $5.50 a day (2011 PPP) (%),Poverty
+SI.POV.NAGP,Poverty gap at national poverty lines (%),Poverty
