@@ -14,7 +14,7 @@ the same code is available in the jupiter notebook wb_data_fetcher.ipynb
 
 code,description,type\
 SP.POP.TOTL,Population total,Climate Change\
-AG.SRF.TOTL.K2,Surface area (sq. km),Agriculture & Rural Development\
+AG.SRF.TOTL.K2,Surface area (sq. km),Agriculture & Rural Development
 
 a bigger example can be found in "interesting_indicators.csv"
 
