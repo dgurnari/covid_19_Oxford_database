@@ -10,9 +10,9 @@ additional columns can be used to describe the indicators but are not read by th
 
 ## <indicators.csv> example
 
-code,description,type \\
-SP.POP.TOTL,Population total,Climate Change \\
-AG.SRF.TOTL.K2,Surface area (sq. km),Agriculture & Rural Development \\
+code,description,type\
+SP.POP.TOTL,Population total,Climate Change\
+AG.SRF.TOTL.K2,Surface area (sq. km),Agriculture & Rural Development\
 
 
 ## what does the script do
