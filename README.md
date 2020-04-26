@@ -1,7 +1,7 @@
 # covid_19_Oxford_database
 
 ## USAGE
-python wb_data_fetcher.py <indicators.cs>
+python wb_data_fetcher.py <indicators.csv>
 
 
 <indicators.csv> must be a csv file with (at least) a column named "code"
