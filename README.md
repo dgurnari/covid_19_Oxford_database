@@ -32,6 +32,6 @@ Note: in the "WDIData.csv" dataset there are not only single countries but also 
 
 
 ## what about the world bank APIs
-Downloading the entire dataset seems to be the easiest way to go, but there are also API and a python wrapper
+Downloading the entire dataset seems to be the easiest way to go, but the Worlds Bank has its own API to query the dataset. Moreover there is a python wrapper of such APIs
 https://wbdata.readthedocs.io/en/stable/index.html
 the wbdata.get_dataframe method returns takes as input a dictionary of indicators and returns a multi-index (country, year) pandas dataframe which makes the slicing more complicated
