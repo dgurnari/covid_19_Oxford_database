@@ -14,6 +14,7 @@ code,description,type\
 SP.POP.TOTL,Population total,Climate Change\
 AG.SRF.TOTL.K2,Surface area (sq. km),Agriculture & Rural Development\
 
+a bigger example can be found in "interesting_indicators.csv"
 
 ## what does the script do
 
@@ -31,4 +32,4 @@ Note: in the "WDIData.csv" dataset there are not only single countries but also 
 ## what about the world bank APIs
 Downloading the entire dataset seems to be the easiest way to go, but there are also API and a python wrapper
 https://wbdata.readthedocs.io/en/stable/index.html
-but it is not very flexible
+the wbdata.get_dataframe method returns takes as input a dictionary of indicators and returns a multi-index (country, year) pandas dataframe which makes the slicing more complicated
