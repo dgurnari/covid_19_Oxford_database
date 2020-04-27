@@ -29,6 +29,8 @@ Slice it keeping only the the rows relative to the indicators in <indicators.csv
 Returns a csv file "wb_out_FULL.csv" with the following columns\
 Country Name, Country Code, Indicator Name, Indicator Code, Most Recent Value, Year
 
+and similar subset of it named "wb_out_{CATEGORY}.csv" which contain only the indicators of a certain CATEGORY.
+
 Note: in the "WDIData.csv" dataset there are not only single countries but also groups of them such as Arab World and European Union. For the time being the script keeps them even if they cointain, in average, more NaNs.
 
 
