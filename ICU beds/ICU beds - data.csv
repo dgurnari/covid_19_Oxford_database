@@ -1,68 +1,86 @@
-Country,Hospital beds,Intermediate care (IMCU) beds,Intensive care (ICU) beds,"Critical Care Beds/100,000 Population",Year,Source
-Austria,48446,569,1264,21.8,2011,1
-Belgium,50156,,,15.9,2011,1
-Bulgaria,57460,,,12.2,2011,1
-Croatia,15629,,,14.7,2011,1
-Cyprus,2813,9,83,11.4,2011,1
-Czech Republic,91068,,,11.6,2011,1
-Denmark,17124,,,6.7,2011,1
-Estonia,5096,72,124,14.6,2011,1
-Finland,12442,28,301,6.1,2011,1
-France,232821,3471,4069,11.6,2011,1
-Germany,469791,,,29.2,2011,1
-Greece,44411,30,650,6,2011,1
-Hungary,41574,,,13.8,2011,1
-Iceland,1169,,,9.1,2011,1
-Ireland,12202,88,201,6.5,2011,1
-Italy,201932,,,12.5,2011,1
-Latvia,11833,,,9.7,2011,1
-Lithuania,17061,,,15.5,2011,1
-Luxembourg,2511,27,100,24.8,2011,1
-The Netherlands,56085,,,6.4,2011,1
-Norway,13639,,,8,2011,1
-Poland,156662,,,6.9,2011,1
-Portugal,31722,,451,4.2,2011,1
-Romania,108611,2574,2000,21.4,2011,1
-Slovakia,32560,,,9.2,2011,1
-Slovenia,7656,,,6.4,2011,1
-Spain,124194,,,9.7,2011,1
-Sweden,26131,,,5.8,2011,1
-Switzerland,28096,,,11,2011,1
-United Kingdom,147809,1737,2377,6.6,2011,1
-United States,621578,,67579,33.6,2000,2
-United States,616679,,67710,33.2,2001,2
-United States,616454,,68920,33.3,2002,2
-United States,615468,,70258,33.5,2003,2
-United States,619395,,71468,33.7,2004,2
-United States,618743,,72678,33.8,2005,2
-United States,619894,,74533,34.3,2006,2
-United States,623775,,75863,34.5,2007,2
-United States,627378,,76803,34.5,2008,2
-United States,627112,,77809,34.7,2009,2
-Bangladesh,,296,878,0.7,2017,3
-India,,,"29,997",2.3,2017,3
-Indonesia,,,"7,094",2.7,2017,3
-Laos,,,152,2.1,2017,3
-Mongolia,,0,271,8.8,2017,3
-Myanmar,,255,331,1.1,2017,3
-Nepal,,237,578,2.8,2017,3
-Pakistan,,,"3,142",1.5,2017,3
-Philippines,,20,"2,315",2.2,2017,3
-Sri Lanka,,0,519,2.3,2017,3
-China,,0,"49,453",3.6,2017,3
-Iran,,21,"3,769",4.6,2017,3
-Kazakhstan,,0,"3,948",21.3,2017,3
-Malaysia,,,"1,060",3.4,2017,3
-Thailand,,,"7,100",10.4,2017,3
-Brunei,,0,58,13.1,2017,3
-Hong Kong,,224,287,7.1,2017,3
-Japan,,"3,268","5,973",7.3,2017,3
-Oman,,303,196,14.6,2017,3
-Saudi Arabia,,,"6,515",22.8,2017,3
-Singapore,,336,335,11.4,2017,3
-South Korea,,0,"5,402",10.6,2017,3
-Taiwan,,943,"5,758",28.5,2017,3
-Australia,,,2179,8.92,2018,4
-New Zealand,,,251,5.14,2018,4
-Tasmania,,,50,,2018,4
-Canada,,,3170,9.5,2015,5
+Country,Country ISO code,Region,Hospital beds,Intermediate care (IMCU) beds,Intensive care (ICU) beds,"Critical Care Beds/100,000 Population",Year,Source
+Austria,AUT,Austria,48446,569,1264,21.8,2011,1
+Belgium,BEL,Belgium,50156,,,15.9,2011,1
+Bulgaria,BGR,Bulgaria,57460,,,12.2,2011,1
+Croatia,HRV,Croatia,15629,,,14.7,2011,1
+Cyprus,CYP,Cyprus,2813,9,83,11.4,2011,1
+Czech Republic,CZE,Czech Republic,91068,,,11.6,2011,1
+Denmark,DNK,Denmark,17124,,,6.7,2011,1
+Estonia,EST,Estonia,5096,72,124,14.6,2011,1
+Finland,FIN,Finland,12442,28,301,6.1,2011,1
+France,FRA,France,232821,3471,4069,11.6,2011,1
+Germany,DEU,Germany,469791,,,29.2,2011,1
+Greece,GRC,Greece,44411,30,650,6,2011,1
+Hungary,HUN,Hungary,41574,,,13.8,2011,1
+Iceland,ISL,Iceland,1169,,,9.1,2011,1
+Ireland,IRL,Ireland,12202,88,201,6.5,2011,1
+Italy,ITA,Italy,201932,,,12.5,2011,1
+Latvia,LVA,Latvia,11833,,,9.7,2011,1
+Lithuania,LTU,Lithuania,17061,,,15.5,2011,1
+Luxembourg,LUX,Luxembourg,2511,27,100,24.8,2011,1
+The Netherlands,NLD,The Netherlands,56085,,,6.4,2011,1
+Norway,NOR,Norway,13639,,,8,2011,1
+Poland,POL,Poland,156662,,,6.9,2011,1
+Portugal,PRT,Portugal,31722,,451,4.2,2011,1
+Romania,ROU,Romania,108611,2574,2000,21.4,2011,1
+Slovakia,SVK,Slovakia,32560,,,9.2,2011,1
+Slovenia,SVN,Slovenia,7656,,,6.4,2011,1
+Spain,ESP,Spain,124194,,,9.7,2011,1
+Sweden,SWE,Sweden,26131,,,5.8,2011,1
+Switzerland,CHE,Switzerland,28096,,,11,2011,1
+United Kingdom,GBR,United Kingdom,147809,1737,2377,6.6,2011,1
+United States,USA,United States,621578,,67579,33.6,2000,2
+United States,USA,United States,616679,,67710,33.2,2001,2
+United States,USA,United States,616454,,68920,33.3,2002,2
+United States,USA,United States,615468,,70258,33.5,2003,2
+United States,USA,United States,619395,,71468,33.7,2004,2
+United States,USA,United States,618743,,72678,33.8,2005,2
+United States,USA,United States,619894,,74533,34.3,2006,2
+United States,USA,United States,623775,,75863,34.5,2007,2
+United States,USA,United States,627378,,76803,34.5,2008,2
+United States,USA,United States,627112,,77809,34.7,2009,2
+Bangladesh,BGD,Bangladesh,,296,878,0.7,2017,3
+India,IND,India,,,29997,2.3,2017,3
+Indonesia,IDN,Indonesia,,,7094,2.7,2017,3
+Laos,LAO,Laos,,,152,2.1,2017,3
+Mongolia,MNG,Mongolia,,0,271,8.8,2017,3
+Myanmar,MMR,Myanmar,,255,331,1.1,2017,3
+Nepal,NPL,Nepal,,237,578,2.8,2017,3
+Pakistan,PAK,Pakistan,,,3142,1.5,2017,3
+Philippines,PHL,Philippines,,20,2315,2.2,2017,3
+Sri Lanka,LKA,Sri Lanka,,0,519,2.3,2017,3
+China,CHN,China,,0,49453,3.6,2017,3
+Iran,IRN,Iran,,21,3769,4.6,2017,3
+Kazakhstan,KAZ,Kazakhstan,,0,3948,21.3,2017,3
+Malaysia,MYS,Malaysia,,,1060,3.4,2017,3
+Thailand,THA,Thailand,,,7100,10.4,2017,3
+Brunei,BRN,Brunei,,0,58,13.1,2017,3
+Hong Kong,HKG,Hong Kong,,224,287,7.1,2017,3
+Japan,JPN,Japan,,"3,268",5973,7.3,2017,3
+Oman,OMN,Oman,,303,196,14.6,2017,3
+Saudi Arabia,SAU,Saudi Arabia,,,6515,22.8,2017,3
+Singapore,SGP,Singapore,,336,335,11.4,2017,3
+South Korea,KOR,South Korea,,0,5402,10.6,2017,3
+Taiwan,TWN,Taiwan,,943,5758,28.5,2017,3
+Australia,AUS,Australia,,,2229,8.92,2018,4
+Australia,AUS,Western Australia,,,162,,2018,4
+Australia,AUS,Northern Territory,,,22,,2018,4
+Australia,AUS,South Australia,,,188,,2018,4
+Australia,AUS,Queensland,,,413,,2018,4
+Australia,AUS,New South Wales,,,874,,2018,4
+Australia,AUS,Victoria,,,476,,2018,4
+Australia,AUS,Australian Capital Territory,,,44,,2018,4
+Australia,AUS,Tasmania,,,50,,2018,4
+New Zealand,NZL,New Zealand,,,251,5.14,2018,4
+Canada,CAN,Canada,,,3170,9.5,2015,5
+Canada,CAN,Newfoundland,,,98,19.3,2015,5
+Canada,CAN,Nova Scotia,,,141,15,2015,5
+Canada,CAN,Prince Edward Island,,,18,12.8,2015,5
+Canada,CAN,New Brunswick,,,103,13.8,2015,5
+Canada,CAN,Quebec,,,885,11.3,2015,5
+Canada,CAN,Ontario,,,1122,8.6,2015,5
+Canada,CAN,Saskatchewan,,,108,10.5,2015,5
+Canada,CAN,Manitoba,,,93,9,2015,5
+Canada,CAN,Alberta,,,292,7.9,2015,5
+Canada,CAN,British Columbia,,,304,6.8,2015,5
+Canada,CAN,Territories,,,6,5.5,2015,5
