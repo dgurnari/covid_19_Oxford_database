@@ -9,8 +9,8 @@ Elements of the "code" column must be valid indicator codes that can be found at
 Elements in the "category" column will be used to divide the output file in subsets.\
 Additional columns can be used to describe the indicators but are not read by the script.
 
-By default the script downloads the entire dataset "WDIData.csv" from http://databank.worldbank.org/data/download/WDI_csv.zip ./
-If a second argument is provided the dataset will be loaded locally from the path <dataset.zip> .\
+By default the script downloads the entire dataset "WDIData.csv" from http://databank.worldbank.org/data/download/WDI_csv.zip .\
+If a second argument is provided the dataset will be loaded locally from the path <dataset.zip> .
 
 
 ## <indicators.csv> example
