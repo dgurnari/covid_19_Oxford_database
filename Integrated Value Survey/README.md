@@ -12,7 +12,13 @@ Since this integrated dataset is not directly available we personally merged it 
 https://drive.google.com/open?id=1ug6_ndeEi4OhmAZJeXiZmG7BO6T5bPX9\
 and contains 1430 variables and 513529 observations.
 
-## Variables Aggregation
-We provide two different levels of aggregation:
+## Variables Processing and Aggregation
+We aim to provide two different levels of aggregation:
 - by Year and Country;
 - by Year, Country and local region.
+
+Before being aggregate each individual answer is one-hot encoded. \
+For each answer in the dataset, a weight is available to compensate for small deviations in the sample at the country level.\
+http://www.worldvaluessurvey.org/WVSContents.jsp?CMSID=WEIGHT \
+When aggregating at the country level we choosed to rescale each answer, when aggregating at the region level we choosed not to. \
+We used the aritmetic mean as the aggregating function, since each answer was one hot encoded we can interpret the resulting values as frequencies.

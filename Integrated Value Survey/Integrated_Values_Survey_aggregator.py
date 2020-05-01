@@ -70,8 +70,13 @@ grouped_by_country.to_csv("out/IVS_grouped_by_country.csv", index = False)
 ######################################################
 ###### Groupby Country and Region ####################
 ######################################################
-weighted_one_hot["X048"] = data_subset["X048"]
-grouped_by_country_region = weighted_one_hot.groupby(["S003", "Year", "X048"]).mean().copy()
+
+
+# we do NOT use the weights
+one_hot["S003"] = data_subset["S003"]
+one_hot["Year"] = data_subset["S020"]
+one_hot["X048"] = data_subset["X048"]
+grouped_by_country_region = one_hot.groupby(["S003", "Year", "X048"]).mean().copy()
 
 
 # ### Add the country and region names
