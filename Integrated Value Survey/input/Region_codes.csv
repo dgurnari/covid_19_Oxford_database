@@ -1,0 +1,2575 @@
+Code,Region
+-5,Unknown
+-4,Not asked
+-3,Not applicable
+-2,No answer
+-1,Don´t know
+8001,AL: Tirana
+8002,AL: South
+8003,AL: Center
+8004,AL: North
+12001,DZ: Comune 1
+12002,DZ: Comune 2
+12003,DZ: Comune 3
+12004,DZ: Comune 4
+12005,DZ: Comune 5
+12006,DZ: Comune 6
+12007,DZ: Comune 7
+12008,DZ: Comune 8
+12009,DZ: Comune 9
+12010,DZ: Comune 10
+12101,DZ: Adrar
+12102,DZ: Chlef
+12103,DZ: Laghouat
+12104,DZ: O.E.Bouaghi
+12105,DZ: Batna
+12106,DZ: Bejaia
+12107,DZ: Biskra
+12108,DZ: Bechar
+12109,DZ: Blida
+12110,DZ: Bouira
+12111,DZ: Tamanrasset
+12112,DZ: Tebessa
+12113,DZ: Tlemcen
+12114,DZ: Tiaret
+12115,DZ: Tizi-Ouzou
+12116,DZ: Alger
+12117,DZ: Djelfa
+12118,DZ: Jijel
+12119,DZ: Setif
+12120,DZ: Saida
+12121,DZ: Skikda
+12122,DZ: Sidi B.Abbes
+12123,DZ: Annaba
+12124,DZ: Guelma
+12125,DZ: Constantine
+12126,DZ: Medea
+12127,DZ: Mostaganem
+12128,DZ: M’Sila
+12129,DZ: Mascara
+12130,DZ: Ouargla
+12131,DZ: Oran
+12132,DZ: El Bayadh
+12133,DZ: Illizi
+12134,DZ: Bb Arreridj
+12135,DZ: Boumerdes
+12136,DZ: El Tarf
+12137,DZ: Tindouf
+12138,DZ: Tissemsil
+12139,DZ: El Oued
+12140,DZ: Khenchela
+12141,DZ: Souk Ahras
+12142,DZ: Tipaza
+12143,DZ: Mila
+12144,DZ: Ain Defla
+12145,DZ: Naama
+12146,DZ: A Timouchent
+12147,DZ: Ghardaia
+12148,DZ: Relizane
+20001,AD: Canillo
+20002,AD: Encamp
+20003,AD: Ordino
+20004,AD: La Massana
+20005,AD: Andorra la Vella
+20006,AD: Sant Julià de Lòria
+20007,AD: Escaldes-Engordany
+31001,AZ: Baku city
+31002,AZ: Giandja
+31003,AZ: Kazakh
+31004,AZ: Sheki
+31005,AZ: Shemakha
+31006,AZ: Lenkoran
+31007,AZ: Saliani
+31008,AZ: Cuba
+31009,AZ: Absheron
+31010,AZ: Ganja-Gazakh
+31011,AZ: Shaki-Zagatala
+31012,AZ: Lankaran
+31013,AZ: Guba-Khachmaz
+31014,AZ: Aran
+31015,AZ: Yukhari Karabakh
+31016,AZ: Daglik Shirvan
+31017,AZ: Nakhichevan
+31018,AZ: Sumqayit
+31019,AZ: Genje
+31020,AZ: Shemkir
+31021,AZ: Masalli region
+31022,AZ: Khachmaz region
+31023,AZ: Berde region
+31024,AZ: Kurdemir region
+31025,AZ: Mingechevir
+31026,AZ: Shirvan
+31027,AZ: Shamakhy
+31028,AZ: Gobustan
+32001,AR: Capital Federal
+32002,AR: Gran Buenos Aires
+32003,AR: Córdoba
+32004,AR: Santa Fé
+32005,AR: Mendoza
+32006,AR: Tucumán
+32007,AR: Interior
+32008,AR: Catamarca
+32009,AR: Chaco
+32010,AR: Chubut
+32011,AR: Corrientes
+32012,AR: La Rioja
+32013,AR: Salta
+32014,AR: Rosario
+32015,AR: Buenos Aires
+32016,AR: Patagónica/Río Negro
+32017,AR: Cuyo/San Luís
+32018,AR: Noreste/Misiones
+32019,AR: Noreste/Entre Ríos
+36001,AU: Northern Territory (NT)
+36002,AU: New South Wales and ACT (NSW&ACT)
+36003,AU: Victoria (Vic)
+36004,AU: Queensland (Qld)
+36005,AU: South Australia (SA)
+36006,AU: Western Australia (WA)
+36007,AU: Tasmania (Tas)
+36008,AU: Capital territory
+36009,AU: New South Wales
+40001,AT: Vorarlberg
+40002,AT: Tirol
+40003,AT: Salzburg
+40004,AT: Oberoesterreich
+40005,AT: Kaernten
+40006,AT: Steiermark
+40007,AT: Burgenland
+40008,AT: Niederoesterreich
+40009,AT: Vienna
+48001,BH: Madinat Issa
+48002,BH: A’ali
+48003,BH: Sitra
+48004,BH: Manama
+48005,BH: Madinat Hamad
+48006,BH: Al Muharraq
+48007,BH: Ali Grand DS
+48008,BH: Al Rifaa al Gharbi
+48009,BH: Bahrain
+50001,BD: Dhaka
+50002,BD: Chittagong
+50003,BD: Barisal
+50004,BD: Mymensingh
+50005,BD: Tangail
+50006,BD: Sherpur
+50007,BD: Faridpur
+50008,BD: Kishoreganj
+50009,BD: Feni
+50010,BD: Coxex Bazar
+50011,BD: Brahmanbaria
+50012,BD: Sylhet
+50013,BD: Habiganj
+50014,BD: Rajshahi
+50015,BD: Sirajgonj
+50016,BD: Jhenaidah
+50017,BD: Chuadanga
+50018,BD: Nator
+50019,BD: Rangpur
+50020,BD: Gaibandha
+50021,BD: Comilla
+51001,AM: Erevan
+51002,AM: Shirak Masrz
+51003,AM: Lori Marz
+51004,AM: Tavush Marz
+51005,AM: Aragatsotn Marz
+51006,AM: Kotayk Marz
+51007,AM: Ghegharkunic Marz
+51008,AM: Armavir Marz
+51009,AM: Ararat Marz
+51010,AM: Vayots Dzor
+51011,AM: Siunik Marz
+51012,AM: Ashtarak (town)
+51013,AM: Biurakan (village)
+51014,AM: Katnaghbiur (village)
+51015,AM: Kuchak (village)
+51016,AM: Artashat (town)
+51017,AM: Azatavan (village)
+51018,AM: Mkhchian (village)
+51019,AM: Dvin (village)
+51020,AM: Haianist (village)
+51021,AM: Vosketap (village)
+51022,AM: Echmiadzin (town)
+51023,AM: Aknalitch (village)
+51024,AM: Arevik (village)
+51025,AM: Atcik (village)
+51026,AM: Dalarik (village)
+51027,AM: Gavar (town)
+51028,AM: Vardenis (town)
+51029,AM: Artsvanist (village)
+51030,AM: Karchakhbiur (village)
+51031,AM: Lchashen (village)
+51032,AM: Lichk (village)
+51033,AM: Vanadzor (town)
+51034,AM: Stepanavan (town)
+51035,AM: Shirakamut (village)
+51036,AM: Vahagni (village)
+51037,AM: Razdan (town)
+51038,AM: Abovian (town)
+51039,AM: Garni (village)
+51040,AM: Megradzor (village)
+51041,AM: Bjni (village)
+51042,AM: Artavazd (village)
+51043,AM: Giumri (town)
+51044,AM: Artik (town)
+51045,AM: Akhurik (village)
+51046,AM: Amasia (village)
+51047,AM: Kapan (town)
+51048,AM: Goris (town)
+51049,AM: Lernadzor (village)
+51050,AM: Egegnadzor (town)
+51051,AM: Idzhevan (town)
+51052,AM: Dilizhan (town)
+51053,AM: Aigehovit (village)
+51054,AM: Azatamut (village)
+56001,BE: Antwerpen
+56002,BE: Vlaams Brabant
+56003,BE: Brussel
+56004,BE: West-Vlaanderen
+56005,BE: Oost-Vlaanderen
+56006,BE: Limburg
+56007,BE: Waals-Brabant
+56008,BE: Henegouwen
+56009,BE: Namen
+56010,BE: Luxemburg
+56011,BE: Luik
+56012,BE: Duitse kantons
+56021,BE: unknown
+56022,BE: unknown
+56023,BE: unknown
+56024,BE: unknown
+56025,BE: unknown
+56026,BE: unknown
+56027,BE: unknown
+56028,BE: unknown
+56029,BE: unknown
+56030,BE: unknown
+56031,BE: unknown
+56032,BE: unknown
+68001,BO: La Paz
+68002,BO: Cochabamba
+68003,BO: Santa Cruz
+68004,BO: Pando
+68005,BO: Oruro
+68006,BO: Potosí
+68007,BO: Chuquisaca
+68008,BO: Tarija
+68009,BO: Beni
+70001,BA: Srpska Republik of Bosnia
+70002,BA: Bosnia Federation
+72001,BW: Barolong
+72002,BW: Central Bobonong
+72003,BW: Central Boteti
+72004,BW: Central Mahalapye
+72005,BW: Central Serowe/Palapye
+72006,BW: Central Tutume
+72007,BW: Chobe
+72008,BW: Francistown
+72009,BW: Gaborone
+72010,BW: Ghanzi
+72011,BW: Jwaneng
+72012,BW: Kgalagadi South
+72013,BW: Kgalagadi North
+72014,BW: Kgatleng
+72015,BW: Kweneng East
+72016,BW: Kweneng West
+72017,BW: Lobatse
+72018,BW: Ngamiland East
+72019,BW: Ngamiland West
+72020,BW: Ngwaketse
+72021,BW: Ngwaketse West
+72022,BW: North East
+72023,BW: Selibe Pikwe
+72024,BW: South East
+76001,BR: South
+76002,BR: Southeast
+76003,BR: Northeast
+76004,BR: Northwest
+76005,BR: North
+76006,BR: Center-West
+76013,BR: AM
+76014,BR: PA
+76018,BR: AL
+76019,BR: BA
+76020,BR: CE
+76021,BR: MA
+76022,BR: PB
+76023,BR: PE
+76025,BR: RN
+76027,BR: DF
+76028,BR: GO
+76029,BR: MT
+76030,BR: MS
+76031,BR: ES
+76032,BR: MG
+76033,BR: RJ
+76034,BR: SP
+76035,BR: PR
+76036,BR: SC
+76037,BR: RS
+76038,BR: Amazonas
+76039,BR: Pará
+76040,BR: Rondônia
+76041,BR: Alagoas
+76042,BR: Bahia
+76043,BR: Ceará
+76044,BR: Maranhão
+76045,BR: Paraíba
+76046,BR: Pernambuco
+76047,BR: Sergipe
+76048,BR: Distrito Federal
+76049,BR: Goiás
+76050,BR: Mato Grosso
+76051,BR: Mato Grosso do Sul
+76052,BR: Espírito Santo
+76053,BR: Minas Gerais
+76054,BR: Rio de Janeiro
+76055,BR: São Paulo
+76056,BR: Paraná
+76057,BR: Santa Catarina
+76058,BR: Rio Grande do Sul
+100001,BG: Blagoevgrad
+100002,BG: Razlog
+100003,BG: Varna
+100004,BG: Veliko Tarnavo
+100005,BG: Vidin
+100006,BG: Vtatsa
+100007,BG: Gabrovo
+100008,BG: Dobrich
+100009,BG: Kardjali
+100010,BG: Kyustendil
+100011,BG: Lovech
+100012,BG: Montana
+100013,BG: Pazardijk
+100014,BG: Pernik
+100015,BG: Pleven
+100016,BG: Plovdiv
+100017,BG: Razgrad
+100018,BG: Ruse
+100019,BG: Silistra
+100020,BG: Smolian
+100021,BG: Sofia-City
+100022,BG: Stara Zagora
+100023,BG: Targovishte
+100024,BG: Haskovo
+100025,BG: Shumen
+100026,BG: Yambol
+100027,BG: Burgaska - province of Burgaska -
+100028,BG: Varienska - Province of Varienska -
+100029,BG: Loveschka
+100030,BG: Mikchailovgradska
+100031,BG: Razgradska - Province of Razgradska -
+100032,BG: Sofia-province
+100033,BG: Xaskovska
+112001,BY: Minsk
+112002,BY: Minsk oblast
+112003,BY: Brest oblast
+112004,BY: Vitebsk oblast
+112005,BY: Gomel oblast
+112006,BY: Grodno oblast
+112007,BY: Mogilev oblast
+124001,CA: Prince Edward Island
+124002,CA: Nova Scotia
+124003,CA: New Brunswick
+124004,CA: Quebec
+124005,CA: Ontario
+124006,CA: Manitoba
+124007,CA: Saskatchewan
+124008,CA: Alberta
+124009,CA: British Columbia
+124010,CA: Newfoundland
+132001,CV: Santo Antao
+132002,CV: Sao Vicente
+132003,CV: Santiago - Interior
+132004,CV: Santiago - Praia
+132005,CV: Fogo
+152001,CL: Norte
+152002,CL: Centro
+152003,CL: Sur
+152004,CL: Zona Metropolitana
+152005,CL: First Region
+152006,CL: Second Region
+152007,CL: Third Region
+152008,CL: Fourth Region
+152009,CL: Fifth Region
+152010,CL: Sixth Region
+152011,CL: Seventh Region
+152012,CL: Eighth Region
+152013,CL: Ninth Region
+152014,CL: Tenth Region
+152015,CL: I Región: Tarapacá
+152016,CL: II Región: Antofagasta
+152017,CL: III Región: Atacama
+152018,CL: IV Región: Coquimbo
+152019,CL: V Región: Valparaíso
+152020,CL: VI Región: Libertador Bernardo O´Higgins
+152021,CL: VII Región: Maule
+152022,CL: VIII Región: Bío-Bío
+152023,CL: IX Región: La Araucanía
+152024,CL: X Región: Los Lagos
+152025,CL: XI Región: Aysén del General Carlos Ibáñez del Campo
+152026,CL: XII Región: Magallanes y la Antártica Chilena
+152027,CL: Región Metropolitana
+152028,CL: XIV Región: Los Ríos
+152029,CL: XV Región: Arica y Parinacota
+156001,CN: Beijing
+156002,CN: Hebei Province
+156003,CN: Shanxi Province
+156004,CN: Neimenggu
+156005,CN: Liaoning  Province
+156006,CN: Jilin
+156007,CN: Heilongjiang  Province
+156008,CN: Shanghai
+156009,CN: Jiangsu  Province
+156010,CN: Zhejiang  Province
+156011,CN: Anhui  Province
+156012,CN: Fujian  Province
+156013,CN: Jiangxi  Province
+156014,CN: Shandong  Province
+156015,CN: Henan  Province
+156016,CN: Hubei  Province
+156017,CN: Hunan  Province
+156018,CN: Guangdong  Province
+156019,CN: Guangxi  Province
+156020,CN: Sichuan
+156021,CN: Guizhou Province
+156022,CN: Yunnan Province
+156023,CN: Xizang
+156024,CN: Shaannxi  Province
+156025,CN: North
+156026,CN: Center
+156027,CN: South
+156028,CN: East
+156029,CN: Undocumented
+156030,CN: Undocumented
+156031,CN: Tianjin
+156032,CN: Chongqing
+156033,CN: Gansu
+156034,CN: Qinghai
+156041,CN: Xinjiang
+156042,CN: Hainan Province
+156043,CN: Ningxia Province
+158001,TW: North
+158002,TW: Center
+158003,TW: South
+158004,TW: East
+170001,CO: Atlántica
+170002,CO: Centro Oriental
+170003,CO: Central
+170004,CO: Pacífica
+170005,CO: Bogotá
+170006,CO: Orinoquia
+170007,CO: Amazonia
+170008,CO: Occidente
+170101,CO: AMA-Amazonas
+170102,CO: ANT-Antioquia
+170103,CO: ARA-Arauca
+170104,CO: ATL-Atlántico
+170108,CO: CAQ-Caquetá
+170109,CO: CAU-Cauca
+170110,CO: CES-Cesar
+170111,CO: CHO-Chocó
+170112,CO: COR-Córdoba
+170114,CO: GUV-Guaviare
+170115,CO: GUA-Guainía
+170116,CO: HUI-Huila
+170117,CO: LAG-La Guajira
+170119,CO: MET-Meta
+170120,CO: NAR-Nariño
+170121,CO: NSA-Norte de Santander
+170122,CO: PUT-Putumayo
+170123,CO: QUI-Quindío
+170124,CO: RIS-Risaralda
+170125,CO: SAP-San Andrés and Providencia
+170126,CO: SAN-Santander
+170127,CO: SUC-Sucre
+170128,CO: TOL-Tolima
+170129,CO: VAC-Valle del Cauca
+170130,CO: VAU-Vaupés
+170131,CO: CID-Vichada
+170132,CO: CAS-Casanare
+170133,CO: CUN-Cundinamarca
+170134,CO: DC -Bogotá (Distrito Capital)
+170135,CO: BOL-Bolívar
+170136,CO: BOY-Boyacá
+170137,CO: CAL-Caldas
+170138,CO: MAG-Magdalena
+188001,CR: San José
+188002,CR: Alajuela
+188003,CR: Cartago
+188004,CR: Heredia
+188005,CR: Guanacaste
+188006,CR: Puntarenas
+188007,CR: Limón
+191001,HR: County of Zagreb
+191002,HR: County of Zagorje
+191003,HR: County of Sisak and Moslovina
+191004,HR: County of Karlovac
+191005,HR: County of Varazdin
+191006,HR: County of Koprivnica & Krizevci
+191007,HR: County of Bjelovar & Bilogora
+191008,HR: County of Primorje and Gorski Kotar
+191009,HR: County of Lika and Senj
+191010,HR: County of Virovitica and Podravina
+191011,HR: County of Pozega
+191012,HR: County of Brod and Posavina
+191013,HR: County of Zadar and Knin
+191014,HR: County of Osijek and Baranja
+191015,HR: County of Sibenik
+191016,HR: County of Vukovar and Srijem
+191017,HR: County of Split and Dalmatia
+191018,HR: County of Istria
+191019,HR: County of Dubrovnik and Neretva
+191020,HR: County of Medjimurje
+191021,HR: City of Zagreb
+196001,CY: Nicosia
+196002,CY: Famagusta
+196003,CY: Kyrenia
+196004,CY: Morphou
+196005,CY: Karpasia
+196006,CY: Larnaca
+196007,CY: Limassol
+196008,CY: Paphos
+203001,CZ: Prague
+203002,CZ: Bohemia
+203003,CZ: Moravia
+203004,CZ: Støedoèeský kraj - Central Bohemia -
+203005,CZ: Západoèeský kraj - West Bohemia -
+203006,CZ: Jihoèeský kraj - South Bohemia -
+203007,CZ: Severoèeský kraj - North Bohemia -
+203008,CZ: Východoèeský kraj - East Bohemia -
+203009,CZ: Jihomoravský kraj - South Moravia -
+203010,CZ: Severomoravský kraj - North Moravia -
+204001,BJ: Alibori
+204002,BJ: Atacora
+204003,BJ: Atlantique
+204004,BJ: Borgou
+204005,BJ: Collines
+204006,BJ: Couffo
+204007,BJ: Donga
+204008,BJ: Littoral
+204009,BJ: Mono
+204010,BJ: Oueme
+204011,BJ: Plateau
+204012,BJ: Zou
+208001,DK: København
+208002,DK: Københavns Amt
+208003,DK: Frederiksborg Amt
+208004,DK: Roskilde Amt
+208005,DK: Vestsjællands Amt
+208006,DK: Storstøms Amt
+208007,DK: Bornholms Amt
+208008,DK: Fyns Amt
+208009,DK: Sønderjyllands og Ribe Amt
+208010,DK: Vejle Amt
+208011,DK: Ringkøbing Amt
+208012,DK: Århus Amt
+208013,DK: Viborg Amt
+208014,DK: Nordjyllands Amt
+214001,DO: Santo Domingo
+214002,DO: Santiago
+214003,DO: Barahona
+214004,DO: San Pedro de Macorís
+214005,DO: Duarte
+214006,DO: Espaillat
+214007,DO: La Vega
+214008,DO: Monseñor Nouel
+214009,DO: Puerto Plata
+214010,DO: La Romana
+214011,DO: Peravía
+214012,DO: San Cristóbal
+214013,DO: San Juan
+214014,DO: María Trinidad Sánchez
+214015,DO: Montecristi
+214016,DO: Hermanas Mirabal / Salcedo
+214017,DO: Samaná
+214018,DO: Sánchez Ramírez
+214019,DO: Santiago Rodríguez
+214020,DO: Valverde
+214021,DO: El Seibo
+214022,DO: Hato Mayor
+214023,DO: La Altagracia
+214024,DO: Monte Plata
+214025,DO: Azua
+214026,DO: Baoruco
+214027,DO: Distrito Nacional
+218001,EC: Azuay
+218002,EC: Bolívar
+218003,EC: Cañar
+218004,EC: Chimborazo
+218005,EC: Cotopaxi
+218006,EC: El Oro
+218007,EC: Esmeraldas
+218008,EC: Guayas
+218009,EC: Imbabura
+218010,EC: Loja
+218011,EC: Los Ríos
+218012,EC: Manabí
+218013,EC: Morona Santiago
+218014,EC: Napo
+218015,EC: Orellana
+218016,EC: Pichincha
+218017,EC: Sucumbios
+218018,EC: Tungurahua
+218019,EC: Zamora Chinchipe
+218020,EC: Santo Domingo
+218021,EC: Carchi
+218022,EC: Pastaza
+218023,EC: Santo Domingo de los Sachilas
+222001,SV: Ahuachapán
+222002,SV: Santa Ana
+222003,SV: Sonsonate
+222004,SV: La Libertad
+222005,SV: Chalatenango
+222006,SV: San Salvador
+222007,SV: Cabañas
+222008,SV: Cuscatlán
+222009,SV: San Vicente
+222010,SV: La Paz
+222011,SV: Usulután
+222012,SV: San Miguel
+222013,SV: Morazán
+222014,SV: La Unión
+231001,ET: Addis Ababa
+231002,ET: Oromiya
+231003,ET: Tigray
+231004,ET: Amhara
+231005,ET: SNNP
+233001,EE: North-Western Estonia
+233002,EE: North-Eastern Estonia
+233003,EE: South-Eastern Estonia
+233004,EE: South-Western Estonia
+233005,EE: Western Estonia
+233006,EE: Talinn
+233007,EE: Harjumaa
+233008,EE: Laane-Viruma
+233009,EE: Raplama
+233010,EE: Parnumaa
+233011,EE: Polvamaa
+233012,EE: Vorumaa
+233013,EE: Tartumaa
+233014,EE: Hiiumaa
+233015,EE: Isa-Virumaa
+233016,EE: Jogevamaa
+233017,EE: Valgamaa
+233018,EE: Saaremaa
+233019,EE: Vijandimaa
+233020,EE: Jravamaa
+233021,EE: Laanemaa
+233106,EE:North Estonia
+233107,EE:Central Estonia
+233108,EE:South Estonia
+246001,FI: Uusimaa
+246002,FI: Varsinais-Suomi
+246003,FI: Satakunta
+246004,FI: Kanta-Häme
+246005,FI: Pirkanmaa
+246006,FI: Päijät-Häme
+246007,FI: Kymenlaakso
+246008,FI: Etelä-Karjala
+246009,FI: Etelä-Savo
+246010,FI: Pohjois-Savo
+246011,FI: Pohjois-Karjala
+246012,FI: Keski-Suomi
+246013,FI: Etelä-Pohjanmaa
+246014,FI: Pohjanmaa
+246015,FI: Keski-Pohjanmaa
+246016,FI: Pohjois-Pohjanmaa
+246017,FI: Kainuu
+246018,FI: Lappi
+246021,FI: Uudenmaan
+246022,FI: Turun ja Porin
+246023,FI: Hämeen
+246024,FI: Kymen
+246025,FI: Mikkelin
+246026,FI: Kuopion
+246028,FI: Vaasan
+246030,FI: Oulun
+246031,FI: Lapin
+250001,FR: Bassin Parisien
+250002,FR: Centre Est
+250003,FR: Est
+250004,FR: Ile De France
+250005,FR: Méditerranée
+250006,FR: Nord
+250007,FR: Ouest
+250008,FR: Sud Ouest
+250009,FR: Sud Est
+250011,FR: unknown
+250012,FR: unknown
+250013,FR: unknown
+250014,FR: unknown
+250015,FR: unknown
+250016,FR: unknown
+250017,FR: unknown
+250018,FR: unknown
+250019,FR: unknown
+250020,FR: Region of Paris
+250021,FR: Surrounding of Paris east
+250022,FR: Surrounding of Paris west
+268001,GE: Tbilissi
+268002,GE: Shida Kartli
+268003,GE: Kvemo Kartli
+268004,GE: Kakheti
+268005,GE: Imereti
+268015,GE: Samtskhe-Javakheti
+268016,GE: Adjara
+268017,GE: Guria
+268018,GE: Samegrelo
+268019,GE: Imereti/Racha
+268020,GE: Mtskheta-Mtianeti
+268021,GE: Sagarejo
+268022,GE: Telavi
+268023,GE: Gurjaani
+268024,GE: Gori
+268025,GE: Khashuri
+268026,GE: Kaspi
+268027,GE: Gardabani
+268028,GE: Marneuli
+268029,GE: Rustavi
+268030,GE: Akhaltsikhe
+268031,GE: Borjomi
+268032,GE: Batumi
+268033,GE: Qobuleti
+268034,GE: Khelvachauri
+268035,GE: Ozurgeti
+268036,GE: Senaki
+268037,GE: Poti
+268038,GE: Zugdidi
+268039,GE: Kutaisi
+268040,GE: Samtredia
+268041,GE: Zestaphoni
+268042,GE: Dusheti
+268043,GE: Mtskheta
+275001,PS: West Bank
+275002,PS: Jerusalem
+275003,PS: Gaza
+275004,PS: jenin
+275005,PS: tobas
+275006,PS: taulkarm
+275007,PS: qalqilia
+275008,PS: salfit
+275009,PS: nablus
+275010,PS: ramallah
+275011,PS: jericho
+275012,PS: betlehem
+275013,PS: hebron
+275014,PS: jabalia
+275015,PS: khanyounis
+275016,PS: deir al balah
+275017,PS: rafah
+276001,DE: Schleswig-Holstein
+276002,DE: Hamburg
+276003,DE: Niedersachsen
+276004,DE: Bremen
+276005,DE: Nordrhein-Westfalen
+276006,DE: Hessen
+276007,DE: Rheinland-Pfalz
+276008,DE: Baden-Wurttemberg
+276009,DE: Bayern
+276010,DE: Saarland
+276011,DE: Berlin
+276012,DE: Brandenburg
+276013,DE: Mecklenburg-Vorpommern
+276014,DE: Sachsen
+276015,DE: Sachsen-Anhalt
+276016,DE: Thueringen
+276017,DE: Nord Baden-Wurttemberg
+276018,DE: Sud Baden-Wurttemberg
+276019,DE: West-Berlin
+276020,DE: Ost-Berlin
+276021,DE: Frankfurt/Oder
+276022,DE: Leipzig
+276023,DE: Rostock
+276024,DE: Cottbus
+276025,DE: Gera
+276026,DE: Magdeburg
+276027,DE: Schwerin
+276028,DE: Dresden
+276029,DE: Halle
+276030,DE: Neubrandenburg
+276031,DE: Suhl
+276032,DE: Erfurt
+276033,DE: Karl Marxstadt (Chemnitz)
+276034,DE: Potsdam
+288001,GH: Greater Accra
+288002,GH: Ashanti
+288003,GH: Brong Ahafo
+288004,GH: Western
+288005,GH: Eastern
+288006,GH: Central
+288007,GH: Volta
+288008,GH: Upper East
+288009,GH: Northern
+288010,GH: Upper West
+300001,GR: Karditsa
+300002,GR: Larisa
+300003,GR: Magnisia
+300004,GR: Trikala
+300005,GR: Thessalia (rest)
+300006,GR: Kerkyra
+300007,GR: Aitoloakarnania
+300008,GR: Voiotia
+300009,GR: Evvoia
+300010,GR: Fthiotida
+300011,GR: Argolida
+300012,GR: Arkadia
+300013,GR: Korinthia
+300014,GR: Lakonia
+300015,GR: Messinia
+300016,GR: Attiki
+300017,GR: Chios
+300018,GR: Dodekanisos
+300019,GR: Kyklades
+300020,GR: Chania
+300021,GR: Kriti (rest)
+320001,GT: Capital
+320002,GT: Altiplano/Centro
+320003,GT: Sur
+320004,GT: Oriente/Izabal/Verapaces
+320005,GT: Metropolitana/Guatemala
+320006,GT: Central/Sacatepequez
+320007,GT: Central/Chimaltenango
+320008,GT: Central/Escuintla
+320009,GT: Suroriental/Santa Rosa
+320010,GT: Suroccidental/Quetzaltenango
+320011,GT: Suroccidental/Retalhuleu
+320012,GT: Noroccidental/Huehuetenango
+320013,GT: Noroccidental/Quiché
+320014,GT: Nororiental/Izabal
+320015,GT: Nororiental/Zacapa
+320016,GT: Nororiental/Chiquimula
+320017,GT: Suroriental/Jalapa
+320018,GT: Suroriental/Jutiapa
+320019,GT: Norte/Alta Verapaz
+320020,GT: Nororiental/El Progreso
+320021,GT: Suroccidental/Solola
+320022,GT: Suroccidental/Totonicapan
+320023,GT: Suroccidental/Suchitepéquez
+320024,GT: Suroccidental/San Marcos
+320025,GT: Norte/Baja Verapaz
+340001,HO: Cortés
+340002,HO: Francisco Morazán
+340003,HO: Atlántida
+340004,HO: Colón
+340005,HO: Comayagua
+340006,HO: Copán
+340007,HO: Choluteca
+340008,HO: El Paraíso
+340009,HO: Olancho
+340010,HO: Santa Bárbara
+340011,HO: Valle
+340012,HO: Yoro
+340013,HO: Intubucá
+340014,HO: La Paz
+340015,HO: Lempira
+340016,HO: Ocotepeque
+344001,HK: Islands (New Territories)
+344002,HK: Kwai Tsing (New Territories)
+344003,HK: New Territories North (New Territories)
+344004,HK: Sai Kung (New Territories)
+344005,HK: Sha Tin (New Territories)
+344006,HK: Tai Po (New Territories)
+344007,HK: Tsuen Wan (New Territories)
+344008,HK: Tuen Mun (New Territories)
+344009,HK: Yuen Long (New Territories)
+344010,HK: Sham Shui Po (Kowloon)
+344011,HK: Kowloon City (Kowloon)
+344012,HK: Kwun Tong (Kowloon)
+344013,HK: Wong Tai Sin (Kowloon)
+344014,HK: Yau Tsim Mong (Kowloon)
+344015,"HK: Central, Western District (Hong Kong Island)"
+344016,HK: Eastern District (Hong Kong Island)
+344017,HK: Southern District (Hong Kong Island)
+344018,HK: Wan Chai (Hong Kong Island)
+348001,HU: Budapest
+348002,HU: Baranya
+348003,HU: Bács-Kiskun
+348004,HU: Békés
+348005,HU: Borsod-Abaúj-Zemplén
+348006,HU: Csongrád
+348007,HU: Fejér
+348008,HU: Gyor-Moson-Sopron
+348009,HU: Hajdú-Bihar
+348010,HU: Heves
+348011,HU: Komárom-Esztergom
+348012,HU: Nógrád
+348013,HU: Pest
+348014,HU: Somogy
+348015,HU: Szabolcs-Szatmár-Bereg
+348016,HU: Jász-Nagykun-Szolnok
+348017,HU: Tolna
+348018,HU: Vas
+348019,HU: Veszprém
+348020,HU: Zala
+348021,HU unknown_1
+348022,HU unknown_2
+348023,HU unknown_3
+348024,HU unknown_4
+348025,HU unknown_5
+348026,HU unknown_6
+348027,HU unknown_7
+348028,HU unknown_8
+348029,HU unknown_9
+348030,HU unknown_10
+348031,HU unknown_11
+348032,HU unknown_12
+348033,HU unknown_13
+348034,HU: North-Danubian
+348035,HU: South-Danubian
+348036,HU: Central-Hungary
+348037,HU: North Hungary
+348038,HU: East Hungary
+352001,IS: Reykjavik
+352002,IS: Towns adjacent to Reykjavik
+352003,IS: Area around Keflavik Airport
+352004,IS: West Iceland
+352005,IS: West fjords
+352006,IS: North West Iceland
+352007,IS: North East Iceland
+352008,IS: East Iceland
+352009,IS: South Iceland
+352010,IS: Vestmann Islands
+356001,IN: Andhra Pradesh
+356002,IN: Assam
+356003,IN: Bihar
+356004,IN: Chhatisgarh
+356005,IN: Delhi
+356006,IN: Gujarat
+356007,IN: Haryana
+356008,IN: Jharkhand
+356009,IN: Karnataka
+356010,IN: Kerala
+356011,IN: Madhya Pradesh
+356012,IN: Maharashtra
+356013,IN: Orrisa
+356014,IN: Punjab
+356015,IN: Rajasthan
+356016,IN: Tamil Nadu
+356017,IN: Uttar Pradesh
+356018,IN: West Bengal
+356019,IN: Uttarakhand
+356020,IN: Chandigarh
+356021,IN: Himachal Pradesh
+356022,IN: Jammu & Kashmir
+356023,IN: Manipur
+356024,IN: Tripura
+356025,IN: Chattisgarh
+356026,IN: NCT of Delhi
+356027,IN: Puducherry
+360001,ID: Jambi province
+360002,ID: Bengkulu province
+360003,ID: Jakarta province
+360004,ID: West java province
+360005,ID: Central Java province
+360010,ID: Banten
+360011,ID: DKI
+360012,ID: Dareah Istimewa Yogyakarta
+360013,ID: East Java
+360014,ID: Lampung
+360015,ID: West Nusa Tenggara
+360016,ID: South Kalimantan
+360017,ID: Center Sulawesi
+364001,IR: Gilan
+364002,IR: Mazandaran
+364003,IR: Fars
+364004,IR: Kerman
+364005,IR: West azarbayjan
+364006,IR: East azarbayjan
+364007,IR: Kermanshah
+364008,IR: Sistan and balouchestan
+364009,IR: Isfahan
+364010,IR: Khozestan
+364011,IR: Kordestan
+364012,IR: Khorasan
+364013,IR: Tehran
+364014,IR: Boyer ahmad
+364015,IR: Bushehr
+364016,IR: Chaharmahal
+364017,IR: Hamadan
+364018,IR: Hormozgan
+364019,IR: Ilam
+364020,IR: Lorestan
+364021,IR: Markazi
+364022,IR: Semnan
+364023,IR: Yazd
+364024,IR: Zanjan
+364025,IR: Ghom
+364026,IR: Ardabil
+364027,IR: Ghazvin
+364028,IR: Golestan
+364029,IR: North Khorasan
+364030,IR: South Khorasan
+368001,IQ: Baghdad
+368002,IQ: Basrah
+368003,IQ: Tekrit / Salahadin
+368004,IQ: Nasirria / Dhi Qar
+368005,IQ: Umara / Maysan
+368006,IQ: Hilla / Babyl
+368007,IQ: Najaf
+368008,IQ: Diwania / Qadisiyah
+368009,IQ: Kut / Wasit
+368010,IQ: Karbala
+368011,IQ: Ramadi
+368012,IQ: Samawa / Muthana
+368013,IQ: Baquba / Diyala
+368014,IQ: Musil / Ninewa
+368015,IQ: Kirkuk
+368016,IQ: Sulaimania
+368017,IQ: Dohuk
+368018,IQ: Erbil
+368019,IQ: Diyala
+368020,IQ: Albasra
+368021,IQ: Nainawa
+368022,IQ: Alsulaimaniyah
+368023,IQ: Nineveh
+368024,IQ: Babylon
+372001,IE: Dublin City
+372002,IE: Dublin County
+372003,IE: Kildkare
+372004,IE: Meath
+372005,IE: Wicklow
+372006,IE: Cavan
+372007,IE: Louth
+372008,IE: Monaghan
+372009,IE: Donegal
+372010,IE: Leitrim
+372011,IE: Sligo
+372012,IE: Laois
+372013,IE: Longford
+372014,IE: Offaly
+372015,IE: Roscommon
+372016,IE: Westmeath
+372017,IE: Galway
+372018,IE: Mayo
+372019,IE: Clare
+372020,IE: Limerick City
+372021,IE: Limerick County
+372022,IE: Tipp N
+372023,IE: Cork City
+372024,IE: Cork County
+372025,IE: Kerry
+372026,IE: Carlow
+372027,IE: Kilkenny
+372028,IE: Tipp S
+372029,IE: Waterford City
+372030,IE: Waterford County
+372031,IE: Wexford
+372032,IE: unknown
+372033,IE: unknown
+372034,IE: unknown
+372041,IE: unknown
+372042,IE: unknown
+372043,IE: unknown
+372044,IE: unknown
+372045,IE: unknown
+372046,IE: unknown
+372047,IE: unknown
+372048,IE: unknown
+372049,IE: unknown
+372050,IE: unknown
+372051,IE: unknown
+376010,IL: Tel Aviv
+376011,IL: Ramat Gan
+376012,IL: Herzelia
+376013,IL: Benei Brak
+376014,IL: Kfar Saba
+376015,IL: Rishon Lezion
+376016,IL: Rehovot
+376017,IL: Holon
+376018,IL: Lod
+376019,IL: Netania
+376020,IL: Petah Tikwa
+376021,IL: Raanana
+376022,IL: Kfar Aroe
+376023,IL: Even Yehuda
+376024,IL: Yavne
+376030,IL: Jerusalem
+376031,IL: Beit Shemesh
+376040,IL: Beer Sheva
+376041,IL: Kiryat Gat
+376042,IL: Ashkelon
+376043,IL: Ashdod
+376044,IL: Mizpe Ramon
+376050,IL: Haifa
+376051,IL: Kiryat Mozkin
+376052,IL: Kiryat Yam
+376053,IL: Kiryat Ata
+376054,IL: Atlit
+376055,IL: Hadera
+376056,IL: Zefat
+376057,IL: Migdal Aemek
+376058,IL: Maalot Tarshiha
+376059,IL: Acre
+376060,IL: Menehamia
+376061,IL: Kiryat Shmona
+376062,IL: Carmiel
+376070,IL: Tamara
+376071,IL: Yafiah
+376072,IL: Cavul
+376073,IL: Sahnin
+376074,IL: Nazareth
+376075,IL: Mukey Bala
+376076,IL: Zarzir
+376077,IL: Um El Fahem
+376078,IL: Tira
+376079,IL: Taibe
+376092,IL: Bat Jeen
+376093,IL: Julis
+380001,IT: Piemonte
+380002,IT: Valle dAoste
+380003,IT: Lombardia
+380004,IT: Trentino-Alto Adige
+380005,IT: Veneto
+380006,IT: Friuli-Venezia Giulia
+380007,IT: Liguria
+380008,IT: Emilia-Romagna
+380009,IT: Toscana
+380010,IT: Umbria
+380011,IT: Marche
+380012,IT: Lazio
+380013,IT: Abruzzo
+380014,IT: Molise
+380015,IT: Campania
+380016,IT: Puglia
+380017,IT: Basilicata
+380018,IT: Calabria
+380019,IT: Sicilia
+380020,IT: Sardegna
+380021,IT: unknown
+380022,IT: unknown
+380023,IT: unknown
+380024,IT: unknown
+380025,IT: unknown
+380026,IT: unknown
+380027,IT: unknown
+380028,IT: unknown
+380029,IT: unknown
+380030,IT: unknown
+380031,IT: unknown
+380032,IT: unknown
+392001,JP: Hokkaido/Tohoku
+392002,JP: Kanto
+392003,"JP: Chubu,Hokuriku"
+392004,JP: Kinki
+392005,"JP: Chugoku,Shikoku,Kyushu,Okinawa"
+392011,JP: Hokkaido region
+392012,JP: Tohoku region
+392013,JP: Kita-Kanto region
+392014,JP: Minami-Kanto region
+392015,JP: Tokyo
+392016,JP: Tokai region
+392017,"JP: Hokuriku, Shinetsu region"
+392018,JP: Kinki region
+392019,JP: Chugoku region
+392020,JP: Shikoku region
+392021,JP: Kyushu region
+398001,KZ: Almaty
+398002,KZ: Astana
+398003,KZ: Akmolinsk region
+398004,KZ: Aktyubinsk region
+398005,KZ: Almaty region
+398006,KZ: Atyrau region
+398007,KZ: East Kazakhstan region
+398008,KZ: Zhambalyk region
+398009,KZ: West Kazakhstan region
+398010,KZ: Karaganda region
+398011,KZ: Kostanai region
+398012,KZ: Kyzyl-Ordynsk region
+398013,KZ: Mangistaus region
+398014,KZ: Pavlodar region
+398015,KZ: North Kazakhstan region
+398016,KZ: South Kazakhstan region
+398017,KZ: Aktubinskaya oblast
+398018,KZ: Zapadno-Kazakhstanskaya oblast
+398019,KZ: Mangistauskaya oblast
+398020,KZ: Vostochno-Kazakhstanskaya oblast
+398021,KZ: Kostanaiskaya oblast
+398022,KZ: Severo-Kazakhstanskaya oblast
+398023,KZ: Zhambylskaya oblast
+398024,KZ: Kyzylordinskaya oblast
+398025,KZ: Yuzhno-Kazakhstanskaya oblast
+398026,KZ: Almatinskaya oblast
+400011,JO: AMMAN
+400012,JO: BALQA
+400013,JO: ZARQA
+400014,JO: MADABA
+400021,JO: IRBID
+400022,JO: MAFRAQ
+400023,JO: JERASH
+400024,JO: AJLOON
+400031,JO: KARAK
+400032,JO: TAFILA
+400033,JO: MA´AN
+400034,JO: AQABA
+404001,KE: Nairobi
+404002,KE: Central
+404003,KE: Eastern
+404004,KE: Rift Valley
+404005,KE: Nyanza
+404006,KE: Western
+404007,KE: North Eastern
+404008,KE: Coast
+410001,KR: Seoul
+410002,KR: Pusan / Busan
+410003,KR: Taegu / Daegu
+410004,KR: Incheon
+410005,KR: Kwangju / Gwangju
+410006,KR: Tawjeon / Daejeon
+410007,KR: Kyeonggi / Gyeonggi Do
+410008,KR: Kangwon / Gangwon Do
+410009,KR: Chungbuk / North Chungcheong
+410010,KR: Chungnam  / South Chungcheong
+410011,KR: Jeonbuk / North Jeolla
+410012,KR: Jeonnam / South Jeolla
+410013,KR: Kyeongbuk / North Gyeongsang
+410014,KR: Kyeongnam / South Gyeongsang
+410015,KR: Kyowygi Do
+410016,KR: Kangwon Do
+410017,KR: Chungchong Do
+410018,KR: Chunra Do
+410019,KR: Kyowy Sang Do
+410020,KR: Ulsan
+414001,KW: The Capital Governorate
+414002,KW: Hawalli Governorate
+414003,KW: Farwaniya Governorate
+414004,KW: Ahmadi Governorate
+414005,KW: Mubarak Al-Kabeer Governorate
+414006,KW: Jahra Governorate
+417001,KG: Bishkek city
+417002,KG: Batken oblast/region
+417003,KG: Jalal-Abad oblast/region
+417004,KG: Naryn oblast/region
+417005,KG: Osh oblast/region
+417006,KG: Talas oblast/region
+417007,KG: Chui oblast/region
+417008,KG: Issyk-Kol oblast/region
+422001,East Beirut
+422002,West Beirut
+422003,Southern Sub
+422004,Northern Sub
+422005,Mount Lebanon North
+422006,Mount Lebanon South
+422007,Jounieh Jbeil and Sub
+422008,Tripoli and Sub
+422009,Halba Akkar
+422010,Zogharta el Koura
+422011,Saida and Sub
+422012,Tyr and Sub
+422013,Nabatieh and Sub
+422014,Zahle and Sub
+422015,Baalbeck/ El Hermel
+422016,Bekaa West
+422017,LB: Beirut
+422018,LB: Mount lebanon
+422019,LB: North
+422020,LB: Bekaa
+422021,LB: South
+422022,LB: Nabataean
+426001,LS: Butha-Buthe
+426002,LS: Leribe
+426003,LS: Berea
+426004,LS: Maseru
+426005,LS: Mafeteng
+426006,LS: Mohale's Hoek
+426007,LS: Quthing
+426008,LS: Qacha's Nek
+426009,LS: Mokhotlong
+426010,LS: Thaba-Tseka
+428001,LV: Riga
+428002,LV: Vidzeme
+428003,LV: Kurzeme
+428004,LV: Zemgale
+428005,LV: Latgale
+428006,LV: Centra reg.
+428007,LV: Ziemelu reg.
+428008,LV: Daugavpils
+428009,LV: Jelgava
+428010,LV: Jurmala
+428011,LV: Liepaja
+428012,LV: Rzekne
+428013,LV: Ventspils
+428014,LV: Liepajas d.
+428015,LV: Ventpils d.
+428016,LV: Saldus d.
+428017,LV: Talsu d.
+428018,LV: Kuldigas d.
+428019,LV: Jelgavas d.
+428020,LV: Bauskas d.
+428021,LV: Jekapils d.
+428022,LV: Aizkraukles d.
+428023,LV: Dobeles d.
+428024,LV: Tukuma d.
+428025,LV: Aluksness d.
+428026,LV: Cesu d.
+428027,LV: Gulbenes d.
+428028,LV: Limbazu d.
+428029,LV: Madonas d.
+428030,LV: Ogres d.
+428031,LV: Valmieras d.
+428032,LV: Valkas d.
+428033,LV: Daugavpils d.
+428034,LV: Rezeknes d.
+428035,LV: Balvu d.
+428036,LV: Kraslavas d.
+428037,LV: Ludzas d.
+428038,LV: Preilu d.
+430001,LR: Bomi
+430002,LR: Bong
+430003,LR: Gbarpolu
+430004,LR: Grand Bassa
+430005,LR: Grand Cape Mount
+430006,LR: Grand Gedeh
+430007,LR: Grand Kru
+430008,LR: Lofa
+430009,LR: Margibi
+430010,LR: Maryland
+430011,LR: Montserrado
+430012,LR: Nimba
+430013,LR: Rivercess
+430014,LR: River Gee
+430015,LR: Sinoe
+434001,LY: Al-Batnan
+434002,LY: Derna
+434003,LY: Al-Gebel el-Akhdar
+434004,LY: Al-Marj
+434005,LY: Benghazi
+434006,LY: Al-Wahat
+434007,LY: Al-Kufra
+434008,LY: Sirt
+434009,LY: Al-Joufra
+434010,LY: Misurata
+434011,LY: Al-Margheb
+434012,LY: Tripoli
+434013,LY: Jafara
+434014,LY: Zawia
+434015,LY: Nikhat Al-Khams
+434016,LY: Al-Gabal Al-Gharbi
+434017,LY: Nalut
+434018,LY: Sebha
+434019,LY: Wadi Al-Shati
+434020,LY: Murzuk
+434021,LY: Wadi Al-Haya
+434022,LY: Ghat
+440001,LT: Zemaitija
+440002,LT: Aukstaitija
+440003,LT: Suvalkija
+440004,LT: Dzukija
+440005,LT: South East Lithuania
+440006,LT: Vilnius
+440007,LT: Kaunas
+440008,LT: Klaipeda
+440009,LT: Siauliai
+440010,LT: Panevezys
+442001,LU: No regions
+450001,MG: Antananarivo
+450002,MG: Fianarantsoa
+450003,MG: Toamasina
+450004,MG: Mahajanga
+450005,MG: Toliary
+450006,MG: Antsiranana
+454001,MW: Central
+454002,MW: North
+454003,MW: South
+458001,MY: Selangor
+458002,MY: Perak
+458003,MY: Pulau Pinang
+458004,MY: Sabah
+458005,MY: Sarawak
+458006,MY: Kedah
+458007,MY: Perlis
+458008,MY: Pahang
+458009,MY: Kelantan
+458010,MY: Terengganu
+458011,MY: Johor
+458012,MY: Melaka
+458013,MY: Negeri Sembilan
+458014,MY: Wilayah Persekutuan
+466001,ML: Region of Bamako
+466002,ML: Kayes
+466003,ML: Segou
+466004,ML: Mopti
+466005,ML: Sikasso
+466006,ML: Koulikoro
+466007,ML: Tombouctou
+466008,ML: Gao
+466009,ML: Kidal
+470001,MT: No Regions
+484001,MX: Norte
+484002,MX: Centro occidente
+484003,MX: Centro
+484004,MX: Sur
+484005,MX: Zona metropolitana
+484101,MX: Aguascalientes
+484102,MX: Baja California
+484103,MX: Baja California Sur
+484104,MX: Campeche
+484105,MX: Coahuila
+484106,MX: Colima
+484107,MX: Chiapas
+484108,MX: Chihuahua
+484109,MX: Distrito Federal
+484110,MX: Durango
+484111,MX: Guanajuato
+484112,MX: Guerrero
+484113,MX: Hidalgo
+484114,MX: Jalisco
+484115,MX: Estado de México
+484116,MX: Michoacán
+484117,MX: Morelos
+484118,MX: Nayarit
+484119,MX: Nuevo León
+484120,MX: Oaxaca
+484121,MX: Puebla
+484122,MX: Querétaro
+484123,MX: Quintana Roo
+484124,MX: San Luis Potosí
+484125,MX: Sinaloa
+484126,MX: Sonora
+484127,MX: Tabasco
+484128,MX: Tamaulipas
+484129,MX: Tlaxcala
+484130,MX: Veracruz
+484131,MX: Yucatán
+484132,MX: Zacatecas
+498001,MD: North
+498002,MD: Center
+498003,MD: South
+498004,MD: City of Kishinev (Chisinau)
+498005,MD: Anenij Noj
+498006,MD: Besarabskij
+498007,MD: Kagul?skij
+498008,MD: Kantemirskij
+498009,MD: Kalarashskij
+498010,MD: Kaushanskij
+498011,MD: Tshimishlijskij
+498012,MD: Drokievskij
+498013,MD: Edineckij
+498014,MD: Faleshtskij
+498015,MD: Floreshtskij
+498016,MD: Chyntsheshtskij
+498017,MD: Orgeevskij
+498018,MD: Ryshkantskij
+498019,MD: Synzherejskij
+498020,MD: Sorokskij
+498021,MD: Strashenskij
+498022,MD: Sholdaneshtskij
+498023,MD: Teleneshtskij
+498024,MD: Ungenskij
+498025,MD: Vulkaneshtskij
+498026,MD: Autonom Gaugasian Republic
+498027,MD: Soroca district
+498028,MD: Briceni district
+498029,MD: Floresti district
+498030,MD: Glodeni district
+498031,MD: Riscani district
+498032,MD: Donduseni district
+498033,MD: Drochia district
+498034,MD: Falesti district
+498035,MD: Singrei district
+498036,MD: Edinet district
+498037,MD: Rezina district
+498038,MD: Soldanesti district
+498039,MD: Telenesti district
+498040,MD: Ungheni district
+498041,MD: Calarasi district
+498042,MD: Straseni district
+498043,MD: Criuleni district
+498044,MD: Nisporeni district
+498045,MD: Orhei district
+498046,MD: Ialoveni district
+498047,MD: Hincesti district
+498048,MD: Stefan Voda district
+498049,MD: Cahul district
+498050,MD: Taraclia district
+498051,MD: Cimislia district
+498052,MD: Leova district
+498053,MD: Cantemir district
+498054,MD: Basarabeasca district
+498055,MD: Municipality Balti
+504001,MA: Grand Casablanca
+504002,MA: Boukkala Abda
+504003,MA: Chaouia Ouadigha
+504004,MA: Rabat Salé
+504005,MA: Gharb Chrarda
+504006,MA: Marrakech Tensift
+504007,MA: Fès Boulemane
+504008,MA: Meknès Tafilalet
+504009,MA: Tanger Tétouan
+504010,MA: Tadla-Azilal
+508001,MZ: Maputo
+508002,MZ: Maputo City
+508003,MZ: Gaza
+508004,MZ: Inhambane
+508005,MZ: Sofala
+508006,MZ: Tete
+508007,MZ: Manica
+508008,MZ: Zambezia
+508009,MZ: Nampula
+508010,MZ: Niassa
+508011,MZ: Cabo Delgado
+516001,NA: Caprivi
+516002,NA: Erongo
+516003,NA: Hardap
+516004,NA: Karas
+516005,NA: Kavango
+516006,NA: Khomas
+516007,NA: Kunene
+516008,NA: Ohangwena
+516009,NA: Omaheke
+516010,NA: Omusati
+516011,NA: Oshana
+516012,NA: Oshikoto
+516013,NA: Otjozondjupa
+528001,NL: Noord-Holland
+528002,NL: Zuid-Holland
+528003,NL: Utrecht
+528004,NL: Zeeland
+528005,NL: Noord-Brabant
+528006,NL: Limburg
+528007,NL: Gelderland
+528008,NL: Overijssel
+528009,NL: Flevoland
+528010,NL: Friesland
+528011,NL: Drenthe
+528012,NL: Groningen
+554001,NZ: Northland
+554002,NZ: Auckland
+554003,NZ: Thames Valley
+554004,NZ: Bay of Plenty
+554005,NZ: Waikato
+554006,NZ: Tongariro
+554007,NZ: East Cape
+554008,NZ: Hawkes Bay
+554009,NZ: Taranaki
+554010,NZ: Wanganui
+554011,NZ: Manawatu-Rangitikei
+554012,NZ: Horowhenua
+554013,NZ: Wellington
+554014,NZ: Wairarapa
+554015,NZ: Nelson Bays
+554016,NZ: Marlborough
+554017,NZ: West Coast
+554018,NZ: Canterbury
+554019,NZ: Aorangi
+554020,NZ: Clutha-Central Otago
+554021,NZ: Coastal-North Otago
+554022,NZ: Southland
+558001,NI: Managua
+558002,NI: Chinandega
+558003,NI: León
+558004,NI: Masaya
+558005,NI: Granada
+558006,NI: Carazo
+558007,NI: Rivas
+558008,NI: Chontales
+558009,NI: Boaco
+558010,NI: Matagalpa
+558011,NI: Jinotega
+558012,NI: Estelí
+558013,NI: Nueva Segovia
+558014,NI: Río San Juan
+558015,NI: R.A.A.S
+558016,NI: R.A.A.N
+558017,NI: Madriz
+566001,NG: Lagos
+566002,NG: West
+566003,NG: East
+566004,NG: North East
+566005,NG: North West
+566006,NG: North
+566007,NG: Middle belt
+566008,NG: South South
+566009,NG: North Central
+566022,NG: Jos
+566023,NG: Kano
+566024,NG: Zaria
+566025,NG: Owerri
+566026,NG: Ilorin
+566027,NG: Minna
+566028,NG: Maduguri
+566029,NG: Ibadan
+566030,NG: Benin
+566031,NG: Enuou
+566032,NG: Makurdi
+566033,NG: Kaduna
+566034,NG: Abeo Kute
+566035,NG: Akure
+566036,NG: Port Harcourt
+566037,NG: Uyo
+566038,NG: Abia
+566039,NG: Adamawa
+566040,NG: Akwa-Ibom
+566041,NG: Anambra
+566042,NG: Bauchi
+566043,NG: Bayelsa
+566044,NG: Benue
+566045,NG: Borno
+566046,NG: Cross-River
+566047,NG: Delta
+566048,NG: Ebonyi
+566049,NG: Edo
+566050,NG: Ekiti
+566051,NG: Enugu
+566052,NG: FCT
+566053,NG: Gombe
+566054,NG: Imo
+566055,NG: Jigawa
+566056,NG: Katsina
+566057,NG: Kebbi
+566058,NG: Kogi
+566059,NG: Kwara
+566060,NG: Nassarawa
+566061,NG: Niger
+566062,NG: Ogun
+566063,NG: Ondo
+566064,NG: Osun
+566065,NG: Oyo
+566066,NG: Plateau
+566067,NG: Rivers
+566068,NG: Sokoto
+566069,NG: Taraba
+566070,NG: Yobe
+566071,NG: Zamfara
+578001,NO: Xstfold
+578002,NO: Akershus
+578003,NO: Oslo
+578004,NO: Hedmark
+578005,NO: Oppland
+578006,NO: Buskerud
+578007,NO: Vestfold
+578008,NO: Telemark
+578009,NO: Aust-Agder
+578010,NO: Vest-Agder
+578011,NO: Rogaland
+578012,NO: Hordaland
+578013,NO: Sogn og Fjordane
+578014,NO: Mxre og Romsdal
+578015,NO: Sxr-Trxndelag
+578016,NO: Nord-Trxndelag
+578017,NO: Nordland
+578018,NO: Troms
+578019,NO: Finnmark
+578021,NO: Oslo and Akershus
+578022,NO: Hedmark and Oppland
+578023,NO: South Eastern Norway
+578024,NO: Agder and Rogaland
+578025,NO: Western Norway
+578026,NO: Trøndelag
+586001,PK: Islamabad
+586002,PK: Urban Punjab
+586003,PK: Rural Punjab
+586004,PK: Urban Sindh
+586005,PK: Rural Sindh
+586006,PK: Urban NWFP (Khyber Pakhtunkhwa)
+586007,PK: Rural NWFP (Khyber Pakhtunkhwa)
+586008,PK: Urban Balochistan
+586009,PK: Rural Balochistan
+586010,PK: Punjab
+586011,PK: Sindh
+586012,PK: Khyber Pakhtunkhwa
+586013,PK: Balochistan
+591001,PA: Panamá
+591002,PA: Colón
+591003,PA: Bocas del Toro
+591004,PA: Coclé
+591005,PA: Chiriquí
+591006,PA: Herrera
+591007,PA: Los Santos
+591008,PA: Veraguas
+600001,PY: Alto Paraná
+600002,PY: Asunción
+600003,PY: Caaguazú
+600004,PY: Canindeyú
+600005,PY: Central
+600006,PY: Concepción
+600007,PY: Cordillera
+600008,PY: Guairá
+600009,PY: Itapúa
+600010,PY: Presidente Hayes
+600011,PY: San Pedro
+604001,PE: GRAN LIMA
+604002,PE: NORTE
+604003,PE: CENTRO
+604004,PE: SUR
+604005,PE: ORIENTE
+604006,PE: Lima
+604007,PE: Arequipa
+604008,PE: Trujillo
+604009,PE: Chiclayo
+604010,PE: Iquitos
+604011,PE: Huancayo
+604012,PE: Piura
+604013,PE: Chimbote
+604014,PE: Cusco
+604015,PE: Pucallpa
+604016,PE: Juliaca
+604021,PE: Ancash
+604022,PE: Ayacucho
+604023,PE: Cajamarca
+604024,PE: Callao
+604025,PE: Huánuco
+604026,PE: Ica
+604027,PE: Junín
+604028,PE: La libertad
+604029,PE: Lambayeque
+604030,PE: Loreto
+604031,PE: Puno
+604032,PE: San Martín
+604033,PE: Cusco
+604034,PE: Huancavelica
+604035,PE: Tacna
+604036,PE: Ucayali
+604037,PE: Amazonas
+604038,PE: Apurímac
+608001,PH: NCR
+608002,PH: SOUTH LUZON
+608003,PH: VISAYAS
+608004,PH: MINDANAO
+616001,PL: Lubelskie
+616002,PL: Lodzkie
+616003,PL: Opolskie
+616004,PL: Warsaw
+616005,PL: Bialskopodlaskie
+616006,PL: Bialostockie
+616007,PL: Bielskie
+616008,PL: Bydgoskie
+616009,PL: Chelmskie
+616010,PL: Ciechanowskie
+616011,PL: Czestocjowski
+616012,PL: Elblaskie
+616013,PL: Gdanskie
+616014,PL: Gorzowskie
+616015,PL: Jeleniogorskie
+616016,PL: Kaliskie
+616017,PL: Katowickie
+616018,PL: Kielecki
+616019,PL: Koninskie
+616020,PL: Koszalinskie
+616021,PL: Krakowskie
+616022,PL: Krosnienskie
+616023,PL: Legnickie
+616024,PL: Leszczynskie
+616025,PL: Lomzynskie
+616026,PL: Nowosadeckie
+616027,PL: Olsztynskie
+616028,PL: Ostroleckie
+616029,PL: Pilskie
+616030,PL: Piotrkowskie
+616031,PL: Plockie
+616032,PL: Poznanskie
+616033,PL: Przemyskie
+616034,PL: Radomskie
+616035,PL: Rzeszowskie
+616036,PL: Ciedlockie
+616037,PL: Sieradzkie
+616038,PL: Skierniewickie
+616039,PL: Slupskie
+616040,PL: Suwalskie
+616041,PL: Szczecinskie
+616042,PL: Tamobrzeskie
+616043,PL: Tamowskie
+616044,PL: Torunskie
+616045,PL: Walbrzyskie
+616046,PL: Wioclawskie
+616047,PL: Wroclawskie
+616048,PL: Zamosjkie
+616049,PL: Zielenogorskie
+616050,PL: Dolnolslaskie
+616051,PL: Kujawsko-Pomorskie
+616053,PL: Malopotskie
+616054,PL: Mazowieckie
+616055,PL: Podkarpackie
+616056,PL: Podlaskie
+616057,PL: Pomorsie
+616058,PL: Slaskie
+616059,PL: Swietokryskie
+616060,PL: Warminsko-Mazurskie
+616061,PL: Wielkopolskie
+616062,PL: Zachodniopomorskie
+616063,PL: Lubuskie
+620001,PT: North
+620002,PT: Center
+620003,PT: Lisbon & Tagus Valley (Grande Lisboa)
+620004,PT: Alentejo
+620005,PT: Algarve
+620006,PT: Litoral Norte
+620007,PT: Interior Norte
+620008,PT: Grande Porto
+620009,PT: Literoral Centro
+620010,PT: Vale de tejo
+620011,PT: Interior Sul
+620012,PT: Madeira
+620013,PT: Acores
+630001,PR: Norte
+630002,PR: Sur
+630003,PR: Oeste
+630004,PR: Este
+630005,PR: Montana
+630006,PR: Centro
+630007,PR: Metropolitana
+634001,QA: Doha
+634002,QA: Rayan
+634003,QA: Wakra
+634004,QA: Omm Slal
+634005,QA: Alkhour
+634006,QA: Chemal
+642001,RO: Bucuresti
+642002,RO: Mutenia
+642003,RO: Moldova
+642004,RO: Transylvania
+642005,RO: Oltenia
+642006,RO: Banat
+642007,RO: Crisana-Maramures (region)
+642008,RO: Dobrogia
+642009,RO: Arad
+642010,RO: Arges
+642011,RO: Bacau
+642012,RO: Bihor
+642013,RO: Bistrita-Nasaud
+642014,RO: Botosani
+642015,RO: Brasov
+642016,RO: Braila
+642017,RO: Buzau
+642018,RO: Caras-Severin
+642019,RO: Calarasi
+642020,RO: Cluj
+642021,RO: Constanta
+642022,RO: Covasna
+642023,RO: Dambovita
+642024,RO: Dolj
+642025,RO: Galati
+642026,RO: Giurgiu
+642027,RO: Gorj
+642028,RO: Harghita
+642029,RO: Hunedoara
+642030,RO: Ialomita
+642031,RO: Iasi
+642032,RO: Maramures County
+642033,RO: Mures
+642034,RO: Neamt
+642035,RO: Olt
+642036,RO: Prahova
+642037,RO: Satu Mare
+642038,RO: Salaj
+642039,RO: Sibiu
+642040,RO: Suceava
+642041,RO: Teleorman
+642042,RO: Timis
+642043,RO: Tulcea
+642044,RO: Vaslui
+642045,RO: Valcea
+642046,RO: Vrancea
+642047,RO: Ilfov
+642048,RO: Alba
+642049,RO: Mehedinti
+643001,RU: Northern
+643002,RU: North-Western
+643003,RU: Central
+643004,RU: Volgo-Vyatki
+643005,RU: Central Black Earth
+643006,RU: North Caucasus
+643007,RU: Volga; Povolzskij
+643008,RU: Urals
+643009,RU: Western Siberia
+643010,RU: Eastern Siberia
+643011,RU: Far East
+643012,RU: Siberia
+643013,RU: South
+643014,RU: Moscow
+643015,RU: Vladimir Oblast
+643016,RU: Voronezh Oblast
+643017,RU: Kostroma Oblast
+643018,RU: Kursk Oblast
+643019,RU: Lipetsk Oblast
+643020,RU: Ryazan Oblast
+643021,RU: Smolensk Oblast
+643022,RU: Tambov Oblast
+643023,RU: Tver Oblast
+643024,RU: Tula Oblast
+643025,RU: Yaroslavl Oblast
+643026,RU: City of Moscow
+643027,RU: Republic of Komi
+643028,RU: Archangelsk Oblast
+643029,RU: Vologda Oblast
+643030,RU: Leningrad Oblast
+643031,RU: Novgorod Oblast
+643032,RU: City of Sankt Petersburg
+643033,RU: Republic of Adygea
+643034,RU: Krasnodar Kray
+643035,RU: Astrakhan Oblast
+643036,RU: Volgograd Oblast
+643037,RU: Rostov Oblast
+643038,RU: Republic of Kabardino-Balkaria
+643039,RU: Republic of North Ossetia-Alania
+643040,RU: Stavropol Kray
+643041,RU: Republic of Bashkortostan
+643042,RU: Mariy El Republic
+643043,RU: Republic of Tatarstan
+643044,RU: Republic of Udmurtia
+643045,RU: Chuvash Republic
+643046,RU: Kirov Oblast
+643047,RU: Nizhegorodskaya Oblast
+643048,RU: Orenburg Oblast
+643049,RU: Penza Oblast
+643050,RU: Samara Oblast
+643051,RU: Saratov Oblast
+643052,RU: Kurgan Oblast
+643053,RU: Sverdlovsk Oblast
+643054,RU: Tyumen Oblast
+643055,RU: Chelyabinsk Oblast
+643056,RU: Republic of Khakasia
+643057,RU: Altay Kray
+643058,RU: Krasnoyarsk Kray
+643059,RU: Irkutsk Oblast
+643060,RU: Kemerovo Oblast
+643061,RU: Novosibirsk Oblast
+643062,RU: Omsk Oblast
+643063,RU: Sakha Republic (Yakutia)
+643064,RU: Primorsky Kray
+643065,RU: Khabarovsk Kray
+646001,RW: Ruhengeri
+646002,RW: Gisenyi
+646003,RW: Gitarama
+646004,RW: Kigali Ngali
+646005,RW: Butare
+646006,RW: Byumba
+646007,RW: Kibungo
+646008,RW: Cyangungu
+646009,RW: Kigali City
+646010,RW: Gikongoro
+646011,RW: Kibuye
+646012,RW: Umutara
+646021,RW: Kigali
+646022,RW: Southern
+646023,RW: Western
+646024,RW: Northern
+646025,RW: Eastern
+682001,SA: Jeddah
+682002,SA: Taif
+682003,SA: Makkah
+682004,SA: Riyadh
+682005,SA: Qassim
+682006,SA: Hail
+682007,SA: Dammam \ Khobar
+682008,SA: Abha \ Khamis
+682009,SA: Al Madinah
+682010,SA: Tabuk
+682011,SA: Mecca
+682012,SA: Azan
+682013,SA: Eastern region
+682014,SA: Al jouf
+682015,SA: Asser
+686001,SN: Dakar
+686002,SN: Diourbel
+686003,SN: Fatick
+686004,SN: Kaolack
+686005,SN: Kolda
+686006,SN: Louga
+686007,SN: Matam
+686008,SN: Saint-Louis
+686009,SN: Tambacounda
+686010,SN: Thies
+686011,SN: Ziguinchor
+703000,SK: Slovakia
+703001,SK: Bratislava County
+703002,SK: Trnava County
+703003,SK: Trencin County
+703004,SK: Nitra County
+703005,SK: Zilina County
+703006,SK: B. Bystrica County
+703007,SK: Presov County
+703008,SK: Kosice County
+703009,SK: Northern Slovakia
+703010,SK: Central Slovakia
+703011,SK: Eastern Slovakia
+703012,SK: West Slovakia
+704001,VN: red river delta
+704002,VN: northeast
+704003,VN: northwest
+704004,VN: north central
+704005,VN: central coast
+704006,VN: central highland
+704007,VN: southeast
+704008,VN: mekong river delta
+705001,SI: Pomurska
+705002,SI: Podravska
+705003,SI: Koroska
+705004,SI: Savinjska
+705005,SI: Gorensjka
+705006,SI: Zasavska
+705007,SI: Osrednja Slovenska
+705008,SI: Spodnje Posavska
+705009,SI: Dolensjka
+705010,SI: Goriska
+705011,SI: Primorska
+705012,SI: Kraska
+705013,SI: Obalno-Kraska
+705014,SI: JV Slovenija
+705015,SI: Notr. - Kraska
+705016,SI: Osrednjeslovenska
+705017,SI: Spodnjeposavska
+710001,ZA: Northern Province/Limpopo
+710002,ZA: KwaZulu/ Natal (KZN)
+710003,ZA: Gauteng
+710004,ZA: Mpumalanga
+710005,ZA: Eastern Cape
+710006,ZA: Northern Cape
+710007,ZA: Western Cape
+710008,ZA: Free State
+710009,ZA: North West
+710010,ZA: Vaal
+710011,ZA: Johannesburg
+710012,ZA: Reaf/Vaal
+710013,ZA: Pretoria
+710014,ZA: Rest of Transvaal
+710015,ZA: Durban
+710016,ZA: Rest of Natal
+710017,ZA: East London
+710018,ZA: Cape Town
+710019,ZA: Kimberly
+710030,ZA: Rest of Cape Providence
+710032,ZA: Bloemfontein
+710033,ZA: Rest of Orange Free State
+710038,ZA: Undocumented
+716001,ZW: Bulawayo
+716002,ZW: Harare
+716003,ZW: Mashonaland Central
+716004,ZW: Mashonaland East
+716005,ZW: Mashonaland West
+716006,ZW: Masvingo
+716007,ZW: Manicaland
+716008,ZW: Matabeleland North
+716009,ZW: Matabeleland South
+716010,ZW: Midlands
+724001,ES: Andalucia
+724002,ES: Aragon
+724003,ES: Asturias
+724004,ES: Baleares
+724005,ES: Canarias
+724006,ES: Cantabria
+724007,ES: Castilla-Mancha
+724008,ES: Castilla Leon
+724009,ES: Cataluna
+724010,ES: C Valenciana
+724011,ES: Extremadura
+724012,ES: Galicia
+724013,ES: Madrid
+724014,ES: Murcia
+724015,ES: Navarra
+724016,ES: Pais Vasco
+724017,ES: Rioja
+724018,ES: Alava
+724019,ES: Guipuzcoa
+724020,ES: Vizcaya
+724021,ES: unknown
+724022,ES: unknown
+724023,ES: unknown
+724024,ES: unknown
+724025,ES: unknown
+724026,ES: unknown
+724027,ES: unknown
+724028,ES: unknown
+724029,ES: unknown
+724030,ES: unknown
+724031,ES: unknown
+736001,SD: khartoum
+736002,SD: al jazirah
+736003,SD: sennar
+736004,SD: north kurdufan
+736005,SD: west darfur
+736006,SD: red sea
+736007,SD: kassala
+736008,SD: al qadarif
+736009,SD: north
+752001,SE: Norr
+752002,SE: Öst
+752003,SE: Syd
+752004,SE: Väst
+752005,SE: Öresund
+752006,SE: Stor Göteborg och Bohus
+752007,SE: Stor Stockholm
+752008,SE: Uppsala
+752009,SE: Sodermanland
+752010,SE: Östergötland
+752011,SE: Jönköping
+752012,SE: Kronoberg
+752013,SE: Kalmar
+752014,SE: Blekinge
+752015,SE: Kristianstad
+752016,SE: Malmohus
+752017,SE: Halland
+752018,SE: Alvsborg
+752019,SE: Skaraborg
+752020,SE: Värmland
+752021,SE: Västmanland
+752022,SE: Kopparberg
+752023,SE: Gävleborg
+752024,SE: Västernorrland
+752025,SE: Jamtland
+752026,SE: Västerbotten
+752027,SE: Norbotten
+752028,SE: Skåne
+752029,SE: Västra Götaland
+752030,SE: Örebro
+752031,SE: Dalarna
+752032,SE: Gotland
+752033,SE: Sörmland
+752034,SE: Stockholm
+756001,CH: AG
+756002,CH: AI
+756003,CH: BL
+756004,CH: BS
+756005,CH: BE
+756006,CH: FR
+756007,CH: GE
+756008,CH: GR
+756009,CH: LU
+756010,CH: NE
+756011,CH: OW
+756012,CH: SH
+756013,CH: SZ
+756014,CH: SG
+756015,CH: TI
+756016,CH: TG
+756017,CH: SO
+756018,CH: VD
+756019,CH: VS
+756020,CH: ZH
+756021,CH: Swiss german
+756022,CH: Swiss french
+756023,CH: Swiss italian
+764001,TH: The North
+764002,TH: The Central
+764003,TH: The South
+764004,TH: The Northeast
+764005,TH: The East
+764006,TH: Bangkok
+780010,TT: 10 Port of Spain
+780011,TT: Mayaro/Rio Claro
+780012,TT: Sangre Grande2
+780013,TT: Princes Town
+780014,TT: Penal/Debe
+780015,TT: Siparia
+780020,TT: City of San Fernando
+780030,TT: Borough of Arima
+780040,TT: Borough of Chaguanas
+780050,TT: Point Fortin
+780060,TT: Diego Martin
+780070,TT: San Juan/Laventille
+780080,TT: Tunapuna/Piarco
+780090,TT: Couva/Tabaquite/Talparo
+780091,TT: TOBAGO
+788001,TN: Tunis
+788002,TN: Ben Arous
+788003,TN: Manouba
+788004,TN: Nabeul
+788005,TN: Bizerte
+788006,TN: Béja
+788007,TN: Jandouba
+788008,TN: Kairouan
+788009,TN: Kasserine
+788010,TN: Sousse
+788011,TN: Mahdia
+788012,TN: Sfax
+788013,TN: Gabes
+788014,TN: Medenine
+788015,TN: Tozeur
+788016,TN: zaghouan
+788017,TN: caf
+788018,TN: siliana
+788019,TN: sidi bouzid
+788020,TN: monastir
+788021,TN: gafsa
+788022,TN: qbli
+788023,TN: qabs
+788024,TN: tataouine
+788025,TN: ariana
+792001,TR: Adana
+792002,TR: Ankara (center)
+792003,TR: Antalya (south)
+792004,TR: Bursa
+792005,TR: Gaziantep (southeast)
+792006,TR: Isparta (west)
+792007,TR: Mersin (south)
+792008,TR: Istanbul
+792009,TR: Izmir (west)
+792010,TR: Konya
+792011,TR: Manisa (west)
+792012,TR: Tokat (center north)
+792013,TR: Trabzon (north)
+792014,TR: Sanliurfa (southeast)
+792015,TR: Van (east)
+792021,TR: Undocumented
+792022,TR: Undocumented
+792023,TR: Undocumented
+792024,TR: Undocumented
+792025,TR: Undocumented
+792026,TR: Undocumented
+792027,TR: Undocumented
+792028,TR: Undocumented
+792029,TR: Undocumented
+792030,TR: Undocumented
+792031,TR: Undocumented
+792032,TR: Undocumented
+792033,TR: Undocumented
+792034,TR: Undocumented
+792035,TR: Undocumented
+792036,TR: Undocumented
+792041,TR: Istambul
+792042,TR: Western Marmara
+792043,TR: Aegean
+792044,TR: Eastern Marmara
+792045,TR: Western Anatolia
+792046,TR: Mediterranean
+792047,TR: Central Anatolia
+792048,TR: Western Black Sea
+792049,TR: Eastern Black Sea
+792050,TR: North Eastern Anatolia
+792051,TR: East Central Anatolia
+792052,TR: South Eastern Anatolia
+792053,TR: Ege-Marmara
+792054,TR: Karadeniz
+792055,TR: IC Anadolu
+792056,TR: D.G Dogu
+792057,TR: Izmir
+792058,TR: Akdeniz
+792059,TR: Afyonkarahisar
+792060,TR: Amasya
+792061,TR: Edirne
+792062,TR: Erzincan
+792063,TR: Kastamonu
+792064,TR: Malatya
+792065,TR: Kahramanmaras
+792066,TR: Samsun
+792067,TR: Mugla
+800001,UG: Apac
+800002,UG: Masindi
+800003,UG: Kabarole
+800004,UG: Kasese
+800005,UG: Bushenyi
+800006,UG: Mbarara
+800007,UG: Masaka
+800008,UG: Mpigi
+800009,UG: Kampala
+800010,UG: Luwero
+800011,UG: Iganga
+800012,UG: Tororo
+800013,UG: Mbale
+800014,UG: Soroti
+800015,UG: Lira
+800016,UG: Kumi
+800017,UG: Central
+800018,UG: West
+800019,UG: North
+800020,UG: East
+804001,UA: Crimea
+804002,UA: Vinnytsia oblast
+804003,UA: Volyn oblast
+804004,UA: Dnipropetrovsk oblast
+804005,UA: Donetsk oblast
+804006,UA: Zhitomyr oblast
+804007,UA: Zakarpattia oblast
+804008,UA: Zaporizhia oblast
+804009,UA: Ivano-Frankivsk oblast
+804010,UA: Kyiv oblast
+804011,UA: Kyiv city
+804012,UA: Kirovograd oblast
+804013,UA: Luhansk oblast
+804014,UA: Lviv oblast
+804015,UA: Mykolayiv oblast
+804016,UA: Odessa oblast
+804017,UA: Poltava oblast
+804018,UA: Rivnå oblast
+804019,UA: Sumy oblast
+804020,UA: Ternopil oblast
+804021,UA: Kharkiv oblast
+804022,UA: Kherson oblast
+804023,UA: Hmelnytsk oblast
+804024,UA: Cherkasy oblast
+804025,UA: Chernivtsi oblast
+804026,UA: Chernigiv oblast
+804031,UA: Western
+804032,UA: Eastern
+804033,UA: Central
+804034,UA: Southern
+804035,UA: Lugansk region
+804036,UA: Dnepropetrovsk region
+807001,MK: Skopski
+807002,MK: Pelagoniski
+807003,MK: Ohridski
+807004,MK: Poloski
+807005,MK: Povardarski
+807006,MK: Kumanovski
+807007,MK: Bregalnicki
+807008,MK: Vardarska
+818001,EG: Cairo
+818002,EG: Alexandria
+818003,EG: Lower egypt
+818004,EG: Upper egypt
+818005,EG: Canal zone
+818006,EG: Sinai
+818007,EG: Other
+818013,EG: Port Said
+818014,EG: Suez
+818015,EG: Damiatta
+818016,EG: Dakahlia
+818017,EG: Sharkia
+818018,EG: Qalubia
+818019,EG: Kafr El shiekh
+818020,EG: Gharbia
+818021,EG: Menofia
+818022,EG: Behaira
+818023,EG: Ismailia
+818024,EG: Giza
+818025,EG: Beni Swaif/Beni Suef
+818026,EG: Fayoum
+818027,EG: Menya
+818028,EG: Asyut
+818029,EG: Sohag
+818030,EG: Qena
+818031,EG: Aswan
+818032,EG: Luxor
+818033,EG: East
+818034,EG: Qaliubiya
+818035,EG: Kafr el-sheikh
+818036,EG: Western
+826001,GB: North East
+826002,GB: North West
+826003,GB: Yorks & Humberside
+826004,GB: East Midlands
+826005,GB: West Midlands
+826006,GB: Eastern
+826007,GB: London
+826008,GB: South East
+826009,GB: South West
+826010,GB:Wales
+826011,GB: Scotland
+826012,GB: North
+826013,GB: Home countries/Kent/Sussex
+826014,GB: South
+826015,GB: East Anglia
+826016,GB: Greater London
+826017,GB: South East (excluding London)
+834001,TZ: Dodoma
+834002,TZ: Arusha
+834003,TZ: Kilimanjaro
+834004,TZ: Tanga
+834005,TZ: Morogoro
+834006,TZ: Coast(Pwani)
+834007,TZ: Dares Salaam
+834008,TZ: Lindi
+834009,TZ: Mtwara
+834010,TZ: Ruvuma
+834011,TZ: Iringa
+834012,TZ: Mbeya
+834013,TZ: Singida
+834014,TZ: Tabora
+834015,TZ: Rukwa
+834016,TZ: Kigoma
+834017,TZ: Shinyanga
+834018,TZ: Kagera
+834019,TZ: Mwanza
+834020,TZ: Mara
+834021,TZ: Manyara
+834022,TZ: North Unguja
+834023,TZ: South Unguja
+834024,TZ: Urban West
+834025,TZ: North Pemba
+834026,TZ: South Pemba
+840001,US: New England
+840002,US: Middle Atlantic States
+840003,US: South Atlantic
+840004,US: East South Central
+840005,US: West South Central
+840006,US: East North Central
+840007,US: West North Central
+840008,US: Rocky Mountain state
+840009,US: Northwest
+840010,US: California
+840011,US: Alaska
+840012,US: Hawai
+840013,US: Pacific
+854001,BF: Central
+854002,BF: Cascades
+854003,BF: Boucle du Mouhoun
+854004,BF: Central East
+854005,BF: Central North
+854006,BF: Central West
+854007,BF: Central South
+854008,BF: East Region
+854009,BF: Hauts-Basin
+854010,BF: North Region
+854011,BF: Central Plateau
+854012,BF: Sahel Region
+854013,BF: South West region
+858001,UY: Montevideo
+858002,UY: Paysandú
+858003,UY: Las Piedras
+858004,UY: Tacuarembó
+858005,UY: Florida
+858006,UY: Rocha
+858007,UY: Pando
+858008,UY: San Carlos
+858009,UY: Fray Bentos
+858102,UY: Salto
+858103,UY: Maldonado
+858106,UY: Rivera
+858108,UY: Melo
+858109,UY: Mercedes
+858110,UY: Artigas
+858111,UY: Minas
+858112,UY: San Jose de Mayo
+858114,UY: Durazno
+858115,UY: La Paz
+858117,UY: Carmelo
+858119,UY: Treinta y Tres
+858122,UY: Colonia del Sacramento
+858123,UY: Trinidad
+858124,UY: Canelones
+858125,UY: Paso de los Toros
+858126,UY: Juan Antonio Artigas
+858127,UY: Rosario
+858128,UY: Punta del Este
+858129,UY: Quebracho
+858130,UY: 25 de Mayo
+858131,UY: Paso Bonilla
+858132,UY: Cerro Pelado
+858133,UY: Rural
+858134,UY:Cerro Largo
+858135,UY:Lavalleja
+858136,UY:Río Negro
+858137,UY:Soriano
+858138,UY:Flores
+860001,UZ: Karakalpakstan
+860002,UZ: Andijan
+860003,UZ: Bukhara
+860004,UZ: Jizzakh
+860005,UZ: Kashkadarya
+860006,UZ: Navoi
+860007,UZ: Namangan
+860008,UZ: Samarkand
+860009,UZ: Surkhandarya
+860010,UZ: Syrdarya
+860011,UZ: Tashkent
+860012,UZ: Fergana
+860013,UZ: Khorezm
+860014,UZ: Tashkent
+862001,VE: Distrito Capital
+862002,VE: Miranda
+862003,VE: Aragua
+862004,VE: Carabobo
+862005,VE: Guarico
+862006,VE: Cojedes
+862007,VE: Yaracuy
+862008,VE: Lara
+862009,VE: Falcón
+862010,VE: Zulia
+862011,VE: Táchira
+862012,VE: Mérida
+862013,VE: Trujillo
+862014,VE: Barinas
+862015,VE: Portuguesa
+862016,VE: Apure
+862017,VE: Amazonas
+862018,VE: Bolívar
+862019,VE: Delta Amacuro
+862020,VE: Monagas
+862021,VE: Sucre
+862022,VE: Anzoátegui
+862023,VE: Nueva Esparta
+862024,VE: Vargas
+862025,VE: Capital: D.F./Miranda
+862026,VE: Occidental: Zulia/Falcón
+862027,"VE: Central: Aragua, Carabobo, Lara"
+862028,"VE: Oriente:Anzoátegui,Bolivar,Sucre,Monagas,Espar.,Amazon"
+862029,"VE: Andes: Mérida, Táchira, Trujillo"
+862030,"VE: Llanos: Apure,Barinas,Portuguesa,Cojedes,Guárico,Yaracuy"
+887001,YE: Ibb
+887002,YE: Abyan
+887003,YE: Sana'a City
+887004,YE: Al-Baidha
+887005,YE: Taiz
+887006,YE: Al-Jawf
+887007,YE: Hajjah
+887008,YE: Al-Hudaidah
+887009,YE: Hadhramaut
+887010,YE: Dhamar
+887011,YE: Shabwah
+887012,YE: Sana'a
+887013,YE: Aden
+887014,YE: Lahej
+887015,YE: Mareb
+887016,YE: Al-Mahwit
+887017,YE: Amran
+887018,YE: Ad-dale'
+887019,YE: Raymah
+887020,YE: Amanat al asimah
+887021,YE: Saada
+887022,YE: Al mahrah
+891000,CS: Serbia
+891001,CS: Belgrad area
+891002,CS: Vojvodina
+891003,CS: Central Serbia
+891004,CS: Central West Serbia
+891005,CS: South East Serbia
+891100,CS: Montenegro
+891101,CS: Montenegro-North
+891102,CS: Montenegro-Center
+891103,CS: Montenegro-South
+894001,ZM: North Western Province
+894002,ZM: Western Province
+894003,ZM: Southern Province
+894004,ZM: Central Province
+894005,ZM: Eastern Province
+894006,ZM: Northern Province
+894007,ZM: Luapula Province
+894008,ZM: Lusaka Province
+894009,ZM: Copperbelt Province
+909001,NIR: unknown
+909002,NIR: unknown
+909003,NIR: unknown
+909004,NIR: unknown
+909005,NIR: unknown
+909006,NIR: unknown
+909007,NIR: unknown
+909008,NIR: unknown
+1701001,CO: AMA-Amazonas
+1701002,CO: ANT-Antioquia
+1701003,CO: ARA-Arauca
+1701004,CO: ATL-Atlántico
+1701008,CO: CAQ-Caquetá
+1701009,CO: CAU-Cauca
+1701010,CO: CES-Cesar
+1701011,CO: CHO-Chocó
+1701012,CO: COR-Córdoba
+1701014,CO: GUV-Guaviare
+1701015,CO: GUA-Guainía
+1701016,CO: HUI-Huila
+1701017,CO: LAG-La Guajira
+1701019,CO: MET-Meta
+1701020,CO: NAR-Nariño
+1701021,CO: NSA-Norte de Santander
+1701022,CO: PUT-Putumayo
+1701023,CO: QUI-Quindío
+1701024,CO: RIS-Risaralda
+1701025,CO: SAP-San Andrés and Providencia
+1701026,CO: SAN-Santander
+1701027,CO: SUC-Sucre
+1701028,CO: TOL-Tolima
+1701029,CO: VAC-Valle del Cauca
+1701030,CO: VAU-Vaupés
+1701031,CO: CID-Vichada
+1701032,CO: CAS-Casanare
+1701033,CO: CUN-Cundinamarca
+1701034,CO: DC -Bogotá (Distrito Capital)
+1701035,CO: BOL-Bolívar
+1701036,CO: BOY-Boyacá
+1701037,CO: CAL-Caldas
+1701038,CO: MAG-Magdalena
+1701039,CO: Territorios Nacionales
+1701040,CO: Oriental
+7360010,SD: white nile
+7360011,SD: north darfur
+7360012,SD: west kurdufan
+7360013,SD: river nile
