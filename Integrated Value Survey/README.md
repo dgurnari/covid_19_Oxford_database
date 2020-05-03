@@ -14,8 +14,8 @@ and contains 1430 variables and 513529 observations.
 
 ## Variables Processing and Aggregation
 We aim to provide two different levels of aggregation:
-- by Year and Country;
-- by Year, Country and local region.
+- by Survey, Wave adn Country;
+- by Survey, Wave, Country and local region.
 
 Before being aggregate each individual answer is one-hot encoded. \
 For each answer in the dataset, a weight is available to compensate for small deviations in the sample at the country level.\
