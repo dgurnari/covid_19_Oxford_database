@@ -436,12 +436,12 @@ Code,Region
 156022,CN: Yunnan Province
 156023,CN: Xizang
 156024,CN: Shaannxi  Province
-156025,CN: North
-156026,CN: Center
-156027,CN: South
-156028,CN: East
-156029,CN: Undocumented
-156030,CN: Undocumented
+156025,CN: North/Hua'zhong area
+156026,CN: Center /Hua'bei area
+156027,CN: South/Hua'dong area
+156028,CN: East/Zhong'nan area
+156029,CN: Undocumented/Xi'bei area
+156030,CN: Undocumented/Xi'nan area
 156031,CN: Tianjin
 156032,CN: Chongqing
 156033,CN: Gansu
@@ -612,7 +612,7 @@ Code,Region
 218017,EC: Sucumbios
 218018,EC: Tungurahua
 218019,EC: Zamora Chinchipe
-218020,EC: Santo Domingo
+218020,EC: Santo Domingo/Santa Elena
 218021,EC: Carchi
 218022,EC: Pastaza
 218023,EC: Santo Domingo de los Sachilas
@@ -823,6 +823,19 @@ Code,Region
 300019,GR: Kyklades
 300020,GR: Chania
 300021,GR: Kriti (rest)
+300101,GR: Attiki (GR-I)
+300102,GR: East Macedonia/Thrace (GR-A)
+300103,GR: Central Macedonia (GR-B)
+300104,GR: West Macedonia (GR-C)
+300105,GR: Thessaly (GR-E)
+300106,GR: Epirus (GR-D)
+300107,GR: Ionian (GR-F)
+300108,GR: Western Greece (GR-G)
+300109,GR: Central Greece (GR-H)
+300110,GR: Peloponnese (GR-J)
+300111,GR: Northern Aegean (GR-K)
+300112,GR: Southern Aegean (GR-L)
+300113,GR: Crete (GR-M)
 320001,GT: Capital
 320002,GT: Altiplano/Centro
 320003,GT: Sur
@@ -848,6 +861,60 @@ Code,Region
 320023,GT: Suroccidental/Suchitepéquez
 320024,GT: Suroccidental/San Marcos
 320025,GT: Norte/Baja Verapaz
+332001,HT: Bainet
+332002,HT: Les Cayes
+332003,HT: Jean Rabel
+332004,HT: Marigot
+332005,HT: Trou du Nord
+332006,HT: Boucan Carre
+332007,HT: Carrefour
+332008,HT: Les Anglais
+332009,HT: Desdunes
+332010,HT: Pointe a Raquette
+332011,HT: Fort Liberte
+332012,HT: Pilate
+332013,HT: Belle Anse
+332014,HT: Ceca la Source
+332015,HT: Gonaives
+332016,HT: L'Azile
+332017,HT: Jacmel
+332018,HT: St. Louis du Sud
+332019,HT: Saint Louis du Nord
+332020,HT: Port-au-Prince
+332021,HT: Lascahobas
+332022,HT: Dondon
+332023,HT: Saint-Michel
+332024,HT: St. Raphael
+332025,HT: Camp Perrin
+332026,HT: Dame-Marie
+332027,HT: Gros Morne
+332028,HT: Bassin Bleu
+332029,HT: Thomonde
+332030,HT: Ferrier
+332031,HT: Anse-a-Galet
+332032,HT: Anse Rouge
+332033,HT: Moron
+332034,HT: Cavaillon
+332035,HT: Chansolme
+332036,HT: Carice
+332037,HT: Jeremie
+332038,HT: Ouanaminthe
+332039,HT: Sainte Suzane
+332040,HT: Perches
+332041,HT: Pestel
+332042,HT: Baraderes
+332043,HT: Saut-d'Eau
+332044,HT: Cote-de-Fer
+332045,HT: Saint-Marc
+332046,HT: Aquin
+332047,HT: Baie de Henne
+332048,HT: Port de Paix
+332049,HT: Terrier Rouge
+332050,HT: Grand-Goave
+332051,HT: Les Irois
+332052,HT: Port Margot
+332053,HT: Dessalines/Marchandes
+332054,HT: Cap Haitien
 340001,HO: Cortés
 340002,HO: Francisco Morazán
 340003,HO: Atlántida
@@ -1000,24 +1067,24 @@ Code,Region
 364028,IR: Golestan
 364029,IR: North Khorasan
 364030,IR: South Khorasan
-368001,IQ: Baghdad
-368002,IQ: Basrah
-368003,IQ: Tekrit / Salahadin
-368004,IQ: Nasirria / Dhi Qar
-368005,IQ: Umara / Maysan
-368006,IQ: Hilla / Babyl
-368007,IQ: Najaf
-368008,IQ: Diwania / Qadisiyah
-368009,IQ: Kut / Wasit
-368010,IQ: Karbala
-368011,IQ: Ramadi
-368012,IQ: Samawa / Muthana
-368013,IQ: Baquba / Diyala
-368014,IQ: Musil / Ninewa
-368015,IQ: Kirkuk
-368016,IQ: Sulaimania
-368017,IQ: Dohuk
-368018,IQ: Erbil
+368001,IQ: Baghdad/Baghdād
+368002,IQ: Basrah/Al Başrah
+368003,IQ: Tekrit / Salahadin/Şalāḩ ad Dīn
+368004,IQ: Nasirria / Dhi Qar/Dhī Qār
+368005,IQ: Umara / Maysan/Maysān
+368006,IQ: Hilla / Babyl/Bābil
+368007,IQ: Najaf/An Najaf
+368008,IQ: Diwania / Qadisiyah/Al Qādisīyah
+368009,IQ: Kut / Wasit/Wāsiţ
+368010,IQ: Karbala/Karbalā
+368011,IQ: Ramadi/Al Anbār
+368012,IQ: Samawa / Muthana/Al Muthanná
+368013,IQ: Baquba / Diyala/Diyālá
+368014,IQ: Musil / Ninewa/Nīnawá
+368015,IQ: Kirkuk/Kirkūk
+368016,IQ: Sulaimania/As Sulaymānīyah (Slêmanî)
+368017,IQ: Dohuk/Dahūk (Dihok)
+368018,IQ: Erbil/Arbīl (Hewlêr)
 368019,IQ: Diyala
 368020,IQ: Albasra
 368021,IQ: Nainawa
@@ -1190,18 +1257,18 @@ Code,Region
 398024,KZ: Kyzylordinskaya oblast
 398025,KZ: Yuzhno-Kazakhstanskaya oblast
 398026,KZ: Almatinskaya oblast
-400011,JO: AMMAN
-400012,JO: BALQA
-400013,JO: ZARQA
-400014,JO: MADABA
-400021,JO: IRBID
-400022,JO: MAFRAQ
-400023,JO: JERASH
-400024,JO: AJLOON
-400031,JO: KARAK
-400032,JO: TAFILA
-400033,JO: MA´AN
-400034,JO: AQABA
+400011,JO: Amman
+400012,JO: Balqa
+400013,JO: Zarqa
+400014,JO: Madaba
+400021,JO: Irbid
+400022,JO: Mafraq
+400023,JO: Jerash
+400024,JO: Ajloon
+400031,JO: Karak
+400032,JO: Tafila
+400033,JO: Ma´An
+400034,JO: Aqaba
 404001,KE: Nairobi
 404002,KE: Central
 404003,KE: Eastern
@@ -1265,7 +1332,7 @@ Code,Region
 422019,LB: North
 422020,LB: Bekaa
 422021,LB: South
-422022,LB: Nabataean
+422022,LB: Nabataean/El Nabatieh
 426001,LS: Butha-Buthe
 426002,LS: Leribe
 426003,LS: Berea
@@ -1384,7 +1451,9 @@ Code,Region
 458011,MY: Johor
 458012,MY: Melaka
 458013,MY: Negeri Sembilan
-458014,MY: Wilayah Persekutuan
+458014,MY: Wilayah Persekutuan Kuala Lumpur
+458015,MY: Wilayah Labuan
+458016,MY: Wilayah Putrajaya
 466001,ML: Region of Bamako
 466002,ML: Kayes
 466003,ML: Segou
@@ -1438,7 +1507,7 @@ Code,Region
 498004,MD: City of Kishinev (Chisinau)
 498005,MD: Anenij Noj
 498006,MD: Besarabskij
-498007,MD: Kagul?skij
+498007,MD: Kagulskij
 498008,MD: Kantemirskij
 498009,MD: Kalarashskij
 498010,MD: Kaushanskij
@@ -1631,6 +1700,9 @@ Code,Region
 566069,NG: Taraba
 566070,NG: Yobe
 566071,NG: Zamfara
+566072,NG: South West
+566073,NG: South East
+566074,NG: Abuja
 578001,NO: Xstfold
 578002,NO: Akershus
 578003,NO: Oslo
@@ -1971,6 +2043,36 @@ Code,Region
 686009,SN: Tambacounda
 686010,SN: Thies
 686011,SN: Ziguinchor
+688000,RS: Beograd
+688001,RS: Severnobacki okrug
+688002,RS: Srednjebanatski okrug
+688003,RS: Severnobanatski okrug
+688004,RS: Južnobanatski okrug
+688005,RS: Zapadnobacki okrug
+688006,RS: Južnobacki okrug
+688007,RS: Sremski okrug
+688008,RS: Macvanski okrug
+688009,RS: Kolubarski okrug
+688010,RS: Podunavski okrug
+688011,RS: Branicevski okrug
+688012,RS: Šumadijski okrug
+688013,RS: Pomoravski okrug
+688014,RS: Borski okrug
+688015,RS: Zajecarski okrug
+688016,RS: Zlatiborski okrug
+688017,RS: Moravicki okrug
+688018,RS: Raški okrug
+688019,RS: Rasinski okrug
+688020,RS: Nišavski okrug
+688021,RS: Toplicki okrug
+688022,RS: Pirotski okrug
+688023,RS: Jablanicki okrug
+688024,RS: Pcinjski okrug
+688025,RS: Kosovski okrug
+688026,RS: Pecki okrug
+688027,RS: Prizrenski okrug
+688028,RS: Kosovsko-Mitrovacki okrug
+688029,RS: Kosovsko-Pomoravski okrug
 703000,SK: Slovakia
 703001,SK: Bratislava County
 703002,SK: Trnava County
@@ -2145,9 +2247,9 @@ Code,Region
 764004,TH: The Northeast
 764005,TH: The East
 764006,TH: Bangkok
-780010,TT: 10 Port of Spain
+780010,TT: Port of Spain
 780011,TT: Mayaro/Rio Claro
-780012,TT: Sangre Grande2
+780012,TT: Sangre Grande
 780013,TT: Princes Town
 780014,TT: Penal/Debe
 780015,TT: Siparia
@@ -2159,7 +2261,7 @@ Code,Region
 780070,TT: San Juan/Laventille
 780080,TT: Tunapuna/Piarco
 780090,TT: Couva/Tabaquite/Talparo
-780091,TT: TOBAGO
+780091,TT: Tobago
 788001,TN: Tunis
 788002,TN: Ben Arous
 788003,TN: Manouba
@@ -2240,9 +2342,9 @@ Code,Region
 792062,TR: Erzincan
 792063,TR: Kastamonu
 792064,TR: Malatya
-792065,TR: Kahramanmaras
+792065,TR: Kahramanmaras/Kahramanmaraş
 792066,TR: Samsun
-792067,TR: Mugla
+792067,TR: Mugla/Muğla
 800001,UG: Apac
 800002,UG: Masindi
 800003,UG: Kabarole
@@ -2390,6 +2492,57 @@ Code,Region
 840011,US: Alaska
 840012,US: Hawai
 840013,US: Pacific
+840201,US: AL Alabama
+840202,US: AR Arkansas
+840203,US: AZ Arizona
+840204,US: CA California
+840205,US: CO Colorado
+840206,US: CT Connecticut
+840207,US: DC District of Columbia
+840208,US: DE Delaware
+840209,US: FL Florida
+840210,US: GA Georgia
+840211,US: HI Hawaii
+840212,US: IA Iowa
+840213,US: ID Idaho
+840214,US: IL Illinois
+840215,US: IN Indiana
+840216,US: KS Kansas
+840217,US: KY Kentucky
+840218,US: LA Louisiana
+840219,US: MA Massachusetts
+840220,US: MD Maryland
+840221,US: ME Maine
+840222,US: MI Michigan
+840223,US: MN Minnesota
+840224,US: MO Missouri
+840225,US: MS Mississippi
+840226,US: MT Montana
+840227,US: NC North Carolina
+840228,US: ND North Dakota
+840229,US: NE Nebraska
+840230,US: NH New Hampshire
+840231,US: NJ New Jersey
+840232,US: NM New Mexico
+840233,US: NV Nevada
+840234,US: NY New York
+840235,US: OH Ohio
+840236,US: OK Oklahoma
+840237,US: OR Oregon
+840238,US: PA Pennsylvania
+840239,US: RI Rhode Island
+840240,US: SC South Carolina
+840241,US: SD South Dakota
+840242,US: TN Tennessee
+840243,US: TX Texas
+840244,US: UT Utah
+840245,US: VA Virginia
+840246,US: VT Vermont
+840247,US: WA Washington
+840248,US: WI Wisconsin
+840249,US: WV West Virginia
+840250,US: WY Wyoming
+840251,US: AK Alaska
 854001,BF: Central
 854002,BF: Cascades
 854003,BF: Boucle du Mouhoun
@@ -2573,206 +2726,3 @@ Code,Region
 7360011,SD: north darfur
 7360012,SD: west kurdufan
 7360013,SD: river nile
-32016,AR: Río Negro
-32017,AR: San Luís
-32018,AR: Misiones
-32019,AR: Entre Ríos
-156025,CN: Hua'zhong area
-156026,CN: Hua'bei area
-156027,CN: Hua'dong area
-156028,CN: Zhong'nan area
-156029,CN: Xi'bei area
-156030,CN: Xi'nan area
-218020,EC: Santa Elena
-300101,GR: Attiki (GR-I)
-300102,GR: East Macedonia/Thrace (GR-A)
-300103,GR: Central Macedonia (GR-B)
-300104,GR: West Macedonia (GR-C)
-300105,GR: Thessaly (GR-E)
-300106,GR: Epirus (GR-D)
-300107,GR: Ionian (GR-F)
-300108,GR: Western Greece (GR-G)
-300109,GR: Central Greece (GR-H)
-300110,GR: Peloponnese (GR-J)
-300111,GR: Northern Aegean (GR-K)
-300112,GR: Southern Aegean (GR-L)
-300113,GR: Crete (GR-M)
-332001,HT: Bainet
-332002,HT: Les Cayes
-332003,HT: Jean Rabel
-332004,HT: Marigot
-332005,HT: Trou du Nord
-332006,HT: Boucan Carre
-332007,HT: Carrefour
-332008,HT: Les Anglais
-332009,HT: Desdunes
-332010,HT: Pointe a Raquette
-332011,HT: Fort Liberte
-332012,HT: Pilate
-332013,HT: Belle Anse
-332014,HT: Ceca la Source
-332015,HT: Gonaives
-332016,HT: L'Azile
-332017,HT: Jacmel
-332018,HT: St. Louis du Sud
-332019,HT: Saint Louis du Nord
-332020,HT: Port-au-Prince
-332021,HT: Lascahobas
-332022,HT: Dondon
-332023,HT: Saint-Michel
-332024,HT: St. Raphael
-332025,HT: Camp Perrin
-332026,HT: Dame-Marie
-332027,HT: Gros Morne
-332028,HT: Bassin Bleu
-332029,HT: Thomonde
-332030,HT: Ferrier
-332031,HT: Anse-a-Galet
-332032,HT: Anse Rouge
-332033,HT: Moron
-332034,HT: Cavaillon
-332035,HT: Chansolme
-332036,HT: Carice
-332037,HT: Jeremie
-332038,HT: Ouanaminthe
-332039,HT: Sainte Suzane
-332040,HT: Perches
-332041,HT: Pestel
-332042,HT: Baraderes
-332043,HT: Saut-d'Eau
-332044,HT: Cote-de-Fer
-332045,HT: Saint-Marc
-332046,HT: Aquin
-332047,HT: Baie de Henne
-332048,HT: Port de Paix
-332049,HT: Terrier Rouge
-332050,HT: Grand-Goave
-332051,HT: Les Irois
-332052,HT: Port Margot
-332053,HT: Dessalines/Marchandes
-332054,HT: Cap Haitien
-348008,HU: Győr-Moson-Sopron
-368001,IQ: Baghdād
-368002,IQ: Al Başrah
-368003,IQ: Şalāḩ ad Dīn
-368004,IQ: Dhī Qār
-368005,IQ: Maysān
-368006,IQ: Bābil
-368007,IQ: An Najaf
-368008,IQ: Al Qādisīyah
-368009,IQ: Wāsiţ
-368010,IQ: Karbalā
-368011,IQ: Al Anbār
-368012,IQ: Al Muthanná
-368013,IQ: Diyālá
-368014,IQ: Nīnawá
-368015,IQ: Kirkūk
-368016,IQ: As Sulaymānīyah (Slêmanî)
-368017,IQ: Dahūk (Dihok)
-368018,IQ: Arbīl (Hewlêr)
-400011,JO: Amman
-400012,JO: Balqa
-400013,JO: Zarqa
-400014,JO: Madaba
-400021,JO: Irbid
-400022,JO: Mafraq
-400023,JO: Jerash
-400024,JO: Ajloon
-400031,JO: Karak
-400032,JO: Tafila
-400033,JO: Ma´An
-400034,JO: Aqaba
-422022,LB: El Nabatieh
-458014,MY: Wilayah Persekutuan Kuala Lumpur
-458015,MY: Wilayah Labuan
-458016,MY: Wilayah Putrajaya
-498007,MD: Kagulskij
-566072,NG: South West
-566073,NG: South East
-566074,NG: Abuja
-688000,RS: Beograd
-688001,RS: Severnobacki okrug
-688002,RS: Srednjebanatski okrug
-688003,RS: Severnobanatski okrug
-688004,RS: Južnobanatski okrug
-688005,RS: Zapadnobacki okrug
-688006,RS: Južnobacki okrug
-688007,RS: Sremski okrug
-688008,RS: Macvanski okrug
-688009,RS: Kolubarski okrug
-688010,RS: Podunavski okrug
-688011,RS: Branicevski okrug
-688012,RS: Šumadijski okrug
-688013,RS: Pomoravski okrug
-688014,RS: Borski okrug
-688015,RS: Zajecarski okrug
-688016,RS: Zlatiborski okrug
-688017,RS: Moravicki okrug
-688018,RS: Raški okrug
-688019,RS: Rasinski okrug
-688020,RS: Nišavski okrug
-688021,RS: Toplicki okrug
-688022,RS: Pirotski okrug
-688023,RS: Jablanicki okrug
-688024,RS: Pcinjski okrug
-688025,RS: Kosovski okrug
-688026,RS: Pecki okrug
-688027,RS: Prizrenski okrug
-688028,RS: Kosovsko-Mitrovacki okrug
-688029,RS: Kosovsko-Pomoravski okrug
-780010,TT: Port of Spain
-780012,TT: Sangre Grande
-780091,TT: Tobago
-792065,TR: Kahramanmaraş
-792067,TR: Muğla
-840201,US: AL Alabama
-840202,US: AR Arkansas
-840203,US: AZ Arizona
-840204,US: CA California
-840205,US: CO Colorado
-840206,US: CT Connecticut
-840207,US: DC District of Columbia
-840208,US: DE Delaware
-840209,US: FL Florida
-840210,US: GA Georgia
-840211,US: HI Hawaii
-840212,US: IA Iowa
-840213,US: ID Idaho
-840214,US: IL Illinois
-840215,US: IN Indiana
-840216,US: KS Kansas
-840217,US: KY Kentucky
-840218,US: LA Louisiana
-840219,US: MA Massachusetts
-840220,US: MD Maryland
-840221,US: ME Maine
-840222,US: MI Michigan
-840223,US: MN Minnesota
-840224,US: MO Missouri
-840225,US: MS Mississippi
-840226,US: MT Montana
-840227,US: NC North Carolina
-840228,US: ND North Dakota
-840229,US: NE Nebraska
-840230,US: NH New Hampshire
-840231,US: NJ New Jersey
-840232,US: NM New Mexico
-840233,US: NV Nevada
-840234,US: NY New York
-840235,US: OH Ohio
-840236,US: OK Oklahoma
-840237,US: OR Oregon
-840238,US: PA Pennsylvania
-840239,US: RI Rhode Island
-840240,US: SC South Carolina
-840241,US: SD South Dakota
-840242,US: TN Tennessee
-840243,US: TX Texas
-840244,US: UT Utah
-840245,US: VA Virginia
-840246,US: VT Vermont
-840247,US: WA Washington
-840248,US: WI Wisconsin
-840249,US: WV West Virginia
-840250,US: WY Wyoming
-840251,US: AK Alaska
