@@ -1,0 +1,1321 @@
+Country Name,Country Code,Indicator Name,Indicator Code,Most Recent Value,Year
+Arab World,ARB,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,73.4933662533549,2017.0
+Arab World,ARB,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,69.9212501154086,2017.0
+Arab World,ARB,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.521696309015244,2017.0
+Arab World,ARB,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,67.22896999999999,2018.0
+Arab World,ARB,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,81.35474,2018.0
+Caribbean small states,CSS,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,75.7746745302104,2017.0
+Caribbean small states,CSS,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,71.33998156192821,2017.0
+Caribbean small states,CSS,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.18157811994823803,2017.0
+Caribbean small states,CSS,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,92.72926,2015.0
+Caribbean small states,CSS,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,89.5109,2015.0
+Central Europe and the Baltics,CEB,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,80.8829291478305,2017.0
+Central Europe and the Baltics,CEB,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,73.3777083800028,2017.0
+Central Europe and the Baltics,CEB,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.0117336617743633,2017.0
+Central Europe and the Baltics,CEB,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,98.70102,2016.0
+Central Europe and the Baltics,CEB,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,99.30689,2016.0
+Early-demographic dividend,EAR,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,72.15992720011741,2017.0
+Early-demographic dividend,EAR,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,68.4780791156251,2017.0
+Early-demographic dividend,EAR,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.393386980356424,2017.0
+Early-demographic dividend,EAR,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,73.60423,2018.0
+Early-demographic dividend,EAR,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,84.9596,2018.0
+East Asia & Pacific,EAS,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,78.50713348336929,2017.0
+East Asia & Pacific,EAS,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,73.404356632599,2017.0
+East Asia & Pacific,EAS,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.12466800926661,2017.0
+East Asia & Pacific,EAS,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,93.93963000000001,2018.0
+East Asia & Pacific,EAS,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,97.25485,2018.0
+East Asia & Pacific (excluding high income),EAP,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,77.5631021007142,2017.0
+East Asia & Pacific (excluding high income),EAP,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,72.60702519018879,2017.0
+East Asia & Pacific (excluding high income),EAP,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.136513630931066,2017.0
+East Asia & Pacific (excluding high income),EAP,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,94.19083,2018.0
+East Asia & Pacific (excluding high income),EAP,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,97.51446999999999,2018.0
+East Asia & Pacific (IDA & IBRD countries),TEA,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,77.5918593474197,2017.0
+East Asia & Pacific (IDA & IBRD countries),TEA,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,72.6591178046408,2017.0
+East Asia & Pacific (IDA & IBRD countries),TEA,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.136192041225878,2017.0
+East Asia & Pacific (IDA & IBRD countries),TEA,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,94.11664,2018.0
+East Asia & Pacific (IDA & IBRD countries),TEA,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,97.48526,2018.0
+Euro area,EMU,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,84.67079413599191,2017.0
+Euro area,EMU,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,79.3690200436887,2017.0
+Euro area,EMU,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.00833802309075357,2017.0
+Euro area,EMU,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,NaN,1960.0
+Euro area,EMU,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,NaN,1960.0
+Europe & Central Asia,ECS,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,81.0382247767992,2017.0
+Europe & Central Asia,ECS,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,74.64853796088329,2017.0
+Europe & Central Asia,ECS,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.0232939357948589,2017.0
+Europe & Central Asia,ECS,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,97.88237,2018.0
+Europe & Central Asia,ECS,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,98.83254000000001,2018.0
+Europe & Central Asia (excluding high income),ECA,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,77.4806481795123,2017.0
+Europe & Central Asia (excluding high income),ECA,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,69.5077302487799,2017.0
+Europe & Central Asia (excluding high income),ECA,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.0389737228273765,2017.0
+Europe & Central Asia (excluding high income),ECA,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,98.51828,2018.0
+Europe & Central Asia (excluding high income),ECA,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,99.54427,2018.0
+Europe & Central Asia (IDA & IBRD countries),TEC,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,77.8836544586063,2017.0
+Europe & Central Asia (IDA & IBRD countries),TEC,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,69.9269363506798,2017.0
+Europe & Central Asia (IDA & IBRD countries),TEC,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.0359595588980577,2017.0
+Europe & Central Asia (IDA & IBRD countries),TEC,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,98.50061,2018.0
+Europe & Central Asia (IDA & IBRD countries),TEC,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,99.52141,2018.0
+European Union,EUU,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,83.7651168780458,2018.0
+European Union,EUU,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,78.3209341328802,2018.0
+European Union,EUU,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.00896525339185145,2017.0
+European Union,EUU,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,NaN,1960.0
+European Union,EUU,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,NaN,1960.0
+Fragile and conflict affected situations,FCS,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,63.1994767906155,2018.0
+Fragile and conflict affected situations,FCS,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,59.7909251110466,2018.0
+Fragile and conflict affected situations,FCS,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,2.7347355861862797,2017.0
+Fragile and conflict affected situations,FCS,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,56.208909999999996,2018.0
+Fragile and conflict affected situations,FCS,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,71.53458,2018.0
+Heavily indebted poor countries (HIPC),HPC,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,64.4857339646215,2017.0
+Heavily indebted poor countries (HIPC),HPC,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,61.0100777296068,2017.0
+Heavily indebted poor countries (HIPC),HPC,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,2.3054520907458502,2017.0
+Heavily indebted poor countries (HIPC),HPC,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,55.48133000000001,2018.0
+Heavily indebted poor countries (HIPC),HPC,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,69.98758000000001,2018.0
+High income,HIC,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,83.4028360691814,2017.0
+High income,HIC,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,78.1579474921533,2017.0
+High income,HIC,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.0178401984874483,2017.0
+High income,HIC,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,NaN,1960.0
+High income,HIC,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,NaN,1960.0
+IBRD only,IBD,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,75.63659580281241,2017.0
+IBRD only,IBD,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,70.9307145965298,2017.0
+IBRD only,IBD,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.19219015989939897,2017.0
+IBRD only,IBD,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,85.79008,2018.0
+IBRD only,IBD,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,92.28275,2018.0
+IDA & IBRD total,IBT,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,73.088611694327,2017.0
+IDA & IBRD total,IBT,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,68.7700021887115,2017.0
+IDA & IBRD total,IBT,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.6159109497773101,2017.0
+IDA & IBRD total,IBT,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,80.05060999999999,2018.0
+IDA & IBRD total,IBT,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,88.32628000000001,2018.0
+IDA blend,IDB,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,63.2132995966613,2017.0
+IDA blend,IDB,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,60.8233048585344,2017.0
+IDA blend,IDB,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,2.20757387882499,2017.0
+IDA blend,IDB,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,58.285959999999996,2018.0
+IDA blend,IDB,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,75.69121,2018.0
+IDA only,IDX,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,66.880136921282,2017.0
+IDA only,IDX,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,63.094672024744206,2017.0
+IDA only,IDX,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,1.7224551282240501,2017.0
+IDA only,IDX,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,59.68649,2018.0
+IDA only,IDX,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,72.53029000000001,2018.0
+IDA total,IDA,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,65.65096772332211,2017.0
+IDA total,IDA,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,62.3149926503673,2017.0
+IDA total,IDA,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,1.88604613209331,2017.0
+IDA total,IDA,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,59.21781,2018.0
+IDA total,IDA,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,73.61888,2018.0
+Late-demographic dividend,LTE,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,78.8549803869206,2017.0
+Late-demographic dividend,LTE,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,73.348511356478,2017.0
+Late-demographic dividend,LTE,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.060237035473369005,2017.0
+Late-demographic dividend,LTE,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,94.84279000000001,2018.0
+Late-demographic dividend,LTE,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,97.45938000000001,2018.0
+Latin America & Caribbean,LCN,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,78.47287437185591,2017.0
+Latin America & Caribbean,LCN,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,72.1109871470465,2017.0
+Latin America & Caribbean,LCN,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.15838234023366402,2017.0
+Latin America & Caribbean,LCN,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,93.44784,2018.0
+Latin America & Caribbean,LCN,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,94.30852,2018.0
+Latin America & Caribbean (excluding high income),LAC,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,78.29690982795991,2017.0
+Latin America & Caribbean (excluding high income),LAC,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,71.89866012071009,2017.0
+Latin America & Caribbean (excluding high income),LAC,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.16406687626284,2017.0
+Latin America & Caribbean (excluding high income),LAC,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,92.8302,2018.0
+Latin America & Caribbean (excluding high income),LAC,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,93.81777,2018.0
+Latin America & the Caribbean (IDA & IBRD countries),TLA,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,78.4062532071662,2017.0
+Latin America & the Caribbean (IDA & IBRD countries),TLA,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,72.00154344247599,2017.0
+Latin America & the Caribbean (IDA & IBRD countries),TLA,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.160814999047211,2017.0
+Latin America & the Caribbean (IDA & IBRD countries),TLA,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,93.32517,2018.0
+Latin America & the Caribbean (IDA & IBRD countries),TLA,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,94.20759,2018.0
+Least developed countries: UN classification,LDC,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,66.5845354613761,2017.0
+Least developed countries: UN classification,LDC,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,62.870309038449705,2017.0
+Least developed countries: UN classification,LDC,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,1.7815010321711902,2017.0
+Least developed countries: UN classification,LDC,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,58.09786999999999,2018.0
+Least developed countries: UN classification,LDC,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,71.79852,2018.0
+Low & middle income,LMY,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,73.0135095932639,2017.0
+Low & middle income,LMY,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,68.71926037079001,2017.0
+Low & middle income,LMY,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.618852405372791,2017.0
+Low & middle income,LMY,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,79.81951,2018.0
+Low & middle income,LMY,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,88.21015,2018.0
+Low income,LIC,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,65.3007937791827,2017.0
+Low income,LIC,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,61.4891894173017,2017.0
+Low income,LIC,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,2.22874916056941,2017.0
+Low income,LIC,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,55.61861,2018.0
+Low income,LIC,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,71.1114,2018.0
+Lower middle income,LMC,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,70.10685204033591,2017.0
+Lower middle income,LMC,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,66.6628775648559,2017.0
+Lower middle income,LMC,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.7363854382432691,2017.0
+Lower middle income,LMC,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,70.9349,2018.0
+Lower middle income,LMC,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,83.38948,2018.0
+Middle East & North Africa,MEA,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,75.731778615608,2017.0
+Middle East & North Africa,MEA,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,72.2456917208583,2017.0
+Middle East & North Africa,MEA,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.175814973613656,2017.0
+Middle East & North Africa,MEA,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,72.33609,2018.0
+Middle East & North Africa,MEA,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,85.0673,2018.0
+Middle East & North Africa (excluding high income),MNA,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,75.3351521364804,2017.0
+Middle East & North Africa (excluding high income),MNA,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,71.56018150226599,2017.0
+Middle East & North Africa (excluding high income),MNA,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.197291968537643,2017.0
+Middle East & North Africa (excluding high income),MNA,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,69.41150999999999,2018.0
+Middle East & North Africa (excluding high income),MNA,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,82.49586,2018.0
+Middle East & North Africa (IDA & IBRD countries),TMN,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,75.3338336382715,2017.0
+Middle East & North Africa (IDA & IBRD countries),TMN,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,71.55360508731259,2017.0
+Middle East & North Africa (IDA & IBRD countries),TMN,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.19830565922406,2017.0
+Middle East & North Africa (IDA & IBRD countries),TMN,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,69.12165999999999,2018.0
+Middle East & North Africa (IDA & IBRD countries),TMN,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,82.31166999999999,2018.0
+Middle income,MIC,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,73.9765718678173,2017.0
+Middle income,MIC,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,69.5866391985503,2017.0
+Middle income,MIC,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.430251986956478,2017.0
+Middle income,MIC,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,82.35504,2018.0
+Middle income,MIC,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,89.90774,2018.0
+North America,NAC,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,81.4233983857273,2017.0
+North America,NAC,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,76.524030553485,2017.0
+North America,NAC,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.031822107987856,2017.0
+North America,NAC,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,NaN,1960.0
+North America,NAC,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,NaN,1960.0
+Not classified,INX,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,NaN,1960.0
+Not classified,INX,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,NaN,1960.0
+Not classified,INX,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,NaN,1960.0
+Not classified,INX,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,NaN,1960.0
+Not classified,INX,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,NaN,1960.0
+OECD members,OED,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,82.8527805808872,2017.0
+OECD members,OED,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,77.52643446577159,2017.0
+OECD members,OED,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.0248915035241562,2017.0
+OECD members,OED,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,NaN,1960.0
+OECD members,OED,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,NaN,1960.0
+Other small states,OSS,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,69.8572023755639,2017.0
+Other small states,OSS,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,66.7300746060308,2017.0
+Other small states,OSS,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.9891190563736841,2017.0
+Other small states,OSS,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,81.74337,2018.0
+Other small states,OSS,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,86.92557,2018.0
+Pacific island small states,PSS,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,71.70295538184871,2017.0
+Pacific island small states,PSS,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,67.9923742582695,2017.0
+Pacific island small states,PSS,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.24930719108066898,2017.0
+Pacific island small states,PSS,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,88.81985999999999,2017.0
+Pacific island small states,PSS,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,93.07323000000001,2017.0
+Post-demographic dividend,PST,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,83.3473634671467,2017.0
+Post-demographic dividend,PST,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,78.0276385966983,2017.0
+Post-demographic dividend,PST,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.0177985598431908,2017.0
+Post-demographic dividend,PST,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,NaN,1960.0
+Post-demographic dividend,PST,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,NaN,1960.0
+Pre-demographic dividend,PRE,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,62.044376500052394,2017.0
+Pre-demographic dividend,PRE,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,58.8197065298203,2017.0
+Pre-demographic dividend,PRE,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,2.91325990925756,2017.0
+Pre-demographic dividend,PRE,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,54.835519999999995,2018.0
+Pre-demographic dividend,PRE,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,70.6175,2018.0
+Small states,SST,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,71.10302360059781,2017.0
+Small states,SST,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,67.59556416495,2017.0
+Small states,SST,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.788632159428257,2017.0
+Small states,SST,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,84.50717,2018.0
+Small states,SST,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,87.73817,2018.0
+South Asia,SAS,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,70.50572323804221,2017.0
+South Asia,SAS,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,67.94938972497461,2017.0
+South Asia,SAS,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.42177184309030397,2017.0
+South Asia,SAS,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,63.72935,2018.0
+South Asia,SAS,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,80.31286,2018.0
+South Asia (IDA & IBRD),TSA,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,70.50572323804221,2017.0
+South Asia (IDA & IBRD),TSA,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,67.94938972497461,2017.0
+South Asia (IDA & IBRD),TSA,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.42177184309030397,2017.0
+South Asia (IDA & IBRD),TSA,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,63.72935,2018.0
+South Asia (IDA & IBRD),TSA,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,80.31286,2018.0
+Sub-Saharan Africa,SSF,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,62.6316908721786,2017.0
+Sub-Saharan Africa,SSF,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,59.1427144394588,2017.0
+Sub-Saharan Africa,SSF,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,2.6215837782516096,2017.0
+Sub-Saharan Africa,SSF,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,58.80101,2018.0
+Sub-Saharan Africa,SSF,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,72.54938,2018.0
+Sub-Saharan Africa (excluding high income),SSA,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,62.6302858663227,2017.0
+Sub-Saharan Africa (excluding high income),SSA,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,59.141665430371106,2017.0
+Sub-Saharan Africa (excluding high income),SSA,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,2.62180586184226,2017.0
+Sub-Saharan Africa (excluding high income),SSA,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,58.7967,2018.0
+Sub-Saharan Africa (excluding high income),SSA,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,72.54654000000001,2018.0
+Sub-Saharan Africa (IDA & IBRD countries),TSS,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,62.6316908721786,2017.0
+Sub-Saharan Africa (IDA & IBRD countries),TSS,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,59.1427144394588,2017.0
+Sub-Saharan Africa (IDA & IBRD countries),TSS,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,2.6215837782516096,2017.0
+Sub-Saharan Africa (IDA & IBRD countries),TSS,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,58.80101,2018.0
+Sub-Saharan Africa (IDA & IBRD countries),TSS,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,72.54938,2018.0
+Upper middle income,UMC,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,78.2892735456006,2017.0
+Upper middle income,UMC,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,72.94233819471809,2017.0
+Upper middle income,UMC,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.0820523811649612,2017.0
+Upper middle income,UMC,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,93.74047,2018.0
+Upper middle income,UMC,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,96.63746,2018.0
+World,WLD,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,74.7009571789143,2017.0
+World,WLD,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,70.2127584963075,2017.0
+World,WLD,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.534038251670658,2017.0
+World,WLD,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,82.76805,2018.0
+World,WLD,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,89.83819,2018.0
+Afghanistan,AFG,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,66.02600000000001,2018.0
+Afghanistan,AFG,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,63.047,2018.0
+Afghanistan,AFG,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,3.0635932519353597,2017.0
+Afghanistan,AFG,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,29.80521,2018.0
+Afghanistan,AFG,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,55.47545,2018.0
+Albania,ALB,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,80.167,2018.0
+Albania,ALB,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,76.816,2018.0
+Albania,ALB,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.0262856705527916,2017.0
+Albania,ALB,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,97.76111999999999,2018.0
+Albania,ALB,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,98.51361999999999,2018.0
+Algeria,DZA,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,77.938,2018.0
+Algeria,DZA,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,75.494,2018.0
+Algeria,DZA,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.3687163987868421,2017.0
+Algeria,DZA,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,75.32297,2018.0
+Algeria,DZA,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,87.42296,2018.0
+American Samoa,ASM,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,NaN,1960.0
+American Samoa,ASM,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,NaN,1960.0
+American Samoa,ASM,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,NaN,1960.0
+American Samoa,ASM,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,97.21991,1980.0
+American Samoa,ASM,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,97.46996,1980.0
+Andorra,AND,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,NaN,1960.0
+Andorra,AND,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,NaN,1960.0
+Andorra,AND,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,NaN,1960.0
+Andorra,AND,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,NaN,1960.0
+Andorra,AND,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,NaN,1960.0
+Angola,AGO,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,63.666000000000004,2018.0
+Angola,AGO,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,58.06399999999999,2018.0
+Angola,AGO,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,1.45125099871175,2017.0
+Angola,AGO,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,53.40721,2014.0
+Angola,AGO,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,79.97415,2014.0
+Antigua and Barbuda,ATG,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,77.983,2018.0
+Antigua and Barbuda,ATG,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,75.721,2018.0
+Antigua and Barbuda,ATG,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.0827386431396182,2017.0
+Antigua and Barbuda,ATG,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,99.42,2015.0
+Antigua and Barbuda,ATG,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,98.4,2015.0
+Argentina,ARG,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,79.863,2018.0
+Argentina,ARG,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,73.082,2018.0
+Argentina,ARG,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.0919574330196077,2017.0
+Argentina,ARG,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,99.06204,2018.0
+Argentina,ARG,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,98.93774,2018.0
+Armenia,ARM,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,78.354,2018.0
+Armenia,ARM,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,71.215,2018.0
+Armenia,ARM,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.0492176762911756,2017.0
+Armenia,ARM,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,99.67716,2017.0
+Armenia,ARM,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,99.8055,2017.0
+Aruba,ABW,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,78.507,2018.0
+Aruba,ABW,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,73.628,2018.0
+Aruba,ABW,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,NaN,1960.0
+Aruba,ABW,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,97.81268,2018.0
+Aruba,ABW,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,97.80013000000001,2018.0
+Australia,AUS,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,84.9,2018.0
+Australia,AUS,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,80.7,2018.0
+Australia,AUS,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.0122133845321732,2017.0
+Australia,AUS,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,NaN,1960.0
+Australia,AUS,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,NaN,1960.0
+Austria,AUT,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,84.0,2018.0
+Austria,AUT,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,79.4,2018.0
+Austria,AUT,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.007433950114394759,2017.0
+Austria,AUT,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,NaN,1960.0
+Austria,AUT,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,NaN,1960.0
+Azerbaijan,AZE,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,75.336,2018.0
+Azerbaijan,AZE,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,70.345,2018.0
+Azerbaijan,AZE,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.0576744057446423,2017.0
+Azerbaijan,AZE,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,99.72199,2017.0
+Azerbaijan,AZE,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,99.86375,2017.0
+"Bahamas, The",BHS,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,75.911,2018.0
+"Bahamas, The",BHS,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,71.499,2018.0
+"Bahamas, The",BHS,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.122026637707709,2017.0
+"Bahamas, The",BHS,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,NaN,1960.0
+"Bahamas, The",BHS,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,NaN,1960.0
+Bahrain,BHR,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,78.285,2018.0
+Bahrain,BHR,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,76.312,2018.0
+Bahrain,BHR,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.0328247814969013,2017.0
+Bahrain,BHR,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,94.94888,2018.0
+Bahrain,BHR,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,98.76317,2018.0
+Bangladesh,BGD,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,74.291,2018.0
+Bangladesh,BGD,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,70.637,2018.0
+Bangladesh,BGD,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.393068843199167,2017.0
+Bangladesh,BGD,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,71.18194,2018.0
+Bangladesh,BGD,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,76.66926,2018.0
+Barbados,BRB,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,80.392,2018.0
+Barbados,BRB,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,77.682,2018.0
+Barbados,BRB,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.0420767453874312,2017.0
+Barbados,BRB,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,99.6,2014.0
+Barbados,BRB,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,99.6,2014.0
+Belarus,BLR,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,79.4,2018.0
+Belarus,BLR,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,69.2,2018.0
+Belarus,BLR,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.00420933389380388,2017.0
+Belarus,BLR,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,99.72518000000001,2018.0
+Belarus,BLR,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,99.79398,2018.0
+Belgium,BEL,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,83.9,2018.0
+Belgium,BEL,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,79.4,2018.0
+Belgium,BEL,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.008901688097120991,2017.0
+Belgium,BEL,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,NaN,1960.0
+Belgium,BEL,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,NaN,1960.0
+Belize,BLZ,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,77.666,2018.0
+Belize,BLZ,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,71.579,2018.0
+Belize,BLZ,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.0941234508688614,2017.0
+Belize,BLZ,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,70.32839,1991.0
+Belize,BLZ,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,70.26876999999999,1991.0
+Benin,BEN,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,63.003,2018.0
+Benin,BEN,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,59.913999999999994,2018.0
+Benin,BEN,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,2.04212695615364,2017.0
+Benin,BEN,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,31.07165,2018.0
+Benin,BEN,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,53.977030000000006,2018.0
+Bermuda,BMU,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,85.57,2018.0
+Bermuda,BMU,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,77.92,2018.0
+Bermuda,BMU,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,NaN,1960.0
+Bermuda,BMU,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,NaN,1960.0
+Bermuda,BMU,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,NaN,1960.0
+Bhutan,BTN,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,71.816,2018.0
+Bhutan,BTN,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,71.123,2018.0
+Bhutan,BTN,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.39984025581156396,2017.0
+Bhutan,BTN,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,57.083619999999996,2017.0
+Bhutan,BTN,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,75.01985,2017.0
+Bolivia,BOL,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,74.209,2018.0
+Bolivia,BOL,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,68.434,2018.0
+Bolivia,BOL,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.457526807665787,2017.0
+Bolivia,BOL,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,88.58286,2015.0
+Bolivia,BOL,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,96.52275,2015.0
+Bosnia and Herzegovina,BIH,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,79.72,2018.0
+Bosnia and Herzegovina,BIH,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,74.752,2018.0
+Bosnia and Herzegovina,BIH,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.0122550729458053,2017.0
+Bosnia and Herzegovina,BIH,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,94.91049,2013.0
+Bosnia and Herzegovina,BIH,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,99.17628,2013.0
+Botswana,BWA,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,72.04899999999999,2018.0
+Botswana,BWA,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,66.204,2018.0
+Botswana,BWA,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.449505199158556,2017.0
+Botswana,BWA,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,87.45121,2013.0
+Botswana,BWA,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,86.12214,2013.0
+Brazil,BRA,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,79.362,2018.0
+Brazil,BRA,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,72.024,2018.0
+Brazil,BRA,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.10625155100038801,2017.0
+Brazil,BRA,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,93.42506999999999,2018.0
+Brazil,BRA,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,93.00904,2018.0
+British Virgin Islands,VGB,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,NaN,1960.0
+British Virgin Islands,VGB,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,NaN,1960.0
+British Virgin Islands,VGB,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,NaN,1960.0
+British Virgin Islands,VGB,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,NaN,1960.0
+British Virgin Islands,VGB,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,NaN,1960.0
+Brunei Darussalam,BRN,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,76.96,2018.0
+Brunei Darussalam,BRN,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,74.593,2018.0
+Brunei Darussalam,BRN,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.0599353282726233,2017.0
+Brunei Darussalam,BRN,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,96.30126,2018.0
+Brunei Darussalam,BRN,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,98.05362,2018.0
+Bulgaria,BGR,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,78.4,2018.0
+Bulgaria,BGR,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,71.5,2018.0
+Bulgaria,BGR,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.014188997025406998,2017.0
+Bulgaria,BGR,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,97.9839,2011.0
+Bulgaria,BGR,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,98.74723,2011.0
+Burkina Faso,BFA,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,61.863,2018.0
+Burkina Faso,BFA,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,60.361000000000004,2018.0
+Burkina Faso,BFA,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,1.7454772063,2017.0
+Burkina Faso,BFA,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,32.68762,2018.0
+Burkina Faso,BFA,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,50.07459,2018.0
+Burundi,BDI,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,63.031000000000006,2018.0
+Burundi,BDI,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,59.435,2018.0
+Burundi,BDI,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,3.0348012093317505,2017.0
+Burundi,BDI,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,61.223690000000005,2017.0
+Burundi,BDI,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,76.29605,2017.0
+Cabo Verde,CPV,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,76.007,2018.0
+Cabo Verde,CPV,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,69.316,2018.0
+Cabo Verde,CPV,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.14940242123625103,2017.0
+Cabo Verde,CPV,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,82.04222,2015.0
+Cabo Verde,CPV,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,91.69144,2015.0
+Cambodia,KHM,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,71.62899999999999,2018.0
+Cambodia,KHM,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,67.312,2018.0
+Cambodia,KHM,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.45844352881744,2017.0
+Cambodia,KHM,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,75.03387,2015.0
+Cambodia,KHM,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,86.53244000000001,2015.0
+Cameroon,CMR,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,60.192,2018.0
+Cameroon,CMR,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,57.656000000000006,2018.0
+Cameroon,CMR,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,2.53131026574302,2017.0
+Cameroon,CMR,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,71.58627,2018.0
+Cameroon,CMR,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,82.62804,2018.0
+Canada,CAN,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,84.1,2018.0
+Canada,CAN,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,79.9,2018.0
+Canada,CAN,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.0164384935459747,2017.0
+Canada,CAN,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,NaN,1960.0
+Canada,CAN,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,NaN,1960.0
+Cayman Islands,CYM,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,84.7,2010.0
+Cayman Islands,CYM,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,79.8,2010.0
+Cayman Islands,CYM,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,NaN,1960.0
+Cayman Islands,CYM,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,99.02148000000001,2007.0
+Cayman Islands,CYM,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,98.72239,2007.0
+Central African Republic,CAF,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,54.99100000000001,2018.0
+Central African Republic,CAF,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,50.648999999999994,2018.0
+Central African Republic,CAF,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,4.0676819793171,2017.0
+Central African Republic,CAF,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,25.75638,2018.0
+Central African Republic,CAF,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,49.514590000000005,2018.0
+Chad,TCD,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,55.4,2018.0
+Chad,TCD,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,52.577,2018.0
+Chad,TCD,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,6.8738585102896295,2017.0
+Chad,TCD,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,13.955229999999998,2016.0
+Chad,TCD,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,31.32879,2016.0
+Channel Islands,CHI,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,84.79799999999999,2018.0
+Channel Islands,CHI,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,80.97399999999999,2018.0
+Channel Islands,CHI,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,NaN,1960.0
+Channel Islands,CHI,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,NaN,1960.0
+Channel Islands,CHI,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,NaN,1960.0
+Chile,CHL,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,82.381,2018.0
+Chile,CHL,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,77.55199999999999,2018.0
+Chile,CHL,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.0215081402431366,2017.0
+Chile,CHL,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,96.33402,2017.0
+Chile,CHL,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,96.48063,2017.0
+China,CHN,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,79.051,2018.0
+China,CHN,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,74.54899999999999,2018.0
+China,CHN,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.0472011591299657,2017.0
+China,CHN,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,95.15933000000001,2018.0
+China,CHN,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,98.46654000000001,2018.0
+Colombia,COL,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,79.859,2018.0
+Colombia,COL,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,74.33,2018.0
+Colombia,COL,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.158012365712396,2017.0
+Colombia,COL,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,95.31891999999999,2018.0
+Colombia,COL,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,94.85183,2018.0
+Comoros,COM,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,65.9,2018.0
+Comoros,COM,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,62.398999999999994,2018.0
+Comoros,COM,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,1.2063862035931299,2017.0
+Comoros,COM,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,52.95639,2018.0
+Comoros,COM,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,64.6442,2018.0
+"Congo, Dem. Rep.",COD,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,61.901,2018.0
+"Congo, Dem. Rep.",COD,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,58.852,2018.0
+"Congo, Dem. Rep.",COD,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,2.93911777824152,2017.0
+"Congo, Dem. Rep.",COD,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,66.49998000000001,2016.0
+"Congo, Dem. Rep.",COD,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,88.52469,2016.0
+"Congo, Rep.",COG,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,65.703,2018.0
+"Congo, Rep.",COG,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,62.836999999999996,2018.0
+"Congo, Rep.",COG,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,1.73451408809353,2017.0
+"Congo, Rep.",COG,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,74.61876,2018.0
+"Congo, Rep.",COG,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,86.07651,2018.0
+Costa Rica,CRI,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,82.73,2018.0
+Costa Rica,CRI,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,77.539,2018.0
+Costa Rica,CRI,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.0513137400656083,2017.0
+Costa Rica,CRI,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,97.92443,2018.0
+Costa Rica,CRI,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,97.80235,2018.0
+Cote d'Ivoire,CIV,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,58.74100000000001,2018.0
+Cote d'Ivoire,CIV,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,56.251000000000005,2018.0
+Cote d'Ivoire,CIV,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,2.91331610811081,2017.0
+Cote d'Ivoire,CIV,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,40.49937,2018.0
+Cote d'Ivoire,CIV,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,53.656940000000006,2018.0
+Croatia,HRV,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,81.4,2018.0
+Croatia,HRV,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,74.9,2018.0
+Croatia,HRV,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.01100773108763,2017.0
+Croatia,HRV,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,98.66591,2011.0
+Croatia,HRV,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,99.62971,2011.0
+Cuba,CUB,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,80.706,2018.0
+Cuba,CUB,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,76.763,2018.0
+Cuba,CUB,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.0550676619572593,2017.0
+Cuba,CUB,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,99.79988,2012.0
+Cuba,CUB,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,99.70606,2012.0
+Curacao,CUW,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,81.5,2017.0
+Curacao,CUW,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,74.7,2017.0
+Curacao,CUW,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,NaN,1960.0
+Curacao,CUW,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,NaN,1960.0
+Curacao,CUW,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,NaN,1960.0
+Cyprus,CYP,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,82.913,2018.0
+Cyprus,CYP,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,78.735,2018.0
+Cyprus,CYP,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.00905290984949018,2017.0
+Cyprus,CYP,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,98.11623,2011.0
+Cyprus,CYP,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,99.28615,2011.0
+Czech Republic,CZE,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,82.0,2018.0
+Czech Republic,CZE,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,76.1,2018.0
+Czech Republic,CZE,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.00557933123674574,2017.0
+Czech Republic,CZE,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,NaN,1960.0
+Czech Republic,CZE,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,NaN,1960.0
+Denmark,DNK,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,83.4,2018.0
+Denmark,DNK,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,79.4,2018.0
+Denmark,DNK,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.0061790199224007894,2017.0
+Denmark,DNK,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,NaN,1960.0
+Denmark,DNK,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,NaN,1960.0
+Djibouti,DJI,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,68.778,2018.0
+Djibouti,DJI,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,64.62899999999999,2018.0
+Djibouti,DJI,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.69122492581714,2017.0
+Djibouti,DJI,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,NaN,1960.0
+Djibouti,DJI,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,NaN,1960.0
+Dominica,DMA,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,78.8,2002.0
+Dominica,DMA,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,74.5,2002.0
+Dominica,DMA,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,NaN,1960.0
+Dominica,DMA,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,NaN,1960.0
+Dominica,DMA,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,NaN,1960.0
+Dominican Republic,DOM,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,77.196,2018.0
+Dominican Republic,DOM,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,70.805,2018.0
+Dominican Republic,DOM,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.24660360055981603,2017.0
+Dominican Republic,DOM,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,93.76413000000001,2016.0
+Dominican Republic,DOM,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,93.7936,2016.0
+Ecuador,ECU,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,79.645,2018.0
+Ecuador,ECU,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,74.058,2018.0
+Ecuador,ECU,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.155141170704865,2017.0
+Ecuador,ECU,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,92.08669,2017.0
+Ecuador,ECU,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,93.77906,2017.0
+"Egypt, Arab Rep.",EGY,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,74.16199999999999,2018.0
+"Egypt, Arab Rep.",EGY,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,69.59899999999999,2018.0
+"Egypt, Arab Rep.",EGY,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.137219817313761,2017.0
+"Egypt, Arab Rep.",EGY,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,65.50569,2017.0
+"Egypt, Arab Rep.",EGY,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,76.49521999999999,2017.0
+El Salvador,SLV,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,77.635,2018.0
+El Salvador,SLV,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,68.229,2018.0
+El Salvador,SLV,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.10371209218874902,2017.0
+El Salvador,SLV,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,87.23414,2018.0
+El Salvador,SLV,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,91.10234,2018.0
+Equatorial Guinea,GNQ,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,59.586999999999996,2018.0
+Equatorial Guinea,GNQ,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,57.41,2018.0
+Equatorial Guinea,GNQ,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,1.50331932572322,2017.0
+Equatorial Guinea,GNQ,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,90.67608,2010.0
+Equatorial Guinea,GNQ,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,97.184,2010.0
+Eritrea,ERI,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,68.16199999999999,2018.0
+Eritrea,ERI,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,63.79,2018.0
+Eritrea,ERI,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,2.15629001650489,2017.0
+Eritrea,ERI,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,68.94619,2018.0
+Eritrea,ERI,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,84.37324,2018.0
+Estonia,EST,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,83.0,2018.0
+Estonia,EST,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,74.3,2018.0
+Estonia,EST,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.0145549661895098,2017.0
+Estonia,EST,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,99.90948,2011.0
+Estonia,EST,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,99.85898,2011.0
+Eswatini,SWZ,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,63.968,2018.0
+Eswatini,SWZ,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,55.284,2018.0
+Eswatini,SWZ,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,1.39128869307163,2017.0
+Eswatini,SWZ,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,88.54269000000001,2018.0
+Eswatini,SWZ,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,88.28758,2018.0
+Ethiopia,ETH,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,68.165,2018.0
+Ethiopia,ETH,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,64.35,2018.0
+Ethiopia,ETH,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,1.81417454971661,2017.0
+Ethiopia,ETH,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,44.42338,2017.0
+Ethiopia,ETH,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,59.24146,2017.0
+Faroe Islands,FRO,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,84.7,2018.0
+Faroe Islands,FRO,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,80.5,2018.0
+Faroe Islands,FRO,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,NaN,1960.0
+Faroe Islands,FRO,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,NaN,1960.0
+Faroe Islands,FRO,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,NaN,1960.0
+Fiji,FJI,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,69.178,2018.0
+Fiji,FJI,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,65.641,2018.0
+Fiji,FJI,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.10022662711441001,2017.0
+Fiji,FJI,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,99.08583,2017.0
+Fiji,FJI,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,99.07844,2017.0
+Finland,FIN,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,84.6,2018.0
+Finland,FIN,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,79.2,2018.0
+Finland,FIN,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.00478019330187884,2017.0
+Finland,FIN,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,NaN,1960.0
+Finland,FIN,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,NaN,1960.0
+France,FRA,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,85.6,2018.0
+France,FRA,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,79.6,2018.0
+France,FRA,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.013871875609507,2017.0
+France,FRA,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,NaN,1960.0
+France,FRA,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,NaN,1960.0
+French Polynesia,PYF,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,79.725,2018.0
+French Polynesia,PYF,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,75.40100000000001,2018.0
+French Polynesia,PYF,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,NaN,1960.0
+French Polynesia,PYF,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,NaN,1960.0
+French Polynesia,PYF,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,NaN,1960.0
+Gabon,GAB,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,68.32300000000001,2018.0
+Gabon,GAB,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,64.152,2018.0
+Gabon,GAB,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,1.07269913440777,2017.0
+Gabon,GAB,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,83.42397,2018.0
+Gabon,GAB,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,85.85235,2018.0
+"Gambia, The",GMB,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,63.151,2018.0
+"Gambia, The",GMB,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,60.361999999999995,2018.0
+"Gambia, The",GMB,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,3.18443281776142,2017.0
+"Gambia, The",GMB,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,41.577020000000005,2015.0
+"Gambia, The",GMB,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,61.76725,2015.0
+Georgia,GEO,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,77.98899999999999,2018.0
+Georgia,GEO,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,69.17399999999999,2018.0
+Georgia,GEO,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.0516257471188404,2017.0
+Georgia,GEO,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,99.29475,2017.0
+Georgia,GEO,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,99.43751999999999,2017.0
+Germany,DEU,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,83.4,2018.0
+Germany,DEU,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,78.7,2018.0
+Germany,DEU,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.0106523221478083,2017.0
+Germany,DEU,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,NaN,1960.0
+Germany,DEU,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,NaN,1960.0
+Ghana,GHA,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,64.852,2018.0
+Ghana,GHA,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,62.724,2018.0
+Ghana,GHA,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,1.22065770920856,2017.0
+Ghana,GHA,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,74.47439,2018.0
+Ghana,GHA,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,83.52458,2018.0
+Gibraltar,GIB,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,NaN,1960.0
+Gibraltar,GIB,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,NaN,1960.0
+Gibraltar,GIB,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,NaN,1960.0
+Gibraltar,GIB,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,NaN,1960.0
+Gibraltar,GIB,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,NaN,1960.0
+Greece,GRC,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,83.9,2018.0
+Greece,GRC,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,78.8,2018.0
+Greece,GRC,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.0037125971687839102,2017.0
+Greece,GRC,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,97.3941,2018.0
+Greece,GRC,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,98.50705,2018.0
+Greenland,GRL,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,73.0,2016.0
+Greenland,GRL,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,68.8,2016.0
+Greenland,GRL,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,NaN,1960.0
+Greenland,GRL,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,NaN,1960.0
+Greenland,GRL,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,NaN,1960.0
+Grenada,GRD,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,74.941,2018.0
+Grenada,GRD,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,70.064,2018.0
+Grenada,GRD,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.0580118512565068,2017.0
+Grenada,GRD,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,98.6,2014.0
+Grenada,GRD,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,98.58,2014.0
+Guam,GUM,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,83.365,2018.0
+Guam,GUM,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,76.607,2018.0
+Guam,GUM,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,NaN,1960.0
+Guam,GUM,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,99.3085,1990.0
+Guam,GUM,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,99.41711,1990.0
+Guatemala,GTM,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,76.937,2018.0
+Guatemala,GTM,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,71.119,2018.0
+Guatemala,GTM,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.304455749460897,2017.0
+Guatemala,GTM,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,76.37066,2014.0
+Guatemala,GTM,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,86.75616,2014.0
+Guinea,GIN,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,61.666000000000004,2018.0
+Guinea,GIN,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,60.477,2018.0
+Guinea,GIN,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,2.8772194223392002,2017.0
+Guinea,GIN,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,21.96225,2014.0
+Guinea,GIN,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,43.64009,2014.0
+Guinea-Bissau,GNB,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,59.913000000000004,2018.0
+Guinea-Bissau,GNB,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,55.965,2018.0
+Guinea-Bissau,GNB,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,3.1695375846873097,2017.0
+Guinea-Bissau,GNB,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,30.76851,2014.0
+Guinea-Bissau,GNB,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,62.15797,2014.0
+Guyana,GUY,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,72.972,2018.0
+Guyana,GUY,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,66.783,2018.0
+Guyana,GUY,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.44644159249207505,2017.0
+Guyana,GUY,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,85.03461,2014.0
+Guyana,GUY,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,86.31438,2014.0
+Haiti,HTI,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,65.832,2018.0
+Haiti,HTI,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,61.5,2018.0
+Haiti,HTI,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,1.4862607069983402,2017.0
+Haiti,HTI,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,58.30052,2016.0
+Haiti,HTI,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,65.27765,2016.0
+Honduras,HND,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,77.378,2018.0
+Honduras,HND,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,72.771,2018.0
+Honduras,HND,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.177670394955517,2017.0
+Honduras,HND,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,87.26556,2018.0
+Honduras,HND,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,87.13764,2018.0
+"Hong Kong SAR, China",HKG,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,87.7,2018.0
+"Hong Kong SAR, China",HKG,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,82.3,2018.0
+"Hong Kong SAR, China",HKG,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,NaN,1960.0
+"Hong Kong SAR, China",HKG,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,NaN,1960.0
+"Hong Kong SAR, China",HKG,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,NaN,1960.0
+Hungary,HUN,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,79.3,2018.0
+Hungary,HUN,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,72.5,2018.0
+Hungary,HUN,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.0162102218557734,2017.0
+Hungary,HUN,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,99.1,2014.0
+Hungary,HUN,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,99.16,2014.0
+Iceland,ISL,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,84.3,2018.0
+Iceland,ISL,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,81.1,2018.0
+Iceland,ISL,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.006953929694028529,2017.0
+Iceland,ISL,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,NaN,1960.0
+Iceland,ISL,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,NaN,1960.0
+India,IND,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,70.692,2018.0
+India,IND,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,68.23899999999999,2018.0
+India,IND,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.3467163284938531,2017.0
+India,IND,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,65.79081,2018.0
+India,IND,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,82.36671,2018.0
+Indonesia,IDN,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,73.748,2018.0
+Indonesia,IDN,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,69.375,2018.0
+Indonesia,IDN,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.41723440384382204,2017.0
+Indonesia,IDN,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,93.99218,2018.0
+Indonesia,IDN,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,97.33134,2018.0
+"Iran, Islamic Rep.",IRN,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,77.668,2018.0
+"Iran, Islamic Rep.",IRN,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,75.40899999999999,2018.0
+"Iran, Islamic Rep.",IRN,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.0381685554396979,2017.0
+"Iran, Islamic Rep.",IRN,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,80.78744,2016.0
+"Iran, Islamic Rep.",IRN,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,90.35240999999999,2016.0
+Iraq,IRQ,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,72.486,2018.0
+Iraq,IRQ,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,68.429,2018.0
+Iraq,IRQ,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.314870726323741,2017.0
+Iraq,IRQ,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,79.9,2017.0
+Iraq,IRQ,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,91.2,2017.0
+Ireland,IRL,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,84.4,2018.0
+Ireland,IRL,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,80.9,2018.0
+Ireland,IRL,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.008871111342523809,2017.0
+Ireland,IRL,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,NaN,1960.0
+Ireland,IRL,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,NaN,1960.0
+Isle of Man,IMN,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,81.5,2002.0
+Isle of Man,IMN,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,74.6,2002.0
+Isle of Man,IMN,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,NaN,1960.0
+Isle of Man,IMN,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,NaN,1960.0
+Isle of Man,IMN,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,NaN,1960.0
+Israel,ISR,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,84.8,2018.0
+Israel,ISR,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,80.9,2018.0
+Israel,ISR,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.00929072396927732,2017.0
+Israel,ISR,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,88.67472,1983.0
+Israel,ISR,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,94.9634,1983.0
+Italy,ITA,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,85.2,2018.0
+Italy,ITA,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,80.8,2018.0
+Italy,ITA,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.0019489982980634398,2017.0
+Italy,ITA,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,98.97192,2018.0
+Italy,ITA,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,99.35345,2018.0
+Jamaica,JAM,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,75.993,2018.0
+Jamaica,JAM,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,72.78699999999999,2018.0
+Jamaica,JAM,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.167545080648523,2017.0
+Jamaica,JAM,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,92.7,2014.0
+Jamaica,JAM,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,83.44,2014.0
+Japan,JPN,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,87.32,2018.0
+Japan,JPN,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,81.25,2018.0
+Japan,JPN,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.00599771887857298,2017.0
+Japan,JPN,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,NaN,1960.0
+Japan,JPN,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,NaN,1960.0
+Jordan,JOR,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,76.175,2018.0
+Jordan,JOR,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,72.73,2018.0
+Jordan,JOR,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.136622093281096,2017.0
+Jordan,JOR,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,97.83208,2018.0
+Jordan,JOR,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,98.61421,2018.0
+Kazakhstan,KAZ,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,77.19,2018.0
+Kazakhstan,KAZ,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,68.84,2018.0
+Kazakhstan,KAZ,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.0285209984775765,2017.0
+Kazakhstan,KAZ,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,99.73899,2018.0
+Kazakhstan,KAZ,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,99.82968000000001,2018.0
+Kenya,KEN,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,68.684,2018.0
+Kenya,KEN,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,63.965,2018.0
+Kenya,KEN,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,1.3122380417855701,2017.0
+Kenya,KEN,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,78.18893,2018.0
+Kenya,KEN,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,84.98883000000001,2018.0
+Kiribati,KIR,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,72.113,2018.0
+Kiribati,KIR,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,64.001,2018.0
+Kiribati,KIR,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.34291633836598406,2017.0
+Kiribati,KIR,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,NaN,1960.0
+Kiribati,KIR,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,NaN,1960.0
+"Korea, Dem. People’s Rep.",PRK,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,75.54899999999999,2018.0
+"Korea, Dem. People’s Rep.",PRK,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,68.435,2018.0
+"Korea, Dem. People’s Rep.",PRK,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.162293581045703,2017.0
+"Korea, Dem. People’s Rep.",PRK,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,99.99761,2008.0
+"Korea, Dem. People’s Rep.",PRK,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,99.99888,2008.0
+"Korea, Rep.",KOR,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,85.7,2018.0
+"Korea, Rep.",KOR,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,79.7,2018.0
+"Korea, Rep.",KOR,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.0119861895300371,2017.0
+"Korea, Rep.",KOR,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,NaN,1960.0
+"Korea, Rep.",KOR,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,NaN,1960.0
+Kosovo,XKX,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,74.5,2018.0
+Kosovo,XKX,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,70.0,2018.0
+Kosovo,XKX,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,NaN,1960.0
+Kosovo,XKX,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,NaN,1960.0
+Kosovo,XKX,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,NaN,1960.0
+Kuwait,KWT,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,76.467,2018.0
+Kuwait,KWT,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,74.672,2018.0
+Kuwait,KWT,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.0236953818619649,2017.0
+Kuwait,KWT,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,94.90516,2018.0
+Kuwait,KWT,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,96.66646,2018.0
+Kyrgyz Republic,KGZ,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,75.6,2018.0
+Kyrgyz Republic,KGZ,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,67.4,2018.0
+Kyrgyz Republic,KGZ,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.207376923049787,2017.0
+Kyrgyz Republic,KGZ,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,99.49972,2018.0
+Kyrgyz Republic,KGZ,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,99.67701,2018.0
+Lao PDR,LAO,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,69.417,2018.0
+Lao PDR,LAO,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,65.83800000000001,2018.0
+Lao PDR,LAO,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.5624979375917829,2017.0
+Lao PDR,LAO,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,79.39104,2015.0
+Lao PDR,LAO,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,89.96128,2015.0
+Latvia,LVA,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,79.8,2018.0
+Latvia,LVA,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,69.8,2018.0
+Latvia,LVA,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.0324607554661234,2017.0
+Latvia,LVA,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,99.9064,2018.0
+Latvia,LVA,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,99.86837,2018.0
+Lebanon,LBN,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,80.821,2018.0
+Lebanon,LBN,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,77.07600000000001,2018.0
+Lebanon,LBN,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.063083385018509,2017.0
+Lebanon,LBN,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,93.30501,2018.0
+Lebanon,LBN,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,96.85466,2018.0
+Lesotho,LSO,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,56.95399999999999,2018.0
+Lesotho,LSO,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,50.582,2018.0
+Lesotho,LSO,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,1.7344699404686201,2017.0
+Lesotho,LSO,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,84.93489,2014.0
+Lesotho,LSO,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,67.74746999999999,2014.0
+Liberia,LBR,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,65.11399999999999,2018.0
+Liberia,LBR,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,62.347,2018.0
+Liberia,LBR,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,3.0803467259623396,2017.0
+Liberia,LBR,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,34.092259999999996,2017.0
+Liberia,LBR,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,62.69656,2017.0
+Libya,LBY,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,75.788,2018.0
+Libya,LBY,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,69.895,2018.0
+Libya,LBY,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.169440639194112,2017.0
+Libya,LBY,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,77.8,2004.0
+Libya,LBY,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,93.85,2004.0
+Liechtenstein,LIE,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,86.0,2018.0
+Liechtenstein,LIE,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,81.6,2018.0
+Liechtenstein,LIE,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,NaN,1960.0
+Liechtenstein,LIE,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,NaN,1960.0
+Liechtenstein,LIE,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,NaN,1960.0
+Lithuania,LTU,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,80.9,2018.0
+Lithuania,LTU,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,71.9,2018.0
+Lithuania,LTU,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.0133372133014333,2017.0
+Lithuania,LTU,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,99.83324,2011.0
+Lithuania,LTU,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,99.79419,2011.0
+Luxembourg,LUX,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,84.4,2018.0
+Luxembourg,LUX,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,79.9,2018.0
+Luxembourg,LUX,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.00701333399912892,2017.0
+Luxembourg,LUX,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,NaN,1960.0
+Luxembourg,LUX,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,NaN,1960.0
+"Macao SAR, China",MAC,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,87.051,2018.0
+"Macao SAR, China",MAC,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,81.149,2018.0
+"Macao SAR, China",MAC,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,NaN,1960.0
+"Macao SAR, China",MAC,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,95.03256999999999,2016.0
+"Macao SAR, China",MAC,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,98.18592,2016.0
+Madagascar,MDG,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,68.301,2018.0
+Madagascar,MDG,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,65.077,2018.0
+Madagascar,MDG,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,1.5138811431889798,2017.0
+Madagascar,MDG,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,72.38409,2018.0
+Madagascar,MDG,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,77.27514000000001,2018.0
+Malawi,MWI,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,66.937,2018.0
+Malawi,MWI,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,60.651,2018.0
+Malawi,MWI,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,1.6761441989210901,2017.0
+Malawi,MWI,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,55.20411,2015.0
+Malawi,MWI,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,69.75397,2015.0
+Malaysia,MYS,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,78.167,2018.0
+Malaysia,MYS,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,74.075,2018.0
+Malaysia,MYS,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.0627351211874491,2017.0
+Malaysia,MYS,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,93.50483,2018.0
+Malaysia,MYS,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,96.12305,2018.0
+Maldives,MDV,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,80.499,2018.0
+Maldives,MDV,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,77.229,2018.0
+Maldives,MDV,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.119214767981501,2017.0
+Maldives,MDV,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,98.11471,2016.0
+Maldives,MDV,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,97.29893,2016.0
+Mali,MLI,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,59.648999999999994,2018.0
+Mali,MLI,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,58.137,2018.0
+Mali,MLI,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,3.48711798346556,2017.0
+Mali,MLI,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,25.73516,2018.0
+Mali,MLI,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,46.18414,2018.0
+Malta,MLT,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,84.6,2018.0
+Malta,MLT,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,80.2,2018.0
+Malta,MLT,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.00977030037956667,2017.0
+Malta,MLT,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,95.98872,2018.0
+Malta,MLT,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,93.00997,2018.0
+Marshall Islands,MHL,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,67.8,2000.0
+Marshall Islands,MHL,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,62.8,2000.0
+Marshall Islands,MHL,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,NaN,1960.0
+Marshall Islands,MHL,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,98.20298000000001,2011.0
+Marshall Islands,MHL,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,98.32509,2011.0
+Mauritania,MRT,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,66.292,2018.0
+Mauritania,MRT,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,63.082,2018.0
+Mauritania,MRT,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,3.5939450092215597,2017.0
+Mauritania,MRT,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,43.35439,2017.0
+Mauritania,MRT,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,63.74855,2017.0
+Mauritius,MUS,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,77.72,2018.0
+Mauritius,MUS,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,71.27,2018.0
+Mauritius,MUS,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.08619929424053001,2017.0
+Mauritius,MUS,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,89.36638,2018.0
+Mauritius,MUS,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,93.35735,2018.0
+Mexico,MEX,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,77.844,2018.0
+Mexico,MEX,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,72.118,2018.0
+Mexico,MEX,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.0755779781372267,2017.0
+Mexico,MEX,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,94.60805,2018.0
+Mexico,MEX,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,96.2329,2018.0
+"Micronesia, Fed. Sts.",FSM,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,69.454,2018.0
+"Micronesia, Fed. Sts.",FSM,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,66.117,2018.0
+"Micronesia, Fed. Sts.",FSM,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.26762328711628897,2017.0
+"Micronesia, Fed. Sts.",FSM,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,NaN,1960.0
+"Micronesia, Fed. Sts.",FSM,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,NaN,1960.0
+Moldova,MDA,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,76.074,2018.0
+Moldova,MDA,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,67.53,2018.0
+Moldova,MDA,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.0257131033070498,2017.0
+Moldova,MDA,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,99.14041999999999,2014.0
+Moldova,MDA,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,99.60200999999999,2014.0
+Monaco,MCO,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,NaN,1960.0
+Monaco,MCO,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,NaN,1960.0
+Monaco,MCO,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,NaN,1960.0
+Monaco,MCO,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,NaN,1960.0
+Monaco,MCO,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,NaN,1960.0
+Mongolia,MNG,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,73.961,2018.0
+Mongolia,MNG,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,65.631,2018.0
+Mongolia,MNG,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.141132782818876,2017.0
+Mongolia,MNG,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,98.64889000000001,2018.0
+Mongolia,MNG,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,98.18601,2018.0
+Montenegro,MNE,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,79.199,2018.0
+Montenegro,MNE,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,74.317,2018.0
+Montenegro,MNE,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.0100942356435066,2017.0
+Montenegro,MNE,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,98.27135,2018.0
+Montenegro,MNE,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,99.45047,2018.0
+Morocco,MAR,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,77.668,2018.0
+Morocco,MAR,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,75.19,2018.0
+Morocco,MAR,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.178386226114413,2017.0
+Morocco,MAR,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,64.59138,2018.0
+Morocco,MAR,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,83.30135,2018.0
+Mozambique,MOZ,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,62.966,2018.0
+Mozambique,MOZ,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,57.114,2018.0
+Mozambique,MOZ,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,1.4997310904832601,2017.0
+Mozambique,MOZ,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,50.29514,2017.0
+Mozambique,MOZ,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,72.59945,2017.0
+Myanmar,MMR,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,69.874,2018.0
+Myanmar,MMR,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,63.761,2018.0
+Myanmar,MMR,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.538536822555879,2017.0
+Myanmar,MMR,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,71.84699,2016.0
+Myanmar,MMR,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,80.01159,2016.0
+Namibia,NAM,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,66.18,2018.0
+Namibia,NAM,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,60.357,2018.0
+Namibia,NAM,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.7126580085723341,2017.0
+Namibia,NAM,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,91.43643,2018.0
+Namibia,NAM,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,91.62742,2018.0
+Nauru,NRU,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,NaN,1960.0
+Nauru,NRU,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,NaN,1960.0
+Nauru,NRU,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,NaN,1960.0
+Nauru,NRU,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,NaN,1960.0
+Nauru,NRU,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,NaN,1960.0
+Nepal,NPL,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,71.9,2018.0
+Nepal,NPL,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,68.98899999999999,2018.0
+Nepal,NPL,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.429217046351277,2017.0
+Nepal,NPL,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,59.724430000000005,2018.0
+Nepal,NPL,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,78.59134,2018.0
+Netherlands,NLD,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,83.4,2018.0
+Netherlands,NLD,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,80.2,2018.0
+Netherlands,NLD,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.008408549774853679,2017.0
+Netherlands,NLD,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,NaN,1960.0
+Netherlands,NLD,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,NaN,1960.0
+New Caledonia,NCL,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,79.3,2018.0
+New Caledonia,NCL,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,75.1,2018.0
+New Caledonia,NCL,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,NaN,1960.0
+New Caledonia,NCL,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,97.5,2014.0
+New Caledonia,NCL,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,98.14,2014.0
+New Zealand,NZL,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,83.6,2018.0
+New Zealand,NZL,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,80.2,2018.0
+New Zealand,NZL,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.0163121445295741,2017.0
+New Zealand,NZL,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,NaN,1960.0
+New Zealand,NZL,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,NaN,1960.0
+Nicaragua,NIC,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,77.77,2018.0
+Nicaragua,NIC,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,70.741,2018.0
+Nicaragua,NIC,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.260026400907729,2017.0
+Nicaragua,NIC,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,82.77935,2015.0
+Nicaragua,NIC,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,82.43855,2015.0
+Niger,NER,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,63.211999999999996,2018.0
+Niger,NER,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,60.9,2018.0
+Niger,NER,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,3.7567595942457097,2017.0
+Niger,NER,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,22.551289999999998,2012.0
+Niger,NER,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,39.058690000000006,2012.0
+Nigeria,NGA,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,55.244,2018.0
+Nigeria,NGA,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,53.45,2018.0
+Nigeria,NGA,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,4.85668602392368,2017.0
+Nigeria,NGA,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,52.65648,2018.0
+Nigeria,NGA,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,71.25571,2018.0
+North Macedonia,MKD,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,77.736,2018.0
+North Macedonia,MKD,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,73.684,2018.0
+North Macedonia,MKD,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.0110614415880077,2017.0
+North Macedonia,MKD,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,96.7,2014.0
+North Macedonia,MKD,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,98.81,2014.0
+Northern Mariana Islands,MNP,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,NaN,1960.0
+Northern Mariana Islands,MNP,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,NaN,1960.0
+Northern Mariana Islands,MNP,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,NaN,1960.0
+Northern Mariana Islands,MNP,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,NaN,1960.0
+Northern Mariana Islands,MNP,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,NaN,1960.0
+Norway,NOR,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,84.4,2018.0
+Norway,NOR,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,81.3,2018.0
+Norway,NOR,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.00388588796598664,2017.0
+Norway,NOR,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,NaN,1960.0
+Norway,NOR,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,NaN,1960.0
+Oman,OMN,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,80.134,2018.0
+Oman,OMN,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,75.89,2018.0
+Oman,OMN,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.0640235107900696,2017.0
+Oman,OMN,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,92.69399,2018.0
+Oman,OMN,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,96.98942,2018.0
+Pakistan,PAK,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,68.109,2018.0
+Pakistan,PAK,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,66.194,2018.0
+Pakistan,PAK,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.545877816351445,2017.0
+Pakistan,PAK,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,46.46767,2017.0
+Pakistan,PAK,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,71.116,2017.0
+Palau,PLW,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,72.1,2005.0
+Palau,PLW,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,66.3,2005.0
+Palau,PLW,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,NaN,1960.0
+Palau,PLW,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,96.34015,2015.0
+Palau,PLW,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,96.81275,2015.0
+Panama,PAN,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,81.593,2018.0
+Panama,PAN,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,75.235,2018.0
+Panama,PAN,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.13355386287013402,2017.0
+Panama,PAN,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,94.88172,2018.0
+Panama,PAN,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,95.96893,2018.0
+Papua New Guinea,PNG,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,65.57600000000001,2018.0
+Papua New Guinea,PNG,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,63.038999999999994,2018.0
+Papua New Guinea,PNG,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.537301459483111,2017.0
+Papua New Guinea,PNG,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,57.9,2010.0
+Papua New Guinea,PNG,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,65.29,2010.0
+Paraguay,PRY,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,76.25,2018.0
+Paraguay,PRY,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,72.15899999999999,2018.0
+Paraguay,PRY,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.35043625025947994,2017.0
+Paraguay,PRY,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,93.53171,2018.0
+Paraguay,PRY,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,94.51148,2018.0
+Peru,PER,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,79.28,2018.0
+Peru,PER,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,73.834,2018.0
+Peru,PER,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.20854127213672,2017.0
+Peru,PER,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,91.70311,2018.0
+Peru,PER,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,97.12137,2018.0
+Philippines,PHL,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,75.387,2018.0
+Philippines,PHL,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,67.123,2018.0
+Philippines,PHL,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.33481534267995505,2017.0
+Philippines,PHL,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,98.24175,2015.0
+Philippines,PHL,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,98.12325,2015.0
+Poland,POL,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,81.8,2018.0
+Poland,POL,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,73.9,2018.0
+Poland,POL,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.00329848712634169,2017.0
+Poland,POL,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,98.25198,2008.0
+Poland,POL,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,99.27516999999999,2008.0
+Portugal,PRT,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,84.9,2018.0
+Portugal,PRT,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,78.7,2018.0
+Portugal,PRT,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.00935000643479946,2017.0
+Portugal,PRT,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,95.07252,2018.0
+Portugal,PRT,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,97.35361999999999,2018.0
+Puerto Rico,PRI,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,83.382,2018.0
+Puerto Rico,PRI,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,76.346,2018.0
+Puerto Rico,PRI,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.0247331354348148,2017.0
+Puerto Rico,PRI,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,92.39001999999999,2017.0
+Puerto Rico,PRI,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,92.38996,2017.0
+Qatar,QAT,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,81.876,2018.0
+Qatar,QAT,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,78.98100000000001,2018.0
+Qatar,QAT,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.0198785590374392,2017.0
+Qatar,QAT,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,94.71151,2017.0
+Qatar,QAT,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,93.14446,2017.0
+Romania,ROU,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,79.2,2018.0
+Romania,ROU,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,71.8,2018.0
+Romania,ROU,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.0275347821702896,2017.0
+Romania,ROU,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,98.59976999999999,2018.0
+Romania,ROU,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,99.10801,2018.0
+Russian Federation,RUS,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,77.81,2018.0
+Russian Federation,RUS,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,67.75,2018.0
+Russian Federation,RUS,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.0319127737053304,2017.0
+Russian Federation,RUS,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,99.73411,2018.0
+Russian Federation,RUS,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,99.72516,2018.0
+Rwanda,RWA,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,70.78399999999999,2018.0
+Rwanda,RWA,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,66.518,2018.0
+Rwanda,RWA,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,1.06552016747173,2017.0
+Rwanda,RWA,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,69.39454,2018.0
+Rwanda,RWA,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,77.5588,2018.0
+Samoa,WSM,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,75.325,2018.0
+Samoa,WSM,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,71.197,2018.0
+Samoa,WSM,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.169626183179849,2017.0
+Samoa,WSM,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,99.24504,2018.0
+Samoa,WSM,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,98.95609,2018.0
+San Marino,SMR,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,86.8,2012.0
+San Marino,SMR,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,84.1,2012.0
+San Marino,SMR,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,NaN,1960.0
+San Marino,SMR,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,99.90191,2018.0
+San Marino,SMR,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,99.93208,2018.0
+Sao Tome and Principe,STP,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,72.583,2018.0
+Sao Tome and Principe,STP,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,67.783,2018.0
+Sao Tome and Principe,STP,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.601782738424072,2017.0
+Sao Tome and Principe,STP,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,89.51573,2018.0
+Sao Tome and Principe,STP,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,96.16268000000001,2018.0
+Saudi Arabia,SAU,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,76.615,2018.0
+Saudi Arabia,SAU,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,73.79899999999999,2018.0
+Saudi Arabia,SAU,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.0426522727779456,2017.0
+Saudi Arabia,SAU,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,92.7072,2017.0
+Saudi Arabia,SAU,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,97.10370999999999,2017.0
+Senegal,SEN,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,69.627,2018.0
+Senegal,SEN,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,65.501,2018.0
+Senegal,SEN,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,1.5283111839002,2017.0
+Senegal,SEN,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,39.798559999999995,2017.0
+Senegal,SEN,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,64.81228,2017.0
+Serbia,SRB,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,78.1,2018.0
+Serbia,SRB,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,73.1,2018.0
+Serbia,SRB,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.0172571296643417,2017.0
+Serbia,SRB,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,98.22828,2016.0
+Serbia,SRB,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,99.4997,2016.0
+Seychelles,SYC,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,77.4,2018.0
+Seychelles,SYC,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,68.5,2018.0
+Seychelles,SYC,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.126779298295975,2017.0
+Seychelles,SYC,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,96.3502,2018.0
+Seychelles,SYC,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,95.41176,2018.0
+Sierra Leone,SLE,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,55.106,2018.0
+Sierra Leone,SLE,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,53.468,2018.0
+Sierra Leone,SLE,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,4.895515931163019,2017.0
+Sierra Leone,SLE,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,34.85203,2018.0
+Sierra Leone,SLE,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,51.646879999999996,2018.0
+Singapore,SGP,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,85.4,2018.0
+Singapore,SGP,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,81.0,2018.0
+Singapore,SGP,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.0100708680876037,2017.0
+Singapore,SGP,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,95.91941,2018.0
+Singapore,SGP,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,98.8509,2018.0
+Sint Maarten (Dutch part),SXM,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,82.8,2016.0
+Sint Maarten (Dutch part),SXM,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,74.0,2016.0
+Sint Maarten (Dutch part),SXM,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,NaN,1960.0
+Sint Maarten (Dutch part),SXM,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,NaN,1960.0
+Sint Maarten (Dutch part),SXM,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,NaN,1960.0
+Slovak Republic,SVK,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,80.7,2018.0
+Slovak Republic,SVK,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,73.8,2018.0
+Slovak Republic,SVK,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.00796247720936388,2017.0
+Slovak Republic,SVK,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,NaN,1960.0
+Slovak Republic,SVK,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,NaN,1960.0
+Slovenia,SVN,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,84.0,2018.0
+Slovenia,SVN,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,78.2,2018.0
+Slovenia,SVN,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.0107516858448096,2017.0
+Slovenia,SVN,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,99.6,2014.0
+Slovenia,SVN,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,99.69,2014.0
+Solomon Islands,SLB,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,74.697,2018.0
+Solomon Islands,SLB,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,71.158,2018.0
+Solomon Islands,SLB,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.48793627993752897,2017.0
+Solomon Islands,SLB,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,69.0,2009.0
+Solomon Islands,SLB,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,83.7,2009.0
+Somalia,SOM,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,58.791000000000004,2018.0
+Somalia,SOM,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,55.41,2018.0
+Somalia,SOM,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,5.0843000892132,2017.0
+Somalia,SOM,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,3.6871699999999996,1972.0
+Somalia,SOM,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,7.19844,1972.0
+South Africa,ZAF,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,67.398,2018.0
+South Africa,ZAF,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,60.463,2018.0
+South Africa,ZAF,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.300606460881432,2017.0
+South Africa,ZAF,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,86.45863,2017.0
+South Africa,ZAF,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,87.67775,2017.0
+South Sudan,SSD,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,59.135,2018.0
+South Sudan,SSD,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,56.115,2018.0
+South Sudan,SSD,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,5.5077420678382305,2017.0
+South Sudan,SSD,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,28.864259999999998,2018.0
+South Sudan,SSD,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,40.26481,2018.0
+Spain,ESP,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,86.1,2018.0
+Spain,ESP,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,80.7,2018.0
+Spain,ESP,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.00464846008437004,2017.0
+Spain,ESP,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,97.97378,2018.0
+Spain,ESP,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,98.92539000000001,2018.0
+Sri Lanka,LKA,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,80.12100000000001,2018.0
+Sri Lanka,LKA,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,73.415,2018.0
+Sri Lanka,LKA,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.07849134572219,2017.0
+Sri Lanka,LKA,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,90.7956,2018.0
+Sri Lanka,LKA,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,92.77293,2018.0
+St. Kitts and Nevis,KNA,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,74.0,2002.0
+St. Kitts and Nevis,KNA,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,68.8,2002.0
+St. Kitts and Nevis,KNA,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,NaN,1960.0
+St. Kitts and Nevis,KNA,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,NaN,1960.0
+St. Kitts and Nevis,KNA,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,NaN,1960.0
+St. Lucia,LCA,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,77.434,2018.0
+St. Lucia,LCA,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,74.72,2018.0
+St. Lucia,LCA,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.17333725759747698,2017.0
+St. Lucia,LCA,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,NaN,1960.0
+St. Lucia,LCA,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,NaN,1960.0
+St. Martin (French part),MAF,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,83.2,2018.0
+St. Martin (French part),MAF,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,76.7,2018.0
+St. Martin (French part),MAF,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,NaN,1960.0
+St. Martin (French part),MAF,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,NaN,1960.0
+St. Martin (French part),MAF,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,NaN,1960.0
+St. Vincent and the Grenadines,VCT,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,75.007,2018.0
+St. Vincent and the Grenadines,VCT,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,70.182,2018.0
+St. Vincent and the Grenadines,VCT,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.133834923337457,2017.0
+St. Vincent and the Grenadines,VCT,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,95.5,1970.0
+St. Vincent and the Grenadines,VCT,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,95.8,1970.0
+Sudan,SDN,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,66.947,2018.0
+Sudan,SDN,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,63.277,2018.0
+Sudan,SDN,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,1.33440207338493,2017.0
+Sudan,SDN,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,56.063230000000004,2018.0
+Sudan,SDN,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,65.43515,2018.0
+Suriname,SUR,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,74.937,2018.0
+Suriname,SUR,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,68.368,2018.0
+Suriname,SUR,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.3023118581703211,2017.0
+Suriname,SUR,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,92.71206,2018.0
+Suriname,SUR,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,96.07404,2018.0
+Sweden,SWE,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,84.1,2018.0
+Sweden,SWE,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,81.0,2018.0
+Sweden,SWE,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.00795057544408416,2017.0
+Sweden,SWE,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,NaN,1960.0
+Sweden,SWE,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,NaN,1960.0
+Switzerland,CHE,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,85.6,2018.0
+Switzerland,CHE,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,81.6,2018.0
+Switzerland,CHE,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.0072154643900605294,2017.0
+Switzerland,CHE,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,NaN,1960.0
+Switzerland,CHE,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,NaN,1960.0
+Syrian Arab Republic,SYR,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,77.763,2018.0
+Syrian Arab Republic,SYR,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,66.578,2018.0
+Syrian Arab Republic,SYR,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.0960085229079257,2017.0
+Syrian Arab Republic,SYR,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,73.62656,2004.0
+Syrian Arab Republic,SYR,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,87.75814,2004.0
+Tajikistan,TJK,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,73.17699999999999,2018.0
+Tajikistan,TJK,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,68.727,2018.0
+Tajikistan,TJK,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.0713907070898872,2017.0
+Tajikistan,TJK,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,99.7,2014.0
+Tajikistan,TJK,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,99.82,2014.0
+Tanzania,TZA,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,66.824,2018.0
+Tanzania,TZA,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,63.17,2018.0
+Tanzania,TZA,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,2.7493783010241,2017.0
+Tanzania,TZA,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,73.09383000000001,2015.0
+Tanzania,TZA,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,83.20485,2015.0
+Thailand,THA,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,80.704,2018.0
+Thailand,THA,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,73.22800000000001,2018.0
+Thailand,THA,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.052481853481725994,2017.0
+Thailand,THA,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,92.42856,2018.0
+Thailand,THA,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,95.20239000000001,2018.0
+Timor-Leste,TLS,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,71.376,2018.0
+Timor-Leste,TLS,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,67.279,2018.0
+Timor-Leste,TLS,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.5979986180947601,2017.0
+Timor-Leste,TLS,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,64.21094000000001,2018.0
+Timor-Leste,TLS,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,71.86872,2018.0
+Togo,TGO,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,61.611999999999995,2018.0
+Togo,TGO,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,59.891999999999996,2018.0
+Togo,TGO,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,1.78703556330648,2017.0
+Togo,TGO,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,51.24178,2015.0
+Togo,TGO,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,77.25943000000001,2015.0
+Tonga,TON,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,72.763,2018.0
+Tonga,TON,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,68.877,2018.0
+Tonga,TON,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.18434701697202802,2017.0
+Tonga,TON,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,99.47503,2018.0
+Tonga,TON,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,99.35098,2018.0
+Trinidad and Tobago,TTO,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,76.092,2018.0
+Trinidad and Tobago,TTO,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,70.751,2018.0
+Trinidad and Tobago,TTO,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.119651865284879,2017.0
+Trinidad and Tobago,TTO,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,98.3,2010.0
+Trinidad and Tobago,TTO,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,99.14,2010.0
+Tunisia,TUN,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,78.536,2018.0
+Tunisia,TUN,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,74.493,2018.0
+Tunisia,TUN,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.10281207835201599,2017.0
+Tunisia,TUN,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,72.22377,2014.0
+Tunisia,TUN,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,86.06012,2014.0
+Turkey,TUR,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,80.336,2018.0
+Turkey,TUR,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,74.447,2018.0
+Turkey,TUR,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.0361851056922574,2017.0
+Turkey,TUR,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,93.49826999999999,2017.0
+Turkey,TUR,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,98.81996,2017.0
+Turkmenistan,TKM,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,71.584,2018.0
+Turkmenistan,TKM,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,64.60300000000001,2018.0
+Turkmenistan,TKM,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.0228980941515475,2017.0
+Turkmenistan,TKM,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,99.6,2014.0
+Turkmenistan,TKM,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,99.75,2014.0
+Turks and Caicos Islands,TCA,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,NaN,1960.0
+Turks and Caicos Islands,TCA,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,NaN,1960.0
+Turks and Caicos Islands,TCA,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,NaN,1960.0
+Turks and Caicos Islands,TCA,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,NaN,1960.0
+Turks and Caicos Islands,TCA,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,NaN,1960.0
+Tuvalu,TUV,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,NaN,1960.0
+Tuvalu,TUV,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,NaN,1960.0
+Tuvalu,TUV,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,NaN,1960.0
+Tuvalu,TUV,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,NaN,1960.0
+Tuvalu,TUV,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,NaN,1960.0
+Uganda,UGA,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,65.173,2018.0
+Uganda,UGA,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,60.655,2018.0
+Uganda,UGA,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,2.04351199254861,2017.0
+Uganda,UGA,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,70.83806,2018.0
+Uganda,UGA,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,82.65601,2018.0
+Ukraine,UKR,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,76.72,2018.0
+Ukraine,UKR,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,66.69,2018.0
+Ukraine,UKR,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.0272580767715393,2017.0
+Ukraine,UKR,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,99.9582,2012.0
+Ukraine,UKR,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,99.99394000000001,2012.0
+United Arab Emirates,ARE,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,79.164,2018.0
+United Arab Emirates,ARE,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,77.133,2018.0
+United Arab Emirates,ARE,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.00560176694667537,2017.0
+United Arab Emirates,ARE,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,95.09761,2015.0
+United Arab Emirates,ARE,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,92.55615999999999,2015.0
+United Kingdom,GBR,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,83.2,2018.0
+United Kingdom,GBR,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,79.6,2018.0
+United Kingdom,GBR,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.0119228853883644,2017.0
+United Kingdom,GBR,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,NaN,1960.0
+United Kingdom,GBR,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,NaN,1960.0
+United States,USA,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,81.1,2018.0
+United States,USA,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,76.1,2018.0
+United States,USA,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.0335572948257602,2017.0
+United States,USA,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,NaN,1960.0
+United States,USA,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,NaN,1960.0
+Uruguay,URY,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,81.359,2018.0
+Uruguay,URY,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,73.958,2018.0
+Uruguay,URY,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.0348617966183798,2017.0
+Uruguay,URY,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,99.00774,2018.0
+Uruguay,URY,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,98.37136,2018.0
+Uzbekistan,UZB,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,73.676,2018.0
+Uzbekistan,UZB,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,69.445,2018.0
+Uzbekistan,UZB,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.0803621051822976,2017.0
+Uzbekistan,UZB,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,99.98586999999999,2018.0
+Uzbekistan,UZB,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,100.0,2018.0
+Vanuatu,VUT,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,71.99,2018.0
+Vanuatu,VUT,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,68.847,2018.0
+Vanuatu,VUT,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.298925421214643,2017.0
+Vanuatu,VUT,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,86.70609,2018.0
+Vanuatu,VUT,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,88.30635,2018.0
+"Venezuela, RB",VEN,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,76.074,2018.0
+"Venezuela, RB",VEN,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,68.398,2018.0
+"Venezuela, RB",VEN,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.300787247192794,2017.0
+"Venezuela, RB",VEN,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,97.21370999999999,2016.0
+"Venezuela, RB",VEN,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,97.03911,2016.0
+Vietnam,VNM,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,79.442,2018.0
+Vietnam,VNM,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,71.207,2018.0
+Vietnam,VNM,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.0945206648001843,2017.0
+Vietnam,VNM,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,93.59671,2018.0
+Vietnam,VNM,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,96.45678000000001,2018.0
+Virgin Islands (U.S.),VIR,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,83.0,2018.0
+Virgin Islands (U.S.),VIR,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,76.3,2018.0
+Virgin Islands (U.S.),VIR,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,NaN,1960.0
+Virgin Islands (U.S.),VIR,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,NaN,1960.0
+Virgin Islands (U.S.),VIR,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,NaN,1960.0
+West Bank and Gaza,PSE,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,75.595,2018.0
+West Bank and Gaza,PSE,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,72.263,2018.0
+West Bank and Gaza,PSE,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.113090023046807,2017.0
+West Bank and Gaza,PSE,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,95.74195,2018.0
+West Bank and Gaza,PSE,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,98.65776,2018.0
+"Yemen, Rep.",YEM,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,67.795,2018.0
+"Yemen, Rep.",YEM,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,64.418,2018.0
+"Yemen, Rep.",YEM,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,0.680064051331826,2017.0
+"Yemen, Rep.",YEM,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,35.0,2004.0
+"Yemen, Rep.",YEM,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,73.16,2004.0
+Zambia,ZMB,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,66.447,2018.0
+Zambia,ZMB,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,60.533,2018.0
+Zambia,ZMB,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,1.06998628332783,2017.0
+Zambia,ZMB,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,83.08344,2018.0
+Zambia,ZMB,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,90.60118,2018.0
+Zimbabwe,ZWE,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,62.598,2018.0
+Zimbabwe,ZWE,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,59.501000000000005,2018.0
+Zimbabwe,ZWE,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS,1.8152944773181499,2017.0
+Zimbabwe,ZWE,"Literacy rate, adult female (% of females ages 15 and above)",SE.ADT.LITR.FE.ZS,88.28383000000001,2014.0
+Zimbabwe,ZWE,"Literacy rate, adult male (% of males ages 15 and above)",SE.ADT.LITR.MA.ZS,89.18536999999999,2014.0

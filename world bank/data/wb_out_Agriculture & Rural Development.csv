@@ -1,0 +1,793 @@
+Country Name,Country Code,Indicator Name,Indicator Code,Most Recent Value,Year
+Arab World,ARB,Rural land area (sq. km),AG.LND.TOTL.RU.K2,13247809.6311614,2010.0
+Arab World,ARB,Rural population (% of total population),SP.RUR.TOTL.ZS,41.0745814068609,2018.0
+Arab World,ARB,Surface area (sq. km),AG.SRF.TOTL.K2,11273300.9922791,2018.0
+Caribbean small states,CSS,Rural land area (sq. km),AG.LND.TOTL.RU.K2,393218.20852738,2010.0
+Caribbean small states,CSS,Rural population (% of total population),SP.RUR.TOTL.ZS,48.8006384223868,2018.0
+Caribbean small states,CSS,Surface area (sq. km),AG.SRF.TOTL.K2,434990.0,2018.0
+Central Europe and the Baltics,CEB,Rural land area (sq. km),AG.LND.TOTL.RU.K2,829422.9101399999,2010.0
+Central Europe and the Baltics,CEB,Rural population (% of total population),SP.RUR.TOTL.ZS,37.6679239372373,2018.0
+Central Europe and the Baltics,CEB,Surface area (sq. km),AG.SRF.TOTL.K2,1135391.00097656,2018.0
+Early-demographic dividend,EAR,Rural land area (sq. km),AG.LND.TOTL.RU.K2,27317793.2668622,2010.0
+Early-demographic dividend,EAR,Rural population (% of total population),SP.RUR.TOTL.ZS,54.86874330132811,2018.0
+Early-demographic dividend,EAR,Surface area (sq. km),AG.SRF.TOTL.K2,34108218.0537415,2018.0
+East Asia & Pacific,EAS,Rural land area (sq. km),AG.LND.TOTL.RU.K2,22098309.7585607,2010.0
+East Asia & Pacific,EAS,Rural population (% of total population),SP.RUR.TOTL.ZS,40.9472113285627,2018.0
+East Asia & Pacific,EAS,Surface area (sq. km),AG.SRF.TOTL.K2,24827743.4039211,2018.0
+East Asia & Pacific (excluding high income),EAP,Rural land area (sq. km),AG.LND.TOTL.RU.K2,13813472.349095901,2010.0
+East Asia & Pacific (excluding high income),EAP,Rural population (% of total population),SP.RUR.TOTL.ZS,44.366411761736295,2018.0
+East Asia & Pacific (excluding high income),EAP,Surface area (sq. km),AG.SRF.TOTL.K2,16272875.0,2018.0
+East Asia & Pacific (IDA & IBRD countries),TEA,Rural land area (sq. km),AG.LND.TOTL.RU.K2,13694589.5321299,2010.0
+East Asia & Pacific (IDA & IBRD countries),TEA,Rural population (% of total population),SP.RUR.TOTL.ZS,44.4449079814641,2018.0
+East Asia & Pacific (IDA & IBRD countries),TEA,Surface area (sq. km),AG.SRF.TOTL.K2,16152595.0,2018.0
+Euro area,EMU,Rural land area (sq. km),AG.LND.TOTL.RU.K2,2175027.39413571,2010.0
+Euro area,EMU,Rural population (% of total population),SP.RUR.TOTL.ZS,23.0082672893716,2018.0
+Euro area,EMU,Surface area (sq. km),AG.SRF.TOTL.K2,2759787.59277344,2018.0
+Europe & Central Asia,ECS,Rural land area (sq. km),AG.LND.TOTL.RU.K2,22064738.744341698,2010.0
+Europe & Central Asia,ECS,Rural population (% of total population),SP.RUR.TOTL.ZS,27.816489498941102,2018.0
+Europe & Central Asia,ECS,Surface area (sq. km),AG.SRF.TOTL.K2,28691030.977592498,2018.0
+Europe & Central Asia (excluding high income),ECA,Rural land area (sq. km),AG.LND.TOTL.RU.K2,18298350.99074,2010.0
+Europe & Central Asia (excluding high income),ECA,Rural population (% of total population),SP.RUR.TOTL.ZS,33.0526194856177,2018.0
+Europe & Central Asia (excluding high income),ECA,Surface area (sq. km),AG.SRF.TOTL.K2,23473611.875,2018.0
+Europe & Central Asia (IDA & IBRD countries),TEC,Rural land area (sq. km),AG.LND.TOTL.RU.K2,18627211.06105,2010.0
+Europe & Central Asia (IDA & IBRD countries),TEC,Rural population (% of total population),SP.RUR.TOTL.ZS,33.713167687406504,2018.0
+Europe & Central Asia (IDA & IBRD countries),TEC,Surface area (sq. km),AG.SRF.TOTL.K2,23842881.875,2018.0
+European Union,EUU,Rural land area (sq. km),AG.LND.TOTL.RU.K2,3433973.73013571,2010.0
+European Union,EUU,Rural population (% of total population),SP.RUR.TOTL.ZS,25.484300925756003,2018.0
+European Union,EUU,Surface area (sq. km),AG.SRF.TOTL.K2,4384317.59277344,2018.0
+Fragile and conflict affected situations,FCS,Rural land area (sq. km),AG.LND.TOTL.RU.K2,12215779.1057705,2010.0
+Fragile and conflict affected situations,FCS,Rural population (% of total population),SP.RUR.TOTL.ZS,55.06337903800551,2018.0
+Fragile and conflict affected situations,FCS,Surface area (sq. km),AG.SRF.TOTL.K2,13147112.9922485,2018.0
+Heavily indebted poor countries (HIPC),HPC,Rural land area (sq. km),AG.LND.TOTL.RU.K2,13878033.302825501,2010.0
+Heavily indebted poor countries (HIPC),HPC,Rural population (% of total population),SP.RUR.TOTL.ZS,63.991534737249204,2018.0
+Heavily indebted poor countries (HIPC),HPC,Surface area (sq. km),AG.SRF.TOTL.K2,17874796.000060998,2018.0
+High income,HIC,Rural land area (sq. km),AG.LND.TOTL.RU.K2,32981428.978236604,2010.0
+High income,HIC,Rural population (% of total population),SP.RUR.TOTL.ZS,18.665021635254398,2018.0
+High income,HIC,Surface area (sq. km),AG.SRF.TOTL.K2,37227845.506544106,2018.0
+IBRD only,IBD,Rural land area (sq. km),AG.LND.TOTL.RU.K2,61419945.5723079,2010.0
+IBRD only,IBD,Rural population (% of total population),SP.RUR.TOTL.ZS,44.987572000332605,2018.0
+IBRD only,IBD,Surface area (sq. km),AG.SRF.TOTL.K2,71348003.90625,2018.0
+IDA & IBRD total,IBT,Rural land area (sq. km),AG.LND.TOTL.RU.K2,79871809.22952841,2010.0
+IDA & IBRD total,IBT,Rural population (% of total population),SP.RUR.TOTL.ZS,49.57779822517429,2018.0
+IDA & IBRD total,IBT,Surface area (sq. km),AG.SRF.TOTL.K2,95945073.9053345,2018.0
+IDA blend,IDB,Rural land area (sq. km),AG.LND.TOTL.RU.K2,3533315.5629861997,2010.0
+IDA blend,IDB,Rural population (% of total population),SP.RUR.TOTL.ZS,57.6195749763581,2018.0
+IDA blend,IDB,Surface area (sq. km),AG.SRF.TOTL.K2,6055920.0,2018.0
+IDA only,IDX,Rural land area (sq. km),AG.LND.TOTL.RU.K2,14918548.094234303,2010.0
+IDA only,IDX,Rural population (% of total population),SP.RUR.TOTL.ZS,65.6840300826165,2018.0
+IDA only,IDX,Surface area (sq. km),AG.SRF.TOTL.K2,18541149.9990845,2018.0
+IDA total,IDA,Rural land area (sq. km),AG.LND.TOTL.RU.K2,18451863.657220498,2010.0
+IDA total,IDA,Rural population (% of total population),SP.RUR.TOTL.ZS,62.9481349399785,2018.0
+IDA total,IDA,Surface area (sq. km),AG.SRF.TOTL.K2,24597069.9990845,2018.0
+Late-demographic dividend,LTE,Rural land area (sq. km),AG.LND.TOTL.RU.K2,39108425.063592,2010.0
+Late-demographic dividend,LTE,Rural population (% of total population),SP.RUR.TOTL.ZS,37.5549009753745,2018.0
+Late-demographic dividend,LTE,Surface area (sq. km),AG.SRF.TOTL.K2,45769685.859375,2018.0
+Latin America & Caribbean,LCN,Rural land area (sq. km),AG.LND.TOTL.RU.K2,18127126.259122502,2010.0
+Latin America & Caribbean,LCN,Rural population (% of total population),SP.RUR.TOTL.ZS,19.416709013632897,2018.0
+Latin America & Caribbean,LCN,Surface area (sq. km),AG.SRF.TOTL.K2,20425545.9765625,2018.0
+Latin America & Caribbean (excluding high income),LAC,Rural land area (sq. km),AG.LND.TOTL.RU.K2,17160247.9627902,2010.0
+Latin America & Caribbean (excluding high income),LAC,Rural population (% of total population),SP.RUR.TOTL.ZS,19.5983744030001,2018.0
+Latin America & Caribbean (excluding high income),LAC,Surface area (sq. km),AG.SRF.TOTL.K2,19386305.9765625,2018.0
+Latin America & the Caribbean (IDA & IBRD countries),TLA,Rural land area (sq. km),AG.LND.TOTL.RU.K2,18012755.5876953,2010.0
+Latin America & the Caribbean (IDA & IBRD countries),TLA,Rural population (% of total population),SP.RUR.TOTL.ZS,19.3985876835712,2018.0
+Latin America & the Caribbean (IDA & IBRD countries),TLA,Surface area (sq. km),AG.SRF.TOTL.K2,20290595.9765625,2018.0
+Least developed countries: UN classification,LDC,Rural land area (sq. km),AG.LND.TOTL.RU.K2,15032760.46055,2010.0
+Least developed countries: UN classification,LDC,Rural population (% of total population),SP.RUR.TOTL.ZS,66.431939917901,2018.0
+Least developed countries: UN classification,LDC,Surface area (sq. km),AG.SRF.TOTL.K2,18252609.9990845,2018.0
+Low & middle income,LMY,Rural land area (sq. km),AG.LND.TOTL.RU.K2,78812641.44573149,2010.0
+Low & middle income,LMY,Rural population (% of total population),SP.RUR.TOTL.ZS,49.672155760184495,2018.0
+Low & middle income,LMY,Surface area (sq. km),AG.SRF.TOTL.K2,94797353.9053345,2018.0
+Low income,LIC,Rural land area (sq. km),AG.LND.TOTL.RU.K2,9087496.12111,2010.0
+Low income,LIC,Rural population (% of total population),SP.RUR.TOTL.ZS,67.42779611007879,2018.0
+Low income,LIC,Surface area (sq. km),AG.SRF.TOTL.K2,14079355.0,2018.0
+Lower middle income,LMC,Rural land area (sq. km),AG.LND.TOTL.RU.K2,18268189.9423698,2010.0
+Lower middle income,LMC,Rural population (% of total population),SP.RUR.TOTL.ZS,59.492110223581705,2018.0
+Lower middle income,LMC,Surface area (sq. km),AG.SRF.TOTL.K2,20835744.0615845,2018.0
+Middle East & North Africa,MEA,Rural land area (sq. km),AG.LND.TOTL.RU.K2,10642151.4400401,2010.0
+Middle East & North Africa,MEA,Rural population (% of total population),SP.RUR.TOTL.ZS,34.6280256768853,2018.0
+Middle East & North Africa,MEA,Surface area (sq. km),AG.SRF.TOTL.K2,11370619.992217999,2018.0
+Middle East & North Africa (excluding high income),MNA,Rural land area (sq. km),AG.LND.TOTL.RU.K2,8312627.180838,2010.0
+Middle East & North Africa (excluding high income),MNA,Rural population (% of total population),SP.RUR.TOTL.ZS,38.40945248247171,2018.0
+Middle East & North Africa (excluding high income),MNA,Surface area (sq. km),AG.SRF.TOTL.K2,8775231.9921875,2018.0
+Middle East & North Africa (IDA & IBRD countries),TMN,Rural land area (sq. km),AG.LND.TOTL.RU.K2,8309122.120778999,2010.0
+Middle East & North Africa (IDA & IBRD countries),TMN,Rural population (% of total population),SP.RUR.TOTL.ZS,38.5854570017155,2018.0
+Middle East & North Africa (IDA & IBRD countries),TMN,Surface area (sq. km),AG.SRF.TOTL.K2,8769211.9921875,2018.0
+Middle income,MIC,Rural land area (sq. km),AG.LND.TOTL.RU.K2,69725145.3246216,2010.0
+Middle income,MIC,Rural population (% of total population),SP.RUR.TOTL.ZS,47.4657425301464,2018.0
+Middle income,MIC,Surface area (sq. km),AG.SRF.TOTL.K2,80717998.9053345,2018.0
+North America,NAC,Rural land area (sq. km),AG.LND.TOTL.RU.K2,17633613.294029,2010.0
+North America,NAC,Rural population (% of total population),SP.RUR.TOTL.ZS,17.8268451611462,2018.0
+North America,NAC,Surface area (sq. km),AG.SRF.TOTL.K2,19820470.0,2018.0
+Not classified,INX,Rural land area (sq. km),AG.LND.TOTL.RU.K2,NaN,1960.0
+Not classified,INX,Rural population (% of total population),SP.RUR.TOTL.ZS,NaN,1960.0
+Not classified,INX,Surface area (sq. km),AG.SRF.TOTL.K2,NaN,1960.0
+OECD members,OED,Rural land area (sq. km),AG.LND.TOTL.RU.K2,32610828.998423,2010.0
+OECD members,OED,Rural population (% of total population),SP.RUR.TOTL.ZS,19.4066924289496,2018.0
+OECD members,OED,Surface area (sq. km),AG.SRF.TOTL.K2,36570179.1064453,2018.0
+Other small states,OSS,Rural land area (sq. km),AG.LND.TOTL.RU.K2,1365357.06347306,2010.0
+Other small states,OSS,Rural population (% of total population),SP.RUR.TOTL.ZS,37.88196185254979,2018.0
+Other small states,OSS,Surface area (sq. km),AG.SRF.TOTL.K2,2072942.99911499,2018.0
+Pacific island small states,PSS,Rural land area (sq. km),AG.LND.TOTL.RU.K2,63259.04955993,2010.0
+Pacific island small states,PSS,Rural population (% of total population),SP.RUR.TOTL.ZS,61.21865588208839,2018.0
+Pacific island small states,PSS,Surface area (sq. km),AG.SRF.TOTL.K2,65150.0,2018.0
+Post-demographic dividend,PST,Rural land area (sq. km),AG.LND.TOTL.RU.K2,29857737.362148304,2010.0
+Post-demographic dividend,PST,Rural population (% of total population),SP.RUR.TOTL.ZS,18.719305215502104,2018.0
+Post-demographic dividend,PST,Surface area (sq. km),AG.SRF.TOTL.K2,33539743.506460197,2018.0
+Pre-demographic dividend,PRE,Rural land area (sq. km),AG.LND.TOTL.RU.K2,15238541.323560001,2010.0
+Pre-demographic dividend,PRE,Rural population (% of total population),SP.RUR.TOTL.ZS,58.7730484857523,2018.0
+Pre-demographic dividend,PRE,Surface area (sq. km),AG.SRF.TOTL.K2,18149307.992248498,2018.0
+Small states,SST,Rural land area (sq. km),AG.LND.TOTL.RU.K2,1821834.32156037,2010.0
+Small states,SST,Rural population (% of total population),SP.RUR.TOTL.ZS,41.2755759294671,2018.0
+Small states,SST,Surface area (sq. km),AG.SRF.TOTL.K2,2573082.99911499,2018.0
+South Asia,SAS,Rural land area (sq. km),AG.LND.TOTL.RU.K2,3917486.9642907004,2010.0
+South Asia,SAS,Rural population (% of total population),SP.RUR.TOTL.ZS,66.0076387543573,2018.0
+South Asia,SAS,Surface area (sq. km),AG.SRF.TOTL.K2,5135333.06152344,2018.0
+South Asia (IDA & IBRD),TSA,Rural land area (sq. km),AG.LND.TOTL.RU.K2,3917486.9642907004,2010.0
+South Asia (IDA & IBRD),TSA,Rural population (% of total population),SP.RUR.TOTL.ZS,66.0076387543573,2018.0
+South Asia (IDA & IBRD),TSA,Surface area (sq. km),AG.SRF.TOTL.K2,5135333.06152344,2018.0
+Sub-Saharan Africa,SSF,Rural land area (sq. km),AG.LND.TOTL.RU.K2,17310643.9635835,2010.0
+Sub-Saharan Africa,SSF,Rural population (% of total population),SP.RUR.TOTL.ZS,59.823176627048504,2018.0
+Sub-Saharan Africa,SSF,Surface area (sq. km),AG.SRF.TOTL.K2,21754456.000060998,2018.0
+Sub-Saharan Africa (excluding high income),SSA,Rural land area (sq. km),AG.LND.TOTL.RU.K2,17310455.997976802,2010.0
+Sub-Saharan Africa (excluding high income),SSA,Rural population (% of total population),SP.RUR.TOTL.ZS,59.824658662196995,2018.0
+Sub-Saharan Africa (excluding high income),SSA,Surface area (sq. km),AG.SRF.TOTL.K2,21753996.000060998,2018.0
+Sub-Saharan Africa (IDA & IBRD countries),TSS,Rural land area (sq. km),AG.LND.TOTL.RU.K2,17310643.9635835,2010.0
+Sub-Saharan Africa (IDA & IBRD countries),TSS,Rural population (% of total population),SP.RUR.TOTL.ZS,59.823176627048504,2018.0
+Sub-Saharan Africa (IDA & IBRD countries),TSS,Surface area (sq. km),AG.SRF.TOTL.K2,21754456.000060998,2018.0
+Upper middle income,UMC,Rural land area (sq. km),AG.LND.TOTL.RU.K2,51456955.3822517,2010.0
+Upper middle income,UMC,Rural population (% of total population),SP.RUR.TOTL.ZS,33.766631701914704,2018.0
+Upper middle income,UMC,Surface area (sq. km),AG.SRF.TOTL.K2,59882254.84375,2018.0
+World,WLD,Rural land area (sq. km),AG.LND.TOTL.RU.K2,111794070.42396799,2010.0
+World,WLD,Rural population (% of total population),SP.RUR.TOTL.ZS,44.7294214513868,2018.0
+World,WLD,Surface area (sq. km),AG.SRF.TOTL.K2,132025199.411879,2018.0
+Afghanistan,AFG,Rural land area (sq. km),AG.LND.TOTL.RU.K2,NaN,1960.0
+Afghanistan,AFG,Rural population (% of total population),SP.RUR.TOTL.ZS,74.505,2018.0
+Afghanistan,AFG,Surface area (sq. km),AG.SRF.TOTL.K2,652860.0,2018.0
+Albania,ALB,Rural land area (sq. km),AG.LND.TOTL.RU.K2,26686.71094,2010.0
+Albania,ALB,Rural population (% of total population),SP.RUR.TOTL.ZS,39.681,2018.0
+Albania,ALB,Surface area (sq. km),AG.SRF.TOTL.K2,28750.0,2018.0
+Algeria,DZA,Rural land area (sq. km),AG.LND.TOTL.RU.K2,2285675.75,2010.0
+Algeria,DZA,Rural population (% of total population),SP.RUR.TOTL.ZS,27.371,2018.0
+Algeria,DZA,Surface area (sq. km),AG.SRF.TOTL.K2,2381740.0,2018.0
+American Samoa,ASM,Rural land area (sq. km),AG.LND.TOTL.RU.K2,87.64226532,2010.0
+American Samoa,ASM,Rural population (% of total population),SP.RUR.TOTL.ZS,12.847000000000001,2018.0
+American Samoa,ASM,Surface area (sq. km),AG.SRF.TOTL.K2,200.0,2018.0
+Andorra,AND,Rural land area (sq. km),AG.LND.TOTL.RU.K2,NaN,1960.0
+Andorra,AND,Rural population (% of total population),SP.RUR.TOTL.ZS,11.937999999999999,2018.0
+Andorra,AND,Surface area (sq. km),AG.SRF.TOTL.K2,470.0,2018.0
+Angola,AGO,Rural land area (sq. km),AG.LND.TOTL.RU.K2,1248198.625,2010.0
+Angola,AGO,Rural population (% of total population),SP.RUR.TOTL.ZS,34.486,2018.0
+Angola,AGO,Surface area (sq. km),AG.SRF.TOTL.K2,1246700.0,2018.0
+Antigua and Barbuda,ATG,Rural land area (sq. km),AG.LND.TOTL.RU.K2,167.8600616,2010.0
+Antigua and Barbuda,ATG,Rural population (% of total population),SP.RUR.TOTL.ZS,75.40100000000001,2018.0
+Antigua and Barbuda,ATG,Surface area (sq. km),AG.SRF.TOTL.K2,440.0,2018.0
+Argentina,ARG,Rural land area (sq. km),AG.LND.TOTL.RU.K2,2690269.5,2010.0
+Argentina,ARG,Rural population (% of total population),SP.RUR.TOTL.ZS,8.13,2018.0
+Argentina,ARG,Surface area (sq. km),AG.SRF.TOTL.K2,2780400.0,2018.0
+Armenia,ARM,Rural land area (sq. km),AG.LND.TOTL.RU.K2,NaN,1960.0
+Armenia,ARM,Rural population (% of total population),SP.RUR.TOTL.ZS,36.851,2018.0
+Armenia,ARM,Surface area (sq. km),AG.SRF.TOTL.K2,29740.0,2018.0
+Aruba,ABW,Rural land area (sq. km),AG.LND.TOTL.RU.K2,9.008321762000001,2010.0
+Aruba,ABW,Rural population (% of total population),SP.RUR.TOTL.ZS,56.589,2018.0
+Aruba,ABW,Surface area (sq. km),AG.SRF.TOTL.K2,180.0,2018.0
+Australia,AUS,Rural land area (sq. km),AG.LND.TOTL.RU.K2,7641564.5,2010.0
+Australia,AUS,Rural population (% of total population),SP.RUR.TOTL.ZS,13.988,2018.0
+Australia,AUS,Surface area (sq. km),AG.SRF.TOTL.K2,7741220.0,2018.0
+Austria,AUT,Rural land area (sq. km),AG.LND.TOTL.RU.K2,NaN,1960.0
+Austria,AUT,Rural population (% of total population),SP.RUR.TOTL.ZS,41.703,2018.0
+Austria,AUT,Surface area (sq. km),AG.SRF.TOTL.K2,83879.00390625,2018.0
+Azerbaijan,AZE,Rural land area (sq. km),AG.LND.TOTL.RU.K2,NaN,1960.0
+Azerbaijan,AZE,Rural population (% of total population),SP.RUR.TOTL.ZS,44.32,2018.0
+Azerbaijan,AZE,Surface area (sq. km),AG.SRF.TOTL.K2,86600.0,2018.0
+"Bahamas, The",BHS,Rural land area (sq. km),AG.LND.TOTL.RU.K2,12245.5166,2010.0
+"Bahamas, The",BHS,Rural population (% of total population),SP.RUR.TOTL.ZS,16.975,2018.0
+"Bahamas, The",BHS,Surface area (sq. km),AG.SRF.TOTL.K2,13880.0,2018.0
+Bahrain,BHR,Rural land area (sq. km),AG.LND.TOTL.RU.K2,115.1443634,2010.0
+Bahrain,BHR,Rural population (% of total population),SP.RUR.TOTL.ZS,10.713,2018.0
+Bahrain,BHR,Surface area (sq. km),AG.SRF.TOTL.K2,778.000030517578,2018.0
+Bangladesh,BGD,Rural land area (sq. km),AG.LND.TOTL.RU.K2,123889.625,2010.0
+Bangladesh,BGD,Rural population (% of total population),SP.RUR.TOTL.ZS,63.368,2018.0
+Bangladesh,BGD,Surface area (sq. km),AG.SRF.TOTL.K2,147630.0,2018.0
+Barbados,BRB,Rural land area (sq. km),AG.LND.TOTL.RU.K2,14.80739212,2010.0
+Barbados,BRB,Rural population (% of total population),SP.RUR.TOTL.ZS,68.85300000000001,2018.0
+Barbados,BRB,Surface area (sq. km),AG.SRF.TOTL.K2,430.0,2018.0
+Belarus,BLR,Rural land area (sq. km),AG.LND.TOTL.RU.K2,198055.7813,2010.0
+Belarus,BLR,Rural population (% of total population),SP.RUR.TOTL.ZS,21.405,2018.0
+Belarus,BLR,Surface area (sq. km),AG.SRF.TOTL.K2,207600.0,2018.0
+Belgium,BEL,Rural land area (sq. km),AG.LND.TOTL.RU.K2,18091.89063,2010.0
+Belgium,BEL,Rural population (% of total population),SP.RUR.TOTL.ZS,1.999,2018.0
+Belgium,BEL,Surface area (sq. km),AG.SRF.TOTL.K2,30530.0,2018.0
+Belize,BLZ,Rural land area (sq. km),AG.LND.TOTL.RU.K2,21296.04492,2010.0
+Belize,BLZ,Rural population (% of total population),SP.RUR.TOTL.ZS,54.276,2018.0
+Belize,BLZ,Surface area (sq. km),AG.SRF.TOTL.K2,22970.0,2018.0
+Benin,BEN,Rural land area (sq. km),AG.LND.TOTL.RU.K2,113916.9609,2010.0
+Benin,BEN,Rural population (% of total population),SP.RUR.TOTL.ZS,52.688,2018.0
+Benin,BEN,Surface area (sq. km),AG.SRF.TOTL.K2,114760.0,2018.0
+Bermuda,BMU,Rural land area (sq. km),AG.LND.TOTL.RU.K2,22.78402901,2010.0
+Bermuda,BMU,Rural population (% of total population),SP.RUR.TOTL.ZS,0.0,2018.0
+Bermuda,BMU,Surface area (sq. km),AG.SRF.TOTL.K2,4290.0,2018.0
+Bhutan,BTN,Rural land area (sq. km),AG.LND.TOTL.RU.K2,NaN,1960.0
+Bhutan,BTN,Rural population (% of total population),SP.RUR.TOTL.ZS,59.105,2018.0
+Bhutan,BTN,Surface area (sq. km),AG.SRF.TOTL.K2,38393.9990234375,2018.0
+Bolivia,BOL,Rural land area (sq. km),AG.LND.TOTL.RU.K2,NaN,1960.0
+Bolivia,BOL,Rural population (% of total population),SP.RUR.TOTL.ZS,30.575,2018.0
+Bolivia,BOL,Surface area (sq. km),AG.SRF.TOTL.K2,1098580.0,2018.0
+Bosnia and Herzegovina,BIH,Rural land area (sq. km),AG.LND.TOTL.RU.K2,49338.41797,2010.0
+Bosnia and Herzegovina,BIH,Rural population (% of total population),SP.RUR.TOTL.ZS,51.755,2018.0
+Bosnia and Herzegovina,BIH,Surface area (sq. km),AG.SRF.TOTL.K2,51210.0,2018.0
+Botswana,BWA,Rural land area (sq. km),AG.LND.TOTL.RU.K2,NaN,1960.0
+Botswana,BWA,Rural population (% of total population),SP.RUR.TOTL.ZS,30.554000000000002,2018.0
+Botswana,BWA,Surface area (sq. km),AG.SRF.TOTL.K2,581730.0,2018.0
+Brazil,BRA,Rural land area (sq. km),AG.LND.TOTL.RU.K2,8241430.0,2010.0
+Brazil,BRA,Rural population (% of total population),SP.RUR.TOTL.ZS,13.431,2018.0
+Brazil,BRA,Surface area (sq. km),AG.SRF.TOTL.K2,8515770.0,2018.0
+British Virgin Islands,VGB,Rural land area (sq. km),AG.LND.TOTL.RU.K2,106.7865906,2010.0
+British Virgin Islands,VGB,Rural population (% of total population),SP.RUR.TOTL.ZS,52.277,2018.0
+British Virgin Islands,VGB,Surface area (sq. km),AG.SRF.TOTL.K2,150.0,2018.0
+Brunei Darussalam,BRN,Rural land area (sq. km),AG.LND.TOTL.RU.K2,4743.62207,2010.0
+Brunei Darussalam,BRN,Rural population (% of total population),SP.RUR.TOTL.ZS,22.371,2018.0
+Brunei Darussalam,BRN,Surface area (sq. km),AG.SRF.TOTL.K2,5770.0,2018.0
+Bulgaria,BGR,Rural land area (sq. km),AG.LND.TOTL.RU.K2,103838.0078,2010.0
+Bulgaria,BGR,Rural population (% of total population),SP.RUR.TOTL.ZS,24.991999999999997,2018.0
+Bulgaria,BGR,Surface area (sq. km),AG.SRF.TOTL.K2,111000.0,2018.0
+Burkina Faso,BFA,Rural land area (sq. km),AG.LND.TOTL.RU.K2,NaN,1960.0
+Burkina Faso,BFA,Rural population (% of total population),SP.RUR.TOTL.ZS,70.642,2018.0
+Burkina Faso,BFA,Surface area (sq. km),AG.SRF.TOTL.K2,274220.0,2018.0
+Burundi,BDI,Rural land area (sq. km),AG.LND.TOTL.RU.K2,NaN,1960.0
+Burundi,BDI,Rural population (% of total population),SP.RUR.TOTL.ZS,86.96799999999999,2018.0
+Burundi,BDI,Surface area (sq. km),AG.SRF.TOTL.K2,27830.0,2018.0
+Cabo Verde,CPV,Rural land area (sq. km),AG.LND.TOTL.RU.K2,3913.569092,2010.0
+Cabo Verde,CPV,Rural population (% of total population),SP.RUR.TOTL.ZS,34.268,2018.0
+Cabo Verde,CPV,Surface area (sq. km),AG.SRF.TOTL.K2,4030.0,2018.0
+Cambodia,KHM,Rural land area (sq. km),AG.LND.TOTL.RU.K2,176298.1875,2010.0
+Cambodia,KHM,Rural population (% of total population),SP.RUR.TOTL.ZS,76.612,2018.0
+Cambodia,KHM,Surface area (sq. km),AG.SRF.TOTL.K2,181040.0,2018.0
+Cameroon,CMR,Rural land area (sq. km),AG.LND.TOTL.RU.K2,459153.1875,2010.0
+Cameroon,CMR,Rural population (% of total population),SP.RUR.TOTL.ZS,43.626000000000005,2018.0
+Cameroon,CMR,Surface area (sq. km),AG.SRF.TOTL.K2,475440.0,2018.0
+Canada,CAN,Rural land area (sq. km),AG.LND.TOTL.RU.K2,9084045.0,2010.0
+Canada,CAN,Rural population (% of total population),SP.RUR.TOTL.ZS,18.589000000000002,2018.0
+Canada,CAN,Surface area (sq. km),AG.SRF.TOTL.K2,9984670.0,2018.0
+Cayman Islands,CYM,Rural land area (sq. km),AG.LND.TOTL.RU.K2,64.61621094,2010.0
+Cayman Islands,CYM,Rural population (% of total population),SP.RUR.TOTL.ZS,0.0,2018.0
+Cayman Islands,CYM,Surface area (sq. km),AG.SRF.TOTL.K2,260.0,2018.0
+Central African Republic,CAF,Rural land area (sq. km),AG.LND.TOTL.RU.K2,NaN,1960.0
+Central African Republic,CAF,Rural population (% of total population),SP.RUR.TOTL.ZS,58.636,2018.0
+Central African Republic,CAF,Surface area (sq. km),AG.SRF.TOTL.K2,622980.0,2018.0
+Chad,TCD,Rural land area (sq. km),AG.LND.TOTL.RU.K2,NaN,1960.0
+Chad,TCD,Rural population (% of total population),SP.RUR.TOTL.ZS,76.941,2018.0
+Chad,TCD,Surface area (sq. km),AG.SRF.TOTL.K2,1284000.0,2018.0
+Channel Islands,CHI,Rural land area (sq. km),AG.LND.TOTL.RU.K2,NaN,1960.0
+Channel Islands,CHI,Rural population (% of total population),SP.RUR.TOTL.ZS,69.086,2018.0
+Channel Islands,CHI,Surface area (sq. km),AG.SRF.TOTL.K2,197.999992370605,2018.0
+Chile,CHL,Rural land area (sq. km),AG.LND.TOTL.RU.K2,709418.75,2010.0
+Chile,CHL,Rural population (% of total population),SP.RUR.TOTL.ZS,12.436,2018.0
+Chile,CHL,Surface area (sq. km),AG.SRF.TOTL.K2,756700.0,2018.0
+China,CHN,Rural land area (sq. km),AG.LND.TOTL.RU.K2,8868577.0,2010.0
+China,CHN,Rural population (% of total population),SP.RUR.TOTL.ZS,40.848,2018.0
+China,CHN,Surface area (sq. km),AG.SRF.TOTL.K2,9562910.0,2018.0
+Colombia,COL,Rural land area (sq. km),AG.LND.TOTL.RU.K2,1090598.125,2010.0
+Colombia,COL,Rural population (% of total population),SP.RUR.TOTL.ZS,19.222,2018.0
+Colombia,COL,Surface area (sq. km),AG.SRF.TOTL.K2,1141748.984375,2018.0
+Comoros,COM,Rural land area (sq. km),AG.LND.TOTL.RU.K2,1478.78833,2010.0
+Comoros,COM,Rural population (% of total population),SP.RUR.TOTL.ZS,71.035,2018.0
+Comoros,COM,Surface area (sq. km),AG.SRF.TOTL.K2,1861.0000610351601,2018.0
+"Congo, Dem. Rep.",COD,Rural land area (sq. km),AG.LND.TOTL.RU.K2,2278811.75,2010.0
+"Congo, Dem. Rep.",COD,Rural population (% of total population),SP.RUR.TOTL.ZS,55.54,2018.0
+"Congo, Dem. Rep.",COD,Surface area (sq. km),AG.SRF.TOTL.K2,2344860.0,2018.0
+"Congo, Rep.",COG,Rural land area (sq. km),AG.LND.TOTL.RU.K2,338427.125,2010.0
+"Congo, Rep.",COG,Rural population (% of total population),SP.RUR.TOTL.ZS,33.084,2018.0
+"Congo, Rep.",COG,Surface area (sq. km),AG.SRF.TOTL.K2,342000.0,2018.0
+Costa Rica,CRI,Rural land area (sq. km),AG.LND.TOTL.RU.K2,46479.98438,2010.0
+Costa Rica,CRI,Rural population (% of total population),SP.RUR.TOTL.ZS,20.66,2018.0
+Costa Rica,CRI,Surface area (sq. km),AG.SRF.TOTL.K2,51100.0,2018.0
+Cote d'Ivoire,CIV,Rural land area (sq. km),AG.LND.TOTL.RU.K2,314812.3438,2010.0
+Cote d'Ivoire,CIV,Rural population (% of total population),SP.RUR.TOTL.ZS,49.221000000000004,2018.0
+Cote d'Ivoire,CIV,Surface area (sq. km),AG.SRF.TOTL.K2,322460.0,2018.0
+Croatia,HRV,Rural land area (sq. km),AG.LND.TOTL.RU.K2,51019.57031,2010.0
+Croatia,HRV,Rural population (% of total population),SP.RUR.TOTL.ZS,43.053000000000004,2018.0
+Croatia,HRV,Surface area (sq. km),AG.SRF.TOTL.K2,56590.0,2018.0
+Cuba,CUB,Rural land area (sq. km),AG.LND.TOTL.RU.K2,100440.7969,2010.0
+Cuba,CUB,Rural population (% of total population),SP.RUR.TOTL.ZS,22.963,2018.0
+Cuba,CUB,Surface area (sq. km),AG.SRF.TOTL.K2,109880.0,2018.0
+Curacao,CUW,Rural land area (sq. km),AG.LND.TOTL.RU.K2,NaN,1960.0
+Curacao,CUW,Rural population (% of total population),SP.RUR.TOTL.ZS,10.855,2018.0
+Curacao,CUW,Surface area (sq. km),AG.SRF.TOTL.K2,444.0,2017.0
+Cyprus,CYP,Rural land area (sq. km),AG.LND.TOTL.RU.K2,6949.833984000001,2010.0
+Cyprus,CYP,Rural population (% of total population),SP.RUR.TOTL.ZS,33.19,2018.0
+Cyprus,CYP,Surface area (sq. km),AG.SRF.TOTL.K2,9250.0,2018.0
+Czech Republic,CZE,Rural land area (sq. km),AG.LND.TOTL.RU.K2,NaN,1960.0
+Czech Republic,CZE,Rural population (% of total population),SP.RUR.TOTL.ZS,26.208000000000002,2018.0
+Czech Republic,CZE,Surface area (sq. km),AG.SRF.TOTL.K2,78870.0,2018.0
+Denmark,DNK,Rural land area (sq. km),AG.LND.TOTL.RU.K2,33044.11719,2010.0
+Denmark,DNK,Rural population (% of total population),SP.RUR.TOTL.ZS,12.126,2018.0
+Denmark,DNK,Surface area (sq. km),AG.SRF.TOTL.K2,42920.0,2018.0
+Djibouti,DJI,Rural land area (sq. km),AG.LND.TOTL.RU.K2,21411.55273,2010.0
+Djibouti,DJI,Rural population (% of total population),SP.RUR.TOTL.ZS,22.223000000000003,2018.0
+Djibouti,DJI,Surface area (sq. km),AG.SRF.TOTL.K2,23200.0,2018.0
+Dominica,DMA,Rural land area (sq. km),AG.LND.TOTL.RU.K2,503.7093811000001,2010.0
+Dominica,DMA,Rural population (% of total population),SP.RUR.TOTL.ZS,29.517,2018.0
+Dominica,DMA,Surface area (sq. km),AG.SRF.TOTL.K2,750.0,2018.0
+Dominican Republic,DOM,Rural land area (sq. km),AG.LND.TOTL.RU.K2,42784.17969,2010.0
+Dominican Republic,DOM,Rural population (% of total population),SP.RUR.TOTL.ZS,18.926,2018.0
+Dominican Republic,DOM,Surface area (sq. km),AG.SRF.TOTL.K2,48670.0,2018.0
+Ecuador,ECU,Rural land area (sq. km),AG.LND.TOTL.RU.K2,244458.2344,2010.0
+Ecuador,ECU,Rural population (% of total population),SP.RUR.TOTL.ZS,36.179,2018.0
+Ecuador,ECU,Surface area (sq. km),AG.SRF.TOTL.K2,256370.0,2018.0
+"Egypt, Arab Rep.",EGY,Rural land area (sq. km),AG.LND.TOTL.RU.K2,951268.875,2010.0
+"Egypt, Arab Rep.",EGY,Rural population (% of total population),SP.RUR.TOTL.ZS,57.29600000000001,2018.0
+"Egypt, Arab Rep.",EGY,Surface area (sq. km),AG.SRF.TOTL.K2,1001450.0,2018.0
+El Salvador,SLV,Rural land area (sq. km),AG.LND.TOTL.RU.K2,16349.951169999998,2010.0
+El Salvador,SLV,Rural population (% of total population),SP.RUR.TOTL.ZS,27.976999999999997,2018.0
+El Salvador,SLV,Surface area (sq. km),AG.SRF.TOTL.K2,21040.0,2018.0
+Equatorial Guinea,GNQ,Rural land area (sq. km),AG.LND.TOTL.RU.K2,26800.91797,2010.0
+Equatorial Guinea,GNQ,Rural population (% of total population),SP.RUR.TOTL.ZS,27.857,2018.0
+Equatorial Guinea,GNQ,Surface area (sq. km),AG.SRF.TOTL.K2,28050.0,2018.0
+Eritrea,ERI,Rural land area (sq. km),AG.LND.TOTL.RU.K2,122239.8281,2010.0
+Eritrea,ERI,Rural population (% of total population),SP.RUR.TOTL.ZS,64.229,2011.0
+Eritrea,ERI,Surface area (sq. km),AG.SRF.TOTL.K2,117600.0,2018.0
+Estonia,EST,Rural land area (sq. km),AG.LND.TOTL.RU.K2,40498.62109,2010.0
+Estonia,EST,Rural population (% of total population),SP.RUR.TOTL.ZS,31.12,2018.0
+Estonia,EST,Surface area (sq. km),AG.SRF.TOTL.K2,45340.0,2018.0
+Eswatini,SWZ,Rural land area (sq. km),AG.LND.TOTL.RU.K2,16551.38672,2010.0
+Eswatini,SWZ,Rural population (% of total population),SP.RUR.TOTL.ZS,76.20100000000001,2018.0
+Eswatini,SWZ,Surface area (sq. km),AG.SRF.TOTL.K2,17360.0,2018.0
+Ethiopia,ETH,Rural land area (sq. km),AG.LND.TOTL.RU.K2,1117893.375,2010.0
+Ethiopia,ETH,Rural population (% of total population),SP.RUR.TOTL.ZS,79.237,2018.0
+Ethiopia,ETH,Surface area (sq. km),AG.SRF.TOTL.K2,1104300.0,2018.0
+Faroe Islands,FRO,Rural land area (sq. km),AG.LND.TOTL.RU.K2,1379.9313960000002,2010.0
+Faroe Islands,FRO,Rural population (% of total population),SP.RUR.TOTL.ZS,57.93600000000001,2018.0
+Faroe Islands,FRO,Surface area (sq. km),AG.SRF.TOTL.K2,1396.00006103516,2018.0
+Fiji,FJI,Rural land area (sq. km),AG.LND.TOTL.RU.K2,17199.44379,2010.0
+Fiji,FJI,Rural population (% of total population),SP.RUR.TOTL.ZS,43.751999999999995,2018.0
+Fiji,FJI,Surface area (sq. km),AG.SRF.TOTL.K2,18270.0,2018.0
+Finland,FIN,Rural land area (sq. km),AG.LND.TOTL.RU.K2,289666.2813,2010.0
+Finland,FIN,Rural population (% of total population),SP.RUR.TOTL.ZS,14.618,2018.0
+Finland,FIN,Surface area (sq. km),AG.SRF.TOTL.K2,338450.0,2018.0
+France,FRA,Rural land area (sq. km),AG.LND.TOTL.RU.K2,457993.5938,2010.0
+France,FRA,Rural population (% of total population),SP.RUR.TOTL.ZS,19.555999999999997,2018.0
+France,FRA,Surface area (sq. km),AG.SRF.TOTL.K2,549086.9921875,2018.0
+French Polynesia,PYF,Rural land area (sq. km),AG.LND.TOTL.RU.K2,3787.225342,2010.0
+French Polynesia,PYF,Rural population (% of total population),SP.RUR.TOTL.ZS,38.166,2018.0
+French Polynesia,PYF,Surface area (sq. km),AG.SRF.TOTL.K2,4000.0,2018.0
+Gabon,GAB,Rural land area (sq. km),AG.LND.TOTL.RU.K2,261381.75,2010.0
+Gabon,GAB,Rural population (% of total population),SP.RUR.TOTL.ZS,10.63,2018.0
+Gabon,GAB,Surface area (sq. km),AG.SRF.TOTL.K2,267670.0,2018.0
+"Gambia, The",GMB,Rural land area (sq. km),AG.LND.TOTL.RU.K2,10461.87305,2010.0
+"Gambia, The",GMB,Rural population (% of total population),SP.RUR.TOTL.ZS,38.73,2018.0
+"Gambia, The",GMB,Surface area (sq. km),AG.SRF.TOTL.K2,11300.0,2018.0
+Georgia,GEO,Rural land area (sq. km),AG.LND.TOTL.RU.K2,64912.71484,2010.0
+Georgia,GEO,Rural population (% of total population),SP.RUR.TOTL.ZS,41.368,2018.0
+Georgia,GEO,Surface area (sq. km),AG.SRF.TOTL.K2,69700.0,2018.0
+Germany,DEU,Rural land area (sq. km),AG.LND.TOTL.RU.K2,291859.2188,2010.0
+Germany,DEU,Rural population (% of total population),SP.RUR.TOTL.ZS,22.688000000000002,2018.0
+Germany,DEU,Surface area (sq. km),AG.SRF.TOTL.K2,357580.0,2018.0
+Ghana,GHA,Rural land area (sq. km),AG.LND.TOTL.RU.K2,224697.4844,2010.0
+Ghana,GHA,Rural population (% of total population),SP.RUR.TOTL.ZS,43.94,2018.0
+Ghana,GHA,Surface area (sq. km),AG.SRF.TOTL.K2,238540.0,2018.0
+Gibraltar,GIB,Rural land area (sq. km),AG.LND.TOTL.RU.K2,2.264643908,2010.0
+Gibraltar,GIB,Rural population (% of total population),SP.RUR.TOTL.ZS,0.0,2018.0
+Gibraltar,GIB,Surface area (sq. km),AG.SRF.TOTL.K2,10.0,2018.0
+Greece,GRC,Rural land area (sq. km),AG.LND.TOTL.RU.K2,112653.5781,2010.0
+Greece,GRC,Rural population (% of total population),SP.RUR.TOTL.ZS,20.941999999999997,2018.0
+Greece,GRC,Surface area (sq. km),AG.SRF.TOTL.K2,131960.0,2018.0
+Greenland,GRL,Rural land area (sq. km),AG.LND.TOTL.RU.K2,242639.5938,2010.0
+Greenland,GRL,Rural population (% of total population),SP.RUR.TOTL.ZS,13.184000000000001,2018.0
+Greenland,GRL,Surface area (sq. km),AG.SRF.TOTL.K2,410450.0,2018.0
+Grenada,GRD,Rural land area (sq. km),AG.LND.TOTL.RU.K2,153.5099182,2010.0
+Grenada,GRD,Rural population (% of total population),SP.RUR.TOTL.ZS,63.728,2018.0
+Grenada,GRD,Surface area (sq. km),AG.SRF.TOTL.K2,340.0,2018.0
+Guam,GUM,Rural land area (sq. km),AG.LND.TOTL.RU.K2,33.10237503,2010.0
+Guam,GUM,Rural population (% of total population),SP.RUR.TOTL.ZS,5.22,2018.0
+Guam,GUM,Surface area (sq. km),AG.SRF.TOTL.K2,540.0,2018.0
+Guatemala,GTM,Rural land area (sq. km),AG.LND.TOTL.RU.K2,103568.3359,2010.0
+Guatemala,GTM,Rural population (% of total population),SP.RUR.TOTL.ZS,48.946000000000005,2018.0
+Guatemala,GTM,Surface area (sq. km),AG.SRF.TOTL.K2,108890.0,2018.0
+Guinea,GIN,Rural land area (sq. km),AG.LND.TOTL.RU.K2,243431.1875,2010.0
+Guinea,GIN,Rural population (% of total population),SP.RUR.TOTL.ZS,63.86,2018.0
+Guinea,GIN,Surface area (sq. km),AG.SRF.TOTL.K2,245860.0,2018.0
+Guinea-Bissau,GNB,Rural land area (sq. km),AG.LND.TOTL.RU.K2,33629.69922,2010.0
+Guinea-Bissau,GNB,Rural population (% of total population),SP.RUR.TOTL.ZS,56.64,2018.0
+Guinea-Bissau,GNB,Surface area (sq. km),AG.SRF.TOTL.K2,36130.0,2018.0
+Guyana,GUY,Rural land area (sq. km),AG.LND.TOTL.RU.K2,207343.4219,2010.0
+Guyana,GUY,Rural population (% of total population),SP.RUR.TOTL.ZS,73.39399999999999,2018.0
+Guyana,GUY,Surface area (sq. km),AG.SRF.TOTL.K2,214970.0,2018.0
+Haiti,HTI,Rural land area (sq. km),AG.LND.TOTL.RU.K2,26163.41602,2010.0
+Haiti,HTI,Rural population (% of total population),SP.RUR.TOTL.ZS,44.722,2018.0
+Haiti,HTI,Surface area (sq. km),AG.SRF.TOTL.K2,27750.0,2018.0
+Honduras,HND,Rural land area (sq. km),AG.LND.TOTL.RU.K2,108150.5781,2010.0
+Honduras,HND,Rural population (% of total population),SP.RUR.TOTL.ZS,42.903999999999996,2018.0
+Honduras,HND,Surface area (sq. km),AG.SRF.TOTL.K2,112490.0,2018.0
+"Hong Kong SAR, China",HKG,Rural land area (sq. km),AG.LND.TOTL.RU.K2,231.1713409,2010.0
+"Hong Kong SAR, China",HKG,Rural population (% of total population),SP.RUR.TOTL.ZS,0.0,2018.0
+"Hong Kong SAR, China",HKG,Surface area (sq. km),AG.SRF.TOTL.K2,1110.0,2018.0
+Hungary,HUN,Rural land area (sq. km),AG.LND.TOTL.RU.K2,NaN,1960.0
+Hungary,HUN,Rural population (% of total population),SP.RUR.TOTL.ZS,28.649,2018.0
+Hungary,HUN,Surface area (sq. km),AG.SRF.TOTL.K2,93030.0,2018.0
+Iceland,ISL,Rural land area (sq. km),AG.LND.TOTL.RU.K2,88593.21875,2010.0
+Iceland,ISL,Rural population (% of total population),SP.RUR.TOTL.ZS,6.187,2018.0
+Iceland,ISL,Surface area (sq. km),AG.SRF.TOTL.K2,103000.0,2018.0
+India,IND,Rural land area (sq. km),AG.LND.TOTL.RU.K2,2980489.25,2010.0
+India,IND,Rural population (% of total population),SP.RUR.TOTL.ZS,65.97,2018.0
+India,IND,Surface area (sq. km),AG.SRF.TOTL.K2,3287259.0625,2018.0
+Indonesia,IDN,Rural land area (sq. km),AG.LND.TOTL.RU.K2,1838682.625,2010.0
+Indonesia,IDN,Rural population (% of total population),SP.RUR.TOTL.ZS,44.675,2018.0
+Indonesia,IDN,Surface area (sq. km),AG.SRF.TOTL.K2,1913580.0,2018.0
+"Iran, Islamic Rep.",IRN,Rural land area (sq. km),AG.LND.TOTL.RU.K2,1545056.125,2010.0
+"Iran, Islamic Rep.",IRN,Rural population (% of total population),SP.RUR.TOTL.ZS,25.101999999999997,2018.0
+"Iran, Islamic Rep.",IRN,Surface area (sq. km),AG.SRF.TOTL.K2,1745150.0,2018.0
+Iraq,IRQ,Rural land area (sq. km),AG.LND.TOTL.RU.K2,415377.6563,2010.0
+Iraq,IRQ,Rural population (% of total population),SP.RUR.TOTL.ZS,29.526999999999997,2018.0
+Iraq,IRQ,Surface area (sq. km),AG.SRF.TOTL.K2,435051.9921875,2018.0
+Ireland,IRL,Rural land area (sq. km),AG.LND.TOTL.RU.K2,63249.21484,2010.0
+Ireland,IRL,Rural population (% of total population),SP.RUR.TOTL.ZS,36.83,2018.0
+Ireland,IRL,Surface area (sq. km),AG.SRF.TOTL.K2,70280.0,2018.0
+Isle of Man,IMN,Rural land area (sq. km),AG.LND.TOTL.RU.K2,333.47103880000003,2010.0
+Isle of Man,IMN,Rural population (% of total population),SP.RUR.TOTL.ZS,47.412,2018.0
+Isle of Man,IMN,Surface area (sq. km),AG.SRF.TOTL.K2,570.0,2018.0
+Israel,ISR,Rural land area (sq. km),AG.LND.TOTL.RU.K2,15621.7832,2010.0
+Israel,ISR,Rural population (% of total population),SP.RUR.TOTL.ZS,7.58199999999999,2018.0
+Israel,ISR,Surface area (sq. km),AG.SRF.TOTL.K2,22070.0,2018.0
+Italy,ITA,Rural land area (sq. km),AG.LND.TOTL.RU.K2,223236.4375,2010.0
+Italy,ITA,Rural population (% of total population),SP.RUR.TOTL.ZS,29.561999999999998,2018.0
+Italy,ITA,Surface area (sq. km),AG.SRF.TOTL.K2,301340.0,2018.0
+Jamaica,JAM,Rural land area (sq. km),AG.LND.TOTL.RU.K2,8015.424316,2010.0
+Jamaica,JAM,Rural population (% of total population),SP.RUR.TOTL.ZS,44.326,2018.0
+Jamaica,JAM,Surface area (sq. km),AG.SRF.TOTL.K2,10990.0,2018.0
+Japan,JPN,Rural land area (sq. km),AG.LND.TOTL.RU.K2,260649.5938,2010.0
+Japan,JPN,Rural population (% of total population),SP.RUR.TOTL.ZS,8.384,2018.0
+Japan,JPN,Surface area (sq. km),AG.SRF.TOTL.K2,377970.0,2018.0
+Jordan,JOR,Rural land area (sq. km),AG.LND.TOTL.RU.K2,86229.24219,2010.0
+Jordan,JOR,Rural population (% of total population),SP.RUR.TOTL.ZS,9.021,2018.0
+Jordan,JOR,Surface area (sq. km),AG.SRF.TOTL.K2,89320.0,2018.0
+Kazakhstan,KAZ,Rural land area (sq. km),AG.LND.TOTL.RU.K2,NaN,1960.0
+Kazakhstan,KAZ,Rural population (% of total population),SP.RUR.TOTL.ZS,42.571999999999996,2018.0
+Kazakhstan,KAZ,Surface area (sq. km),AG.SRF.TOTL.K2,2724901.875,2018.0
+Kenya,KEN,Rural land area (sq. km),AG.LND.TOTL.RU.K2,576333.75,2010.0
+Kenya,KEN,Rural population (% of total population),SP.RUR.TOTL.ZS,72.97,2018.0
+Kenya,KEN,Surface area (sq. km),AG.SRF.TOTL.K2,580370.0,2018.0
+Kiribati,KIR,Rural land area (sq. km),AG.LND.TOTL.RU.K2,985.0445251,2010.0
+Kiribati,KIR,Rural population (% of total population),SP.RUR.TOTL.ZS,45.943000000000005,2018.0
+Kiribati,KIR,Surface area (sq. km),AG.SRF.TOTL.K2,810.0,2018.0
+"Korea, Dem. People’s Rep.",PRK,Rural land area (sq. km),AG.LND.TOTL.RU.K2,119243.4453,2010.0
+"Korea, Dem. People’s Rep.",PRK,Rural population (% of total population),SP.RUR.TOTL.ZS,38.101,2018.0
+"Korea, Dem. People’s Rep.",PRK,Surface area (sq. km),AG.SRF.TOTL.K2,120540.0,2018.0
+"Korea, Rep.",KOR,Rural land area (sq. km),AG.LND.TOTL.RU.K2,77155.28906,2010.0
+"Korea, Rep.",KOR,Rural population (% of total population),SP.RUR.TOTL.ZS,18.541,2018.0
+"Korea, Rep.",KOR,Surface area (sq. km),AG.SRF.TOTL.K2,100339.00390625,2018.0
+Kosovo,XKX,Rural land area (sq. km),AG.LND.TOTL.RU.K2,NaN,1960.0
+Kosovo,XKX,Rural population (% of total population),SP.RUR.TOTL.ZS,NaN,1960.0
+Kosovo,XKX,Surface area (sq. km),AG.SRF.TOTL.K2,10887.0,2017.0
+Kuwait,KWT,Rural land area (sq. km),AG.LND.TOTL.RU.K2,13422.94238,2010.0
+Kuwait,KWT,Rural population (% of total population),SP.RUR.TOTL.ZS,0.0,2018.0
+Kuwait,KWT,Surface area (sq. km),AG.SRF.TOTL.K2,17820.0,2018.0
+Kyrgyz Republic,KGZ,Rural land area (sq. km),AG.LND.TOTL.RU.K2,NaN,1960.0
+Kyrgyz Republic,KGZ,Rural population (% of total population),SP.RUR.TOTL.ZS,63.648999999999994,2018.0
+Kyrgyz Republic,KGZ,Surface area (sq. km),AG.SRF.TOTL.K2,199950.0,2018.0
+Lao PDR,LAO,Rural land area (sq. km),AG.LND.TOTL.RU.K2,227855.5313,2010.0
+Lao PDR,LAO,Rural population (% of total population),SP.RUR.TOTL.ZS,64.99600000000001,2018.0
+Lao PDR,LAO,Surface area (sq. km),AG.SRF.TOTL.K2,236800.0,2018.0
+Latvia,LVA,Rural land area (sq. km),AG.LND.TOTL.RU.K2,60137.24219,2010.0
+Latvia,LVA,Rural population (% of total population),SP.RUR.TOTL.ZS,31.858,2018.0
+Latvia,LVA,Surface area (sq. km),AG.SRF.TOTL.K2,64490.0,2018.0
+Lebanon,LBN,Rural land area (sq. km),AG.LND.TOTL.RU.K2,8081.997559,2010.0
+Lebanon,LBN,Rural population (% of total population),SP.RUR.TOTL.ZS,11.407,2018.0
+Lebanon,LBN,Surface area (sq. km),AG.SRF.TOTL.K2,10450.0,2018.0
+Lesotho,LSO,Rural land area (sq. km),AG.LND.TOTL.RU.K2,NaN,1960.0
+Lesotho,LSO,Rural population (% of total population),SP.RUR.TOTL.ZS,71.847,2018.0
+Lesotho,LSO,Surface area (sq. km),AG.SRF.TOTL.K2,30360.0,2018.0
+Liberia,LBR,Rural land area (sq. km),AG.LND.TOTL.RU.K2,95634.38281,2010.0
+Liberia,LBR,Rural population (% of total population),SP.RUR.TOTL.ZS,48.849,2018.0
+Liberia,LBR,Surface area (sq. km),AG.SRF.TOTL.K2,111370.0,2018.0
+Libya,LBY,Rural land area (sq. km),AG.LND.TOTL.RU.K2,1606874.75,2010.0
+Libya,LBY,Rural population (% of total population),SP.RUR.TOTL.ZS,19.898,2018.0
+Libya,LBY,Surface area (sq. km),AG.SRF.TOTL.K2,1759540.0,2018.0
+Liechtenstein,LIE,Rural land area (sq. km),AG.LND.TOTL.RU.K2,NaN,1960.0
+Liechtenstein,LIE,Rural population (% of total population),SP.RUR.TOTL.ZS,85.662,2018.0
+Liechtenstein,LIE,Surface area (sq. km),AG.SRF.TOTL.K2,160.0,2018.0
+Lithuania,LTU,Rural land area (sq. km),AG.LND.TOTL.RU.K2,59360.13672,2010.0
+Lithuania,LTU,Rural population (% of total population),SP.RUR.TOTL.ZS,32.321,2018.0
+Lithuania,LTU,Surface area (sq. km),AG.SRF.TOTL.K2,65286.0009765625,2018.0
+Luxembourg,LUX,Rural land area (sq. km),AG.LND.TOTL.RU.K2,1782.765503,2010.0
+Luxembourg,LUX,Rural population (% of total population),SP.RUR.TOTL.ZS,9.019000000000009,2018.0
+Luxembourg,LUX,Surface area (sq. km),AG.SRF.TOTL.K2,2590.0,2018.0
+"Macao SAR, China",MAC,Rural land area (sq. km),AG.LND.TOTL.RU.K2,11.18112087,2010.0
+"Macao SAR, China",MAC,Rural population (% of total population),SP.RUR.TOTL.ZS,0.0,2018.0
+"Macao SAR, China",MAC,Surface area (sq. km),AG.SRF.TOTL.K2,30.399999618530302,2018.0
+Madagascar,MDG,Rural land area (sq. km),AG.LND.TOTL.RU.K2,587832.9375,2010.0
+Madagascar,MDG,Rural population (% of total population),SP.RUR.TOTL.ZS,62.809,2018.0
+Madagascar,MDG,Surface area (sq. km),AG.SRF.TOTL.K2,587295.0,2018.0
+Malawi,MWI,Rural land area (sq. km),AG.LND.TOTL.RU.K2,92909.46094,2010.0
+Malawi,MWI,Rural population (% of total population),SP.RUR.TOTL.ZS,83.06299999999999,2018.0
+Malawi,MWI,Surface area (sq. km),AG.SRF.TOTL.K2,118480.0,2018.0
+Malaysia,MYS,Rural land area (sq. km),AG.LND.TOTL.RU.K2,312833.0313,2010.0
+Malaysia,MYS,Rural population (% of total population),SP.RUR.TOTL.ZS,23.964000000000002,2018.0
+Malaysia,MYS,Surface area (sq. km),AG.SRF.TOTL.K2,330345.0,2018.0
+Maldives,MDV,Rural land area (sq. km),AG.LND.TOTL.RU.K2,291.78070069999995,2010.0
+Maldives,MDV,Rural population (% of total population),SP.RUR.TOTL.ZS,60.192,2018.0
+Maldives,MDV,Surface area (sq. km),AG.SRF.TOTL.K2,300.0,2018.0
+Mali,MLI,Rural land area (sq. km),AG.LND.TOTL.RU.K2,1243208.25,2010.0
+Mali,MLI,Rural population (% of total population),SP.RUR.TOTL.ZS,57.644,2018.0
+Mali,MLI,Surface area (sq. km),AG.SRF.TOTL.K2,1240190.0,2018.0
+Malta,MLT,Rural land area (sq. km),AG.LND.TOTL.RU.K2,30.62650871,2010.0
+Malta,MLT,Rural population (% of total population),SP.RUR.TOTL.ZS,5.38800000000001,2018.0
+Malta,MLT,Surface area (sq. km),AG.SRF.TOTL.K2,320.0,2018.0
+Marshall Islands,MHL,Rural land area (sq. km),AG.LND.TOTL.RU.K2,284.8295898,2010.0
+Marshall Islands,MHL,Rural population (% of total population),SP.RUR.TOTL.ZS,22.969,2018.0
+Marshall Islands,MHL,Surface area (sq. km),AG.SRF.TOTL.K2,180.0,2018.0
+Mauritania,MRT,Rural land area (sq. km),AG.LND.TOTL.RU.K2,1041101.875,2010.0
+Mauritania,MRT,Rural population (% of total population),SP.RUR.TOTL.ZS,46.328,2018.0
+Mauritania,MRT,Surface area (sq. km),AG.SRF.TOTL.K2,1030700.0,2018.0
+Mauritius,MUS,Rural land area (sq. km),AG.LND.TOTL.RU.K2,727.6514892999999,2010.0
+Mauritius,MUS,Rural population (% of total population),SP.RUR.TOTL.ZS,59.207,2018.0
+Mauritius,MUS,Surface area (sq. km),AG.SRF.TOTL.K2,2040.0,2018.0
+Mexico,MEX,Rural land area (sq. km),AG.LND.TOTL.RU.K2,1831423.5,2010.0
+Mexico,MEX,Rural population (% of total population),SP.RUR.TOTL.ZS,19.844,2018.0
+Mexico,MEX,Surface area (sq. km),AG.SRF.TOTL.K2,1964375.0,2018.0
+"Micronesia, Fed. Sts.",FSM,Rural land area (sq. km),AG.LND.TOTL.RU.K2,517.3094482,2010.0
+"Micronesia, Fed. Sts.",FSM,Rural population (% of total population),SP.RUR.TOTL.ZS,77.297,2018.0
+"Micronesia, Fed. Sts.",FSM,Surface area (sq. km),AG.SRF.TOTL.K2,700.0,2018.0
+Moldova,MDA,Rural land area (sq. km),AG.LND.TOTL.RU.K2,31217.152339999997,2010.0
+Moldova,MDA,Rural population (% of total population),SP.RUR.TOTL.ZS,57.371,2018.0
+Moldova,MDA,Surface area (sq. km),AG.SRF.TOTL.K2,33850.0,2018.0
+Monaco,MCO,Rural land area (sq. km),AG.LND.TOTL.RU.K2,0.483293235,2010.0
+Monaco,MCO,Rural population (% of total population),SP.RUR.TOTL.ZS,0.0,2018.0
+Monaco,MCO,Surface area (sq. km),AG.SRF.TOTL.K2,2.0,2017.0
+Mongolia,MNG,Rural land area (sq. km),AG.LND.TOTL.RU.K2,NaN,1960.0
+Mongolia,MNG,Rural population (% of total population),SP.RUR.TOTL.ZS,31.555,2018.0
+Mongolia,MNG,Surface area (sq. km),AG.SRF.TOTL.K2,1564120.0,2018.0
+Montenegro,MNE,Rural land area (sq. km),AG.LND.TOTL.RU.K2,NaN,1960.0
+Montenegro,MNE,Rural population (% of total population),SP.RUR.TOTL.ZS,33.187,2018.0
+Montenegro,MNE,Surface area (sq. km),AG.SRF.TOTL.K2,13810.0,2018.0
+Morocco,MAR,Rural land area (sq. km),AG.LND.TOTL.RU.K2,659759.4375,2010.0
+Morocco,MAR,Rural population (% of total population),SP.RUR.TOTL.ZS,37.547,2018.0
+Morocco,MAR,Surface area (sq. km),AG.SRF.TOTL.K2,446550.0,2018.0
+Mozambique,MOZ,Rural land area (sq. km),AG.LND.TOTL.RU.K2,769595.125,2010.0
+Mozambique,MOZ,Rural population (% of total population),SP.RUR.TOTL.ZS,64.012,2018.0
+Mozambique,MOZ,Surface area (sq. km),AG.SRF.TOTL.K2,786380.0,2018.0
+Myanmar,MMR,Rural land area (sq. km),AG.LND.TOTL.RU.K2,657996.3125,2010.0
+Myanmar,MMR,Rural population (% of total population),SP.RUR.TOTL.ZS,69.421,2018.0
+Myanmar,MMR,Surface area (sq. km),AG.SRF.TOTL.K2,676590.0,2018.0
+Namibia,NAM,Rural land area (sq. km),AG.LND.TOTL.RU.K2,822303.125,2010.0
+Namibia,NAM,Rural population (% of total population),SP.RUR.TOTL.ZS,49.968,2018.0
+Namibia,NAM,Surface area (sq. km),AG.SRF.TOTL.K2,824290.0,2018.0
+Nauru,NRU,Rural land area (sq. km),AG.LND.TOTL.RU.K2,10.04919243,2010.0
+Nauru,NRU,Rural population (% of total population),SP.RUR.TOTL.ZS,0.0,2018.0
+Nauru,NRU,Surface area (sq. km),AG.SRF.TOTL.K2,20.0,2018.0
+Nepal,NPL,Rural land area (sq. km),AG.LND.TOTL.RU.K2,NaN,1960.0
+Nepal,NPL,Rural population (% of total population),SP.RUR.TOTL.ZS,80.26,2018.0
+Nepal,NPL,Surface area (sq. km),AG.SRF.TOTL.K2,147180.0,2018.0
+Netherlands,NLD,Rural land area (sq. km),AG.LND.TOTL.RU.K2,21411.86328,2010.0
+Netherlands,NLD,Rural population (% of total population),SP.RUR.TOTL.ZS,8.510000000000009,2018.0
+Netherlands,NLD,Surface area (sq. km),AG.SRF.TOTL.K2,41540.0,2018.0
+New Caledonia,NCL,Rural land area (sq. km),AG.LND.TOTL.RU.K2,18564.04102,2010.0
+New Caledonia,NCL,Rural population (% of total population),SP.RUR.TOTL.ZS,29.316999999999997,2018.0
+New Caledonia,NCL,Surface area (sq. km),AG.SRF.TOTL.K2,18580.0,2018.0
+New Zealand,NZL,Rural land area (sq. km),AG.LND.TOTL.RU.K2,253834.7031,2010.0
+New Zealand,NZL,Rural population (% of total population),SP.RUR.TOTL.ZS,13.462,2018.0
+New Zealand,NZL,Surface area (sq. km),AG.SRF.TOTL.K2,267710.0,2018.0
+Nicaragua,NIC,Rural land area (sq. km),AG.LND.TOTL.RU.K2,115694.2891,2010.0
+Nicaragua,NIC,Rural population (% of total population),SP.RUR.TOTL.ZS,41.478,2018.0
+Nicaragua,NIC,Surface area (sq. km),AG.SRF.TOTL.K2,130370.0,2018.0
+Niger,NER,Rural land area (sq. km),AG.LND.TOTL.RU.K2,NaN,1960.0
+Niger,NER,Rural population (% of total population),SP.RUR.TOTL.ZS,83.575,2018.0
+Niger,NER,Surface area (sq. km),AG.SRF.TOTL.K2,1267000.0,2018.0
+Nigeria,NGA,Rural land area (sq. km),AG.LND.TOTL.RU.K2,880103.3125,2010.0
+Nigeria,NGA,Rural population (% of total population),SP.RUR.TOTL.ZS,49.656000000000006,2018.0
+Nigeria,NGA,Surface area (sq. km),AG.SRF.TOTL.K2,923770.0,2018.0
+North Macedonia,MKD,Rural land area (sq. km),AG.LND.TOTL.RU.K2,21962.62305,2010.0
+North Macedonia,MKD,Rural population (% of total population),SP.RUR.TOTL.ZS,42.037,2018.0
+North Macedonia,MKD,Surface area (sq. km),AG.SRF.TOTL.K2,25710.0,2018.0
+Northern Mariana Islands,MNP,Rural land area (sq. km),AG.LND.TOTL.RU.K2,379.3888855,2010.0
+Northern Mariana Islands,MNP,Rural population (% of total population),SP.RUR.TOTL.ZS,8.38200000000001,2018.0
+Northern Mariana Islands,MNP,Surface area (sq. km),AG.SRF.TOTL.K2,460.0,2018.0
+Norway,NOR,Rural land area (sq. km),AG.LND.TOTL.RU.K2,292187.8125,2010.0
+Norway,NOR,Rural population (% of total population),SP.RUR.TOTL.ZS,17.752,2018.0
+Norway,NOR,Surface area (sq. km),AG.SRF.TOTL.K2,625217.109375,2018.0
+Oman,OMN,Rural land area (sq. km),AG.LND.TOTL.RU.K2,307667.5313,2010.0
+Oman,OMN,Rural population (% of total population),SP.RUR.TOTL.ZS,15.460999999999999,2018.0
+Oman,OMN,Surface area (sq. km),AG.SRF.TOTL.K2,309500.0,2018.0
+Pakistan,PAK,Rural land area (sq. km),AG.LND.TOTL.RU.K2,751709.5,2010.0
+Pakistan,PAK,Rural population (% of total population),SP.RUR.TOTL.ZS,63.333999999999996,2018.0
+Pakistan,PAK,Surface area (sq. km),AG.SRF.TOTL.K2,796100.0,2018.0
+Palau,PLW,Rural land area (sq. km),AG.LND.TOTL.RU.K2,448.2705994,2010.0
+Palau,PLW,Rural population (% of total population),SP.RUR.TOTL.ZS,20.07,2018.0
+Palau,PLW,Surface area (sq. km),AG.SRF.TOTL.K2,460.0,2018.0
+Panama,PAN,Rural land area (sq. km),AG.LND.TOTL.RU.K2,71714.3125,2010.0
+Panama,PAN,Rural population (% of total population),SP.RUR.TOTL.ZS,32.291,2018.0
+Panama,PAN,Surface area (sq. km),AG.SRF.TOTL.K2,75420.0,2018.0
+Papua New Guinea,PNG,Rural land area (sq. km),AG.LND.TOTL.RU.K2,459445.5,2010.0
+Papua New Guinea,PNG,Rural population (% of total population),SP.RUR.TOTL.ZS,86.831,2018.0
+Papua New Guinea,PNG,Surface area (sq. km),AG.SRF.TOTL.K2,462840.0,2018.0
+Paraguay,PRY,Rural land area (sq. km),AG.LND.TOTL.RU.K2,NaN,1960.0
+Paraguay,PRY,Rural population (% of total population),SP.RUR.TOTL.ZS,38.415,2018.0
+Paraguay,PRY,Surface area (sq. km),AG.SRF.TOTL.K2,406751.9921875,2018.0
+Peru,PER,Rural land area (sq. km),AG.LND.TOTL.RU.K2,1256339.875,2010.0
+Peru,PER,Rural population (% of total population),SP.RUR.TOTL.ZS,22.093000000000004,2018.0
+Peru,PER,Surface area (sq. km),AG.SRF.TOTL.K2,1285220.0,2018.0
+Philippines,PHL,Rural land area (sq. km),AG.LND.TOTL.RU.K2,282759.125,2010.0
+Philippines,PHL,Rural population (% of total population),SP.RUR.TOTL.ZS,53.093,2018.0
+Philippines,PHL,Surface area (sq. km),AG.SRF.TOTL.K2,300000.0,2018.0
+Poland,POL,Rural land area (sq. km),AG.LND.TOTL.RU.K2,277840.5,2010.0
+Poland,POL,Rural population (% of total population),SP.RUR.TOTL.ZS,39.942,2018.0
+Poland,POL,Surface area (sq. km),AG.SRF.TOTL.K2,312680.0,2018.0
+Portugal,PRT,Rural land area (sq. km),AG.LND.TOTL.RU.K2,78286.85156,2010.0
+Portugal,PRT,Rural population (% of total population),SP.RUR.TOTL.ZS,34.789,2018.0
+Portugal,PRT,Surface area (sq. km),AG.SRF.TOTL.K2,92225.595703125,2018.0
+Puerto Rico,PRI,Rural land area (sq. km),AG.LND.TOTL.RU.K2,459.91952510000004,2010.0
+Puerto Rico,PRI,Rural population (% of total population),SP.RUR.TOTL.ZS,6.422000000000001,2018.0
+Puerto Rico,PRI,Surface area (sq. km),AG.SRF.TOTL.K2,8870.0,2018.0
+Qatar,QAT,Rural land area (sq. km),AG.LND.TOTL.RU.K2,9779.24707,2010.0
+Qatar,QAT,Rural population (% of total population),SP.RUR.TOTL.ZS,0.8649999999999949,2018.0
+Qatar,QAT,Surface area (sq. km),AG.SRF.TOTL.K2,11610.0,2018.0
+Romania,ROU,Rural land area (sq. km),AG.LND.TOTL.RU.K2,219047.9375,2010.0
+Romania,ROU,Rural population (% of total population),SP.RUR.TOTL.ZS,46.001999999999995,2018.0
+Romania,ROU,Surface area (sq. km),AG.SRF.TOTL.K2,238400.0,2018.0
+Russian Federation,RUS,Rural land area (sq. km),AG.LND.TOTL.RU.K2,16305829.27,2010.0
+Russian Federation,RUS,Rural population (% of total population),SP.RUR.TOTL.ZS,25.566999999999997,2018.0
+Russian Federation,RUS,Surface area (sq. km),AG.SRF.TOTL.K2,17098250.0,2018.0
+Rwanda,RWA,Rural land area (sq. km),AG.LND.TOTL.RU.K2,NaN,1960.0
+Rwanda,RWA,Rural population (% of total population),SP.RUR.TOTL.ZS,82.789,2018.0
+Rwanda,RWA,Surface area (sq. km),AG.SRF.TOTL.K2,26340.0,2018.0
+Samoa,WSM,Rural land area (sq. km),AG.LND.TOTL.RU.K2,2748.275879,2010.0
+Samoa,WSM,Rural population (% of total population),SP.RUR.TOTL.ZS,81.757,2018.0
+Samoa,WSM,Surface area (sq. km),AG.SRF.TOTL.K2,2840.0,2018.0
+San Marino,SMR,Rural land area (sq. km),AG.LND.TOTL.RU.K2,3.735872746,2010.0
+San Marino,SMR,Rural population (% of total population),SP.RUR.TOTL.ZS,2.7739999999999996,2018.0
+San Marino,SMR,Surface area (sq. km),AG.SRF.TOTL.K2,60.0,2018.0
+Sao Tome and Principe,STP,Rural land area (sq. km),AG.LND.TOTL.RU.K2,933.3151855000001,2010.0
+Sao Tome and Principe,STP,Rural population (% of total population),SP.RUR.TOTL.ZS,27.197,2018.0
+Sao Tome and Principe,STP,Surface area (sq. km),AG.SRF.TOTL.K2,960.0,2018.0
+Saudi Arabia,SAU,Rural land area (sq. km),AG.LND.TOTL.RU.K2,1912311.875,2010.0
+Saudi Arabia,SAU,Rural population (% of total population),SP.RUR.TOTL.ZS,16.156,2018.0
+Saudi Arabia,SAU,Surface area (sq. km),AG.SRF.TOTL.K2,2149690.0,2018.0
+Senegal,SEN,Rural land area (sq. km),AG.LND.TOTL.RU.K2,193255.5469,2010.0
+Senegal,SEN,Rural population (% of total population),SP.RUR.TOTL.ZS,52.808,2018.0
+Senegal,SEN,Surface area (sq. km),AG.SRF.TOTL.K2,196710.0,2018.0
+Serbia,SRB,Rural land area (sq. km),AG.LND.TOTL.RU.K2,NaN,1960.0
+Serbia,SRB,Rural population (% of total population),SP.RUR.TOTL.ZS,43.908,2018.0
+Serbia,SRB,Surface area (sq. km),AG.SRF.TOTL.K2,88360.0,2018.0
+Seychelles,SYC,Rural land area (sq. km),AG.LND.TOTL.RU.K2,187.96560669999997,2010.0
+Seychelles,SYC,Rural population (% of total population),SP.RUR.TOTL.ZS,43.309,2018.0
+Seychelles,SYC,Surface area (sq. km),AG.SRF.TOTL.K2,460.0,2018.0
+Sierra Leone,SLE,Rural land area (sq. km),AG.LND.TOTL.RU.K2,71494.83594,2010.0
+Sierra Leone,SLE,Rural population (% of total population),SP.RUR.TOTL.ZS,57.945,2018.0
+Sierra Leone,SLE,Surface area (sq. km),AG.SRF.TOTL.K2,72300.0,2018.0
+Singapore,SGP,Rural land area (sq. km),AG.LND.TOTL.RU.K2,103.59809109999999,2010.0
+Singapore,SGP,Rural population (% of total population),SP.RUR.TOTL.ZS,0.0,2018.0
+Singapore,SGP,Surface area (sq. km),AG.SRF.TOTL.K2,719.0000152587891,2018.0
+Sint Maarten (Dutch part),SXM,Rural land area (sq. km),AG.LND.TOTL.RU.K2,NaN,1960.0
+Sint Maarten (Dutch part),SXM,Rural population (% of total population),SP.RUR.TOTL.ZS,0.0,2018.0
+Sint Maarten (Dutch part),SXM,Surface area (sq. km),AG.SRF.TOTL.K2,34.0,2017.0
+Slovak Republic,SVK,Rural land area (sq. km),AG.LND.TOTL.RU.K2,NaN,1960.0
+Slovak Republic,SVK,Rural population (% of total population),SP.RUR.TOTL.ZS,46.273999999999994,2018.0
+Slovak Republic,SVK,Surface area (sq. km),AG.SRF.TOTL.K2,49030.0,2018.0
+Slovenia,SVN,Rural land area (sq. km),AG.LND.TOTL.RU.K2,17680.89453,2010.0
+Slovenia,SVN,Rural population (% of total population),SP.RUR.TOTL.ZS,45.458999999999996,2018.0
+Slovenia,SVN,Surface area (sq. km),AG.SRF.TOTL.K2,20675.0,2018.0
+Solomon Islands,SLB,Rural land area (sq. km),AG.LND.TOTL.RU.K2,28264.57813,2010.0
+Solomon Islands,SLB,Rural population (% of total population),SP.RUR.TOTL.ZS,76.251,2018.0
+Solomon Islands,SLB,Surface area (sq. km),AG.SRF.TOTL.K2,28900.0,2018.0
+Somalia,SOM,Rural land area (sq. km),AG.LND.TOTL.RU.K2,634302.5625,2010.0
+Somalia,SOM,Rural population (% of total population),SP.RUR.TOTL.ZS,55.028999999999996,2018.0
+Somalia,SOM,Surface area (sq. km),AG.SRF.TOTL.K2,637660.0,2018.0
+South Africa,ZAF,Rural land area (sq. km),AG.LND.TOTL.RU.K2,53460.3125,2010.0
+South Africa,ZAF,Rural population (% of total population),SP.RUR.TOTL.ZS,33.645,2018.0
+South Africa,ZAF,Surface area (sq. km),AG.SRF.TOTL.K2,1219090.0,2018.0
+South Sudan,SSD,Rural land area (sq. km),AG.LND.TOTL.RU.K2,NaN,1960.0
+South Sudan,SSD,Rural population (% of total population),SP.RUR.TOTL.ZS,80.385,2018.0
+South Sudan,SSD,Surface area (sq. km),AG.SRF.TOTL.K2,NaN,1960.0
+Spain,ESP,Rural land area (sq. km),AG.LND.TOTL.RU.K2,432138.3438,2010.0
+Spain,ESP,Rural population (% of total population),SP.RUR.TOTL.ZS,19.679000000000002,2018.0
+Spain,ESP,Surface area (sq. km),AG.SRF.TOTL.K2,505935.0,2018.0
+Sri Lanka,LKA,Rural land area (sq. km),AG.LND.TOTL.RU.K2,61106.80859,2010.0
+Sri Lanka,LKA,Rural population (% of total population),SP.RUR.TOTL.ZS,81.524,2018.0
+Sri Lanka,LKA,Surface area (sq. km),AG.SRF.TOTL.K2,65610.0,2018.0
+St. Kitts and Nevis,KNA,Rural land area (sq. km),AG.LND.TOTL.RU.K2,36.29169846,2010.0
+St. Kitts and Nevis,KNA,Rural population (% of total population),SP.RUR.TOTL.ZS,69.22399999999999,2018.0
+St. Kitts and Nevis,KNA,Surface area (sq. km),AG.SRF.TOTL.K2,260.0,2018.0
+St. Lucia,LCA,Rural land area (sq. km),AG.LND.TOTL.RU.K2,263.5793762,2010.0
+St. Lucia,LCA,Rural population (% of total population),SP.RUR.TOTL.ZS,81.322,2018.0
+St. Lucia,LCA,Surface area (sq. km),AG.SRF.TOTL.K2,620.0,2018.0
+St. Martin (French part),MAF,Rural land area (sq. km),AG.LND.TOTL.RU.K2,NaN,1960.0
+St. Martin (French part),MAF,Rural population (% of total population),SP.RUR.TOTL.ZS,NaN,1960.0
+St. Martin (French part),MAF,Surface area (sq. km),AG.SRF.TOTL.K2,54.4,2017.0
+St. Vincent and the Grenadines,VCT,Rural land area (sq. km),AG.LND.TOTL.RU.K2,322.5854187,2010.0
+St. Vincent and the Grenadines,VCT,Rural population (% of total population),SP.RUR.TOTL.ZS,47.802,2018.0
+St. Vincent and the Grenadines,VCT,Surface area (sq. km),AG.SRF.TOTL.K2,390.0,2018.0
+Sudan,SDN,Rural land area (sq. km),AG.LND.TOTL.RU.K2,2489483.5,2010.0
+Sudan,SDN,Rural population (% of total population),SP.RUR.TOTL.ZS,65.358,2018.0
+Sudan,SDN,Surface area (sq. km),AG.SRF.TOTL.K2,NaN,1960.0
+Suriname,SUR,Rural land area (sq. km),AG.LND.TOTL.RU.K2,139976.1719,2010.0
+Suriname,SUR,Rural population (% of total population),SP.RUR.TOTL.ZS,33.94,2018.0
+Suriname,SUR,Surface area (sq. km),AG.SRF.TOTL.K2,163820.0,2018.0
+Sweden,SWE,Rural land area (sq. km),AG.LND.TOTL.RU.K2,390507.2813,2010.0
+Sweden,SWE,Rural population (% of total population),SP.RUR.TOTL.ZS,12.569,2018.0
+Sweden,SWE,Surface area (sq. km),AG.SRF.TOTL.K2,447430.0,2018.0
+Switzerland,CHE,Rural land area (sq. km),AG.LND.TOTL.RU.K2,30190.08398,2010.0
+Switzerland,CHE,Rural population (% of total population),SP.RUR.TOTL.ZS,26.203000000000003,2018.0
+Switzerland,CHE,Surface area (sq. km),AG.SRF.TOTL.K2,41290.400390625,2018.0
+Syrian Arab Republic,SYR,Rural land area (sq. km),AG.LND.TOTL.RU.K2,173463.2344,2010.0
+Syrian Arab Republic,SYR,Rural population (% of total population),SP.RUR.TOTL.ZS,45.838,2018.0
+Syrian Arab Republic,SYR,Surface area (sq. km),AG.SRF.TOTL.K2,185180.0,2018.0
+Tajikistan,TJK,Rural land area (sq. km),AG.LND.TOTL.RU.K2,NaN,1960.0
+Tajikistan,TJK,Rural population (% of total population),SP.RUR.TOTL.ZS,72.866,2018.0
+Tajikistan,TJK,Surface area (sq. km),AG.SRF.TOTL.K2,141380.0,2018.0
+Tanzania,TZA,Rural land area (sq. km),AG.LND.TOTL.RU.K2,886549.5625,2010.0
+Tanzania,TZA,Rural population (% of total population),SP.RUR.TOTL.ZS,66.22399999999999,2018.0
+Tanzania,TZA,Surface area (sq. km),AG.SRF.TOTL.K2,947300.0,2018.0
+Thailand,THA,Rural land area (sq. km),AG.LND.TOTL.RU.K2,474183.4375,2010.0
+Thailand,THA,Rural population (% of total population),SP.RUR.TOTL.ZS,50.051,2018.0
+Thailand,THA,Surface area (sq. km),AG.SRF.TOTL.K2,513120.0,2018.0
+Timor-Leste,TLS,Rural land area (sq. km),AG.LND.TOTL.RU.K2,14569.638669999998,2010.0
+Timor-Leste,TLS,Rural population (% of total population),SP.RUR.TOTL.ZS,69.422,2018.0
+Timor-Leste,TLS,Surface area (sq. km),AG.SRF.TOTL.K2,14870.0,2018.0
+Togo,TGO,Rural land area (sq. km),AG.LND.TOTL.RU.K2,55426.640629999994,2010.0
+Togo,TGO,Rural population (% of total population),SP.RUR.TOTL.ZS,58.298,2018.0
+Togo,TGO,Surface area (sq. km),AG.SRF.TOTL.K2,56790.0,2018.0
+Tonga,TON,Rural land area (sq. km),AG.LND.TOTL.RU.K2,552.3500366000001,2010.0
+Tonga,TON,Rural population (% of total population),SP.RUR.TOTL.ZS,76.869,2018.0
+Tonga,TON,Surface area (sq. km),AG.SRF.TOTL.K2,750.0,2018.0
+Trinidad and Tobago,TTO,Rural land area (sq. km),AG.LND.TOTL.RU.K2,2879.285645,2010.0
+Trinidad and Tobago,TTO,Rural population (% of total population),SP.RUR.TOTL.ZS,46.816,2018.0
+Trinidad and Tobago,TTO,Surface area (sq. km),AG.SRF.TOTL.K2,5130.0,2018.0
+Tunisia,TUN,Rural land area (sq. km),AG.LND.TOTL.RU.K2,144635.9063,2010.0
+Tunisia,TUN,Rural population (% of total population),SP.RUR.TOTL.ZS,31.055,2018.0
+Tunisia,TUN,Surface area (sq. km),AG.SRF.TOTL.K2,163610.0,2018.0
+Turkey,TUR,Rural land area (sq. km),AG.LND.TOTL.RU.K2,723511.5,2010.0
+Turkey,TUR,Rural population (% of total population),SP.RUR.TOTL.ZS,24.857,2018.0
+Turkey,TUR,Surface area (sq. km),AG.SRF.TOTL.K2,785350.0,2018.0
+Turkmenistan,TKM,Rural land area (sq. km),AG.LND.TOTL.RU.K2,NaN,1960.0
+Turkmenistan,TKM,Rural population (% of total population),SP.RUR.TOTL.ZS,48.407,2018.0
+Turkmenistan,TKM,Surface area (sq. km),AG.SRF.TOTL.K2,488100.0,2018.0
+Turks and Caicos Islands,TCA,Rural land area (sq. km),AG.LND.TOTL.RU.K2,965.7578735,2010.0
+Turks and Caicos Islands,TCA,Rural population (% of total population),SP.RUR.TOTL.ZS,6.902,2018.0
+Turks and Caicos Islands,TCA,Surface area (sq. km),AG.SRF.TOTL.K2,950.0,2018.0
+Tuvalu,TUV,Rural land area (sq. km),AG.LND.TOTL.RU.K2,38.763599400000004,2010.0
+Tuvalu,TUV,Rural population (% of total population),SP.RUR.TOTL.ZS,37.613,2018.0
+Tuvalu,TUV,Surface area (sq. km),AG.SRF.TOTL.K2,30.0,2018.0
+Uganda,UGA,Rural land area (sq. km),AG.LND.TOTL.RU.K2,NaN,1960.0
+Uganda,UGA,Rural population (% of total population),SP.RUR.TOTL.ZS,76.226,2018.0
+Uganda,UGA,Surface area (sq. km),AG.SRF.TOTL.K2,241550.0,2018.0
+Ukraine,UKR,Rural land area (sq. km),AG.LND.TOTL.RU.K2,553950.875,2010.0
+Ukraine,UKR,Rural population (% of total population),SP.RUR.TOTL.ZS,30.648000000000003,2018.0
+Ukraine,UKR,Surface area (sq. km),AG.SRF.TOTL.K2,603550.0,2018.0
+United Arab Emirates,ARE,Rural land area (sq. km),AG.LND.TOTL.RU.K2,70575.10938,2010.0
+United Arab Emirates,ARE,Rural population (% of total population),SP.RUR.TOTL.ZS,13.478,2018.0
+United Arab Emirates,ARE,Surface area (sq. km),AG.SRF.TOTL.K2,83600.0,2018.0
+United Kingdom,GBR,Rural land area (sq. km),AG.LND.TOTL.RU.K2,183648.9219,2010.0
+United Kingdom,GBR,Rural population (% of total population),SP.RUR.TOTL.ZS,16.602,2018.0
+United Kingdom,GBR,Surface area (sq. km),AG.SRF.TOTL.K2,243610.0,2018.0
+United States,USA,Rural land area (sq. km),AG.LND.TOTL.RU.K2,8549545.51,2010.0
+United States,USA,Rural population (% of total population),SP.RUR.TOTL.ZS,17.744,2018.0
+United States,USA,Surface area (sq. km),AG.SRF.TOTL.K2,9831510.0,2018.0
+Uruguay,URY,Rural land area (sq. km),AG.LND.TOTL.RU.K2,168731.9219,2010.0
+Uruguay,URY,Rural population (% of total population),SP.RUR.TOTL.ZS,4.666,2018.0
+Uruguay,URY,Surface area (sq. km),AG.SRF.TOTL.K2,176220.0,2018.0
+Uzbekistan,UZB,Rural land area (sq. km),AG.LND.TOTL.RU.K2,NaN,1960.0
+Uzbekistan,UZB,Rural population (% of total population),SP.RUR.TOTL.ZS,49.522,2018.0
+Uzbekistan,UZB,Surface area (sq. km),AG.SRF.TOTL.K2,447400.0,2018.0
+Vanuatu,VUT,Rural land area (sq. km),AG.LND.TOTL.RU.K2,12210.13477,2010.0
+Vanuatu,VUT,Rural population (% of total population),SP.RUR.TOTL.ZS,74.726,2018.0
+Vanuatu,VUT,Surface area (sq. km),AG.SRF.TOTL.K2,12190.0,2018.0
+"Venezuela, RB",VEN,Rural land area (sq. km),AG.LND.TOTL.RU.K2,868222.75,2010.0
+"Venezuela, RB",VEN,Rural population (% of total population),SP.RUR.TOTL.ZS,11.792,2018.0
+"Venezuela, RB",VEN,Surface area (sq. km),AG.SRF.TOTL.K2,912050.0,2018.0
+Vietnam,VNM,Rural land area (sq. km),AG.LND.TOTL.RU.K2,318130.0938,2010.0
+Vietnam,VNM,Rural population (% of total population),SP.RUR.TOTL.ZS,64.081,2018.0
+Vietnam,VNM,Surface area (sq. km),AG.SRF.TOTL.K2,331230.0,2018.0
+Virgin Islands (U.S.),VIR,Rural land area (sq. km),AG.LND.TOTL.RU.K2,63.46201324,2010.0
+Virgin Islands (U.S.),VIR,Rural population (% of total population),SP.RUR.TOTL.ZS,4.279,2018.0
+Virgin Islands (U.S.),VIR,Surface area (sq. km),AG.SRF.TOTL.K2,350.0,2018.0
+West Bank and Gaza,PSE,Rural land area (sq. km),AG.LND.TOTL.RU.K2,3505.0600590000004,2010.0
+West Bank and Gaza,PSE,Rural population (% of total population),SP.RUR.TOTL.ZS,23.836,2018.0
+West Bank and Gaza,PSE,Surface area (sq. km),AG.SRF.TOTL.K2,6020.0,2018.0
+"Yemen, Rep.",YEM,Rural land area (sq. km),AG.LND.TOTL.RU.K2,411287.5938,2010.0
+"Yemen, Rep.",YEM,Rural population (% of total population),SP.RUR.TOTL.ZS,63.358000000000004,2018.0
+"Yemen, Rep.",YEM,Surface area (sq. km),AG.SRF.TOTL.K2,527970.0,2018.0
+Zambia,ZMB,Rural land area (sq. km),AG.LND.TOTL.RU.K2,NaN,1960.0
+Zambia,ZMB,Rural population (% of total population),SP.RUR.TOTL.ZS,56.479,2018.0
+Zambia,ZMB,Surface area (sq. km),AG.SRF.TOTL.K2,752610.0,2018.0
+Zimbabwe,ZWE,Rural land area (sq. km),AG.LND.TOTL.RU.K2,NaN,1960.0
+Zimbabwe,ZWE,Rural population (% of total population),SP.RUR.TOTL.ZS,67.791,2018.0
+Zimbabwe,ZWE,Surface area (sq. km),AG.SRF.TOTL.K2,390760.0,2018.0
