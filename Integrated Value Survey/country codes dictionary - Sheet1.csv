@@ -1,0 +1,757 @@
+Survey,Wave,Country Numeric,Country ISO3,Region Numeric,Region Name,country,countrycode,countrycode_alpha2,adm_level,adm_area_1,adm_area_1_code,adm_area_2,adm_area_2_code,adm_area_3,adm_area_3_code,gid
+WVS,2010-2014,840,USA,840001,US: New England,United States,USA,US,1,Maine,USA.20_1,,,,,USA.20_1
+WVS,2010-2014,840,USA,840001,US: New England,United States,USA,US,1,Vermont,USA.46_1,,,,,USA.46_1
+WVS,2010-2014,840,USA,840001,US: New England,United States,USA,US,1,New Hampshire,USA.30_1,,,,,USA.30_1
+WVS,2010-2014,840,USA,840001,US: New England,United States,USA,US,1,Massachusetts,USA.22_1,,,,,USA.22_1
+WVS,2010-2014,840,USA,840001,US: New England,United States,USA,US,1,Rhode Island,USA.40_1,,,,,USA.40_1
+WVS,2010-2014,840,USA,840001,US: New England,United States,USA,US,1,Connecticut,USA.7_1,,,,,USA.7_1
+WVS,2010-2014,840,USA,840002,US: Middle Atlantic States,United States,USA,US,1,New York,USA.33_1,,,,,USA.33_1
+WVS,2010-2014,840,USA,840002,US: Middle Atlantic States,United States,USA,US,1,New Jersey,USA.31_1,,,,,USA.31_1
+WVS,2010-2014,840,USA,840002,US: Middle Atlantic States,United States,USA,US,1,Pennsylvania,USA.39_1,,,,,USA.39_1
+WVS,2010-2014,840,USA,840003,US: South Atlantic,United States,USA,US,1,Delaware,USA.8_1,,,,,USA.8_1
+WVS,2010-2014,840,USA,840003,US: South Atlantic,United States,USA,US,1,Maryland,USA.21_1,,,,,USA.21_1
+WVS,2010-2014,840,USA,840003,US: South Atlantic,United States,USA,US,1,District of Columbia,USA.9_1,,,,,USA.9_1
+WVS,2010-2014,840,USA,840003,US: South Atlantic,United States,USA,US,1,Virginia,USA.47_1,,,,,USA.47_1
+WVS,2010-2014,840,USA,840003,US: South Atlantic,United States,USA,US,1,West Virginia,USA.49_1,,,,,USA.49_1
+WVS,2010-2014,840,USA,840003,US: South Atlantic,United States,USA,US,1,Florida,USA.10_1,,,,,USA.10_1
+WVS,2010-2014,840,USA,840003,US: South Atlantic,United States,USA,US,1,Georgia,USA.11_1,,,,,USA.11_1
+WVS,2010-2014,840,USA,840003,US: South Atlantic,United States,USA,US,1,South Carolina,USA.41_1,,,,,USA.41_1
+WVS,2010-2014,840,USA,840003,US: South Atlantic,United States,USA,US,1,North Carolina,USA.34_1,,,,,USA.34_1
+WVS,2010-2014,840,USA,840006,US: East North Central,United States,USA,US,1,Illinois,USA.14_1,,,,,USA.14_1
+WVS,2010-2014,840,USA,840006,US: East North Central,United States,USA,US,1,Indiana,USA.15_1,,,,,USA.15_1
+WVS,2010-2014,840,USA,840006,US: East North Central,United States,USA,US,1,Michigan,USA.23_1,,,,,USA.23_1
+WVS,2010-2014,840,USA,840006,US: East North Central,United States,USA,US,1,Ohio,USA.36_1,,,,,USA.36_1
+WVS,2010-2014,840,USA,840006,US: East North Central,United States,USA,US,1,Wisconsin,USA.50_1,,,,,USA.50_1
+WVS,2010-2014,840,USA,840007,US: West North Central,United States,USA,US,1,Iowa,USA.16_1,,,,,USA.16_1
+WVS,2010-2014,840,USA,840007,US: West North Central,United States,USA,US,1,Kansas,USA.17_1,,,,,USA.17_1
+WVS,2010-2014,840,USA,840007,US: West North Central,United States,USA,US,1,Minnesota,USA.24_1,,,,,USA.24_1
+WVS,2010-2014,840,USA,840007,US: West North Central,United States,USA,US,1,Missouri,USA.26_1,,,,,USA.26_1
+WVS,2010-2014,840,USA,840007,US: West North Central,United States,USA,US,1,Nebraska,USA.28_1,,,,,USA.28_1
+WVS,2010-2014,840,USA,840007,US: West North Central,United States,USA,US,1,North Dakota,USA.35_1,,,,,USA.35_1
+WVS,2010-2014,840,USA,840007,US: West North Central,United States,USA,US,1,South Dakota,USA.42_1,,,,,USA.42_1
+WVS,2010-2014,840,USA,840004,US: East South Central,United States,USA,US,1,Alabama,USA.1_1,,,,,USA.1_1
+WVS,2010-2014,840,USA,840004,US: East South Central,United States,USA,US,1,Kentucky,USA.18_1,,,,,USA.18_1
+WVS,2010-2014,840,USA,840004,US: East South Central,United States,USA,US,1,Mississippi,USA.25_1,,,,,USA.25_1
+WVS,2010-2014,840,USA,840004,US: East South Central,United States,USA,US,1,Tennessee,USA.43_1,,,,,USA.43_1
+WVS,2010-2014,840,USA,840005,US: West South Central,United States,USA,US,1,Arkansas,USA.4_1,,,,,USA.4_1
+WVS,2010-2014,840,USA,840005,US: West South Central,United States,USA,US,1,Louisiana,USA.19_1,,,,,USA.19_1
+WVS,2010-2014,840,USA,840005,US: West South Central,United States,USA,US,1,Oklahoma,USA.37_1,,,,,USA.37_1
+WVS,2010-2014,840,USA,840005,US: West South Central,United States,USA,US,1,Texas,USA.44_1,,,,,USA.44_1
+WVS,2010-2014,840,USA,840008,US: Rocky Mountain state,United States,USA,US,1,Arizona,USA.3_1,,,,,USA.3_1
+WVS,2010-2014,840,USA,840008,US: Rocky Mountain state,United States,USA,US,1,Colorado,USA.6_1,,,,,USA.6_1
+WVS,2010-2014,840,USA,840008,US: Rocky Mountain state,United States,USA,US,1,Idaho,USA.13_1,,,,,USA.13_1
+WVS,2010-2014,840,USA,840008,US: Rocky Mountain state,United States,USA,US,1,Montana,USA.27_1,,,,,USA.27_1
+WVS,2010-2014,840,USA,840008,US: Rocky Mountain state,United States,USA,US,1,Nevada,USA.29_1,,,,,USA.29_1
+WVS,2010-2014,840,USA,840008,US: Rocky Mountain state,United States,USA,US,1,New Mexico,USA.32_1,,,,,USA.32_1
+WVS,2010-2014,840,USA,840008,US: Rocky Mountain state,United States,USA,US,1,Utah,USA.45_1,,,,,USA.45_1
+WVS,2010-2014,840,USA,840008,US: Rocky Mountain state,United States,USA,US,1,Wyoming,USA.51_1,,,,,USA.51_1
+WVS,2010-2014,840,USA,840013,US: Pacific,United States,USA,US,1,Alaska,USA.2_1,,,,,USA.2_1
+WVS,2010-2014,840,USA,840013,US: Pacific,United States,USA,US,1,California,USA.5_1,,,,,USA.5_1
+WVS,2010-2014,840,USA,840013,US: Pacific,United States,USA,US,1,Hawaii,USA.12_1,,,,,USA.12_1
+WVS,2010-2014,840,USA,840013,US: Pacific,United States,USA,US,1,Oregon,USA.38_1,,,,,USA.38_1
+WVS,2010-2014,840,USA,840013,US: Pacific,United States,USA,US,1,Washington,USA.48_1,,,,,USA.48_1
+,,,,,,,,,,,,,,,,
+EVS,1990-1993,840,USA,-5,Unknown,United States,USA,US,1,Hawaii,USA.12_1,,,,,USA.12_1
+EVS,1990-1993,840,USA,840001,US: New England,United States,USA,US,1,Maine,USA.20_1,,,,,USA.20_1
+EVS,1990-1993,840,USA,840001,US: New England,United States,USA,US,1,Vermont,USA.46_1,,,,,USA.46_1
+EVS,1990-1993,840,USA,840001,US: New England,United States,USA,US,1,New Hampshire,USA.30_1,,,,,USA.30_1
+EVS,1990-1993,840,USA,840001,US: New England,United States,USA,US,1,Massachusetts,USA.22_1,,,,,USA.22_1
+EVS,1990-1993,840,USA,840001,US: New England,United States,USA,US,1,Rhode Island,USA.40_1,,,,,USA.40_1
+EVS,1990-1993,840,USA,840001,US: New England,United States,USA,US,1,Connecticut,USA.7_1,,,,,USA.7_1
+EVS,1990-1993,840,USA,840002,US: Middle Atlantic States,United States,USA,US,1,New York,USA.33_1,,,,,USA.33_1
+EVS,1990-1993,840,USA,840002,US: Middle Atlantic States,United States,USA,US,1,New Jersey,USA.31_1,,,,,USA.31_1
+EVS,1990-1993,840,USA,840002,US: Middle Atlantic States,United States,USA,US,1,Pennsylvania,USA.39_1,,,,,USA.39_1
+EVS,1990-1993,840,USA,840003,US: South Atlantic,United States,USA,US,1,Delaware,USA.8_1,,,,,USA.8_1
+EVS,1990-1993,840,USA,840003,US: South Atlantic,United States,USA,US,1,Maryland,USA.21_1,,,,,USA.21_1
+EVS,1990-1993,840,USA,840003,US: South Atlantic,United States,USA,US,1,District of Columbia,USA.9_1,,,,,USA.9_1
+EVS,1990-1993,840,USA,840003,US: South Atlantic,United States,USA,US,1,Virginia,USA.47_1,,,,,USA.47_1
+EVS,1990-1993,840,USA,840003,US: South Atlantic,United States,USA,US,1,West Virginia,USA.49_1,,,,,USA.49_1
+EVS,1990-1993,840,USA,840003,US: South Atlantic,United States,USA,US,1,Florida,USA.10_1,,,,,USA.10_1
+EVS,1990-1993,840,USA,840003,US: South Atlantic,United States,USA,US,1,Georgia,USA.11_1,,,,,USA.11_1
+EVS,1990-1993,840,USA,840003,US: South Atlantic,United States,USA,US,1,South Carolina,USA.41_1,,,,,USA.41_1
+EVS,1990-1993,840,USA,840003,US: South Atlantic,United States,USA,US,1,North Carolina,USA.34_1,,,,,USA.34_1
+EVS,1990-1993,840,USA,840004,US: East South Central,United States,USA,US,1,Alabama,USA.1_1,,,,,USA.1_1
+EVS,1990-1993,840,USA,840004,US: East South Central,United States,USA,US,1,Kentucky,USA.18_1,,,,,USA.18_1
+EVS,1990-1993,840,USA,840004,US: East South Central,United States,USA,US,1,Mississippi,USA.25_1,,,,,USA.25_1
+EVS,1990-1993,840,USA,840004,US: East South Central,United States,USA,US,1,Tennessee,USA.43_1,,,,,USA.43_1
+EVS,1990-1993,840,USA,840005,US: West South Central,United States,USA,US,1,Arkansas,USA.4_1,,,,,USA.4_1
+EVS,1990-1993,840,USA,840005,US: West South Central,United States,USA,US,1,Louisiana,USA.19_1,,,,,USA.19_1
+EVS,1990-1993,840,USA,840005,US: West South Central,United States,USA,US,1,Oklahoma,USA.37_1,,,,,USA.37_1
+EVS,1990-1993,840,USA,840005,US: West South Central,United States,USA,US,1,Texas,USA.44_1,,,,,USA.44_1
+EVS,1990-1993,840,USA,840006,US: East North Central,United States,USA,US,1,Illinois,USA.14_1,,,,,USA.14_1
+EVS,1990-1993,840,USA,840006,US: East North Central,United States,USA,US,1,Indiana,USA.15_1,,,,,USA.15_1
+EVS,1990-1993,840,USA,840006,US: East North Central,United States,USA,US,1,Michigan,USA.23_1,,,,,USA.23_1
+EVS,1990-1993,840,USA,840006,US: East North Central,United States,USA,US,1,Ohio,USA.36_1,,,,,USA.36_1
+EVS,1990-1993,840,USA,840006,US: East North Central,United States,USA,US,1,Wisconsin,USA.50_1,,,,,USA.50_1
+EVS,1990-1993,840,USA,840007,US: West North Central,United States,USA,US,1,Iowa,USA.16_1,,,,,USA.16_1
+EVS,1990-1993,840,USA,840007,US: West North Central,United States,USA,US,1,Kansas,USA.17_1,,,,,USA.17_1
+EVS,1990-1993,840,USA,840007,US: West North Central,United States,USA,US,1,Minnesota,USA.24_1,,,,,USA.24_1
+EVS,1990-1993,840,USA,840007,US: West North Central,United States,USA,US,1,Missouri,USA.26_1,,,,,USA.26_1
+EVS,1990-1993,840,USA,840007,US: West North Central,United States,USA,US,1,Nebraska,USA.28_1,,,,,USA.28_1
+EVS,1990-1993,840,USA,840007,US: West North Central,United States,USA,US,1,North Dakota,USA.35_1,,,,,USA.35_1
+EVS,1990-1993,840,USA,840007,US: West North Central,United States,USA,US,1,South Dakota,USA.42_1,,,,,USA.42_1
+EVS,1990-1993,840,USA,840008,US: Rocky Mountain state,United States,USA,US,1,Arizona,USA.3_1,,,,,USA.3_1
+EVS,1990-1993,840,USA,840008,US: Rocky Mountain state,United States,USA,US,1,Colorado,USA.6_1,,,,,USA.6_1
+EVS,1990-1993,840,USA,840008,US: Rocky Mountain state,United States,USA,US,1,Idaho,USA.13_1,,,,,USA.13_1
+EVS,1990-1993,840,USA,840008,US: Rocky Mountain state,United States,USA,US,1,Montana,USA.27_1,,,,,USA.27_1
+EVS,1990-1993,840,USA,840008,US: Rocky Mountain state,United States,USA,US,1,Nevada,USA.29_1,,,,,USA.29_1
+EVS,1990-1993,840,USA,840008,US: Rocky Mountain state,United States,USA,US,1,New Mexico,USA.32_1,,,,,USA.32_1
+EVS,1990-1993,840,USA,840008,US: Rocky Mountain state,United States,USA,US,1,Utah,USA.45_1,,,,,USA.45_1
+EVS,1990-1993,840,USA,840008,US: Rocky Mountain state,United States,USA,US,1,Wyoming,USA.51_1,,,,,USA.51_1
+EVS,1990-1993,840,USA,840009,US: Northwest,United States,USA,US,1,Alaska,USA.2_1,,,,,USA.2_1
+EVS,1990-1993,840,USA,840009,US: Northwest,United States,USA,US,1,Oregon,USA.38_1,,,,,USA.38_1
+EVS,1990-1993,840,USA,840009,US: Northwest,United States,USA,US,1,Washington,USA.48_1,,,,,USA.48_1
+EVS,1990-1993,840,USA,840010,US: California,United States,USA,US,1,California,USA.5_1,,,,,USA.5_1
+,,,,,,,,,,,,,,,,
+WVS,2010-2014,156,CHN,156001,CN: Beijing,China,CHN,CN,1,Beijing,CHN.2_1,,,,,CHN.2_1
+WVS,2010-2014,156,CHN,156002,CN: Hebei Province,China,CHN,CN,1,Hebei,CHN.10_1,,,,,CHN.10_1
+WVS,2010-2014,156,CHN,156003,CN: Shanxi Province,China,CHN,CN,1,Shanxi,CHN.25_1,,,,,CHN.25_1
+WVS,2010-2014,156,CHN,156005,CN: Liaoning Province,China,CHN,CN,1,Liaoning,CHN.18_1,,,,,CHN.18_1
+WVS,2010-2014,156,CHN,156006,CN: Jilin,China,CHN,CN,1,Jilin,CHN.17_1,,,,,CHN.17_1
+WVS,2010-2014,156,CHN,156007,CN: Heilongjiang Province,China,CHN,CN,1,Heilongjiang,CHN.11_1,,,,,CHN.11_1
+WVS,2010-2014,156,CHN,156008,CN: Shanghai,China,CHN,CN,1,Shanghai,CHN.24_1,,,,,CHN.24_1
+WVS,2010-2014,156,CHN,156009,CN: Jiangsu Province,China,CHN,CN,1,Jiangsu,CHN.15_1,,,,,CHN.15_1
+WVS,2010-2014,156,CHN,156010,CN: Zhejiang Province,China,CHN,CN,1,Zhejiang,CHN.31_1,,,,,CHN.31_1
+WVS,2010-2014,156,CHN,156011,CN: Anhui Province,China,CHN,CN,1,Anhui,CHN.1_1,,,,,CHN.1_1
+WVS,2010-2014,156,CHN,156012,CN: Fujian Province,China,CHN,CN,1,Fujian,CHN.4_1,,,,,CHN.4_1
+WVS,2010-2014,156,CHN,156013,CN: Jiangxi Province,China,CHN,CN,1,Jiangxi,CHN.16_1,,,,,CHN.16_1
+WVS,2010-2014,156,CHN,156014,CN: Shandong Province,China,CHN,CN,1,Shandong,CHN.23_1,,,,,CHN.23_1
+WVS,2010-2014,156,CHN,156015,CN: Henan Province,China,CHN,CN,1,Henan,CHN.12_1,,,,,CHN.12_1
+WVS,2010-2014,156,CHN,156016,CN: Hubei Province,China,CHN,CN,1,Hubei,CHN.13_1,,,,,CHN.13_1
+WVS,2010-2014,156,CHN,156017,CN: Hunan Province,China,CHN,CN,1,Hunan,CHN.14_1,,,,,CHN.14_1
+WVS,2010-2014,156,CHN,156018,CN: Guangdong Province,China,CHN,CN,1,Guangdong,CHN.6_1,,,,,CHN.6_1
+WVS,2010-2014,156,CHN,156019,CN: Guangxi Province,China,CHN,CN,1,Guangxi,CHN.7_1,,,,,CHN.7_1
+WVS,2010-2014,156,CHN,156020,CN: Sichuan,China,CHN,CN,1,Sichuan,CHN.26_1,,,,,CHN.26_1
+WVS,2010-2014,156,CHN,156021,CN: Guizhou Province,China,CHN,CN,1,Guizhou,CHN.8_1,,,,,CHN.8_1
+WVS,2010-2014,156,CHN,156024,CN: Shaannxi Province,China,CHN,CN,1,Shaanxi,CHN.22_1,,,,,CHN.22_1
+WVS,2010-2014,156,CHN,156032,CN: Chongqing,China,CHN,CN,1,Chongqing,CHN.3_1,,,,,CHN.3_1
+WVS,2010-2014,156,CHN,156033,CN: Gansu,China,CHN,CN,1,Gansu,CHN.5_1,,,,,CHN.5_1
+WVS,2010-2014,156,CHN,156034,CN: Qinghai,China,CHN,CN,1,Qinghai,CHN.21_1,,,,,CHN.21_1
+,,,,,,,,,,,,,,,,
+WVS,2010-2014,356,IND,356001,IN: Andhra Pradesh,India,IND,IN,1,Andhra Pradesh,IND.2_1,,,,,IND.2_1
+WVS,2010-2014,356,IND,356003,IN: Bihar,India,IND,IN,1,Bihar,IND.5_1,,,,,IND.5_1
+WVS,2010-2014,356,IND,356004,IN: Chhatisgarh,India,IND,IN,1,Chhattisgarh,IND.7_1,,,,,IND.7_1
+WVS,2010-2014,356,IND,356005,IN: Delhi,India,IND,IN,1,NCT of Delhi,IND.25_1,,,,,IND.25_1
+WVS,2010-2014,356,IND,356006,IN: Gujarat,India,IND,IN,1,Gujarat,IND.11_1,,,,,IND.11_1
+WVS,2010-2014,356,IND,356007,IN: Haryana,India,IND,IN,1,Haryana,IND.12_1,,,,,IND.12_1
+WVS,2010-2014,356,IND,356008,IN: Jharkhand,India,IND,IN,1,Jharkhand,IND.15_1,,,,,IND.15_1
+WVS,2010-2014,356,IND,356009,IN: Karnataka,India,IND,IN,1,Karnataka,IND.16_1,,,,,IND.16_1
+WVS,2010-2014,356,IND,356010,IN: Kerala,India,IND,IN,1,Kerala,IND.17_1,,,,,IND.17_1
+WVS,2010-2014,356,IND,356011,IN: Madhya Pradesh,India,IND,IN,1,Madhya Pradesh,IND.19_1,,,,,IND.19_1
+WVS,2010-2014,356,IND,356012,IN: Maharashtra,India,IND,IN,1,Maharashtra,IND.20_1,,,,,IND.20_1
+WVS,2010-2014,356,IND,356013,IN: Orrisa,India,IND,IN,1,Odisha,IND.26_1,,,,,IND.26_1
+WVS,2010-2014,356,IND,356014,IN: Punjab,India,IND,IN,1,Punjab,IND.28_1,,,,,IND.28_1
+WVS,2010-2014,356,IND,356015,IN: Rajasthan,India,IND,IN,1,Rajasthan,IND.29_1,,,,,IND.29_1
+WVS,2010-2014,356,IND,356017,IN: Uttar Pradesh,India,IND,IN,1,Uttar Pradesh,IND.34_1,,,,,IND.34_1
+WVS,2010-2014,356,IND,356018,IN: West Bengal,India,IND,IN,1,West Bengal,IND.36_1,,,,,IND.36_1
+WVS,2010-2014,356,IND,356019,IN: Uttarakhand,India,IND,IN,1,Uttarakhand,IND.35_1,,,,,IND.35_1
+,,,,,,,,,,,,,,,,
+WVS,2010-2014,76,BRA,76038,BR: Amazonas,Brazil,BRA,BR,1,Amazonas,BRA.4_1,,,,,BRA.4_1
+WVS,2010-2014,76,BRA,76039,BR: Pará,Brazil,BRA,BR,1,Pará,BRA.14_1,,,,,BRA.14_1
+WVS,2010-2014,76,BRA,76040,BR: Rondônia,Brazil,BRA,BR,1,Rondônia,BRA.22_1,,,,,BRA.22_1
+WVS,2010-2014,76,BRA,76041,BR: Alagoas,Brazil,BRA,BR,1,Alagoas,BRA.2_1,,,,,BRA.2_1
+WVS,2010-2014,76,BRA,76042,BR: Bahia,Brazil,BRA,BR,1,Bahia,BRA.5_1,,,,,BRA.5_1
+WVS,2010-2014,76,BRA,76043,BR: Ceará,Brazil,BRA,BR,1,Ceará,BRA.6_1,,,,,BRA.6_1
+WVS,2010-2014,76,BRA,76044,BR: Maranhão,Brazil,BRA,BR,1,Maranhão,BRA.10_1,,,,,BRA.10_1
+WVS,2010-2014,76,BRA,76045,BR: Paraíba,Brazil,BRA,BR,1,Paraíba,BRA.15_1,,,,,BRA.15_1
+WVS,2010-2014,76,BRA,76046,BR: Pernambuco,Brazil,BRA,BR,1,Pernambuco,BRA.17_1,,,,,BRA.17_1
+WVS,2010-2014,76,BRA,76047,BR: Sergipe,Brazil,BRA,BR,1,Sergipe,BRA.26_1,,,,,BRA.26_1
+WVS,2010-2014,76,BRA,76048,BR: Distrito Federal,Brazil,BRA,BR,1,Distrito Federal,BRA.7_1,,,,,BRA.7_1
+WVS,2010-2014,76,BRA,76049,BR: Goiás,Brazil,BRA,BR,1,Goiás,BRA.9_1,,,,,BRA.9_1
+WVS,2010-2014,76,BRA,76050,BR: Mato Grosso,Brazil,BRA,BR,1,Mato Grosso,BRA.12_1,,,,,BRA.12_1
+WVS,2010-2014,76,BRA,76051,BR: Mato Grosso do Sul,Brazil,BRA,BR,1,Mato Grosso do Sul,BRA.11_1,,,,,BRA.11_1
+WVS,2010-2014,76,BRA,76052,BR: Espírito Santo,Brazil,BRA,BR,1,Espírito Santo,BRA.8_1,,,,,BRA.8_1
+WVS,2010-2014,76,BRA,76053,BR: Minas Gerais,Brazil,BRA,BR,1,Minas Gerais,BRA.13_1,,,,,BRA.13_1
+WVS,2010-2014,76,BRA,76054,BR: Rio de Janeiro,Brazil,BRA,BR,1,Rio de Janeiro,BRA.19_1,,,,,BRA.19_1
+WVS,2010-2014,76,BRA,76055,BR: São Paulo,Brazil,BRA,BR,1,São Paulo,BRA.25_1,,,,,BRA.25_1
+WVS,2010-2014,76,BRA,76056,BR: Paraná,Brazil,BRA,BR,1,Paraná,BRA.16_1,,,,,BRA.16_1
+WVS,2010-2014,76,BRA,76057,BR: Santa Catarina,Brazil,BRA,BR,1,Santa Catarina,BRA.24_1,,,,,BRA.24_1
+WVS,2010-2014,76,BRA,76058,BR: Rio Grande do Sul,Brazil,BRA,BR,1,Rio Grande do Sul,BRA.21_1,,,,,BRA.21_1
+,,,,,,,,,,,,,,,,
+WVS,2005-2009,360,IDN,360004,ID: West java province,Indonesia,IDN,ID,1,Jawa Barat,IDN.9_1,,,,,IDN.9_1
+WVS,2005-2009,360,IDN,360005,ID: Central Java province,Indonesia,IDN,ID,1,Jawa Tengah,IDN.10_1,,,,,IDN.10_1
+WVS,2005-2009,360,IDN,360010,ID: Banten,Indonesia,IDN,ID,1,Banten,IDN.4_1,,,,,IDN.4_1
+WVS,2005-2009,360,IDN,360011,ID: DKI,Indonesia,IDN,ID,1,Jakarta Raya,IDN.7_1,,,,,IDN.7_1
+WVS,2005-2009,360,IDN,360012,ID: Dareah Istimewa Yogyakarta,Indonesia,IDN,ID,1,Yogyakarta,IDN.33_1,,,,,IDN.33_1
+WVS,2005-2009,360,IDN,360013,ID: East Java,Indonesia,IDN,ID,1,Jawa Timur,IDN.11_1,,,,,IDN.11_1
+WVS,2005-2009,360,IDN,360014,ID: Lampung,Indonesia,IDN,ID,1,Lampung,IDN.17_1,,,,,IDN.17_1
+WVS,2005-2009,360,IDN,360015,ID: West Nusa Tenggara,Indonesia,IDN,ID,1,Nusa Tenggara Barat,IDN.20_1,,,,,IDN.20_1
+WVS,2005-2009,360,IDN,360016,ID: South Kalimantan,Indonesia,IDN,ID,1,Kalimantan Selatan,IDN.13_1,,,,,IDN.13_1
+WVS,2005-2009,360,IDN,360017,ID: Center Sulawesi,Indonesia,IDN,ID,1,Sulawesi Tengah,IDN.27_1,,,,,IDN.27_1
+,,,,,,,,,,,,,,,,
+EVS,2008-2010,792,TUR,-5,Unknown,Turkey,TUR,TR,0,,,,,,,TUR.8_1
+,,,,,,,,,,,,,,,,
+WVS,2010-2014,792,TUR,792041,TR: Istambul,Turkey,TUR,TR,1,Istanbul,TUR.40_1,Istanbul,,,,TUR.40_1
+WVS,2010-2014,792,TUR,792042,TR: Western Marmara,Turkey,TUR,TR,1,Tekirdag,TUR.73_1,Tekirdag,,,,TUR.73_1
+WVS,2010-2014,792,TUR,792042,TR: Western Marmara,Turkey,TUR,TR,1,Edirne,TUR.28_1,Edirne,,,,TUR.28_1
+WVS,2010-2014,792,TUR,792042,TR: Western Marmara,Turkey,TUR,TR,1,Kirklareli,TUR.50_1,Kirklareli,,,,TUR.50_1
+WVS,2010-2014,792,TUR,792042,TR: Western Marmara,Turkey,TUR,TR,1,Balikesir,TUR.12_1,Balikesir,,,,TUR.12_1
+WVS,2010-2014,792,TUR,792042,TR: Western Marmara,Turkey,TUR,TR,1,Çanakkale,TUR.22_1,Çanakkale,,,,TUR.22_1
+WVS,2010-2014,792,TUR,792043,TR: Aegean,Turkey,TUR,TR,1,Aydin,TUR.11_1,Aydin,,,,TUR.11_1
+WVS,2010-2014,792,TUR,792043,TR: Aegean,Turkey,TUR,TR,1,Izmir,TUR.41_1,Izmir,,,,TUR.41_1
+WVS,2010-2014,792,TUR,792043,TR: Aegean,Turkey,TUR,TR,1,Denizli,TUR.25_1,Denizli,,,,TUR.25_1
+WVS,2010-2014,792,TUR,792043,TR: Aegean,Turkey,TUR,TR,1,Mugla,TUR.59_1,Mugla,,,,TUR.59_1
+WVS,2010-2014,792,TUR,792043,TR: Aegean,Turkey,TUR,TR,1,Manisa,TUR.56_1,Manisa,,,,TUR.56_1
+WVS,2010-2014,792,TUR,792043,TR: Aegean,Turkey,TUR,TR,1,Afyon,TUR.3_1,Afyon,,,,TUR.3_1
+WVS,2010-2014,792,TUR,792043,TR: Aegean,Turkey,TUR,TR,1,Kütahya,TUR.54_1,Kütahya,,,,TUR.54_1
+WVS,2010-2014,792,TUR,792043,TR: Aegean,Turkey,TUR,TR,1,Usak,TUR.77_1,Usak,,,,TUR.77_1
+WVS,2010-2014,792,TUR,792044,TR: Eastern Marmara,Turkey,TUR,TR,1,Bursa,TUR.21_1,Bursa,,,,TUR.21_1
+WVS,2010-2014,792,TUR,792044,TR: Eastern Marmara,Turkey,TUR,TR,1,Eskisehir,TUR.32_1,Eskisehir,,,,TUR.32_1
+WVS,2010-2014,792,TUR,792044,TR: Eastern Marmara,Turkey,TUR,TR,1,Bilecik,TUR.16_1,Bilecik,,,,TUR.16_1
+WVS,2010-2014,792,TUR,792044,TR: Eastern Marmara,Turkey,TUR,TR,1,Kocaeli,TUR.52_1,Kocaeli,,,,TUR.52_1
+WVS,2010-2014,792,TUR,792044,TR: Eastern Marmara,Turkey,TUR,TR,1,Sakarya,TUR.66_1,Sakarya,,,,TUR.66_1
+WVS,2010-2014,792,TUR,792044,TR: Eastern Marmara,Turkey,TUR,TR,1,Düzce,TUR.27_1,Düzce,,,,TUR.27_1
+WVS,2010-2014,792,TUR,792044,TR: Eastern Marmara,Turkey,TUR,TR,1,Bolu,TUR.19_1,Bolu,,,,TUR.19_1
+WVS,2010-2014,792,TUR,792044,TR: Eastern Marmara,Turkey,TUR,TR,1,Yalova,TUR.79_1,Yalova,,,,TUR.79_1
+WVS,2010-2014,792,TUR,792045,TR: Western Anatolia,Turkey,TUR,TR,1,Ankara,TUR.7_1,Ankara,,,,TUR.7_1
+WVS,2010-2014,792,TUR,792045,TR: Western Anatolia,Turkey,TUR,TR,1,Konya,TUR.53_1,Konya,,,,TUR.53_1
+WVS,2010-2014,792,TUR,792045,TR: Western Anatolia,Turkey,TUR,TR,1,Karaman,TUR.44_1,Karaman,,,,TUR.44_1
+WVS,2010-2014,792,TUR,792046,TR: Mediterranean,Turkey,TUR,TR,1,Antalya,TUR.8_1,Antalya,,,,TUR.8_1
+WVS,2010-2014,792,TUR,792046,TR: Mediterranean,Turkey,TUR,TR,1,Isparta,TUR.39_1,Isparta,,,,TUR.39_1
+WVS,2010-2014,792,TUR,792046,TR: Mediterranean,Turkey,TUR,TR,1,Burdur,TUR.20_1,Burdur,,,,TUR.20_1
+WVS,2010-2014,792,TUR,792046,TR: Mediterranean,Turkey,TUR,TR,1,Adana,TUR.1_1,Adana,,,,TUR.1_1
+WVS,2010-2014,792,TUR,792046,TR: Mediterranean,Turkey,TUR,TR,1,Mersin,TUR.58_1,Mersin,,,,TUR.58_1
+WVS,2010-2014,792,TUR,792046,TR: Mediterranean,Turkey,TUR,TR,1,Hatay,TUR.37_1,Hatay,,,,TUR.37_1
+WVS,2010-2014,792,TUR,792046,TR: Mediterranean,Turkey,TUR,TR,1,K. Maras,TUR.42_1,K. Maras,,,,TUR.42_1
+WVS,2010-2014,792,TUR,792046,TR: Mediterranean,Turkey,TUR,TR,1,Osmaniye,TUR.64_1,Osmaniye,,,,TUR.64_1
+WVS,2010-2014,792,TUR,792047,TR: Central Anatolia,Turkey,TUR,TR,1,Kinkkale,TUR.49_1,Kinkkale,,,,TUR.49_1
+WVS,2010-2014,792,TUR,792047,TR: Central Anatolia,Turkey,TUR,TR,1,Aksaray,TUR.5_1,Aksaray,,,,TUR.5_1
+WVS,2010-2014,792,TUR,792047,TR: Central Anatolia,Turkey,TUR,TR,1,Nigde,TUR.62_1,Nigde,,,,TUR.62_1
+WVS,2010-2014,792,TUR,792047,TR: Central Anatolia,Turkey,TUR,TR,1,Nevsehir,TUR.61_1,Nevsehir,,,,TUR.61_1
+WVS,2010-2014,792,TUR,792047,TR: Central Anatolia,Turkey,TUR,TR,1,Kirsehir,TUR.51_1,Kirsehir,,,,TUR.51_1
+WVS,2010-2014,792,TUR,792047,TR: Central Anatolia,Turkey,TUR,TR,1,Kayseri,TUR.47_1,Kayseri,,,,TUR.47_1
+WVS,2010-2014,792,TUR,792047,TR: Central Anatolia,Turkey,TUR,TR,1,Sivas,TUR.72_1,Sivas,,,,TUR.72_1
+WVS,2010-2014,792,TUR,792047,TR: Central Anatolia,Turkey,TUR,TR,1,Yozgat,TUR.80_1,Yozgat,,,,TUR.80_1
+WVS,2010-2014,792,TUR,792048,TR: Western Black Sea,Turkey,TUR,TR,1,Zinguldak,TUR.81_1,Zinguldak,,,,TUR.81_1
+WVS,2010-2014,792,TUR,792048,TR: Western Black Sea,Turkey,TUR,TR,1,Karabük,TUR.43_1,Karabük,,,,TUR.43_1
+WVS,2010-2014,792,TUR,792048,TR: Western Black Sea,Turkey,TUR,TR,1,Bartın,TUR.13_1,Bartın,,,,TUR.13_1
+WVS,2010-2014,792,TUR,792048,TR: Western Black Sea,Turkey,TUR,TR,1,Kastamonu,TUR.46_1,Kastamonu,,,,TUR.46_1
+WVS,2010-2014,792,TUR,792048,TR: Western Black Sea,Turkey,TUR,TR,1,Çankiri,TUR.23_1,Çankiri,,,,TUR.23_1
+WVS,2010-2014,792,TUR,792048,TR: Western Black Sea,Turkey,TUR,TR,1,Sinop,TUR.70_1,Sinop,,,,TUR.70_1
+WVS,2010-2014,792,TUR,792048,TR: Western Black Sea,Turkey,TUR,TR,1,Samsun,TUR.67_1,Samsun,,,,TUR.67_1
+WVS,2010-2014,792,TUR,792048,TR: Western Black Sea,Turkey,TUR,TR,1,Tokat,TUR.74_1,Tokat,,,,TUR.74_1
+WVS,2010-2014,792,TUR,792048,TR: Western Black Sea,Turkey,TUR,TR,1,Çorum,TUR.24_1,Çorum,,,,TUR.24_1
+WVS,2010-2014,792,TUR,792048,TR: Western Black Sea,Turkey,TUR,TR,1,Amasya,TUR.6_1,Amasya,,,,TUR.6_1
+WVS,2010-2014,792,TUR,792049,TR: Eastern Black Sea,Turkey,TUR,TR,1,Trabzon,TUR.75_1,Trabzon,,,,TUR.75_1
+WVS,2010-2014,792,TUR,792049,TR: Eastern Black Sea,Turkey,TUR,TR,1,Ordu,TUR.63_1,Ordu,,,,TUR.63_1
+WVS,2010-2014,792,TUR,792049,TR: Eastern Black Sea,Turkey,TUR,TR,1,Giresun,TUR.34_1,Giresun,,,,TUR.34_1
+WVS,2010-2014,792,TUR,792049,TR: Eastern Black Sea,Turkey,TUR,TR,1,Rize,TUR.65_1,Rize,,,,TUR.65_1
+WVS,2010-2014,792,TUR,792049,TR: Eastern Black Sea,Turkey,TUR,TR,1,Artvin,TUR.10_1,Artvin,,,,TUR.10_1
+WVS,2010-2014,792,TUR,792049,TR: Eastern Black Sea,Turkey,TUR,TR,1,Gümüshane,TUR.35_1,Gümüshane,,,,TUR.35_1
+WVS,2010-2014,792,TUR,792050,TR: North Eastern Anatolia,Turkey,TUR,TR,1,Erzurum,TUR.31_1,Erzurum,,,,TUR.31_1
+WVS,2010-2014,792,TUR,792050,TR: North Eastern Anatolia,Turkey,TUR,TR,1,Erzincan,TUR.30_1,Erzincan,,,,TUR.30_1
+WVS,2010-2014,792,TUR,792050,TR: North Eastern Anatolia,Turkey,TUR,TR,1,Bayburt,TUR.15_1,Bayburt,,,,TUR.15_1
+WVS,2010-2014,792,TUR,792050,TR: North Eastern Anatolia,Turkey,TUR,TR,1,Agri,TUR.4_1,Agri,,,,TUR.4_1
+WVS,2010-2014,792,TUR,792050,TR: North Eastern Anatolia,Turkey,TUR,TR,1,Kars,TUR.45_1,Kars,,,,TUR.45_1
+WVS,2010-2014,792,TUR,792050,TR: North Eastern Anatolia,Turkey,TUR,TR,1,Iğdır,TUR.38_1,Iğdır,,,,TUR.38_1
+WVS,2010-2014,792,TUR,792050,TR: North Eastern Anatolia,Turkey,TUR,TR,1,Ardahan,TUR.9_1,Ardahan,,,,TUR.9_1
+WVS,2010-2014,792,TUR,792051,TR: East Central Anatolia,Turkey,TUR,TR,1,Malatya,TUR.55_1,Malatya,,,,TUR.55_1
+WVS,2010-2014,792,TUR,792051,TR: East Central Anatolia,Turkey,TUR,TR,1,Elazığ,TUR.29_1,Elazığ,,,,TUR.29_1
+WVS,2010-2014,792,TUR,792051,TR: East Central Anatolia,Turkey,TUR,TR,1,Bingöl,TUR.17_1,Bingöl,,,,TUR.17_1
+WVS,2010-2014,792,TUR,792051,TR: East Central Anatolia,Turkey,TUR,TR,1,Tunceli,TUR.76_1,Tunceli,,,,TUR.76_1
+WVS,2010-2014,792,TUR,792051,TR: East Central Anatolia,Turkey,TUR,TR,1,Van,TUR.78_1,Van,,,,TUR.78_1
+WVS,2010-2014,792,TUR,792051,TR: East Central Anatolia,Turkey,TUR,TR,1,Mus,TUR.60_1,Mus,,,,TUR.60_1
+WVS,2010-2014,792,TUR,792051,TR: East Central Anatolia,Turkey,TUR,TR,1,Bitlis,TUR.18_1,Bitlis,,,,TUR.18_1
+WVS,2010-2014,792,TUR,792051,TR: East Central Anatolia,Turkey,TUR,TR,1,Hakkari,TUR.36_1,Hakkari,,,,TUR.36_1
+WVS,2010-2014,792,TUR,792052,TR: South Eastern Anatolia,Turkey,TUR,TR,1,Gaziantep,TUR.33_1,Gaziantep,,,,TUR.33_1
+WVS,2010-2014,792,TUR,792052,TR: South Eastern Anatolia,Turkey,TUR,TR,1,Adiyaman,TUR.2_1,Adiyaman,,,,TUR.2_1
+WVS,2010-2014,792,TUR,792052,TR: South Eastern Anatolia,Turkey,TUR,TR,1,Kilis,TUR.48_1,Kilis,,,,TUR.48_1
+WVS,2010-2014,792,TUR,792052,TR: South Eastern Anatolia,Turkey,TUR,TR,1,Sanliurfa,TUR.68_1,Sanliurfa,,,,TUR.68_1
+WVS,2010-2014,792,TUR,792052,TR: South Eastern Anatolia,Turkey,TUR,TR,1,Diyarbakir,TUR.26_1,Diyarbakir,,,,TUR.26_1
+WVS,2010-2014,792,TUR,792052,TR: South Eastern Anatolia,Turkey,TUR,TR,1,Mardin,TUR.57_1,Mardin,,,,TUR.57_1
+WVS,2010-2014,792,TUR,792052,TR: South Eastern Anatolia,Turkey,TUR,TR,1,Batman,TUR.14_1,Batman,,,,TUR.14_1
+WVS,2010-2014,792,TUR,792052,TR: South Eastern Anatolia,Turkey,TUR,TR,1,Sirnak,TUR.71_1,Sirnak,,,,TUR.71_1
+WVS,2010-2014,792,TUR,792052,TR: South Eastern Anatolia,Turkey,TUR,TR,1,Siirt,TUR.69_1,Siirt,,,,TUR.69_1
+,,,,,,,,,,,,,,,,
+WVS,2010-2014,392,JPN,392011,JP: Hokkaido region,Japan,JPN,JP,1,Hokkaido,JPN.12_1,,,,,JPN.12_1
+WVS,2010-2014,392,JPN,392012,JP: Tohoku region,Japan,JPN,JP,1,Aomori,JPN.3_1,,,,,JPN.3_1
+WVS,2010-2014,392,JPN,392012,JP: Tohoku region,Japan,JPN,JP,1,Iwate,JPN.16_1,,,,,JPN.16_1
+WVS,2010-2014,392,JPN,392012,JP: Tohoku region,Japan,JPN,JP,1,Miyagi,JPN.24_1,,,,,JPN.24_1
+WVS,2010-2014,392,JPN,392012,JP: Tohoku region,Japan,JPN,JP,1,Akita,JPN.2_1,,,,,JPN.2_1
+WVS,2010-2014,392,JPN,392012,JP: Tohoku region,Japan,JPN,JP,1,Yamagata,JPN.45_1,,,,,JPN.45_1
+WVS,2010-2014,392,JPN,392012,JP: Tohoku region,Japan,JPN,JP,1,Fukushima,JPN.8_1,,,,,JPN.8_1
+WVS,2010-2014,392,JPN,392013,JP: Kita-Kanto region,Japan,JPN,JP,1,Ibaraki,JPN.14_1,,,,,JPN.14_1
+WVS,2010-2014,392,JPN,392013,JP: Kita-Kanto region,Japan,JPN,JP,1,Tochigi,JPN.39_1,,,,,JPN.39_1
+WVS,2010-2014,392,JPN,392013,JP: Kita-Kanto region,Japan,JPN,JP,1,Gunma,JPN.10_1,,,,,JPN.10_1
+WVS,2010-2014,392,JPN,392014,JP: Minami-Kanto region,Japan,JPN,JP,1,Saitama,JPN.35_1,,,,,JPN.35_1
+WVS,2010-2014,392,JPN,392014,JP: Minami-Kanto region,Japan,JPN,JP,1,Chiba,JPN.4_1,,,,,JPN.4_1
+WVS,2010-2014,392,JPN,392014,JP: Minami-Kanto region,Japan,JPN,JP,1,Kanagawa,JPN.19_1,,,,,JPN.19_1
+WVS,2010-2014,392,JPN,392015,JP: Tokyo,Japan,JPN,JP,1,Tokyo,JPN.41_1,,,,,JPN.41_1
+WVS,2010-2014,392,JPN,392016,JP: Tokai region,Japan,JPN,JP,1,Shizuoka,JPN.38_1,,,,,JPN.38_1
+WVS,2010-2014,392,JPN,392016,JP: Tokai region,Japan,JPN,JP,1,Aichi,JPN.1_1,,,,,JPN.1_1
+WVS,2010-2014,392,JPN,392016,JP: Tokai region,Japan,JPN,JP,1,Gifu,JPN.9_1,,,,,JPN.9_1
+WVS,2010-2014,392,JPN,392016,JP: Tokai region,Japan,JPN,JP,1,Mie,JPN.23_1,,,,,JPN.23_1
+WVS,2010-2014,392,JPN,392017,"JP: Hokuriku, Shinetsu region",Japan,JPN,JP,1,Ishikawa,JPN.15_1,,,,,JPN.15_1
+WVS,2010-2014,392,JPN,392017,"JP: Hokuriku, Shinetsu region",Japan,JPN,JP,1,Fukui,JPN.6_1,,,,,JPN.6_1
+WVS,2010-2014,392,JPN,392017,"JP: Hokuriku, Shinetsu region",Japan,JPN,JP,1,Niigata,JPN.29_1,,,,,JPN.29_1
+WVS,2010-2014,392,JPN,392017,"JP: Hokuriku, Shinetsu region",Japan,JPN,JP,1,Toyama,JPN.43_1,,,,,JPN.43_1
+WVS,2010-2014,392,JPN,392017,"JP: Hokuriku, Shinetsu region",Japan,JPN,JP,1,Nagano,JPN.26_1,,,,,JPN.26_1
+WVS,2010-2014,392,JPN,392018,JP: Kinki region,Japan,JPN,JP,1,Shiga,JPN.36_1,,,,,JPN.36_1
+WVS,2010-2014,392,JPN,392018,JP: Kinki region,Japan,JPN,JP,1,Kyoto,JPN.22_1,,,,,JPN.22_1
+WVS,2010-2014,392,JPN,392018,JP: Kinki region,Japan,JPN,JP,1,Osaka,JPN.33_1,,,,,JPN.33_1
+WVS,2010-2014,392,JPN,392018,JP: Kinki region,Japan,JPN,JP,1,Hyōgo,JPN.13_1,,,,,JPN.13_1
+WVS,2010-2014,392,JPN,392018,JP: Kinki region,Japan,JPN,JP,1,Nara,JPN.28_1,,,,,JPN.28_1
+WVS,2010-2014,392,JPN,392018,JP: Kinki region,Japan,JPN,JP,1,Wakayama,JPN.44_1,,,,,JPN.44_1
+WVS,2010-2014,392,JPN,392019,JP: Chugoku region,Japan,JPN,JP,1,Tottori,JPN.42_1,,,,,JPN.42_1
+WVS,2010-2014,392,JPN,392019,JP: Chugoku region,Japan,JPN,JP,1,Shimane,JPN.37_1,,,,,JPN.37_1
+WVS,2010-2014,392,JPN,392019,JP: Chugoku region,Japan,JPN,JP,1,Okayama,JPN.31_1,,,,,JPN.31_1
+WVS,2010-2014,392,JPN,392019,JP: Chugoku region,Japan,JPN,JP,1,Hiroshima,JPN.11_1,,,,,JPN.11_1
+WVS,2010-2014,392,JPN,392019,JP: Chugoku region,Japan,JPN,JP,1,Yamaguchi,JPN.46_1,,,,,JPN.46_1
+WVS,2010-2014,392,JPN,392020,JP: Shikoku region,Japan,JPN,JP,1,Tokushima,JPN.40_1,,,,,JPN.40_1
+WVS,2010-2014,392,JPN,392020,JP: Shikoku region,Japan,JPN,JP,1,Kagawa,JPN.17_1,,,,,JPN.17_1
+WVS,2010-2014,392,JPN,392020,JP: Shikoku region,Japan,JPN,JP,1,Ehime,JPN.5_1,,,,,JPN.5_1
+WVS,2010-2014,392,JPN,392020,JP: Shikoku region,Japan,JPN,JP,1,Kochi,JPN.20_1,,,,,JPN.20_1
+WVS,2010-2014,392,JPN,392021,JP: Kyushu region,Japan,JPN,JP,1,Fukuoka,JPN.7_1,,,,,JPN.7_1
+WVS,2010-2014,392,JPN,392021,JP: Kyushu region,Japan,JPN,JP,1,Saga,JPN.34_1,,,,,JPN.34_1
+WVS,2010-2014,392,JPN,392021,JP: Kyushu region,Japan,JPN,JP,1,Naoasaki,JPN.27_1,,,,,JPN.27_1
+WVS,2010-2014,392,JPN,392021,JP: Kyushu region,Japan,JPN,JP,1,Kumamoto,JPN.21_1,,,,,JPN.21_1
+WVS,2010-2014,392,JPN,392021,JP: Kyushu region,Japan,JPN,JP,1,Oita,JPN.30_1,,,,,JPN.30_1
+WVS,2010-2014,392,JPN,392021,JP: Kyushu region,Japan,JPN,JP,1,Miyazaki,JPN.25_1,,,,,JPN.25_1
+WVS,2010-2014,392,JPN,392021,JP: Kyushu region,Japan,JPN,JP,1,Kagoshima,JPN.18_1,,,,,JPN.18_1
+WVS,2010-2014,392,JPN,392021,JP: Kyushu region,Japan,JPN,JP,1,Okinawa,JPN.32_1,,,,,JPN.32_1
+,,,,,,,,,,,,,,,,
+WVS,2010-2014,484,MEX,484101,MX: Aguascalientes,Mexico,MEX,MX,1,Aguascalientes,MEX.1_1,,,,,MEX.1_1
+WVS,2010-2014,484,MEX,484102,MX: Baja California,Mexico,MEX,MX,1,Baja California,MEX.3_1,,,,,MEX.3_1
+WVS,2010-2014,484,MEX,484103,MX: Baja California Sur,Mexico,MEX,MX,1,Baja California Sur,MEX.2_1,,,,,MEX.2_1
+WVS,2010-2014,484,MEX,484104,MX: Campeche,Mexico,MEX,MX,1,Campeche,MEX.4_1,,,,,MEX.4_1
+WVS,2010-2014,484,MEX,484105,MX: Coahuila,Mexico,MEX,MX,1,Coahuila,MEX.7_1,,,,,MEX.7_1
+WVS,2010-2014,484,MEX,484106,MX: Colima,Mexico,MEX,MX,1,Colima,MEX.8_1,,,,,MEX.8_1
+WVS,2010-2014,484,MEX,484107,MX: Chiapas,Mexico,MEX,MX,1,Chiapas,MEX.5_1,,,,,MEX.5_1
+WVS,2010-2014,484,MEX,484108,MX: Chihuahua,Mexico,MEX,MX,1,Chihuahua,MEX.6_1,,,,,MEX.6_1
+WVS,2010-2014,484,MEX,484109,MX: Distrito Federal,Mexico,MEX,MX,1,Distrito Federal,MEX.9_1,,,,,MEX.9_1
+WVS,2010-2014,484,MEX,484110,MX: Durango,Mexico,MEX,MX,1,Durango,MEX.10_1,,,,,MEX.10_1
+WVS,2010-2014,484,MEX,484111,MX: Guanajuato,Mexico,MEX,MX,1,Guanajuato,MEX.11_1,,,,,MEX.11_1
+WVS,2010-2014,484,MEX,484112,MX: Guerrero,Mexico,MEX,MX,1,Guerrero,MEX.12_1,,,,,MEX.12_1
+WVS,2010-2014,484,MEX,484113,MX: Hidalgo,Mexico,MEX,MX,1,Hidalgo,MEX.13_1,,,,,MEX.13_1
+WVS,2010-2014,484,MEX,484114,MX: Jalisco,Mexico,MEX,MX,1,Jalisco,MEX.14_1,,,,,MEX.14_1
+WVS,2010-2014,484,MEX,484115,MX: Estado de México,Mexico,MEX,MX,1,México,MEX.15_1,,,,,MEX.15_1
+WVS,2010-2014,484,MEX,484116,MX: Michoacán,Mexico,MEX,MX,1,Michoacán,MEX.16_1,,,,,MEX.16_1
+WVS,2010-2014,484,MEX,484117,MX: Morelos,Mexico,MEX,MX,1,Morelos,MEX.17_1,,,,,MEX.17_1
+WVS,2010-2014,484,MEX,484118,MX: Nayarit,Mexico,MEX,MX,1,Nayarit,MEX.18_1,,,,,MEX.18_1
+WVS,2010-2014,484,MEX,484119,MX: Nuevo León,Mexico,MEX,MX,1,Nuevo León,MEX.19_1,,,,,MEX.19_1
+WVS,2010-2014,484,MEX,484120,MX: Oaxaca,Mexico,MEX,MX,1,Oaxaca,MEX.20_1,,,,,MEX.20_1
+WVS,2010-2014,484,MEX,484121,MX: Puebla,Mexico,MEX,MX,1,Puebla,MEX.21_1,,,,,MEX.21_1
+WVS,2010-2014,484,MEX,484122,MX: Querétaro,Mexico,MEX,MX,1,Querétaro,MEX.22_1,,,,,MEX.22_1
+WVS,2010-2014,484,MEX,484123,MX: Quintana Roo,Mexico,MEX,MX,1,Quintana Roo,MEX.23_1,,,,,MEX.23_1
+WVS,2010-2014,484,MEX,484124,MX: San Luis Potosí,Mexico,MEX,MX,1,San Luis Potosí,MEX.24_1,,,,,MEX.24_1
+WVS,2010-2014,484,MEX,484125,MX: Sinaloa,Mexico,MEX,MX,1,Sinaloa,MEX.25_1,,,,,MEX.25_1
+WVS,2010-2014,484,MEX,484126,MX: Sonora,Mexico,MEX,MX,1,Sonora,MEX.26_1,,,,,MEX.26_1
+WVS,2010-2014,484,MEX,484127,MX: Tabasco,Mexico,MEX,MX,1,Tabasco,MEX.27_1,,,,,MEX.27_1
+WVS,2010-2014,484,MEX,484128,MX: Tamaulipas,Mexico,MEX,MX,1,Tamaulipas,MEX.28_1,,,,,MEX.28_1
+WVS,2010-2014,484,MEX,484129,MX: Tlaxcala,Mexico,MEX,MX,1,Tlaxcala,MEX.29_1,,,,,MEX.29_1
+WVS,2010-2014,484,MEX,484130,MX: Veracruz,Mexico,MEX,MX,1,Veracruz,MEX.30_1,,,,,MEX.30_1
+WVS,2010-2014,484,MEX,484131,MX: Yucatán,Mexico,MEX,MX,1,Yucatán,MEX.31_1,,,,,MEX.31_1
+WVS,2010-2014,484,MEX,484132,MX: Zacatecas,Mexico,MEX,MX,1,Zacatecas,MEX.32_1,,,,,MEX.32_1
+,,,,,,,,,,,,,,,,
+WVS,2010-2014,586,PAK,586010,PK: Punjab,Pakistan,PAK,PK,1,Punjab,PAK.7_1,,,,,PAK.7_1
+WVS,2010-2014,586,PAK,586011,PK: Sindh,Pakistan,PAK,PK,1,Sind,PAK.8_1,,,,,PAK.8_1
+WVS,2010-2014,586,PAK,586012,PK: Khyber Pakhtunkhwa,Pakistan,PAK,PK,1,N.W.F.P.,PAK.5_1,,,,,PAK.5_1
+WVS,2010-2014,586,PAK,586013,PK: Balochistan,Pakistan,PAK,PK,1,Baluchistan,PAK.2_1,,,,,PAK.2_1
+,,,,,,,,,,,,,,,,
+EVS,1990-1993,124,CAN,124001,CA: Prince Edward Island,Canada,CAN,CA,1,Prince Edward Island,CAN.10_1,,,,,CAN.10_1
+EVS,1990-1993,124,CAN,124002,CA: Nova Scotia,Canada,CAN,CA,1,Nova Scotia,CAN.7_1,,,,,CAN.7_1
+EVS,1990-1993,124,CAN,124003,CA: New Brunswick,Canada,CAN,CA,1,New Brunswick,CAN.4_1,,,,,CAN.4_1
+EVS,1990-1993,124,CAN,124004,CA: Quebec,Canada,CAN,CA,1,Québec,CAN.11_1,,,,,CAN.11_1
+EVS,1990-1993,124,CAN,124005,CA: Ontario,Canada,CAN,CA,1,Ontario,CAN.9_1,,,,,CAN.9_1
+EVS,1990-1993,124,CAN,124006,CA: Manitoba,Canada,CAN,CA,1,Manitoba,CAN.3_1,,,,,CAN.3_1
+EVS,1990-1993,124,CAN,124007,CA: Saskatchewan,Canada,CAN,CA,1,Saskatchewan,CAN.12_1,,,,,CAN.12_1
+EVS,1990-1993,124,CAN,124008,CA: Alberta,Canada,CAN,CA,1,Alberta,CAN.1_1,,,,,CAN.1_1
+EVS,1990-1993,124,CAN,124009,CA: British Columbia,Canada,CAN,CA,1,British Columbia,CAN.2_1,,,,,CAN.2_1
+EVS,1990-1993,124,CAN,124010,CA: Newfoundland,Canada,CAN,CA,1,Newfoundland and Labrador,CAN.5_1,,,,,CAN.5_1
+,,,,,,,,,,,,,,,,
+WVS,2005-2009,124,CAN,-5,Unknown,Canada,CAN,CA,0,,CAN,,,,,CAN
+WVS,2005-2009,124,CAN,124001,CA: Prince Edward Island,Canada,CAN,CA,1,Prince Edward Island,CAN.10_1,,,,,CAN.10_1
+WVS,2005-2009,124,CAN,124002,CA: Nova Scotia,Canada,CAN,CA,1,Nova Scotia,CAN.7_1,,,,,CAN.7_1
+WVS,2005-2009,124,CAN,124003,CA: New Brunswick,Canada,CAN,CA,1,New Brunswick,CAN.4_1,,,,,CAN.4_1
+WVS,2005-2009,124,CAN,124004,CA: Quebec,Canada,CAN,CA,1,Québec,CAN.11_1,,,,,CAN.11_1
+WVS,2005-2009,124,CAN,124005,CA: Ontario,Canada,CAN,CA,1,Ontario,CAN.9_1,,,,,CAN.9_1
+WVS,2005-2009,124,CAN,124006,CA: Manitoba,Canada,CAN,CA,1,Manitoba,CAN.3_1,,,,,CAN.3_1
+WVS,2005-2009,124,CAN,124007,CA: Saskatchewan,Canada,CAN,CA,1,Saskatchewan,CAN.12_1,,,,,CAN.12_1
+WVS,2005-2009,124,CAN,124008,CA: Alberta,Canada,CAN,CA,1,Alberta,CAN.1_1,,,,,CAN.1_1
+WVS,2005-2009,124,CAN,124009,CA: British Columbia,Canada,CAN,CA,1,British Columbia,CAN.2_1,,,,,CAN.2_1
+WVS,2005-2009,124,CAN,124010,CA: Newfoundland,Canada,CAN,CA,1,Newfoundland and Labrador,CAN.5_1,,,,,CAN.5_1
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WVS,2005-2009,364,IRN,364001,IR: Gilan,Iran,IRN,IR,1,Gilan,IRN.8_1,,,,,IRN.8_1
+WVS,2005-2009,364,IRN,364002,IR: Mazandaran,Iran,IRN,IR,1,Mazandaran,IRN.20_1,,,,,IRN.20_1
+WVS,2005-2009,364,IRN,364003,IR: Fars,Iran,IRN,IR,1,Fars,IRN.7_1,,,,,IRN.7_1
+WVS,2005-2009,364,IRN,364004,IR: Kerman,Iran,IRN,IR,1,Kerman,IRN.13_1,,,,,IRN.13_1
+WVS,2005-2009,364,IRN,364005,IR: West azarbayjan,Iran,IRN,IR,1,West Azarbaijan,IRN.29_1,,,,,IRN.29_1
+WVS,2005-2009,364,IRN,364006,IR: East azarbayjan,Iran,IRN,IR,1,East Azarbaijan,IRN.5_1,,,,,IRN.5_1
+WVS,2005-2009,364,IRN,364007,IR: Kermanshah,Iran,IRN,IR,1,Kermanshah,IRN.14_1,,,,,IRN.14_1
+WVS,2005-2009,364,IRN,364008,IR: Sistan and balouchestan,Iran,IRN,IR,1,Sistan and Baluchestan,IRN.26_1,,,,,IRN.26_1
+WVS,2005-2009,364,IRN,364009,IR: Isfahan,Iran,IRN,IR,1,Esfahan,IRN.6_1,,,,,IRN.6_1
+WVS,2005-2009,364,IRN,364010,IR: Khozestan,Iran,IRN,IR,1,Khuzestan,IRN.15_1,,,,,IRN.15_1
+WVS,2005-2009,364,IRN,364011,IR: Kordestan,Iran,IRN,IR,1,Kordestan,IRN.17_1,,,,,IRN.17_1
+WVS,2005-2009,364,IRN,364012,IR: Khorasan,Iran,IRN,IR,1,Razavi Khorasan,IRN.24_1,,,,,IRN.24_1
+WVS,2005-2009,364,IRN,364013,IR: Tehran,Iran,IRN,IR,1,Tehran,IRN.28_1,,,,,IRN.28_1
+WVS,2005-2009,364,IRN,364014,IR: Boyer ahmad,Iran,IRN,IR,1,Kohgiluyeh and Buyer Ahmad,IRN.16_1,,,,,IRN.16_1
+WVS,2005-2009,364,IRN,364015,IR: Bushehr,Iran,IRN,IR,1,Bushehr,IRN.3_1,,,,,IRN.3_1
+WVS,2005-2009,364,IRN,364016,IR: Chaharmahal,Iran,IRN,IR,1,Chahar Mahall and Bakhtiari,IRN.4_1,,,,,IRN.4_1
+WVS,2005-2009,364,IRN,364017,IR: Hamadan,Iran,IRN,IR,1,Hamadan,IRN.10_1,,,,,IRN.10_1
+WVS,2005-2009,364,IRN,364018,IR: Hormozgan,Iran,IRN,IR,1,Hormozgan,IRN.11_1,,,,,IRN.11_1
+WVS,2005-2009,364,IRN,364019,IR: Ilam,Iran,IRN,IR,1,Ilam,IRN.12_1,,,,,IRN.12_1
+WVS,2005-2009,364,IRN,364020,IR: Lorestan,Iran,IRN,IR,1,Lorestan,IRN.18_1,,,,,IRN.18_1
+WVS,2005-2009,364,IRN,364021,IR: Markazi,Iran,IRN,IR,1,Markazi,IRN.19_1,,,,,IRN.19_1
+WVS,2005-2009,364,IRN,364022,IR: Semnan,Iran,IRN,IR,1,Semnan,IRN.25_1,,,,,IRN.25_1
+WVS,2005-2009,364,IRN,364023,IR: Yazd,Iran,IRN,IR,1,Yazd,IRN.30_1,,,,,IRN.30_1
+WVS,2005-2009,364,IRN,364024,IR: Zanjan,Iran,IRN,IR,1,Zanjan,IRN.31_1,,,,,IRN.31_1
+WVS,2005-2009,364,IRN,364025,IR: Ghom,Iran,IRN,IR,1,Qom,IRN.23_1,,,,,IRN.23_1
+WVS,2005-2009,364,IRN,364026,IR: Ardabil,Iran,IRN,IR,1,Ardebil,IRN.2_1,,,,,IRN.2_1
+WVS,2005-2009,364,IRN,364027,IR: Ghazvin,Iran,IRN,IR,1,Qazvin,IRN.22_1,,,,,IRN.22_1
+WVS,2005-2009,364,IRN,364028,IR: Golestan,Iran,IRN,IR,1,Golestan,IRN.9_1,,,,,IRN.9_1
+WVS,2005-2009,364,IRN,364029,IR: North Khorasan,Iran,IRN,IR,1,North Khorasan,IRN.21_1,,,,,IRN.21_1
+WVS,2005-2009,364,IRN,364030,IR: South Khorasan,Iran,IRN,IR,1,South Khorasan,IRN.27_1,,,,,IRN.27_1
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WVS,1999-2004,50,BGD,50001,BD: Dhaka,Bangladesh,BGD,BD,2,Dhaka,BGD.3_1,Dhaka,BGD.3.1_1,,,BGD.3.1_1
+WVS,1999-2004,50,BGD,50002,BD: Chittagong,Bangladesh,BGD,BD,2,Chittagong,BGD.2_1,Chittagong,BGD.2.4_1,,,BGD.2.4_1
+WVS,1999-2004,50,BGD,50003,BD: Barisal,Bangladesh,BGD,BD,2,Barisal,BGD.1_1,Barisal,BGD.1.2_1,,,BGD.1.2_1
+WVS,1999-2004,50,BGD,50004,BD: Mymensingh,Bangladesh,BGD,BD,2,Dhaka,BGD.3_1,Mymensingh,BGD.3.10_1,,,BGD.3.10_1
+WVS,1999-2004,50,BGD,50005,BD: Tangail,Bangladesh,BGD,BD,2,Dhaka,BGD.3_1,Tangail,BGD.3.17_1,,,BGD.3.17_1
+WVS,1999-2004,50,BGD,50006,BD: Sherpur,Bangladesh,BGD,BD,2,Dhaka,BGD.3_1,Sherpur,BGD.3.16_1,,,BGD.3.16_1
+WVS,1999-2004,50,BGD,50007,BD: Faridpur,Bangladesh,BGD,BD,2,Dhaka,BGD.3_1,Faridpur,BGD.3.2_1,,,BGD.3.2_1
+WVS,1999-2004,50,BGD,50008,BD: Kishoreganj,Bangladesh,BGD,BD,2,Dhaka,BGD.3_1,Kishoreganj,BGD.3.6_1,,,BGD.3.6_1
+WVS,1999-2004,50,BGD,50009,BD: Feni,Bangladesh,BGD,BD,2,Chittagong,BGD.2_1,Feni,BGD.2.7_1,,,BGD.2.7_1
+WVS,1999-2004,50,BGD,50010,BD: Coxex Bazar,Bangladesh,BGD,BD,2,Chittagong,BGD.2_1,Cox'S Bazar,BGD.2.6_1,,,BGD.2.6_1
+WVS,1999-2004,50,BGD,50011,BD: Brahmanbaria,Bangladesh,BGD,BD,2,Chittagong,BGD.2_1,Brahamanbaria,BGD.2.2_1,,,BGD.2.2_1
+WVS,1999-2004,50,BGD,50012,BD: Sylhet,Bangladesh,BGD,BD,2,Sylhet,BGD.7_1,Sylhet,BGD.7.4_1,,,BGD.7.4_1
+WVS,1999-2004,50,BGD,50013,BD: Habiganj,Bangladesh,BGD,BD,2,Sylhet,BGD.7_1,Habiganj,BGD.7.1_1,,,BGD.7.1_1
+WVS,1999-2004,50,BGD,50014,BD: Rajshahi,Bangladesh,BGD,BD,2,Rajshahi,BGD.5_1,Rajshahi,BGD.5.7_1,,,BGD.5.7_1
+WVS,1999-2004,50,BGD,50015,BD: Sirajgonj,Bangladesh,BGD,BD,2,Rajshahi,BGD.5_1,Sirajganj,BGD.5.8_1,,,BGD.5.8_1
+WVS,1999-2004,50,BGD,50016,BD: Jhenaidah,Bangladesh,BGD,BD,2,Khulna,BGD.4_1,Jhenaidah,BGD.4.4_1,,,BGD.4.4_1
+WVS,1999-2004,50,BGD,50017,BD: Chuadanga,Bangladesh,BGD,BD,2,Khulna,BGD.4_1,Chuadanga,BGD.4.2_1,,,BGD.4.2_1
+WVS,1999-2004,50,BGD,50018,BD: Nator,Bangladesh,BGD,BD,2,Rajshahi,BGD.5_1,Natore,BGD.5.4_1,,,BGD.5.4_1
+WVS,1999-2004,50,BGD,50019,BD: Rangpur,Bangladesh,BGD,BD,2,Rangpur,BGD.6_1,Rangpur,BGD.6.7_1,,,BGD.6.7_1
+WVS,1999-2004,50,BGD,50020,BD: Gaibandha,Bangladesh,BGD,BD,2,Rangpur,BGD.6_1,Gaibandha,BGD.6.2_1,,,BGD.6.2_1
+WVS,1999-2004,50,BGD,50021,BD: Comilla,Bangladesh,BGD,BD,2,Chittagong,BGD.2_1,Comilla,BGD.2.5_1,,,BGD.2.5_1
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WVS,2005-2009,231,ETH,231001,ET: Addis Ababa,Ethiopia,ETH,ET,1,Addis Abeba,ETH.1_1,,,,,ETH.1_1
+WVS,2005-2009,231,ETH,231002,ET: Oromiya,Ethiopia,ETH,ET,1,Oromia,ETH.8_1,,,,,ETH.8_1
+WVS,2005-2009,231,ETH,231003,ET: Tigray,Ethiopia,ETH,ET,1,Tigray,ETH.11_1,,,,,ETH.11_1
+WVS,2005-2009,231,ETH,231004,ET: Amhara,Ethiopia,ETH,ET,1,Amhara,ETH.3_1,,,,,ETH.3_1
+WVS,2005-2009,231,ETH,231005,ET: SNNP,Ethiopia,ETH,ET,1,"Southern Nations, Nationalities and Peoples",ETH.10_1,,,,,ETH.10_1
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+WVS,2010-2014,608,PHL,608001,PH: NCR,Philippines,PHL,PH,1,Metropolitan Manila,PHL.47_1,,,,,PHL.47_1
+WVS,2010-2014,608,PHL,608002,PH: SOUTH LUZON,Philippines,PHL,PH,1,Ilocos Norte,PHL.34_1,,,,,PHL.34_1
+WVS,2010-2014,608,PHL,608002,PH: SOUTH LUZON,Philippines,PHL,PH,1,Ilocos Sur,PHL.35_1,,,,,PHL.35_1
+WVS,2010-2014,608,PHL,608002,PH: SOUTH LUZON,Philippines,PHL,PH,1,La Union,PHL.39_1,,,,,PHL.39_1
+WVS,2010-2014,608,PHL,608002,PH: SOUTH LUZON,Philippines,PHL,PH,1,Pangasinan,PHL.61_1,,,,,PHL.61_1
+WVS,2010-2014,608,PHL,608002,PH: SOUTH LUZON,Philippines,PHL,PH,1,Abra,PHL.1_1,,,,,PHL.1_1
+WVS,2010-2014,608,PHL,608002,PH: SOUTH LUZON,Philippines,PHL,PH,1,Apayao,PHL.7_1,,,,,PHL.7_1
+WVS,2010-2014,608,PHL,608002,PH: SOUTH LUZON,Philippines,PHL,PH,1,Benguet,PHL.13_1,,,,,PHL.13_1
+WVS,2010-2014,608,PHL,608002,PH: SOUTH LUZON,Philippines,PHL,PH,1,Ifugao,PHL.33_1,,,,,PHL.33_1
+WVS,2010-2014,608,PHL,608002,PH: SOUTH LUZON,Philippines,PHL,PH,1,Kalinga,PHL.38_1,,,,,PHL.38_1
+WVS,2010-2014,608,PHL,608002,PH: SOUTH LUZON,Philippines,PHL,PH,1,Mountain Province,PHL.50_1,,,,,PHL.50_1
+WVS,2010-2014,608,PHL,608002,PH: SOUTH LUZON,Philippines,PHL,PH,1,Batanes,PHL.11_1,,,,,PHL.11_1
+WVS,2010-2014,608,PHL,608002,PH: SOUTH LUZON,Philippines,PHL,PH,1,Cagayan,PHL.18_1,,,,,PHL.18_1
+WVS,2010-2014,608,PHL,608002,PH: SOUTH LUZON,Philippines,PHL,PH,1,Isabela,PHL.37_1,,,,,PHL.37_1
+WVS,2010-2014,608,PHL,608002,PH: SOUTH LUZON,Philippines,PHL,PH,1,Nueva Vizcaya,PHL.56_1,,,,,PHL.56_1
+WVS,2010-2014,608,PHL,608002,PH: SOUTH LUZON,Philippines,PHL,PH,1,Quirino,PHL.63_1,,,,,PHL.63_1
+WVS,2010-2014,608,PHL,608002,PH: SOUTH LUZON,Philippines,PHL,PH,1,Aurora,PHL.8_1,,,,,PHL.8_1
+WVS,2010-2014,608,PHL,608002,PH: SOUTH LUZON,Philippines,PHL,PH,1,Bataan,PHL.10_1,,,,,PHL.10_1
+WVS,2010-2014,608,PHL,608002,PH: SOUTH LUZON,Philippines,PHL,PH,1,Bulacan,PHL.17_1,,,,,PHL.17_1
+WVS,2010-2014,608,PHL,608002,PH: SOUTH LUZON,Philippines,PHL,PH,1,Nueva Ecija,PHL.55_1,,,,,PHL.55_1
+WVS,2010-2014,608,PHL,608002,PH: SOUTH LUZON,Philippines,PHL,PH,1,Pampanga,PHL.60_1,,,,,PHL.60_1
+WVS,2010-2014,608,PHL,608002,PH: SOUTH LUZON,Philippines,PHL,PH,1,Tarlac,PHL.76_1,,,,,PHL.76_1
+WVS,2010-2014,608,PHL,608002,PH: SOUTH LUZON,Philippines,PHL,PH,1,Zambales,PHL.78_1,,,,,PHL.78_1
+WVS,2010-2014,608,PHL,608002,PH: SOUTH LUZON,Philippines,PHL,PH,1,Batangas,PHL.12_1,,,,,PHL.12_1
+WVS,2010-2014,608,PHL,608002,PH: SOUTH LUZON,Philippines,PHL,PH,1,Cavite,PHL.24_1,,,,,PHL.24_1
+WVS,2010-2014,608,PHL,608002,PH: SOUTH LUZON,Philippines,PHL,PH,1,Laguna,PHL.40_1,,,,,PHL.40_1
+WVS,2010-2014,608,PHL,608002,PH: SOUTH LUZON,Philippines,PHL,PH,1,Quezon,PHL.62_1,,,,,PHL.62_1
+WVS,2010-2014,608,PHL,608002,PH: SOUTH LUZON,Philippines,PHL,PH,1,Rizal,PHL.64_1,,,,,PHL.64_1
+WVS,2010-2014,608,PHL,608002,PH: SOUTH LUZON,Philippines,PHL,PH,1,Marinduque,PHL.45_1,,,,,PHL.45_1
+WVS,2010-2014,608,PHL,608002,PH: SOUTH LUZON,Philippines,PHL,PH,1,Occidental Mindoro,PHL.57_1,,,,,PHL.57_1
+WVS,2010-2014,608,PHL,608002,PH: SOUTH LUZON,Philippines,PHL,PH,1,Oriental Mindoro,PHL.58_1,,,,,PHL.58_1
+WVS,2010-2014,608,PHL,608002,PH: SOUTH LUZON,Philippines,PHL,PH,1,Palawan,PHL.59_1,,,,,PHL.59_1
+WVS,2010-2014,608,PHL,608002,PH: SOUTH LUZON,Philippines,PHL,PH,1,Romblon,PHL.65_1,,,,,PHL.65_1
+WVS,2010-2014,608,PHL,608002,PH: SOUTH LUZON,Philippines,PHL,PH,1,Albay,PHL.5_1,,,,,PHL.5_1
+WVS,2010-2014,608,PHL,608002,PH: SOUTH LUZON,Philippines,PHL,PH,1,Camarines Norte,PHL.19_1,,,,,PHL.19_1
+WVS,2010-2014,608,PHL,608002,PH: SOUTH LUZON,Philippines,PHL,PH,1,Camarines Sur,PHL.20_1,,,,,PHL.20_1
+WVS,2010-2014,608,PHL,608002,PH: SOUTH LUZON,Philippines,PHL,PH,1,Catanduanes,PHL.23_1,,,,,PHL.23_1
+WVS,2010-2014,608,PHL,608002,PH: SOUTH LUZON,Philippines,PHL,PH,1,Masbate,PHL.46_1,,,,,PHL.46_1
+WVS,2010-2014,608,PHL,608002,PH: SOUTH LUZON,Philippines,PHL,PH,1,Sorsogon,PHL.69_1,,,,,PHL.69_1
+WVS,2010-2014,608,PHL,608003,PH: VISAYAS,Philippines,PHL,PH,1,Aklan,PHL.4_1,,,,,PHL.4_1
+WVS,2010-2014,608,PHL,608003,PH: VISAYAS,Philippines,PHL,PH,1,Antique,PHL.6_1,,,,,PHL.6_1
+WVS,2010-2014,608,PHL,608003,PH: VISAYAS,Philippines,PHL,PH,1,Capiz,PHL.22_1,,,,,PHL.22_1
+WVS,2010-2014,608,PHL,608003,PH: VISAYAS,Philippines,PHL,PH,1,Guimaras,PHL.32_1,,,,,PHL.32_1
+WVS,2010-2014,608,PHL,608003,PH: VISAYAS,Philippines,PHL,PH,1,Iloilo,PHL.36_1,,,,,PHL.36_1
+WVS,2010-2014,608,PHL,608003,PH: VISAYAS,Philippines,PHL,PH,1,Negros Occidental,PHL.51_1,,,,,PHL.51_1
+WVS,2010-2014,608,PHL,608003,PH: VISAYAS,Philippines,PHL,PH,1,Bohol,PHL.15_1,,,,,PHL.15_1
+WVS,2010-2014,608,PHL,608003,PH: VISAYAS,Philippines,PHL,PH,1,Cebu,PHL.25_1,,,,,PHL.25_1
+WVS,2010-2014,608,PHL,608003,PH: VISAYAS,Philippines,PHL,PH,1,Negros Oriental,PHL.52_1,,,,,PHL.52_1
+WVS,2010-2014,608,PHL,608003,PH: VISAYAS,Philippines,PHL,PH,1,Siquijor,PHL.68_1,,,,,PHL.68_1
+WVS,2010-2014,608,PHL,608003,PH: VISAYAS,Philippines,PHL,PH,1,Biliran,PHL.14_1,,,,,PHL.14_1
+WVS,2010-2014,608,PHL,608003,PH: VISAYAS,Philippines,PHL,PH,1,Eastern Samar,PHL.31_1,,,,,PHL.31_1
+WVS,2010-2014,608,PHL,608003,PH: VISAYAS,Philippines,PHL,PH,1,Leyte,PHL.43_1,,,,,PHL.43_1
+WVS,2010-2014,608,PHL,608003,PH: VISAYAS,Philippines,PHL,PH,1,Northern Samar,PHL.54_1,,,,,PHL.54_1
+WVS,2010-2014,608,PHL,608003,PH: VISAYAS,Philippines,PHL,PH,1,Samar,PHL.66_1,,,,,PHL.66_1
+WVS,2010-2014,608,PHL,608003,PH: VISAYAS,Philippines,PHL,PH,1,Southern Leyte,PHL.71_1,,,,,PHL.71_1
+WVS,2010-2014,608,PHL,608004,PH: MINDANAO,Philippines,PHL,PH,1,Zamboanga del Norte,PHL.79_1,,,,,PHL.79_1
+WVS,2010-2014,608,PHL,608004,PH: MINDANAO,Philippines,PHL,PH,1,Zamboanga del Sur,PHL.80_1,,,,,PHL.79_1
+WVS,2010-2014,608,PHL,608004,PH: MINDANAO,Philippines,PHL,PH,1,Zamboanga Sibugay,PHL.81_1,,,,,PHL.80_1
+WVS,2010-2014,608,PHL,608004,PH: MINDANAO,Philippines,PHL,PH,1,Bukidnon,PHL.16_1,,,,,PHL.16_1
+WVS,2010-2014,608,PHL,608004,PH: MINDANAO,Philippines,PHL,PH,1,Camiguin,PHL.21_1,,,,,PHL.21_1
+WVS,2010-2014,608,PHL,608004,PH: MINDANAO,Philippines,PHL,PH,1,Lanao del Norte,PHL.41_1,,,,,PHL.41_1
+WVS,2010-2014,608,PHL,608004,PH: MINDANAO,Philippines,PHL,PH,1,Misamis Occidental,PHL.48_1,,,,,PHL.48_1
+WVS,2010-2014,608,PHL,608004,PH: MINDANAO,Philippines,PHL,PH,1,Misamis Oriental,PHL.49_1,,,,,PHL.49_1
+WVS,2010-2014,608,PHL,608004,PH: MINDANAO,Philippines,PHL,PH,1,Agusan del Norte,PHL.2_1,,,,,PHL.2_1
+WVS,2010-2014,608,PHL,608004,PH: MINDANAO,Philippines,PHL,PH,1,Agusan del Sur,PHL.3_1,,,,,PHL.3_1
+WVS,2010-2014,608,PHL,608004,PH: MINDANAO,Philippines,PHL,PH,1,Dinagat Islands,PHL.30_1,,,,,PHL.30_1
+WVS,2010-2014,608,PHL,608004,PH: MINDANAO,Philippines,PHL,PH,1,Surigao del Norte,PHL.74_1,,,,,PHL.74_1
+WVS,2010-2014,608,PHL,608004,PH: MINDANAO,Philippines,PHL,PH,1,Surigao del Sur,PHL.75_1,,,,,PHL.75_1
+WVS,2010-2014,608,PHL,608004,PH: MINDANAO,Philippines,PHL,PH,1,Davao del Norte,PHL.27_1,,,,,PHL.27_1
+WVS,2010-2014,608,PHL,608004,PH: MINDANAO,Philippines,PHL,PH,1,Compostela Valley,PHL.26_1,,,,,PHL.26_1
+WVS,2010-2014,608,PHL,608004,PH: MINDANAO,Philippines,PHL,PH,1,Davao del Sur,PHL.28_1,,,,,PHL.28_1
+WVS,2010-2014,608,PHL,608004,PH: MINDANAO,Philippines,PHL,PH,1,Davao Oriental,PHL.29_1,,,,,PHL.29_1
+WVS,2010-2014,608,PHL,608004,PH: MINDANAO,Philippines,PHL,PH,1,North Cotabato,PHL.53_1,,,,,PHL.53_1
+WVS,2010-2014,608,PHL,608004,PH: MINDANAO,Philippines,PHL,PH,1,Sarangani,PHL.67_1,,,,,PHL.67_1
+WVS,2010-2014,608,PHL,608004,PH: MINDANAO,Philippines,PHL,PH,1,South Cotabato,PHL.70_1,,,,,PHL.70_1
+WVS,2010-2014,608,PHL,608004,PH: MINDANAO,Philippines,PHL,PH,1,Sultan Kudarat,PHL.72_1,,,,,PHL.72_1
+WVS,2010-2014,608,PHL,608004,PH: MINDANAO,Philippines,PHL,PH,1,Basilan,PHL.9_1,,,,,PHL.9_1
+WVS,2010-2014,608,PHL,608004,PH: MINDANAO,Philippines,PHL,PH,1,Lanao del Sur,PHL.42_1,,,,,PHL.42_1
+WVS,2010-2014,608,PHL,608004,PH: MINDANAO,Philippines,PHL,PH,1,Maguindanao,PHL.44_1,,,,,PHL.44_1
+WVS,2010-2014,608,PHL,608004,PH: MINDANAO,Philippines,PHL,PH,1,Sulu,PHL.73_1,,,,,PHL.73_1
+WVS,2010-2014,608,PHL,608004,PH: MINDANAO,Philippines,PHL,PH,1,Tawi-Tawi,PHL.77_1,,,,,PHL.77_1
+,,,,,,,,,,,,,,,,
+WVS,2010-2014,818,EGY,818001,EG: Cairo,Egypt,EGY,EG,1,Al Qahirah,EGY.11_1,,,,,EGY.11_1
+WVS,2010-2014,818,EGY,818002,EG: Alexandria,Egypt,EGY,EG,1,Al Iskandariyah,EGY.6_1,,,,,EGY.6_1
+WVS,2010-2014,818,EGY,818016,EG: Dakahlia,Egypt,EGY,EG,1,Ad Daqahliyah,EGY.1_1,,,,,EGY.1_1
+WVS,2010-2014,818,EGY,818017,EG: Sharkia,Egypt,EGY,EG,1,Ash Sharqiyah,EGY.16_1,,,,,EGY.16_1
+WVS,2010-2014,818,EGY,818018,EG: Qalubia,Egypt,EGY,EG,1,Al Qalyubiyah,EGY.12_1,,,,,EGY.12_1
+WVS,2010-2014,818,EGY,818020,EG: Gharbia,Egypt,EGY,EG,1,Al Gharbiyah,EGY.5_1,,,,,EGY.5_1
+WVS,2010-2014,818,EGY,818022,EG: Behaira,Egypt,EGY,EG,1,Al Buhayrah,EGY.3_1,,,,,EGY.3_1
+WVS,2010-2014,818,EGY,818027,EG: Menya,Egypt,EGY,EG,1,Al Minya,EGY.10_1,,,,,EGY.10_1
+WVS,2010-2014,818,EGY,818028,EG: Asyut,Egypt,EGY,EG,1,Asyut,EGY.18_1,,,,,EGY.18_1
+WVS,2010-2014,818,EGY,818029,EG: Sohag,Egypt,EGY,EG,1,Suhaj,EGY.27_1,,,,,EGY.27_1
+,,,,,,,,,,,,,,,,
+WVS,2010-2014,410,KOR,410001,KR: Seoul,South Korea,KOR,KR,1,Seoul,KOR.16_1,,,,,KOR.16_1
+WVS,2010-2014,410,KOR,410002,KR: Pusan / Busan,South Korea,KOR,KR,1,Busan,KOR.1_1,,,,,KOR.1_1
+WVS,2010-2014,410,KOR,410003,KR: Taegu / Daegu,South Korea,KOR,KR,1,Daegu,KOR.4_1,,,,,KOR.4_1
+WVS,2010-2014,410,KOR,410004,KR: Incheon,South Korea,KOR,KR,1,Incheon,KOR.11_1,,,,,KOR.11_1
+WVS,2010-2014,410,KOR,410005,KR: Kwangju / Gwangju,South Korea,KOR,KR,1,Gwangju,KOR.7_1,,,,,KOR.7_1
+WVS,2010-2014,410,KOR,410006,KR: Tawjeon / Daejeon,South Korea,KOR,KR,1,Daejeon,KOR.5_1,,,,,KOR.5_1
+WVS,2010-2014,410,KOR,410007,KR: Kyeonggi / Gyeonggi Do,South Korea,KOR,KR,1,Gyeonggi-do,KOR.8_1,,,,,KOR.8_1
+WVS,2010-2014,410,KOR,410008,KR: Kangwon / Gangwon Do,South Korea,KOR,KR,1,Gangwon-do,KOR.6_1,,,,,KOR.6_1
+WVS,2010-2014,410,KOR,410009,KR: Chungbuk / North Chungcheong,South Korea,KOR,KR,1,Chungcheongbuk-do,KOR.2_1,,,,,KOR.2_1
+WVS,2010-2014,410,KOR,410010,KR: Chungnam / South Chungcheong,South Korea,KOR,KR,1,Chungcheongnam-do,KOR.3_1,,,,,KOR.3_1
+WVS,2010-2014,410,KOR,410011,KR: Jeonbuk / North Jeolla,South Korea,KOR,KR,1,Jeollabuk-do,KOR.13_1,,,,,KOR.13_1
+WVS,2010-2014,410,KOR,410012,KR: Jeonnam / South Jeolla,South Korea,KOR,KR,1,Jeollanam-do,KOR.14_1,,,,,KOR.14_1
+WVS,2010-2014,410,KOR,410013,KR: Kyeongbuk / North Gyeongsang,South Korea,KOR,KR,1,Gyeongsangbuk-do,KOR.9_1,,,,,KOR.9_1
+WVS,2010-2014,410,KOR,410014,KR: Kyeongnam / South Gyeongsang,South Korea,KOR,KR,1,Gyeongsangnam-do,KOR.10_1,,,,,KOR.10_1
+WVS,2010-2014,410,KOR,410020,KR: Ulsan,South Korea,KOR,KR,1,Ulsan,KOR.17_1,,,,,KOR.17_1
+,,,,,,,,,,,,,,,,
+WVS,2010-2014,604,PER,604006,PE: Lima,Peru,PER,PE,1,Lima,PER.16_1,,,,,PER.16_1
+WVS,2010-2014,604,PER,604007,PE: Arequipa,Peru,PER,PE,1,Arequipa,PER.4_1,,,,,PER.4_1
+WVS,2010-2014,604,PER,604012,PE: Piura,Peru,PER,PE,1,Piura,PER.21_1,,,,,PER.21_1
+WVS,2010-2014,604,PER,604021,PE: Ancash,Peru,PER,PE,1,Ancash,PER.2_1,,,,,PER.2_1
+WVS,2010-2014,604,PER,604022,PE: Ayacucho,Peru,PER,PE,1,Ayacucho,PER.5_1,,,,,PER.5_1
+WVS,2010-2014,604,PER,604023,PE: Cajamarca,Peru,PER,PE,1,Cajamarca,PER.6_1,,,,,PER.6_1
+WVS,2010-2014,604,PER,604024,PE: Callao,Peru,PER,PE,1,Callao,PER.7_1,,,,,PER.7_1
+WVS,2010-2014,604,PER,604025,PE: Huánuco,Peru,PER,PE,1,Huánuco,PER.10_1,,,,,PER.10_1
+WVS,2010-2014,604,PER,604026,PE: Ica,Peru,PER,PE,1,Ica,PER.11_1,,,,,PER.11_1
+WVS,2010-2014,604,PER,604027,PE: Junín,Peru,PER,PE,1,Junín,PER.12_1,,,,,PER.12_1
+WVS,2010-2014,604,PER,604028,PE: La libertad,Peru,PER,PE,1,La libertad,PER.13_1,,,,,PER.13_1
+WVS,2010-2014,604,PER,604029,PE: Lambayeque,Peru,PER,PE,1,Lambayeque,PER.14_1,,,,,PER.14_1
+WVS,2010-2014,604,PER,604030,PE: Loreto,Peru,PER,PE,1,Loreto,PER.17_1,,,,,PER.17_1
+WVS,2010-2014,604,PER,604031,PE: Puno,Peru,PER,PE,1,Puno,PER.22_1,,,,,PER.22_1
+WVS,2010-2014,604,PER,604032,PE: San Martín,Peru,PER,PE,1,San Martín,PER.23_1,,,,,PER.23_1
+WVS,2010-2014,604,PER,604033,PE: Cusco,Peru,PER,PE,1,Cusco,PER.8_1,,,,,PER.8_1
+WVS,2010-2014,604,PER,604034,PE: Huancavelica,Peru,PER,PE,1,Huancavelica,PER.9_1,,,,,PER.9_1
+WVS,2010-2014,604,PER,604035,PE: Tacna,Peru,PER,PE,1,Tacna,PER.24_1,,,,,PER.24_1
+WVS,2010-2014,604,PER,604036,PE: Ucayali,Peru,PER,PE,1,Ucayali,PER.26_1,,,,,PER.26_1
+,,,,,,,,,,,,,,,,
+WVS,2010-2014,458,MYS,458001,MY: Selangor,Malaysia,MYS,MY,1,Selangor,MYS.15_1,,,,,MYS.15_1
+WVS,2010-2014,458,MYS,458002,MY: Perak,Malaysia,MYS,MY,1,Perak,MYS.9_1,,,,,MYS.9_1
+WVS,2010-2014,458,MYS,458003,MY: Pulau Pinang,Malaysia,MYS,MY,1,Pulau Pinang,MYS.11_1,,,,,MYS.11_1
+WVS,2010-2014,458,MYS,458004,MY: Sabah,Malaysia,MYS,MY,1,Sabah,MYS.13_1,,,,,MYS.13_1
+WVS,2010-2014,458,MYS,458005,MY: Sarawak,Malaysia,MYS,MY,1,Sarawak,MYS.14_1,,,,,MYS.14_1
+WVS,2010-2014,458,MYS,458006,MY: Kedah,Malaysia,MYS,MY,1,Kedah,MYS.2_1,,,,,MYS.2_1
+WVS,2010-2014,458,MYS,458007,MY: Perlis,Malaysia,MYS,MY,1,Perlis,MYS.10_1,,,,,MYS.10_1
+WVS,2010-2014,458,MYS,458008,MY: Pahang,Malaysia,MYS,MY,1,Pahang,MYS.8_1,,,,,MYS.8_1
+WVS,2010-2014,458,MYS,458009,MY: Kelantan,Malaysia,MYS,MY,1,Kelantan,MYS.3_1,,,,,MYS.3_1
+WVS,2010-2014,458,MYS,458010,MY: Terengganu,Malaysia,MYS,MY,1,Trengganu,MYS.16_1,,,,,MYS.16_1
+WVS,2010-2014,458,MYS,458011,MY: Johor,Malaysia,MYS,MY,1,Johor,MYS.1_1,,,,,MYS.1_1
+WVS,2010-2014,458,MYS,458012,MY: Melaka,Malaysia,MYS,MY,1,Melaka,MYS.6_1,,,,,MYS.6_1
+WVS,2010-2014,458,MYS,458013,MY: Negeri Sembilan,Malaysia,MYS,MY,1,Negeri Sembilan,MYS.7_1,,,,,MYS.7_1
+WVS,2010-2014,458,MYS,458014,MY: Wilayah Persekutuan Kuala Lumpur,Malaysia,MYS,MY,1,Kuala Lumpur,MYS.4_1,,,,,MYS.4_1
+,,,,,,,,,,,,,,,,
+WVS,2010-2014,218,ECU,218001,EC: Azuay,Ecuador,ECU,EC,1,Azuay,ECU.1_1,,,,,ECU.1_1
+WVS,2010-2014,218,ECU,218002,EC: Bolívar,Ecuador,ECU,EC,1,Bolivar,ECU.2_1,,,,,ECU.2_1
+WVS,2010-2014,218,ECU,218003,EC: Cañar,Ecuador,ECU,EC,1,Cañar,ECU.3_1,,,,,ECU.3_1
+WVS,2010-2014,218,ECU,218004,EC: Chimborazo,Ecuador,ECU,EC,1,Chimborazo,ECU.5_1,,,,,ECU.5_1
+WVS,2010-2014,218,ECU,218005,EC: Cotopaxi,Ecuador,ECU,EC,1,Cotopaxi,ECU.6_1,,,,,ECU.6_1
+WVS,2010-2014,218,ECU,218006,EC: El Oro,Ecuador,ECU,EC,1,El Oro,ECU.7_1,,,,,ECU.7_1
+WVS,2010-2014,218,ECU,218007,EC: Esmeraldas,Ecuador,ECU,EC,1,Esmeraldas,ECU.8_1,,,,,ECU.8_1
+WVS,2010-2014,218,ECU,218008,EC: Guayas,Ecuador,ECU,EC,1,Guayas,ECU.10_1,,,,,ECU.10_1
+WVS,2010-2014,218,ECU,218009,EC: Imbabura,Ecuador,ECU,EC,1,Imbabura,ECU.11_1,,,,,ECU.11_1
+WVS,2010-2014,218,ECU,218010,EC: Loja,Ecuador,ECU,EC,1,Loja,ECU.12_1,,,,,ECU.12_1
+WVS,2010-2014,218,ECU,218011,EC: Los Ríos,Ecuador,ECU,EC,1,Los Rios,ECU.13_1,,,,,ECU.13_1
+WVS,2010-2014,218,ECU,218012,EC: Manabí,Ecuador,ECU,EC,1,Manabi,ECU.14_1,,,,,ECU.14_1
+WVS,2010-2014,218,ECU,218013,EC: Morona Santiago,Ecuador,ECU,EC,1,Morona Santiago,ECU.15_1,,,,,ECU.15_1
+WVS,2010-2014,218,ECU,218014,EC: Napo,Ecuador,ECU,EC,1,Napo,ECU.16_1,,,,,ECU.16_1
+WVS,2010-2014,218,ECU,218015,EC: Orellana,Ecuador,ECU,EC,1,Orellana,ECU.17_1,,,,,ECU.17_1
+WVS,2010-2014,218,ECU,218016,EC: Pichincha,Ecuador,ECU,EC,1,Pichincha,ECU.19_1,,,,,ECU.19_1
+WVS,2010-2014,218,ECU,218017,EC: Sucumbios,Ecuador,ECU,EC,1,Sucumbios,ECU.22_1,,,,,ECU.22_1
+WVS,2010-2014,218,ECU,218018,EC: Tungurahua,Ecuador,ECU,EC,1,Tungurahua,ECU.23_1,,,,,ECU.23_1
+WVS,2010-2014,218,ECU,218019,EC: Zamora Chinchipe,Ecuador,ECU,EC,1,Zamora Chinchipe,ECU.24_1,,,,,ECU.24_1
+WVS,2010-2014,218,ECU,218020,EC: Santo Domingo/Santa Elena,Ecuador,ECU,EC,1,Santa Elena,ECU.20_1,,,,,ECU.20_1
+WVS,2010-2014,218,ECU,218021,EC: Carchi,Ecuador,ECU,EC,1,Carchi,ECU.4_1,,,,,ECU.4_1
+WVS,2010-2014,218,ECU,218022,EC: Pastaza,Ecuador,ECU,EC,1,Pastaza,ECU.18_1,,,,,ECU.18_1
+WVS,2010-2014,218,ECU,218020,EC: Santo Domingo/Santa Elena,Ecuador,ECU,EC,1,Santo Domingo de los Tsachilas,ECU.21_1,,,,,ECU.21_1
+,,,,,,,,,,,,,,,,
+WVS,2010-2014,36,AUS,36001,AU: Northern Territory (NT),Australia,AUS,AU,1,Northern Territory,AUS.6_1,,,,,AUS.6_1
+WVS,2010-2014,36,AUS,36002,AU: New South Wales and ACT (NSW&ACT),Australia,AUS,AU,1,Australian Capital Territory,AUS.2_1,,,,,AUS.2_1
+WVS,2010-2014,36,AUS,36002,AU: New South Wales and ACT (NSW&ACT),Australia,AUS,AU,1,New South Wales,AUS.5_1,,,,,AUS.5_1
+WVS,2010-2014,36,AUS,36003,AU: Victoria (Vic),Australia,AUS,AU,1,Victoria,AUS.10_1,,,,,AUS.10_1
+WVS,2010-2014,36,AUS,36004,AU: Queensland (Qld),Australia,AUS,AU,1,Queensland,AUS.7_1,,,,,AUS.7_1
+WVS,2010-2014,36,AUS,36005,AU: South Australia (SA),Australia,AUS,AU,1,South Australia,AUS.8_1,,,,,AUS.8_1
+WVS,2010-2014,36,AUS,36006,AU: Western Australia (WA),Australia,AUS,AU,1,Western Australia,AUS.11_1,,,,,AUS.11_1
+WVS,2010-2014,36,AUS,36007,AU: Tasmania (Tas),Australia,AUS,AU,1,Tasmania,AUS.9_1,,,,,AUS.9_1
+WVS,2010-2014,36,AUS,36009,AU: New South Wales,Australia,AUS,AU,1,New South Wales,AUS.5_1,,,,,AUS.5_1
+,,,,,,,,,,,,,,,,
+WVS,2010-2014,764,THA,764006,TH: Bangkok,Thailand,THA,TH,1,Bangkok Metropolis,THA.3_1,,,,,THA.3_1
+WVS,2010-2014,764,THA,764002,TH: The Central,Thailand,THA,TH,1,Ang Thong,THA.2_1,,,,,THA.2_1
+WVS,2010-2014,764,THA,764002,TH: The Central,Thailand,THA,TH,1,Chachoengsao,THA.6_1,,,,,THA.6_1
+WVS,2010-2014,764,THA,764002,TH: The Central,Thailand,THA,TH,1,Chai Nat,THA.7_1,,,,,THA.7_1
+WVS,2010-2014,764,THA,764002,TH: The Central,Thailand,THA,TH,1,Chanthaburi,THA.9_1,,,,,THA.9_1
+WVS,2010-2014,764,THA,764002,TH: The Central,Thailand,THA,TH,1,Chon Buri,THA.12_1,,,,,THA.12_1
+WVS,2010-2014,764,THA,764002,TH: The Central,Thailand,THA,TH,1,Kanchanaburi,THA.16_1,,,,,THA.16_1
+WVS,2010-2014,764,THA,764002,TH: The Central,Thailand,THA,TH,1,Lop Buri,THA.22_1,,,,,THA.22_1
+WVS,2010-2014,764,THA,764002,TH: The Central,Thailand,THA,TH,1,Nakhon Nayok,THA.26_1,,,,,THA.26_1
+WVS,2010-2014,764,THA,764002,TH: The Central,Thailand,THA,TH,1,Nakhon Pathom,THA.27_1,,,,,THA.27_1
+WVS,2010-2014,764,THA,764002,TH: The Central,Thailand,THA,TH,1,Nonthaburi,THA.36_1,,,,,THA.36_1
+WVS,2010-2014,764,THA,764002,TH: The Central,Thailand,THA,TH,1,Pathum Thani,THA.37_1,,,,,THA.37_1
+WVS,2010-2014,764,THA,764002,TH: The Central,Thailand,THA,TH,1,Phetchaburi,THA.43_1,,,,,THA.43_1
+WVS,2010-2014,764,THA,764002,TH: The Central,Thailand,THA,TH,1,Phra Nakhon Si Ayutthaya,THA.46_1,,,,,THA.46_1
+WVS,2010-2014,764,THA,764002,TH: The Central,Thailand,THA,TH,1,Prachin Buri,THA.49_1,,,,,THA.49_1
+WVS,2010-2014,764,THA,764002,TH: The Central,Thailand,THA,TH,1,Prachuap Khiri Khan,THA.50_1,,,,,THA.50_1
+WVS,2010-2014,764,THA,764002,TH: The Central,Thailand,THA,TH,1,Ratchaburi,THA.52_1,,,,,THA.52_1
+WVS,2010-2014,764,THA,764002,TH: The Central,Thailand,THA,TH,1,Rayong,THA.53_1,,,,,THA.53_1
+WVS,2010-2014,764,THA,764002,TH: The Central,Thailand,THA,TH,1,Sa Kaeo,THA.55_1,,,,,THA.55_1
+WVS,2010-2014,764,THA,764002,TH: The Central,Thailand,THA,TH,1,Samut Prakan,THA.57_1,,,,,THA.57_1
+WVS,2010-2014,764,THA,764002,TH: The Central,Thailand,THA,TH,1,Samut Sakhon,THA.58_1,,,,,THA.58_1
+WVS,2010-2014,764,THA,764002,TH: The Central,Thailand,THA,TH,1,Samut Songkhram,THA.59_1,,,,,THA.59_1
+WVS,2010-2014,764,THA,764002,TH: The Central,Thailand,THA,TH,1,Saraburi,THA.60_1,,,,,THA.60_1
+WVS,2010-2014,764,THA,764002,TH: The Central,Thailand,THA,TH,1,Sing Buri,THA.63_1,,,,,THA.63_1
+WVS,2010-2014,764,THA,764002,TH: The Central,Thailand,THA,TH,1,Suphan Buri,THA.66_1,,,,,THA.66_1
+WVS,2010-2014,764,THA,764002,TH: The Central,Thailand,THA,TH,1,Trat,THA.71_1,,,,,THA.71_1
+WVS,2010-2014,764,THA,764001,TH: The North,Thailand,THA,TH,1,Chiang Mai,THA.10_1,,,,,THA.10_1
+WVS,2010-2014,764,THA,764001,TH: The North,Thailand,THA,TH,1,Chiang Rai,THA.11_1,,,,,THA.11_1
+WVS,2010-2014,764,THA,764001,TH: The North,Thailand,THA,TH,1,Kamphaeng Phet,THA.15_1,,,,,THA.15_1
+WVS,2010-2014,764,THA,764001,TH: The North,Thailand,THA,TH,1,Lampang,THA.19_1,,,,,THA.19_1
+WVS,2010-2014,764,THA,764001,TH: The North,Thailand,THA,TH,1,Lamphun,THA.20_1,,,,,THA.20_1
+WVS,2010-2014,764,THA,764001,TH: The North,Thailand,THA,TH,1,Mae Hong Son,THA.23_1,,,,,THA.23_1
+WVS,2010-2014,764,THA,764001,TH: The North,Thailand,THA,TH,1,Nakhon Sawan,THA.30_1,,,,,THA.30_1
+WVS,2010-2014,764,THA,764001,TH: The North,Thailand,THA,TH,1,Nan,THA.32_1,,,,,THA.32_1
+WVS,2010-2014,764,THA,764001,TH: The North,Thailand,THA,TH,1,Phayao,THA.41_1,,,,,THA.41_1
+WVS,2010-2014,764,THA,764001,TH: The North,Thailand,THA,TH,1,Phetchabun,THA.42_1,,,,,THA.42_1
+WVS,2010-2014,764,THA,764001,TH: The North,Thailand,THA,TH,1,Phichit,THA.44_1,,,,,THA.44_1
+WVS,2010-2014,764,THA,764001,TH: The North,Thailand,THA,TH,1,Phitsanulok,THA.45_1,,,,,THA.45_1
+WVS,2010-2014,764,THA,764001,TH: The North,Thailand,THA,TH,1,Phrae,THA.47_1,,,,,THA.47_1
+WVS,2010-2014,764,THA,764001,TH: The North,Thailand,THA,TH,1,Sukhothai,THA.65_1,,,,,THA.65_1
+WVS,2010-2014,764,THA,764001,TH: The North,Thailand,THA,TH,1,Tak,THA.69_1,,,,,THA.69_1
+WVS,2010-2014,764,THA,764001,TH: The North,Thailand,THA,TH,1,Uthai Thani,THA.74_1,,,,,THA.74_1
+WVS,2010-2014,764,THA,764001,TH: The North,Thailand,THA,TH,1,Uttaradit,THA.75_1,,,,,THA.75_1
+WVS,2010-2014,764,THA,764004,TH: The Northeast,Thailand,THA,TH,1,Amnat Charoen,THA.1_1,,,,,THA.1_1
+WVS,2010-2014,764,THA,764004,TH: The Northeast,Thailand,THA,TH,1,Bueng Kan,THA.4_1,,,,,THA.4_1
+WVS,2010-2014,764,THA,764004,TH: The Northeast,Thailand,THA,TH,1,Buri Ram,THA.5_1,,,,,THA.5_1
+WVS,2010-2014,764,THA,764004,TH: The Northeast,Thailand,THA,TH,1,Chaiyaphum,THA.8_1,,,,,THA.8_1
+WVS,2010-2014,764,THA,764004,TH: The Northeast,Thailand,THA,TH,1,Kalasin,THA.14_1,,,,,THA.14_1
+WVS,2010-2014,764,THA,764004,TH: The Northeast,Thailand,THA,TH,1,Khon Kaen,THA.17_1,,,,,THA.17_1
+WVS,2010-2014,764,THA,764004,TH: The Northeast,Thailand,THA,TH,1,Loei,THA.21_1,,,,,THA.21_1
+WVS,2010-2014,764,THA,764004,TH: The Northeast,Thailand,THA,TH,1,Maha Sarakham,THA.24_1,,,,,THA.24_1
+WVS,2010-2014,764,THA,764004,TH: The Northeast,Thailand,THA,TH,1,Mukdahan,THA.25_1,,,,,THA.25_1
+WVS,2010-2014,764,THA,764004,TH: The Northeast,Thailand,THA,TH,1,Nakhon Phanom,THA.28_1,,,,,THA.28_1
+WVS,2010-2014,764,THA,764004,TH: The Northeast,Thailand,THA,TH,1,Nakhon Ratchasima,THA.29_1,,,,,THA.29_1
+WVS,2010-2014,764,THA,764004,TH: The Northeast,Thailand,THA,TH,1,Nong Bua Lam Phu,THA.34_1,,,,,THA.34_1
+WVS,2010-2014,764,THA,764004,TH: The Northeast,Thailand,THA,TH,1,Nong Khai,THA.35_1,,,,,THA.35_1
+WVS,2010-2014,764,THA,764004,TH: The Northeast,Thailand,THA,TH,1,Roi Et,THA.54_1,,,,,THA.54_1
+WVS,2010-2014,764,THA,764004,TH: The Northeast,Thailand,THA,TH,1,Sakon Nakhon,THA.56_1,,,,,THA.56_1
+WVS,2010-2014,764,THA,764004,TH: The Northeast,Thailand,THA,TH,1,Si Sa Ket,THA.62_1,,,,,THA.62_1
+WVS,2010-2014,764,THA,764004,TH: The Northeast,Thailand,THA,TH,1,Surin,THA.68_1,,,,,THA.68_1
+WVS,2010-2014,764,THA,764004,TH: The Northeast,Thailand,THA,TH,1,Ubon Ratchathani,THA.72_1,,,,,THA.72_1
+WVS,2010-2014,764,THA,764004,TH: The Northeast,Thailand,THA,TH,1,Udon Thani,THA.73_1,,,,,THA.73_1
+WVS,2010-2014,764,THA,764004,TH: The Northeast,Thailand,THA,TH,1,Yasothon,THA.77_1,,,,,THA.77_1
+WVS,2010-2014,764,THA,764003,TH: The South,Thailand,THA,TH,1,Chumphon,THA.13_1,,,,,THA.13_1
+WVS,2010-2014,764,THA,764003,TH: The South,Thailand,THA,TH,1,Krabi,THA.18_1,,,,,THA.18_1
+WVS,2010-2014,764,THA,764003,TH: The South,Thailand,THA,TH,1,Nakhon Si Thammarat,THA.31_1,,,,,THA.31_1
+WVS,2010-2014,764,THA,764003,TH: The South,Thailand,THA,TH,1,Narathiwat,THA.33_1,,,,,THA.33_1
+WVS,2010-2014,764,THA,764003,TH: The South,Thailand,THA,TH,1,Pattani,THA.38_1,,,,,THA.38_1
+WVS,2010-2014,764,THA,764003,TH: The South,Thailand,THA,TH,1,Phangnga,THA.39_1,,,,,THA.39_1
+WVS,2010-2014,764,THA,764003,TH: The South,Thailand,THA,TH,1,Phatthalung,THA.40_1,,,,,THA.40_1
+WVS,2010-2014,764,THA,764003,TH: The South,Thailand,THA,TH,1,Phuket,THA.48_1,,,,,THA.48_1
+WVS,2010-2014,764,THA,764003,TH: The South,Thailand,THA,TH,1,Ranong,THA.51_1,,,,,THA.51_1
+WVS,2010-2014,764,THA,764003,TH: The South,Thailand,THA,TH,1,Satun,THA.61_1,,,,,THA.61_1
+WVS,2010-2014,764,THA,764003,TH: The South,Thailand,THA,TH,1,Songkhla,THA.64_1,,,,,THA.64_1
+WVS,2010-2014,764,THA,764003,TH: The South,Thailand,THA,TH,1,Surat Thani,THA.67_1,,,,,THA.67_1
+WVS,2010-2014,764,THA,764003,TH: The South,Thailand,THA,TH,1,Trang,THA.70_1,,,,,THA.70_1
+WVS,2010-2014,764,THA,764003,TH: The South,Thailand,THA,TH,1,Yala,THA.76_1,,,,,THA.76_1
+,,,,,,,,,,,,,,,,
+WVS,2005-2009,704,VNM,704008,VN: mekong river delta,Vietnam,VNM,VN,1,An Giang,VNM.1_1,,,,,VNM.1_1
+WVS,2005-2009,704,VNM,704008,VN: mekong river delta,Vietnam,VNM,VN,1,Bạc Liêu,VNM.2_1,,,,,VNM.2_1
+WVS,2005-2009,704,VNM,704002,VN: northeast,Vietnam,VNM,VN,1,Bắc Giang,VNM.3_1,,,,,VNM.3_1
+WVS,2005-2009,704,VNM,704002,VN: northeast,Vietnam,VNM,VN,1,Bắc Kạn,VNM.4_1,,,,,VNM.4_1
+WVS,2005-2009,704,VNM,704001,VN: red river delta,Vietnam,VNM,VN,1,Bắc Ninh,VNM.5_1,,,,,VNM.5_1
+WVS,2005-2009,704,VNM,704008,VN: mekong river delta,Vietnam,VNM,VN,1,Bến Tre,VNM.6_1,,,,,VNM.6_1
+WVS,2005-2009,704,VNM,704007,VN: southeast,Vietnam,VNM,VN,1,Bà Rịa - Vũng Tàu,VNM.7_1,,,,,VNM.7_1
+WVS,2005-2009,704,VNM,704005,VN: central coast,Vietnam,VNM,VN,1,Bình Định,VNM.8_1,,,,,VNM.8_1
+WVS,2005-2009,704,VNM,704007,VN: southeast,Vietnam,VNM,VN,1,Bình Dương,VNM.9_1,,,,,VNM.9_1
+WVS,2005-2009,704,VNM,704007,VN: southeast,Vietnam,VNM,VN,1,Bình Phước,VNM.10_1,,,,,VNM.10_1
+WVS,2005-2009,704,VNM,704005,VN: central coast,Vietnam,VNM,VN,1,Bình Thuận,VNM.11_1,,,,,VNM.11_1
+WVS,2005-2009,704,VNM,704008,VN: mekong river delta,Vietnam,VNM,VN,1,Cần Thơ,VNM.12_1,,,,,VNM.12_1
+WVS,2005-2009,704,VNM,704008,VN: mekong river delta,Vietnam,VNM,VN,1,Cà Mau,VNM.13_1,,,,,VNM.13_1
+WVS,2005-2009,704,VNM,704002,VN: northeast,Vietnam,VNM,VN,1,Cao Bằng,VNM.14_1,,,,,VNM.14_1
+WVS,2005-2009,704,VNM,704006,VN: central highland,Vietnam,VNM,VN,1,Đắk Lắk,VNM.15_1,,,,,VNM.15_1
+WVS,2005-2009,704,VNM,704006,VN: central highland,Vietnam,VNM,VN,1,Đắk Nông,VNM.16_1,,,,,VNM.16_1
+WVS,2005-2009,704,VNM,704007,VN: southeast,Vietnam,VNM,VN,1,Đồng Nai,VNM.17_1,,,,,VNM.17_1
+WVS,2005-2009,704,VNM,704008,VN: mekong river delta,Vietnam,VNM,VN,1,Đồng Tháp,VNM.18_1,,,,,VNM.18_1
+WVS,2005-2009,704,VNM,704005,VN: central coast,Vietnam,VNM,VN,1,Đà Nẵng,VNM.19_1,,,,,VNM.19_1
+WVS,2005-2009,704,VNM,704003,VN: northwest,Vietnam,VNM,VN,1,Điện Biên,VNM.20_1,,,,,VNM.20_1
+WVS,2005-2009,704,VNM,704006,VN: central highland,Vietnam,VNM,VN,1,Gia Lai,VNM.21_1,,,,,VNM.21_1
+WVS,2005-2009,704,VNM,704001,VN: red river delta,Vietnam,VNM,VN,1,Hải Dương,VNM.22_1,,,,,VNM.22_1
+WVS,2005-2009,704,VNM,704001,VN: red river delta,Vietnam,VNM,VN,1,Hải Phòng,VNM.23_1,,,,,VNM.23_1
+WVS,2005-2009,704,VNM,704008,VN: mekong river delta,Vietnam,VNM,VN,1,Hậu Giang,VNM.24_1,,,,,VNM.24_1
+WVS,2005-2009,704,VNM,704007,VN: southeast,Vietnam,VNM,VN,1,Hồ Chí Minh,VNM.25_1,,,,,VNM.25_1
+WVS,2005-2009,704,VNM,704002,VN: northeast,Vietnam,VNM,VN,1,Hà Giang,VNM.26_1,,,,,VNM.26_1
+WVS,2005-2009,704,VNM,704001,VN: red river delta,Vietnam,VNM,VN,1,Hà Nội,VNM.27_1,,,,,VNM.27_1
+WVS,2005-2009,704,VNM,704001,VN: red river delta,Vietnam,VNM,VN,1,Hà Nam,VNM.28_1,,,,,VNM.28_1
+WVS,2005-2009,704,VNM,704004,VN: north central,Vietnam,VNM,VN,1,Hà Tĩnh,VNM.29_1,,,,,VNM.29_1
+WVS,2005-2009,704,VNM,704003,VN: northwest,Vietnam,VNM,VN,1,Hoà Bình,VNM.30_1,,,,,VNM.30_1
+WVS,2005-2009,704,VNM,704001,VN: red river delta,Vietnam,VNM,VN,1,Hưng Yên,VNM.31_1,,,,,VNM.31_1
+WVS,2005-2009,704,VNM,704005,VN: central coast,Vietnam,VNM,VN,1,Khánh Hòa,VNM.32_1,,,,,VNM.32_1
+WVS,2005-2009,704,VNM,704008,VN: mekong river delta,Vietnam,VNM,VN,1,Kiên Giang,VNM.33_1,,,,,VNM.33_1
+WVS,2005-2009,704,VNM,704006,VN: central highland,Vietnam,VNM,VN,1,Kon Tum,VNM.34_1,,,,,VNM.34_1
+WVS,2005-2009,704,VNM,704002,VN: northeast,Vietnam,VNM,VN,1,Lạng Sơn,VNM.35_1,,,,,VNM.35_1
+WVS,2005-2009,704,VNM,704003,VN: northwest,Vietnam,VNM,VN,1,Lai Châu,VNM.36_1,,,,,VNM.36_1
+WVS,2005-2009,704,VNM,704006,VN: central highland,Vietnam,VNM,VN,1,Lâm Đồng,VNM.37_1,,,,,VNM.37_1
+WVS,2005-2009,704,VNM,704003,VN: northwest,Vietnam,VNM,VN,1,Lào Cai,VNM.38_1,,,,,VNM.38_1
+WVS,2005-2009,704,VNM,704008,VN: mekong river delta,Vietnam,VNM,VN,1,Long An,VNM.39_1,,,,,VNM.39_1
+WVS,2005-2009,704,VNM,704001,VN: red river delta,Vietnam,VNM,VN,1,Nam Định,VNM.40_1,,,,,VNM.40_1
+WVS,2005-2009,704,VNM,704004,VN: north central,Vietnam,VNM,VN,1,Nghệ An,VNM.41_1,,,,,VNM.41_1
+WVS,2005-2009,704,VNM,704001,VN: red river delta,Vietnam,VNM,VN,1,Ninh Bình,VNM.42_1,,,,,VNM.42_1
+WVS,2005-2009,704,VNM,704005,VN: central coast,Vietnam,VNM,VN,1,Ninh Thuận,VNM.43_1,,,,,VNM.43_1
+WVS,2005-2009,704,VNM,704002,VN: northeast,Vietnam,VNM,VN,1,Phú Thọ,VNM.44_1,,,,,VNM.44_1
+WVS,2005-2009,704,VNM,704005,VN: central coast,Vietnam,VNM,VN,1,Phú Yên,VNM.45_1,,,,,VNM.45_1
+WVS,2005-2009,704,VNM,704004,VN: north central,Vietnam,VNM,VN,1,Quảng Bình,VNM.46_1,,,,,VNM.46_1
+WVS,2005-2009,704,VNM,704005,VN: central coast,Vietnam,VNM,VN,1,Quảng Nam,VNM.47_1,,,,,VNM.47_1
+WVS,2005-2009,704,VNM,704005,VN: central coast,Vietnam,VNM,VN,1,Quảng Ngãi,VNM.48_1,,,,,VNM.48_1
+WVS,2005-2009,704,VNM,704002,VN: northeast,Vietnam,VNM,VN,1,Quảng Ninh,VNM.49_1,,,,,VNM.49_1
+WVS,2005-2009,704,VNM,704004,VN: north central,Vietnam,VNM,VN,1,Quảng Trị,VNM.50_1,,,,,VNM.50_1
+WVS,2005-2009,704,VNM,704008,VN: mekong river delta,Vietnam,VNM,VN,1,Sóc Trăng,VNM.51_1,,,,,VNM.51_1
+WVS,2005-2009,704,VNM,704003,VN: northwest,Vietnam,VNM,VN,1,Sơn La,VNM.52_1,,,,,VNM.52_1
+WVS,2005-2009,704,VNM,704007,VN: southeast,Vietnam,VNM,VN,1,Tây Ninh,VNM.53_1,,,,,VNM.53_1
+WVS,2005-2009,704,VNM,704004,VN: north central,Vietnam,VNM,VN,1,Thừa Thiên Huế,VNM.54_1,,,,,VNM.54_1
+WVS,2005-2009,704,VNM,704001,VN: red river delta,Vietnam,VNM,VN,1,Thái Bình,VNM.55_1,,,,,VNM.55_1
+WVS,2005-2009,704,VNM,704002,VN: northeast,Vietnam,VNM,VN,1,Thái Nguyên,VNM.56_1,,,,,VNM.56_1
+WVS,2005-2009,704,VNM,704004,VN: north central,Vietnam,VNM,VN,1,Thanh Hóa,VNM.57_1,,,,,VNM.57_1
+WVS,2005-2009,704,VNM,704008,VN: mekong river delta,Vietnam,VNM,VN,1,Tiền Giang,VNM.58_1,,,,,VNM.58_1
+WVS,2005-2009,704,VNM,704008,VN: mekong river delta,Vietnam,VNM,VN,1,Trà Vinh,VNM.59_1,,,,,VNM.59_1
+WVS,2005-2009,704,VNM,704003,VN: northwest,Vietnam,VNM,VN,1,Tuyên Quang,VNM.60_1,,,,,VNM.60_1
+WVS,2005-2009,704,VNM,704008,VN: mekong river delta,Vietnam,VNM,VN,1,Vĩnh Long,VNM.61_1,,,,,VNM.61_1
+WVS,2005-2009,704,VNM,704001,VN: red river delta,Vietnam,VNM,VN,1,Vĩnh Phúc,VNM.62_1,,,,,VNM.62_1
+WVS,2005-2009,704,VNM,704002,VN: northeast,Vietnam,VNM,VN,1,Yên Bái,VNM.63_1,,,,,VNM.63_1
