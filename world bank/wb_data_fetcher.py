@@ -95,16 +95,25 @@ if __name__ == "__main__":
     # drop all the colums with years
     cols_to_drop = [str(year) for year in range(1960, most_recent_year+1)]
 
-    data_to_output = data.drop(cols_to_drop, axis=1)
+    data_recent = data.drop(cols_to_drop, axis=1)
+
+    # load the full list of countries with a GID
+    gid_list = pd.read_csv("gid/admn_0.csv")
+
+    # consider only the rows with a valid GID
+    data_to_output = data_recent[data_recent["Country Code"].isin(gid_list["countrycode"])].copy()
+
+    # add a GID column
+    data_to_output["GID"] = data_to_output["Country Code"]
 
     # save the full table to csv
-    data_to_output.to_csv("data/wb_out_FULL.csv", index=False, na_rep = "NaN")
+    data_to_output.to_csv("out/wb_out_FULL.csv", index=False, na_rep = "NaN")
     print("saved to data/wb_out.csv")
 
     # for each category
     # saves rows with indicators in that category
     for key in category_dict:
         data_subset = data_to_output.loc[data_to_output["Indicator Code"].isin(category_dict[key])].copy()
-        data_subset.to_csv("data/wb_out_{}.csv".format(key), index=False, na_rep = "NaN")
+        data_subset.to_csv("out/wb_out_{}.csv".format(key), index=False, na_rep = "NaN")
 
     print("subsets saved")
