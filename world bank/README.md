@@ -31,8 +31,7 @@ Country Name, Country Code, Indicator Name, Indicator Code, Most Recent Value, Y
 
 and similar subset of it named "wb_out_{CATEGORY}.csv" which contain only the indicators of a certain CATEGORY.
 
-Note: in the "WDIData.csv" dataset there are not only single countries but also groups of them such as Arab World and European Union. For the time being the script keeps them even if they cointain, in average, more NaNs.
-
+Note: in the "WDIData.csv" dataset there are not only single countries but also groups of them such as Arab World and European Union. Since thoose region do not have a GID we drop them.
 
 
 
