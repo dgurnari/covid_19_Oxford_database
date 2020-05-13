@@ -9,7 +9,7 @@ The Integrayed Value Survey dataset is obtained by merging together six waves of
 https://europeanvaluesstudy.eu/methodology-data-documentation/previous-surveys-1981-2008/integrated-values-surveys-1981-2014/
 
 Since this integrated dataset is not directly available we personally merged it folowing the official guidelines. Our version can be found at
-https://drive.google.com/open?id=1ug6_ndeEi4OhmAZJeXiZmG7BO6T5bPX9\
+https://drive.google.com/drive/folders/1ug6_ndeEi4OhmAZJeXiZmG7BO6T5bPX9?usp=sharing
 and contains 1430 variables and 513529 observations.
 
 ## Variables Processing and Aggregation
