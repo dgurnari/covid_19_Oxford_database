@@ -1,0 +1,646 @@
+Country Name,Country Code,Indicator Name,Indicator Code,Most Recent Value,Year,GID
+Afghanistan,AFG,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,29.5593487980126,2018.0,AFG
+Afghanistan,AFG,Individuals using the Internet (% of population),IT.NET.USER.ZS,13.5,2017.0,AFG
+Afghanistan,AFG,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,AFG
+Albania,ALB,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.0,2013.0,ALB
+Albania,ALB,Individuals using the Internet (% of population),IT.NET.USER.ZS,71.84704050438441,2017.0,ALB
+Albania,ALB,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,32.0,2009.0,ALB
+Algeria,DZA,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,28.280479999999997,2018.0,DZA
+Algeria,DZA,Individuals using the Internet (% of population),IT.NET.USER.ZS,49.038468079327096,2018.0,DZA
+Algeria,DZA,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,1550.0,2017.0,DZA
+American Samoa,ASM,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.011652,2014.0,ASM
+American Samoa,ASM,Individuals using the Internet (% of population),IT.NET.USER.ZS,0.0,1990.0,ASM
+American Samoa,ASM,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,ASM
+Andorra,AND,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,NaN,1960.0,AND
+Andorra,AND,Individuals using the Internet (% of population),IT.NET.USER.ZS,91.5674670273926,2017.0,AND
+Andorra,AND,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,AND
+Angola,AGO,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,78.15964,2018.0,AGO
+Angola,AGO,Individuals using the Internet (% of population),IT.NET.USER.ZS,14.339079364379401,2017.0,AGO
+Angola,AGO,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,AGO
+Antigua and Barbuda,ATG,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.29449120996578004,2018.0,ATG
+Antigua and Barbuda,ATG,Individuals using the Internet (% of population),IT.NET.USER.ZS,76.0,2017.0,ATG
+Antigua and Barbuda,ATG,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,ATG
+Argentina,ARG,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,311.57347999999996,2018.0,ARG
+Argentina,ARG,Individuals using the Internet (% of population),IT.NET.USER.ZS,74.29490687,2017.0,ARG
+Argentina,ARG,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,ARG
+Armenia,ARM,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.0,2014.0,ARM
+Armenia,ARM,Individuals using the Internet (% of population),IT.NET.USER.ZS,64.7448843250726,2017.0,ARM
+Armenia,ARM,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,24.8,2017.0,ARM
+Aruba,ABW,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,NaN,1960.0,ABW
+Aruba,ABW,Individuals using the Internet (% of population),IT.NET.USER.ZS,97.17,2017.0,ABW
+Aruba,ABW,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,ABW
+Australia,AUS,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,2027.6371098960299,2018.0,AUS
+Australia,AUS,Individuals using the Internet (% of population),IT.NET.USER.ZS,86.54504885,2017.0,AUS
+Australia,AUS,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,1499.93653604606,2010.0,AUS
+Austria,AUT,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,373.51099999999997,2018.0,AUT
+Austria,AUT,Individuals using the Internet (% of population),IT.NET.USER.ZS,87.47913722625559,2018.0,AUT
+Austria,AUT,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,12019.423,2017.0,AUT
+Azerbaijan,AZE,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,44.0886,2018.0,AZE
+Azerbaijan,AZE,Individuals using the Internet (% of population),IT.NET.USER.ZS,79.79999548878959,2018.0,AZE
+Azerbaijan,AZE,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,468.3,2018.0,AZE
+"Bahamas, The",BHS,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.160852303475506,2018.0,BHS
+"Bahamas, The",BHS,Individuals using the Internet (% of population),IT.NET.USER.ZS,85.0,2017.0,BHS
+"Bahamas, The",BHS,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,BHS
+Bahrain,BHR,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,420.98375,2018.0,BHR
+Bahrain,BHR,Individuals using the Internet (% of population),IT.NET.USER.ZS,98.6446725799886,2018.0,BHR
+Bahrain,BHR,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,BHR
+Bangladesh,BGD,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,63.8181519848784,2018.0,BGD
+Bangladesh,BGD,Individuals using the Internet (% of population),IT.NET.USER.ZS,15.0,2017.0,BGD
+Bangladesh,BGD,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,10040.0,2016.0,BGD
+Barbados,BRB,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.400000006,1991.0,BRB
+Barbados,BRB,Individuals using the Internet (% of population),IT.NET.USER.ZS,81.76077839310791,2017.0,BRB
+Barbados,BRB,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,BRB
+Belarus,BLR,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,1.9004,2018.0,BLR
+Belarus,BLR,Individuals using the Internet (% of population),IT.NET.USER.ZS,79.12988669193071,2018.0,BLR
+Belarus,BLR,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,6215.3,2018.0,BLR
+Belgium,BEL,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,1285.344187,2018.0,BEL
+Belgium,BEL,Individuals using the Internet (% of population),IT.NET.USER.ZS,88.6550642753316,2018.0,BEL
+Belgium,BEL,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,10710.0,2018.0,BEL
+Belize,BLZ,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,3.7824519114274104,2018.0,BLZ
+Belize,BLZ,Individuals using the Internet (% of population),IT.NET.USER.ZS,47.0826258036364,2017.0,BLZ
+Belize,BLZ,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,BLZ
+Benin,BEN,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.006442778000000001,2016.0,BEN
+Benin,BEN,Individuals using the Internet (% of population),IT.NET.USER.ZS,20.0,2017.0,BEN
+Benin,BEN,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,66.0,2003.0,BEN
+Bermuda,BMU,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,NaN,1960.0,BMU
+Bermuda,BMU,Individuals using the Internet (% of population),IT.NET.USER.ZS,98.37,2017.0,BMU
+Bermuda,BMU,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,BMU
+Bhutan,BTN,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.690916,2018.0,BTN
+Bhutan,BTN,Individuals using the Internet (% of population),IT.NET.USER.ZS,48.1064158774574,2017.0,BTN
+Bhutan,BTN,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,BTN
+Bolivia,BOL,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,13.728477402892802,2018.0,BOL
+Bolivia,BOL,Individuals using the Internet (% of population),IT.NET.USER.ZS,44.28614216078871,2018.0,BOL
+Bolivia,BOL,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,BOL
+Bosnia and Herzegovina,BIH,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,8.7e-05,2015.0,BIH
+Bosnia and Herzegovina,BIH,Individuals using the Internet (% of population),IT.NET.USER.ZS,70.1201350394885,2018.0,BIH
+Bosnia and Herzegovina,BIH,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,30.435026,2018.0,BIH
+Botswana,BWA,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.113606,2018.0,BWA
+Botswana,BWA,Individuals using the Internet (% of population),IT.NET.USER.ZS,47.0,2017.0,BWA
+Botswana,BWA,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,94.0,2006.0,BWA
+Brazil,BRA,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,1845.647756087,2018.0,BRA
+Brazil,BRA,Individuals using the Internet (% of population),IT.NET.USER.ZS,70.4342825404361,2018.0,BRA
+Brazil,BRA,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,15807.0,2017.0,BRA
+British Virgin Islands,VGB,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,NaN,1960.0,VGB
+British Virgin Islands,VGB,Individuals using the Internet (% of population),IT.NET.USER.ZS,77.70426829268291,2017.0,VGB
+British Virgin Islands,VGB,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,VGB
+Brunei Darussalam,BRN,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,129.352,2018.0,BRN
+Brunei Darussalam,BRN,Individuals using the Internet (% of population),IT.NET.USER.ZS,94.86669164112931,2017.0,BRN
+Brunei Darussalam,BRN,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,BRN
+Bulgaria,BGR,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,1.37521,2018.0,BGR
+Bulgaria,BGR,Individuals using the Internet (% of population),IT.NET.USER.ZS,64.78201069118,2018.0,BGR
+Bulgaria,BGR,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,1479.39,2018.0,BGR
+Burkina Faso,BFA,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.10461400000000001,2018.0,BFA
+Burkina Faso,BFA,Individuals using the Internet (% of population),IT.NET.USER.ZS,16.0,2017.0,BFA
+Burkina Faso,BFA,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,BFA
+Burundi,BDI,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.1000000015,1987.0,BDI
+Burundi,BDI,Individuals using the Internet (% of population),IT.NET.USER.ZS,2.6607485347533997,2017.0,BDI
+Burundi,BDI,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,BDI
+Cabo Verde,CPV,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,1.882368,2014.0,CPV
+Cabo Verde,CPV,Individuals using the Internet (% of population),IT.NET.USER.ZS,57.16214635,2017.0,CPV
+Cabo Verde,CPV,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,CPV
+Cambodia,KHM,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.67645,2018.0,KHM
+Cambodia,KHM,Individuals using the Internet (% of population),IT.NET.USER.ZS,40.0,2018.0,KHM
+Cambodia,KHM,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,45.0,2005.0,KHM
+Cameroon,CMR,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.066817,2018.0,CMR
+Cameroon,CMR,Individuals using the Internet (% of population),IT.NET.USER.ZS,23.20297197,2017.0,CMR
+Cameroon,CMR,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,256872.0,2018.0,CMR
+Canada,CAN,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,3434.073,2018.0,CAN
+Canada,CAN,Individuals using the Internet (% of population),IT.NET.USER.ZS,91.0,2017.0,CAN
+Canada,CAN,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,1596.59,2018.0,CAN
+Cayman Islands,CYM,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,NaN,1960.0,CYM
+Cayman Islands,CYM,Individuals using the Internet (% of population),IT.NET.USER.ZS,81.06769325081609,2017.0,CYM
+Cayman Islands,CYM,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,CYM
+Central African Republic,CAF,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,16.2000007629,1991.0,CAF
+Central African Republic,CAF,Individuals using the Internet (% of population),IT.NET.USER.ZS,4.33925494461827,2017.0,CAF
+Central African Republic,CAF,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,CAF
+Chad,TCD,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.471912,2014.0,TCD
+Chad,TCD,Individuals using the Internet (% of population),IT.NET.USER.ZS,6.49999811951501,2017.0,TCD
+Chad,TCD,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,TCD
+Chile,CHL,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,1226.44198991,2018.0,CHL
+Chile,CHL,Individuals using the Internet (% of population),IT.NET.USER.ZS,82.32748693,2017.0,CHL
+Chile,CHL,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,820.0,2004.0,CHL
+China,CHN,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,25256.2071,2018.0,CHN
+China,CHN,Individuals using the Internet (% of population),IT.NET.USER.ZS,54.3,2017.0,CHN
+China,CHN,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,681203.0,2018.0,CHN
+Colombia,COL,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,1349.446351,2018.0,COL
+Colombia,COL,Individuals using the Internet (% of population),IT.NET.USER.ZS,64.1263768204459,2018.0,COL
+Colombia,COL,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,COL
+Comoros,COM,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.1000000015,1985.0,COM
+Comoros,COM,Individuals using the Internet (% of population),IT.NET.USER.ZS,8.47817029542124,2017.0,COM
+Comoros,COM,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,COM
+"Congo, Dem. Rep.",COD,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.893,2018.0,COD
+"Congo, Dem. Rep.",COD,Individuals using the Internet (% of population),IT.NET.USER.ZS,8.61990491569355,2017.0,COD
+"Congo, Dem. Rep.",COD,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,29.514,2018.0,COD
+"Congo, Rep.",COG,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,4.59716061898045,2018.0,COG
+"Congo, Rep.",COG,Individuals using the Internet (% of population),IT.NET.USER.ZS,8.65,2017.0,COG
+"Congo, Rep.",COG,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,266.47,2012.0,COG
+Costa Rica,CRI,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,11.13032,2018.0,CRI
+Costa Rica,CRI,Individuals using the Internet (% of population),IT.NET.USER.ZS,74.08680222551591,2018.0,CRI
+Costa Rica,CRI,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,CRI
+Cote d'Ivoire,CIV,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,5.79997798442412,2018.0,CIV
+Cote d'Ivoire,CIV,Individuals using the Internet (% of population),IT.NET.USER.ZS,46.823727082628295,2018.0,CIV
+Cote d'Ivoire,CIV,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,10.0,2003.0,CIV
+Croatia,HRV,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.52979,2018.0,HRV
+Croatia,HRV,Individuals using the Internet (% of population),IT.NET.USER.ZS,75.2946259897258,2018.0,HRV
+Croatia,HRV,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,756.0,2018.0,HRV
+Cuba,CUB,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,17.759927333,2018.0,CUB
+Cuba,CUB,Individuals using the Internet (% of population),IT.NET.USER.ZS,57.14840432,2017.0,CUB
+Cuba,CUB,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,1284.8,2007.0,CUB
+Curacao,CUW,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,NaN,1960.0,CUW
+Curacao,CUW,Individuals using the Internet (% of population),IT.NET.USER.ZS,68.12721625,2017.0,CUW
+Curacao,CUW,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,CUW
+Cyprus,CYP,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.021,2018.0,CYP
+Cyprus,CYP,Individuals using the Internet (% of population),IT.NET.USER.ZS,84.43358251868891,2018.0,CYP
+Cyprus,CYP,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,CYP
+Czech Republic,CZE,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,25.226370000000003,2018.0,CZE
+Czech Republic,CZE,Individuals using the Internet (% of population),IT.NET.USER.ZS,80.68816754342879,2018.0,CZE
+Czech Republic,CZE,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,7778.0,2017.0,CZE
+Denmark,DNK,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,174.53900000000002,2004.0,DNK
+Denmark,DNK,Individuals using the Internet (% of population),IT.NET.USER.ZS,97.3192043651002,2018.0,DNK
+Denmark,DNK,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,5829.0,2017.0,DNK
+Djibouti,DJI,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.1000000015,1991.0,DJI
+Djibouti,DJI,Individuals using the Internet (% of population),IT.NET.USER.ZS,55.68140925,2017.0,DJI
+Djibouti,DJI,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,145.0,2005.0,DJI
+Dominica,DMA,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,NaN,1960.0,DMA
+Dominica,DMA,Individuals using the Internet (% of population),IT.NET.USER.ZS,69.6196687942039,2017.0,DMA
+Dominica,DMA,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,DMA
+Dominican Republic,DOM,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.0,2013.0,DOM
+Dominican Republic,DOM,Individuals using the Internet (% of population),IT.NET.USER.ZS,74.82428985887209,2018.0,DOM
+Dominican Republic,DOM,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,DOM
+Ecuador,ECU,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,64.20469,2018.0,ECU
+Ecuador,ECU,Individuals using the Internet (% of population),IT.NET.USER.ZS,57.272243683102396,2017.0,ECU
+Ecuador,ECU,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,ECU
+"Egypt, Arab Rep.",EGY,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,437.625328,2018.0,EGY
+"Egypt, Arab Rep.",EGY,Individuals using the Internet (% of population),IT.NET.USER.ZS,46.9243380864905,2018.0,EGY
+"Egypt, Arab Rep.",EGY,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,40837.0,2008.0,EGY
+El Salvador,SLV,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,10.73322,2018.0,SLV
+El Salvador,SLV,Individuals using the Internet (% of population),IT.NET.USER.ZS,33.8207289,2017.0,SLV
+El Salvador,SLV,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,4.5,1996.0,SLV
+Equatorial Guinea,GNQ,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.34922698143426695,2018.0,GNQ
+Equatorial Guinea,GNQ,Individuals using the Internet (% of population),IT.NET.USER.ZS,26.2399999569409,2017.0,GNQ
+Equatorial Guinea,GNQ,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,GNQ
+Eritrea,ERI,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,NaN,1960.0,ERI
+Eritrea,ERI,Individuals using the Internet (% of population),IT.NET.USER.ZS,1.3089069798665,2017.0,ERI
+Eritrea,ERI,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,ERI
+Estonia,EST,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.003,2016.0,EST
+Estonia,EST,Individuals using the Internet (% of population),IT.NET.USER.ZS,89.35700777474258,2018.0,EST
+Estonia,EST,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,237.0,2012.0,EST
+Eswatini,SWZ,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.257,2000.0,SWZ
+Eswatini,SWZ,Individuals using the Internet (% of population),IT.NET.USER.ZS,47.0,2017.0,SWZ
+Eswatini,SWZ,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,0.068,2011.0,SWZ
+Ethiopia,ETH,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,2089.27754,2018.0,ETH
+Ethiopia,ETH,Individuals using the Internet (% of population),IT.NET.USER.ZS,18.618051452826396,2017.0,ETH
+Ethiopia,ETH,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,ETH
+Faroe Islands,FRO,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,NaN,1960.0,FRO
+Faroe Islands,FRO,Individuals using the Internet (% of population),IT.NET.USER.ZS,97.58195893844679,2017.0,FRO
+Faroe Islands,FRO,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,FRO
+Fiji,FJI,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,106.8282,2018.0,FJI
+Fiji,FJI,Individuals using the Internet (% of population),IT.NET.USER.ZS,49.966373010266196,2017.0,FJI
+Fiji,FJI,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,FJI
+Finland,FIN,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,957.63859,2018.0,FIN
+Finland,FIN,Individuals using the Internet (% of population),IT.NET.USER.ZS,88.8899599985585,2018.0,FIN
+Finland,FIN,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,4271.0,2017.0,FIN
+France,FRA,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,4443.789000000001,2018.0,FRA
+France,FRA,Individuals using the Internet (% of population),IT.NET.USER.ZS,82.04318677884841,2018.0,FRA
+France,FRA,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,93276.78,2017.0,FRA
+French Polynesia,PYF,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,NaN,1960.0,PYF
+French Polynesia,PYF,Individuals using the Internet (% of population),IT.NET.USER.ZS,72.7038953132942,2017.0,PYF
+French Polynesia,PYF,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,PYF
+Gabon,GAB,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.0,2013.0,GAB
+Gabon,GAB,Individuals using the Internet (% of population),IT.NET.USER.ZS,62.0,2017.0,GAB
+Gabon,GAB,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,174.0,2017.0,GAB
+"Gambia, The",GMB,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.07411338,2015.0,GMB
+"Gambia, The",GMB,Individuals using the Internet (% of population),IT.NET.USER.ZS,19.8364544419252,2017.0,GMB
+"Gambia, The",GMB,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,GMB
+Georgia,GEO,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.7509,2018.0,GEO
+Georgia,GEO,Individuals using the Internet (% of population),IT.NET.USER.ZS,62.717908173695704,2018.0,GEO
+Georgia,GEO,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,597.0,2017.0,GEO
+Germany,DEU,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,7969.8636400000005,2018.0,DEU
+Germany,DEU,Individuals using the Internet (% of population),IT.NET.USER.ZS,89.73912103649059,2018.0,DEU
+Germany,DEU,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,79456.0,2018.0,DEU
+Ghana,GHA,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.262714068,2017.0,GHA
+Ghana,GHA,Individuals using the Internet (% of population),IT.NET.USER.ZS,39.0,2017.0,GHA
+Ghana,GHA,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,85.0,2006.0,GHA
+Gibraltar,GIB,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,NaN,1960.0,GIB
+Gibraltar,GIB,Individuals using the Internet (% of population),IT.NET.USER.ZS,94.4444715818151,2016.0,GIB
+Gibraltar,GIB,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,GIB
+Greece,GRC,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,21.909000000000002,2018.0,GRC
+Greece,GRC,Individuals using the Internet (% of population),IT.NET.USER.ZS,72.952094201811,2018.0,GRC
+Greece,GRC,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,774.3860000000001,2013.0,GRC
+Greenland,GRL,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,NaN,1960.0,GRL
+Greenland,GRL,Individuals using the Internet (% of population),IT.NET.USER.ZS,69.4824617821988,2017.0,GRL
+Greenland,GRL,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,GRL
+Grenada,GRD,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,NaN,1960.0,GRD
+Grenada,GRD,Individuals using the Internet (% of population),IT.NET.USER.ZS,59.071735362999,2017.0,GRD
+Grenada,GRD,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,GRD
+Guam,GUM,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,48.607,2009.0,GUM
+Guam,GUM,Individuals using the Internet (% of population),IT.NET.USER.ZS,80.5054655600831,2017.0,GUM
+Guam,GUM,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,GUM
+Guatemala,GTM,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.107366,2018.0,GTM
+Guatemala,GTM,Individuals using the Internet (% of population),IT.NET.USER.ZS,65.0,2017.0,GTM
+Guatemala,GTM,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,GTM
+Guinea,GIN,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,1.3999999762,1999.0,GIN
+Guinea,GIN,Individuals using the Internet (% of population),IT.NET.USER.ZS,18.0,2017.0,GIN
+Guinea,GIN,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,GIN
+Guinea-Bissau,GNB,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.1000000015,1997.0,GNB
+Guinea-Bissau,GNB,Individuals using the Internet (% of population),IT.NET.USER.ZS,3.9305091519941096,2017.0,GNB
+Guinea-Bissau,GNB,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,GNB
+Guyana,GUY,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.10001107755245499,2018.0,GUY
+Guyana,GUY,Individuals using the Internet (% of population),IT.NET.USER.ZS,37.3258367878094,2017.0,GUY
+Guyana,GUY,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,GUY
+Haiti,HTI,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,3.9000000954000003,1991.0,HTI
+Haiti,HTI,Individuals using the Internet (% of population),IT.NET.USER.ZS,32.4736271300557,2018.0,HTI
+Haiti,HTI,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,HTI
+Honduras,HND,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.449870108136938,2018.0,HND
+Honduras,HND,Individuals using the Internet (% of population),IT.NET.USER.ZS,31.7,2017.0,HND
+Honduras,HND,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,HND
+"Hong Kong SAR, China",HKG,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,12676.721747,2018.0,HKG
+"Hong Kong SAR, China",HKG,Individuals using the Internet (% of population),IT.NET.USER.ZS,90.50739532942829,2018.0,HKG
+"Hong Kong SAR, China",HKG,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,HKG
+Hungary,HUN,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.0,2013.0,HUN
+Hungary,HUN,Individuals using the Internet (% of population),IT.NET.USER.ZS,76.0743606365063,2018.0,HUN
+Hungary,HUN,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,5518.0,2018.0,HUN
+Iceland,ISL,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,163.646108143,2018.0,ISL
+Iceland,ISL,Individuals using the Internet (% of population),IT.NET.USER.ZS,99.01095399169908,2018.0,ISL
+Iceland,ISL,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,ISL
+India,IND,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,2703.96417383,2018.0,IND
+India,IND,Individuals using the Internet (% of population),IT.NET.USER.ZS,34.45,2017.0,IND
+India,IND,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,1149835.0,2017.0,IND
+Indonesia,IDN,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,1131.9134554539999,2018.0,IDN
+Indonesia,IDN,Individuals using the Internet (% of population),IT.NET.USER.ZS,39.904638646291296,2018.0,IDN
+Indonesia,IDN,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,25654.0,2017.0,IDN
+"Iran, Islamic Rep.",IRN,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,290.737968069473,2018.0,IRN
+"Iran, Islamic Rep.",IRN,Individuals using the Internet (% of population),IT.NET.USER.ZS,70.0045522180671,2018.0,IRN
+"Iran, Islamic Rep.",IRN,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,13270.0,2017.0,IRN
+Iraq,IRQ,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,16.199317,2018.0,IRQ
+Iraq,IRQ,Individuals using the Internet (% of population),IT.NET.USER.ZS,75.0000013115036,2018.0,IRQ
+Iraq,IRQ,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,99.68299999999999,2010.0,IRQ
+Ireland,IRL,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,168.7117,2018.0,IRL
+Ireland,IRL,Individuals using the Internet (% of population),IT.NET.USER.ZS,84.52230205686121,2018.0,IRL
+Ireland,IRL,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,2122.0,2017.0,IRL
+Isle of Man,IMN,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,NaN,1960.0,IMN
+Isle of Man,IMN,Individuals using the Internet (% of population),IT.NET.USER.ZS,NaN,1960.0,IMN
+Isle of Man,IMN,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,IMN
+Israel,ISR,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,994.5419999999999,2018.0,ISR
+Israel,ISR,Individuals using the Internet (% of population),IT.NET.USER.ZS,83.73313905697779,2018.0,ISR
+Israel,ISR,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,2765.0,2017.0,ISR
+Italy,ITA,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,1418.004731,2018.0,ITA
+Italy,ITA,Individuals using the Internet (% of population),IT.NET.USER.ZS,74.3871829234822,2018.0,ITA
+Italy,ITA,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,39449.0,2018.0,ITA
+Jamaica,JAM,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,4.58628,2018.0,JAM
+Jamaica,JAM,Individuals using the Internet (% of population),IT.NET.USER.ZS,55.0720670507751,2017.0,JAM
+Jamaica,JAM,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,JAM
+Japan,JPN,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,9420.659,2018.0,JPN
+Japan,JPN,Individuals using the Internet (% of population),IT.NET.USER.ZS,91.28160848649321,2018.0,JPN
+Japan,JPN,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,1410.0,2018.0,JPN
+Jordan,JOR,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,175.8386,2018.0,JOR
+Jordan,JOR,Individuals using the Internet (% of population),IT.NET.USER.ZS,66.7903144326458,2017.0,JOR
+Jordan,JOR,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,503.537,2010.0,JOR
+Kazakhstan,KAZ,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,50.217906,2018.0,KAZ
+Kazakhstan,KAZ,Individuals using the Internet (% of population),IT.NET.USER.ZS,78.9039190578816,2018.0,KAZ
+Kazakhstan,KAZ,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,19241.2,2017.0,KAZ
+Kenya,KEN,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,294.965258350297,2018.0,KEN
+Kenya,KEN,Individuals using the Internet (% of population),IT.NET.USER.ZS,17.8271002088645,2017.0,KEN
+Kenya,KEN,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,109.24,2007.0,KEN
+Kiribati,KIR,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.8000000119,1998.0,KIR
+Kiribati,KIR,Individuals using the Internet (% of population),IT.NET.USER.ZS,14.5818181818182,2017.0,KIR
+Kiribati,KIR,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,KIR
+"Korea, Dem. People’s Rep.",PRK,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.251493238,2018.0,PRK
+"Korea, Dem. People’s Rep.",PRK,Individuals using the Internet (% of population),IT.NET.USER.ZS,0.0,2012.0,PRK
+"Korea, Dem. People’s Rep.",PRK,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,PRK
+"Korea, Rep.",KOR,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,11929.556028,2018.0,KOR
+"Korea, Rep.",KOR,Individuals using the Internet (% of population),IT.NET.USER.ZS,96.0228595797887,2018.0,KOR
+"Korea, Rep.",KOR,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,23002.0,2018.0,KOR
+Kuwait,KWT,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,392.363053,2018.0,KWT
+Kuwait,KWT,Individuals using the Internet (% of population),IT.NET.USER.ZS,99.5988495907557,2018.0,KWT
+Kuwait,KWT,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,KWT
+Kyrgyz Republic,KGZ,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.02165,2017.0,KGZ
+Kyrgyz Republic,KGZ,Individuals using the Internet (% of population),IT.NET.USER.ZS,38.0,2017.0,KGZ
+Kyrgyz Republic,KGZ,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,43.0,2017.0,KGZ
+Lao PDR,LAO,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,1.5325525291164601,2018.0,LAO
+Lao PDR,LAO,Individuals using the Internet (% of population),IT.NET.USER.ZS,25.510435082302397,2017.0,LAO
+Lao PDR,LAO,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,LAO
+Latvia,LVA,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,4.014869999999999,2018.0,LVA
+Latvia,LVA,Individuals using the Internet (% of population),IT.NET.USER.ZS,83.57717486309559,2018.0,LVA
+Latvia,LVA,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,41.5,2018.0,LVA
+Lebanon,LBN,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,56.568999999999996,2018.0,LBN
+Lebanon,LBN,Individuals using the Internet (% of population),IT.NET.USER.ZS,78.1807748907671,2017.0,LBN
+Lebanon,LBN,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,LBN
+Lesotho,LSO,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.1000000015,1993.0,LSO
+Lesotho,LSO,Individuals using the Internet (% of population),IT.NET.USER.ZS,29.0,2017.0,LSO
+Lesotho,LSO,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,LSO
+Liberia,LBR,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.1000000015,1992.0,LBR
+Liberia,LBR,Individuals using the Internet (% of population),IT.NET.USER.ZS,7.9844797215226695,2017.0,LBR
+Liberia,LBR,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,LBR
+Libya,LBY,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,1.236961352,2017.0,LBY
+Libya,LBY,Individuals using the Internet (% of population),IT.NET.USER.ZS,21.7589206159252,2017.0,LBY
+Libya,LBY,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,LBY
+Liechtenstein,LIE,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,NaN,1960.0,LIE
+Liechtenstein,LIE,Individuals using the Internet (% of population),IT.NET.USER.ZS,98.1,2017.0,LIE
+Liechtenstein,LIE,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,LIE
+Lithuania,LTU,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.47200000000000003,2017.0,LTU
+Lithuania,LTU,Individuals using the Internet (% of population),IT.NET.USER.ZS,79.7225827680518,2018.0,LTU
+Lithuania,LTU,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,468.0,2018.0,LTU
+Luxembourg,LUX,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,7323.03958,2018.0,LUX
+Luxembourg,LUX,Individuals using the Internet (% of population),IT.NET.USER.ZS,97.06129870582899,2018.0,LUX
+Luxembourg,LUX,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,443.0,2018.0,LUX
+"Macao SAR, China",MAC,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,31.843759999999996,2018.0,MAC
+"Macao SAR, China",MAC,Individuals using the Internet (% of population),IT.NET.USER.ZS,83.7940896091516,2018.0,MAC
+"Macao SAR, China",MAC,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,MAC
+Madagascar,MDG,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,16.24747,2018.0,MDG
+Madagascar,MDG,Individuals using the Internet (% of population),IT.NET.USER.ZS,9.8,2017.0,MDG
+Madagascar,MDG,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,10.0,2007.0,MDG
+Malawi,MWI,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.0108797367,2018.0,MWI
+Malawi,MWI,Individuals using the Internet (% of population),IT.NET.USER.ZS,13.782164391987697,2017.0,MWI
+Malawi,MWI,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,44.0,2007.0,MWI
+Malaysia,MYS,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,1404.40777752105,2018.0,MYS
+Malaysia,MYS,Individuals using the Internet (% of population),IT.NET.USER.ZS,81.20104861811741,2018.0,MYS
+Malaysia,MYS,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,2028.503,2017.0,MYS
+Maldives,MDV,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,7.745645613,2018.0,MDV
+Maldives,MDV,Individuals using the Internet (% of population),IT.NET.USER.ZS,63.1856658848485,2017.0,MDV
+Maldives,MDV,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,MDV
+Mali,MLI,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.0,2014.0,MLI
+Mali,MLI,Individuals using the Internet (% of population),IT.NET.USER.ZS,13.0,2017.0,MLI
+Mali,MLI,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,196.3,2002.0,MLI
+Malta,MLT,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,5.14323,2018.0,MLT
+Malta,MLT,Individuals using the Internet (% of population),IT.NET.USER.ZS,81.65804548744529,2018.0,MLT
+Malta,MLT,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,MLT
+Marshall Islands,MHL,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.13383699999999998,2018.0,MHL
+Marshall Islands,MHL,Individuals using the Internet (% of population),IT.NET.USER.ZS,38.701162619829,2017.0,MHL
+Marshall Islands,MHL,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,MHL
+Mauritania,MRT,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.0,2013.0,MRT
+Mauritania,MRT,Individuals using the Internet (% of population),IT.NET.USER.ZS,20.80096366143,2017.0,MRT
+Mauritania,MRT,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,47.0,2008.0,MRT
+Mauritius,MUS,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,233.717,2018.0,MUS
+Mauritius,MUS,Individuals using the Internet (% of population),IT.NET.USER.ZS,58.596169704299,2018.0,MUS
+Mauritius,MUS,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,MUS
+Mexico,MEX,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,1090.3781900000001,2018.0,MEX
+Mexico,MEX,Individuals using the Internet (% of population),IT.NET.USER.ZS,65.7726344759233,2018.0,MEX
+Mexico,MEX,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,MEX
+"Micronesia, Fed. Sts.",FSM,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,NaN,1960.0,FSM
+"Micronesia, Fed. Sts.",FSM,Individuals using the Internet (% of population),IT.NET.USER.ZS,35.3040528661747,2017.0,FSM
+"Micronesia, Fed. Sts.",FSM,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,FSM
+Moldova,MDA,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.6445,2018.0,MDA
+Moldova,MDA,Individuals using the Internet (% of population),IT.NET.USER.ZS,76.1245198931608,2017.0,MDA
+Moldova,MDA,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,77.0,2017.0,MDA
+Monaco,MCO,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.0,2013.0,MCO
+Monaco,MCO,Individuals using the Internet (% of population),IT.NET.USER.ZS,97.05297683692751,2017.0,MCO
+Monaco,MCO,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,MCO
+Mongolia,MNG,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,7.819000999999999,2018.0,MNG
+Mongolia,MNG,Individuals using the Internet (% of population),IT.NET.USER.ZS,47.160940196125296,2018.0,MNG
+Mongolia,MNG,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,973.0,2017.0,MNG
+Montenegro,MNE,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.1345,2018.0,MNE
+Montenegro,MNE,Individuals using the Internet (% of population),IT.NET.USER.ZS,71.51712879353,2018.0,MNE
+Montenegro,MNE,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,67.0,2018.0,MNE
+Morocco,MAR,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,97.71152,2018.0,MAR
+Morocco,MAR,Individuals using the Internet (% of population),IT.NET.USER.ZS,64.8038651924043,2018.0,MAR
+Morocco,MAR,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,4475.0,2018.0,MAR
+Mozambique,MOZ,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,4.775,2018.0,MOZ
+Mozambique,MOZ,Individuals using the Internet (% of population),IT.NET.USER.ZS,10.0,2017.0,MOZ
+Mozambique,MOZ,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,246.8,2011.0,MOZ
+Myanmar,MMR,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,4.74215983168867,2018.0,MMR
+Myanmar,MMR,Individuals using the Internet (% of population),IT.NET.USER.ZS,30.6781831132592,2017.0,MMR
+Myanmar,MMR,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,4163.0,2004.0,MMR
+Namibia,NAM,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,26.293869,2018.0,NAM
+Namibia,NAM,Individuals using the Internet (% of population),IT.NET.USER.ZS,51.0,2017.0,NAM
+Namibia,NAM,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,NAM
+Nauru,NRU,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,7.939983827000001,2018.0,NRU
+Nauru,NRU,Individuals using the Internet (% of population),IT.NET.USER.ZS,57.0,2017.0,NRU
+Nauru,NRU,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,NRU
+Nepal,NPL,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,4.655766324,2018.0,NPL
+Nepal,NPL,Individuals using the Internet (% of population),IT.NET.USER.ZS,34.0,2017.0,NPL
+Nepal,NPL,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,NPL
+Netherlands,NLD,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,5886.51490365179,2018.0,NLD
+Netherlands,NLD,Individuals using the Internet (% of population),IT.NET.USER.ZS,94.71207372173029,2018.0,NLD
+Netherlands,NLD,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,18535.0,2018.0,NLD
+New Caledonia,NCL,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,NaN,1960.0,NCL
+New Caledonia,NCL,Individuals using the Internet (% of population),IT.NET.USER.ZS,82.0058408035186,2017.0,NCL
+New Caledonia,NCL,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,NCL
+New Zealand,NZL,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,1349.29523130803,2018.0,NZL
+New Zealand,NZL,Individuals using the Internet (% of population),IT.NET.USER.ZS,90.8110930723827,2017.0,NZL
+New Zealand,NZL,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,321.0,1998.0,NZL
+Nicaragua,NIC,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.535,2000.0,NIC
+Nicaragua,NIC,Individuals using the Internet (% of population),IT.NET.USER.ZS,27.8630400087748,2017.0,NIC
+Nicaragua,NIC,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,NIC
+Niger,NER,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,1.080708,2013.0,NER
+Niger,NER,Individuals using the Internet (% of population),IT.NET.USER.ZS,5.25048768669473,2018.0,NER
+Niger,NER,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,NER
+Nigeria,NGA,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,19.4220929293716,2018.0,NGA
+Nigeria,NGA,Individuals using the Internet (% of population),IT.NET.USER.ZS,42.0,2017.0,NGA
+Nigeria,NGA,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,173.632,2005.0,NGA
+North Macedonia,MKD,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.0,2009.0,MKD
+North Macedonia,MKD,Individuals using the Internet (% of population),IT.NET.USER.ZS,79.16775518508709,2018.0,MKD
+North Macedonia,MKD,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,63.232,2018.0,MKD
+Northern Mariana Islands,MNP,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,NaN,1960.0,MNP
+Northern Mariana Islands,MNP,Individuals using the Internet (% of population),IT.NET.USER.ZS,0.0,1990.0,MNP
+Northern Mariana Islands,MNP,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,MNP
+Norway,NOR,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,176.585,2004.0,NOR
+Norway,NOR,Individuals using the Internet (% of population),IT.NET.USER.ZS,96.4916579887094,2018.0,NOR
+Norway,NOR,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,3096.0,2017.0,NOR
+Oman,OMN,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,510.42598300000003,2018.0,OMN
+Oman,OMN,Individuals using the Internet (% of population),IT.NET.USER.ZS,80.185635733257,2017.0,OMN
+Oman,OMN,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,OMN
+Pakistan,PAK,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,217.534134,2018.0,PAK
+Pakistan,PAK,Individuals using the Internet (% of population),IT.NET.USER.ZS,15.51,2017.0,PAK
+Pakistan,PAK,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,24903.0,2018.0,PAK
+Palau,PLW,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,NaN,1960.0,PLW
+Palau,PLW,Individuals using the Internet (% of population),IT.NET.USER.ZS,26.9703326341025,2004.0,PLW
+Palau,PLW,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,PLW
+Panama,PAN,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,47.627413,2018.0,PAN
+Panama,PAN,Individuals using the Internet (% of population),IT.NET.USER.ZS,57.8650900656079,2017.0,PAN
+Panama,PAN,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,PAN
+Papua New Guinea,PNG,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,30.925844284036003,2018.0,PNG
+Papua New Guinea,PNG,Individuals using the Internet (% of population),IT.NET.USER.ZS,11.209196592857802,2017.0,PNG
+Papua New Guinea,PNG,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,PNG
+Paraguay,PRY,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,1.970266,2018.0,PRY
+Paraguay,PRY,Individuals using the Internet (% of population),IT.NET.USER.ZS,64.9935430235756,2018.0,PRY
+Paraguay,PRY,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,3.0,1996.0,PRY
+Peru,PER,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,313.264641181,2018.0,PER
+Peru,PER,Individuals using the Internet (% of population),IT.NET.USER.ZS,52.54031017136539,2018.0,PER
+Peru,PER,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,127.0,1998.0,PER
+Philippines,PHL,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,835.904513,2018.0,PHL
+Philippines,PHL,Individuals using the Internet (% of population),IT.NET.USER.ZS,60.0547603336913,2017.0,PHL
+Philippines,PHL,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,384.0,2016.0,PHL
+Poland,POL,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,271.488,2018.0,POL
+Poland,POL,Individuals using the Internet (% of population),IT.NET.USER.ZS,77.54173453500059,2018.0,POL
+Poland,POL,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,9466.3,2016.0,POL
+Portugal,PRT,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,454.209368,2018.0,PRT
+Portugal,PRT,Individuals using the Internet (% of population),IT.NET.USER.ZS,74.6609681128324,2018.0,PRT
+Portugal,PRT,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,4032.7129999999997,2017.0,PRT
+Puerto Rico,PRI,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,NaN,1960.0,PRI
+Puerto Rico,PRI,Individuals using the Internet (% of population),IT.NET.USER.ZS,70.59787359,2017.0,PRI
+Puerto Rico,PRI,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,PRI
+Qatar,QAT,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,12666.7094,2018.0,QAT
+Qatar,QAT,Individuals using the Internet (% of population),IT.NET.USER.ZS,99.6528491261175,2018.0,QAT
+Qatar,QAT,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,QAT
+Romania,ROU,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,2.71,2018.0,ROU
+Romania,ROU,Individuals using the Internet (% of population),IT.NET.USER.ZS,70.68127792732679,2018.0,ROU
+Romania,ROU,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,5365.914000000001,2017.0,ROU
+Russian Federation,RUS,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,6810.610159999999,2018.0,RUS
+Russian Federation,RUS,Individuals using the Internet (% of population),IT.NET.USER.ZS,80.8647214200397,2018.0,RUS
+Russian Federation,RUS,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,129370.701,2018.0,RUS
+Rwanda,RWA,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,20.696268,2014.0,RWA
+Rwanda,RWA,Individuals using the Internet (% of population),IT.NET.USER.ZS,21.767632621378198,2017.0,RWA
+Rwanda,RWA,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,RWA
+Samoa,WSM,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.017582063999999998,2016.0,WSM
+Samoa,WSM,Individuals using the Internet (% of population),IT.NET.USER.ZS,33.6109393195046,2017.0,WSM
+Samoa,WSM,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,WSM
+San Marino,SMR,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,NaN,1960.0,SMR
+San Marino,SMR,Individuals using the Internet (% of population),IT.NET.USER.ZS,60.182301260752794,2017.0,SMR
+San Marino,SMR,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,SMR
+Sao Tome and Principe,STP,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.069,2009.0,STP
+Sao Tome and Principe,STP,Individuals using the Internet (% of population),IT.NET.USER.ZS,29.9312292018213,2017.0,STP
+Sao Tome and Principe,STP,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,STP
+Saudi Arabia,SAU,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,1085.47,2018.0,SAU
+Saudi Arabia,SAU,Individuals using the Internet (% of population),IT.NET.USER.ZS,93.3100018480347,2018.0,SAU
+Saudi Arabia,SAU,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,134.65,2018.0,SAU
+Senegal,SEN,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.041650904321273,2018.0,SEN
+Senegal,SEN,Individuals using the Internet (% of population),IT.NET.USER.ZS,46.0,2017.0,SEN
+Senegal,SEN,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,129.0,2006.0,SEN
+Serbia,SRB,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,17.7117,2018.0,SRB
+Serbia,SRB,Individuals using the Internet (% of population),IT.NET.USER.ZS,73.360709154564,2018.0,SRB
+Serbia,SRB,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,377.0,2017.0,SRB
+Seychelles,SYC,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,7.792999999999999,2018.0,SYC
+Seychelles,SYC,Individuals using the Internet (% of population),IT.NET.USER.ZS,58.769811242531006,2017.0,SYC
+Seychelles,SYC,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,SYC
+Sierra Leone,SLE,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.0,2012.0,SLE
+Sierra Leone,SLE,Individuals using the Internet (% of population),IT.NET.USER.ZS,9.0,2017.0,SLE
+Sierra Leone,SLE,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,SLE
+Singapore,SGP,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,5194.90042,2018.0,SGP
+Singapore,SGP,Individuals using the Internet (% of population),IT.NET.USER.ZS,88.1656360313447,2018.0,SGP
+Singapore,SGP,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,SGP
+Sint Maarten (Dutch part),SXM,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,NaN,1960.0,SXM
+Sint Maarten (Dutch part),SXM,Individuals using the Internet (% of population),IT.NET.USER.ZS,NaN,1960.0,SXM
+Sint Maarten (Dutch part),SXM,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,SXM
+Slovak Republic,SVK,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.0,2013.0,SVK
+Slovak Republic,SVK,Individuals using the Internet (% of population),IT.NET.USER.ZS,80.660335563768,2018.0,SVK
+Slovak Republic,SVK,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,3815.147,2018.0,SVK
+Slovenia,SVN,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.54284,2018.0,SVN
+Slovenia,SVN,Individuals using the Internet (% of population),IT.NET.USER.ZS,79.74997659565621,2018.0,SVN
+Slovenia,SVN,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,655.88,2018.0,SVN
+Solomon Islands,SLB,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,3.842515754,2018.0,SLB
+Solomon Islands,SLB,Individuals using the Internet (% of population),IT.NET.USER.ZS,11.924229061968601,2017.0,SLB
+Solomon Islands,SLB,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,SLB
+Somalia,SOM,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,1.363692,2014.0,SOM
+Somalia,SOM,Individuals using the Internet (% of population),IT.NET.USER.ZS,2.00404869843096,2017.0,SOM
+Somalia,SOM,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,SOM
+South Africa,ZAF,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,716.246207899,2018.0,ZAF
+South Africa,ZAF,Individuals using the Internet (% of population),IT.NET.USER.ZS,56.1673944673383,2017.0,ZAF
+South Africa,ZAF,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,13864.979578,2007.0,ZAF
+South Sudan,SSD,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,NaN,1960.0,SSD
+South Sudan,SSD,Individuals using the Internet (% of population),IT.NET.USER.ZS,7.977428907160269,2017.0,SSD
+South Sudan,SSD,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,SSD
+Spain,ESP,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,1117.0697599999999,2018.0,ESP
+Spain,ESP,Individuals using the Internet (% of population),IT.NET.USER.ZS,86.10723552565908,2018.0,ESP
+Spain,ESP,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,27903.0,2018.0,ESP
+Sri Lanka,LKA,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,436.19800000000004,2018.0,LKA
+Sri Lanka,LKA,Individuals using the Internet (% of population),IT.NET.USER.ZS,34.1133478999619,2017.0,LKA
+Sri Lanka,LKA,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,7407.39,2015.0,LKA
+St. Kitts and Nevis,KNA,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,NaN,1960.0,KNA
+St. Kitts and Nevis,KNA,Individuals using the Internet (% of population),IT.NET.USER.ZS,80.710190808323,2017.0,KNA
+St. Kitts and Nevis,KNA,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,KNA
+St. Lucia,LCA,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,NaN,1960.0,LCA
+St. Lucia,LCA,Individuals using the Internet (% of population),IT.NET.USER.ZS,50.8152447764038,2017.0,LCA
+St. Lucia,LCA,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,LCA
+St. Martin (French part),MAF,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,NaN,1960.0,MAF
+St. Martin (French part),MAF,Individuals using the Internet (% of population),IT.NET.USER.ZS,NaN,1960.0,MAF
+St. Martin (French part),MAF,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,MAF
+St. Vincent and the Grenadines,VCT,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,NaN,1960.0,VCT
+St. Vincent and the Grenadines,VCT,Individuals using the Internet (% of population),IT.NET.USER.ZS,22.39426119213,2018.0,VCT
+St. Vincent and the Grenadines,VCT,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,VCT
+Sudan,SDN,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,5.6883385341,2017.0,SDN
+Sudan,SDN,Individuals using the Internet (% of population),IT.NET.USER.ZS,30.8702957284927,2017.0,SDN
+Sudan,SDN,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,81.5,2014.0,SDN
+Suriname,SUR,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,33.201,2018.0,SUR
+Suriname,SUR,Individuals using the Internet (% of population),IT.NET.USER.ZS,48.9451739738554,2017.0,SUR
+Suriname,SUR,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,SUR
+Sweden,SWE,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,256.51599999999996,2004.0,SWE
+Sweden,SWE,Individuals using the Internet (% of population),IT.NET.USER.ZS,92.1416770535508,2018.0,SWE
+Sweden,SWE,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,6339.0,2016.0,SWE
+Switzerland,CHE,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,1841.3139999999999,2018.0,CHE
+Switzerland,CHE,Individuals using the Internet (% of population),IT.NET.USER.ZS,89.68614767,2017.0,CHE
+Switzerland,CHE,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,17958.315,2018.0,CHE
+Syrian Arab Republic,SYR,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.0256386216924769,2018.0,SYR
+Syrian Arab Republic,SYR,Individuals using the Internet (% of population),IT.NET.USER.ZS,34.2534019252321,2017.0,SYR
+Syrian Arab Republic,SYR,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,1223.0,2013.0,SYR
+Tajikistan,TJK,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,2.3369999999999997,2018.0,TJK
+Tajikistan,TJK,Individuals using the Internet (% of population),IT.NET.USER.ZS,21.959999999615,2017.0,TJK
+Tajikistan,TJK,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,28.0,2017.0,TJK
+Tanzania,TZA,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.39264499999999997,2018.0,TZA
+Tanzania,TZA,Individuals using the Internet (% of population),IT.NET.USER.ZS,25.0,2017.0,TZA
+Tanzania,TZA,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,475.0,2006.0,TZA
+Thailand,THA,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,2666.2632559999997,2018.0,THA
+Thailand,THA,Individuals using the Internet (% of population),IT.NET.USER.ZS,56.8174809301456,2018.0,THA
+Thailand,THA,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,8032.0,2011.0,THA
+Timor-Leste,TLS,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,NaN,1960.0,TLS
+Timor-Leste,TLS,Individuals using the Internet (% of population),IT.NET.USER.ZS,27.4927317258886,2017.0,TLS
+Timor-Leste,TLS,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,TLS
+Togo,TGO,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,10.89276,2018.0,TGO
+Togo,TGO,Individuals using the Internet (% of population),IT.NET.USER.ZS,12.36022497,2017.0,TGO
+Togo,TGO,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,TGO
+Tonga,TON,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.03,2004.0,TON
+Tonga,TON,Individuals using the Internet (% of population),IT.NET.USER.ZS,41.248727643705,2017.0,TON
+Tonga,TON,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,TON
+Trinidad and Tobago,TTO,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,41.138000000000005,2018.0,TTO
+Trinidad and Tobago,TTO,Individuals using the Internet (% of population),IT.NET.USER.ZS,77.3260529262867,2017.0,TTO
+Trinidad and Tobago,TTO,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,TTO
+Tunisia,TUN,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,13.234264999999999,2018.0,TUN
+Tunisia,TUN,Individuals using the Internet (% of population),IT.NET.USER.ZS,64.1908102327387,2018.0,TUN
+Tunisia,TUN,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,1164.0,2017.0,TUN
+Turkey,TUR,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,5949.212205544,2018.0,TUR
+Turkey,TUR,Individuals using the Internet (% of population),IT.NET.USER.ZS,71.0427610728292,2018.0,TUR
+Turkey,TUR,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,5560.0,2018.0,TUR
+Turkmenistan,TKM,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,16.916,2018.0,TKM
+Turkmenistan,TKM,Individuals using the Internet (% of population),IT.NET.USER.ZS,21.250997410369102,2017.0,TKM
+Turkmenistan,TKM,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,2340.0,2017.0,TKM
+Turks and Caicos Islands,TCA,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,NaN,1960.0,TCA
+Turks and Caicos Islands,TCA,Individuals using the Internet (% of population),IT.NET.USER.ZS,0.0,1990.0,TCA
+Turks and Caicos Islands,TCA,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,TCA
+Tuvalu,TUV,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,NaN,1960.0,TUV
+Tuvalu,TUV,Individuals using the Internet (% of population),IT.NET.USER.ZS,49.3183386210322,2017.0,TUV
+Tuvalu,TUV,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,TUV
+Uganda,UGA,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.02300256,2016.0,UGA
+Uganda,UGA,Individuals using the Internet (% of population),IT.NET.USER.ZS,23.706530910614198,2017.0,UGA
+Uganda,UGA,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,UGA
+Ukraine,UKR,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,75.26435,2018.0,UKR
+Ukraine,UKR,Individuals using the Internet (% of population),IT.NET.USER.ZS,62.553155393386895,2018.0,UKR
+Ukraine,UKR,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,28001.0,2017.0,UKR
+United Arab Emirates,ARE,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,15962.90443,2018.0,ARE
+United Arab Emirates,ARE,Individuals using the Internet (% of population),IT.NET.USER.ZS,98.4500017817194,2018.0,ARE
+United Arab Emirates,ARE,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,ARE
+United Kingdom,GBR,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,6198.368,2018.0,GBR
+United Kingdom,GBR,Individuals using the Internet (% of population),IT.NET.USER.ZS,94.8967417605954,2018.0,GBR
+United Kingdom,GBR,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,2900.0,2015.0,GBR
+United States,USA,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,42985.295216000006,2018.0,USA
+United States,USA,Individuals using the Internet (% of population),IT.NET.USER.ZS,87.2661128245915,2017.0,USA
+United States,USA,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,10239.3922,2018.0,USA
+Uruguay,URY,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,3.758,2009.0,URY
+Uruguay,URY,Individuals using the Internet (% of population),IT.NET.USER.ZS,74.7671347261997,2018.0,URY
+Uruguay,URY,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,8.0,2015.0,URY
+Uzbekistan,UZB,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,89.43028000000001,2018.0,UZB
+Uzbekistan,UZB,Individuals using the Internet (% of population),IT.NET.USER.ZS,55.2,2018.0,UZB
+Uzbekistan,UZB,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,4294.0,2017.0,UZB
+Vanuatu,VUT,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,1.663,2018.0,VUT
+Vanuatu,VUT,Individuals using the Internet (% of population),IT.NET.USER.ZS,25.719787835664,2017.0,VUT
+Vanuatu,VUT,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,VUT
+"Venezuela, RB",VEN,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,1.55129090921201,2018.0,VEN
+"Venezuela, RB",VEN,Individuals using the Internet (% of population),IT.NET.USER.ZS,72.0,2017.0,VEN
+"Venezuela, RB",VEN,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,12.0,1995.0,VEN
+Vietnam,VNM,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,481.369978997868,2018.0,VNM
+Vietnam,VNM,Individuals using the Internet (% of population),IT.NET.USER.ZS,70.3496355762121,2018.0,VNM
+Vietnam,VNM,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,3542.0,2018.0,VNM
+Virgin Islands (U.S.),VIR,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,NaN,1960.0,VIR
+Virgin Islands (U.S.),VIR,Individuals using the Internet (% of population),IT.NET.USER.ZS,64.3774942980087,2017.0,VIR
+Virgin Islands (U.S.),VIR,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,VIR
+West Bank and Gaza,PSE,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,NaN,1960.0,PSE
+West Bank and Gaza,PSE,Individuals using the Internet (% of population),IT.NET.USER.ZS,64.3999937114499,2018.0,PSE
+West Bank and Gaza,PSE,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,PSE
+"Yemen, Rep.",YEM,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,3.27,2018.0,YEM
+"Yemen, Rep.",YEM,Individuals using the Internet (% of population),IT.NET.USER.ZS,26.718354766297697,2017.0,YEM
+"Yemen, Rep.",YEM,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,YEM
+Zambia,ZMB,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,75.077397732,2018.0,ZMB
+Zambia,ZMB,Individuals using the Internet (% of population),IT.NET.USER.ZS,14.2999970950012,2018.0,ZMB
+Zambia,ZMB,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,186.0,1999.0,ZMB
+Zimbabwe,ZWE,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,0.6650353170000001,2018.0,ZWE
+Zimbabwe,ZWE,Individuals using the Internet (% of population),IT.NET.USER.ZS,27.0554876878336,2017.0,ZWE
+Zimbabwe,ZWE,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,NaN,1960.0,ZWE
