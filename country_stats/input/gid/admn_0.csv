@@ -1,0 +1,257 @@
+country,countrycode,countrycode_alpha2,adm_level,adm_area_1,adm_area_1_code,adm_area_2,adm_area_2_code,adm_area_3,adm_area_3_code,gid
+Aruba,ABW,AW,0,,,,,,,ABW
+Anguilla,AIA,AI,0,,,,,,,AIA
+Palestina,PSE,PS,0,,,,,,,PSE
+Cyprus,CYP,CY,0,,,,,,,CYP
+Micronesia,FSM,FM,0,,,,,,,FSM
+French Guiana,GUF,GF,0,,,,,,,GUF
+Guam,GUM,GU,0,,,,,,,GUM
+Albania,ALB,AL,0,,,,,,,ALB
+Åland,ALA,AX,0,,,,,,,ALA
+Andorra,AND,AD,0,,,,,,,AND
+Afghanistan,AFG,AF,0,,,,,,,AFG
+Angola,AGO,AO,0,,,,,,,AGO
+United Arab Emirates,ARE,AE,0,,,,,,,ARE
+Argentina,ARG,AR,0,,,,,,,ARG
+Armenia,ARM,AM,0,,,,,,,ARM
+American Samoa,ASM,AS,0,,,,,,,ASM
+Antarctica,ATA,AQ,0,,,,,,,ATA
+Malawi,MWI,MW,0,,,,,,,MWI
+French Southern Territories,ATF,TF,0,,,,,,,ATF
+Antigua and Barbuda,ATG,AG,0,,,,,,,ATG
+Australia,AUS,AU,0,,,,,,,AUS
+Austria,AUT,AT,0,,,,,,,AUT
+Malaysia,MYS,MY,0,,,,,,,MYS
+Mayotte,MYT,YT,0,,,,,,,MYT
+Azerbaijan,AZE,AZ,0,,,,,,,AZE
+Burundi,BDI,BI,0,,,,,,,BDI
+Belgium,BEL,BE,0,,,,,,,BEL
+Benin,BEN,BJ,0,,,,,,,BEN
+"Bonaire, Sint Eustatius and Saba",BES,BQ,0,,,,,,,BES
+Burkina Faso,BFA,BF,0,,,,,,,BFA
+Bangladesh,BGD,BD,0,,,,,,,BGD
+Bulgaria,BGR,BG,0,,,,,,,BGR
+Bahrain,BHR,BH,0,,,,,,,BHR
+Czech Republic,CZE,CZ,0,,,,,,,CZE
+Germany,DEU,DE,0,,,,,,,DEU
+Bahamas,BHS,BS,0,,,,,,,BHS
+Bosnia and Herzegovina,BIH,BA,0,,,,,,,BIH
+Djibouti,DJI,DJ,0,,,,,,,DJI
+Dominica,DMA,DM,0,,,,,,,DMA
+Denmark,DNK,DK,0,,,,,,,DNK
+Saint-Barthélemy,BLM,BL,0,,,,,,,BLM
+Nauru,NRU,NR,0,,,,,,,NRU
+Belarus,BLR,BY,0,,,,,,,BLR
+Belize,BLZ,BZ,0,,,,,,,BLZ
+Bermuda,BMU,BM,0,,,,,,,BMU
+Botswana,BWA,BW,0,,,,,,,BWA
+New Zealand,NZL,NZ,0,,,,,,,NZL
+Bolivia,BOL,BO,0,,,,,,,BOL
+Brazil,BRA,BR,0,,,,,,,BRA
+Barbados,BRB,BB,0,,,,,,,BRB
+Brunei,BRN,BN,0,,,,,,,BRN
+Bhutan,BTN,BT,0,,,,,,,BTN
+Bouvet Island,BVT,BV,0,,,,,,,BVT
+Comoros,COM,KM,0,,,,,,,COM
+Central African Republic,CAF,CF,0,,,,,,,CAF
+Canada,CAN,CA,0,,,,,,,CAN
+Cocos Islands,CCK,CC,0,,,,,,,CCK
+Switzerland,CHE,CH,0,,,,,,,CHE
+Chile,CHL,CL,0,,,,,,,CHL
+China,CHN,CN,0,,,,,,,CHN
+Cape Verde,CPV,CV,0,,,,,,,CPV
+Côte d'Ivoire,CIV,CI,0,,,,,,,CIV
+Cameroon,CMR,CM,0,,,,,,,CMR
+Democratic Republic of the Congo,COD,CD,0,,,,,,,COD
+Suriname,SUR,SR,0,,,,,,,SUR
+Republic of Congo,COG,CG,0,,,,,,,COG
+Cook Islands,COK,CK,0,,,,,,,COK
+Costa Rica,CRI,CR,0,,,,,,,CRI
+Dominican Republic,DOM,DO,0,,,,,,,DOM
+Colombia,COL,CO,0,,,,,,,COL
+Cuba,CUB,CU,0,,,,,,,CUB
+Curaçao,CUW,CW,0,,,,,,,CUW
+Christmas Island,CXR,CX,0,,,,,,,CXR
+Cayman Islands,CYM,KY,0,,,,,,,CYM
+Algeria,DZA,DZ,0,,,,,,,DZA
+Ecuador,ECU,EC,0,,,,,,,ECU
+Egypt,EGY,EG,0,,,,,,,EGY
+Eritrea,ERI,ER,0,,,,,,,ERI
+Western Sahara,ESH,EH,0,,,,,,,ESH
+Spain,ESP,ES,0,,,,,,,ESP
+Estonia,EST,EE,0,,,,,,,EST
+Ethiopia,ETH,ET,0,,,,,,,ETH
+Faroe Islands,FRO,FO,0,,,,,,,FRO
+Finland,FIN,FI,0,,,,,,,FIN
+Fiji,FJI,FJ,0,,,,,,,FJI
+Falkland Islands,FLK,FK,0,,,,,,,FLK
+France,FRA,FR,0,,,,,,,FRA
+Gabon,GAB,GA,0,,,,,,,GAB
+United Kingdom,GBR,GB,0,,,,,,,GBR
+Georgia,GEO,GE,0,,,,,,,GEO
+Guernsey,GGY,GG,0,,,,,,,GGY
+Ghana,GHA,GH,0,,,,,,,GHA
+Gibraltar,GIB,GI,0,,,,,,,GIB
+Guyana,GUY,GY,0,,,,,,,GUY
+Hong Kong,HKG,HK,0,,,,,,,HKG
+Heard Island and McDonald Islands,HMD,HM,0,,,,,,,HMD
+Guinea,GIN,GN,0,,,,,,,GIN
+Guadeloupe,GLP,GP,0,,,,,,,GLP
+Gambia,GMB,GM,0,,,,,,,GMB
+Slovakia,SVK,SK,0,,,,,,,SVK
+Guinea-Bissau,GNB,GW,0,,,,,,,GNB
+Equatorial Guinea,GNQ,GQ,0,,,,,,,GNQ
+Greece,GRC,GR,0,,,,,,,GRC
+Grenada,GRD,GD,0,,,,,,,GRD
+Greenland,GRL,GL,0,,,,,,,GRL
+Guatemala,GTM,GT,0,,,,,,,GTM
+Honduras,HND,HN,0,,,,,,,HND
+Haiti,HTI,HT,0,,,,,,,HTI
+Hungary,HUN,HU,0,,,,,,,HUN
+Indonesia,IDN,ID,0,,,,,,,IDN
+Isle of Man,IMN,IM,0,,,,,,,IMN
+India,IND,IN,0,,,,,,,IND
+British Indian Ocean Territory,IOT,IO,0,,,,,,,IOT
+Croatia,HRV,HR,0,,,,,,,HRV
+Jordan,JOR,JO,0,,,,,,,JOR
+Japan,JPN,JP,0,,,,,,,JPN
+Kazakhstan,KAZ,KZ,0,,,,,,,KAZ
+Ireland,IRL,IE,0,,,,,,,IRL
+Iran,IRN,IR,0,,,,,,,IRN
+Iraq,IRQ,IQ,0,,,,,,,IRQ
+Iceland,ISL,IS,0,,,,,,,ISL
+Israel,ISR,IL,0,,,,,,,ISR
+Italy,ITA,IT,0,,,,,,,ITA
+Jamaica,JAM,JM,0,,,,,,,JAM
+Jersey,JEY,JE,0,,,,,,,JEY
+Kenya,KEN,KE,0,,,,,,,KEN
+Kyrgyzstan,KGZ,KG,0,,,,,,,KGZ
+Slovenia,SVN,SI,0,,,,,,,SVN
+Cambodia,KHM,KH,0,,,,,,,KHM
+Kiribati,KIR,KI,0,,,,,,,KIR
+Saint Kitts and Nevis,KNA,KN,0,,,,,,,KNA
+Libya,LBY,LY,0,,,,,,,LBY
+Saint Lucia,LCA,LC,0,,,,,,,LCA
+Liechtenstein,LIE,LI,0,,,,,,,LIE
+Sweden,SWE,SE,0,,,,,,,SWE
+South Korea,KOR,KR,0,,,,,,,KOR
+Kuwait,KWT,KW,0,,,,,,,KWT
+Laos,LAO,LA,0,,,,,,,LAO
+Lebanon,LBN,LB,0,,,,,,,LBN
+Liberia,LBR,LR,0,,,,,,,LBR
+Macedonia,MKD,MK,0,,,,,,,MKD
+Sri Lanka,LKA,LK,0,,,,,,,LKA
+Lesotho,LSO,LS,0,,,,,,,LSO
+Lithuania,LTU,LT,0,,,,,,,LTU
+Luxembourg,LUX,LU,0,,,,,,,LUX
+Latvia,LVA,LV,0,,,,,,,LVA
+Swaziland,SWZ,SZ,0,,,,,,,SWZ
+Sint Maarten,SXM,SX,0,,,,,,,SXM
+Macao,MAC,MO,0,,,,,,,MAC
+Saint-Martin,MAF,MF,0,,,,,,,MAF
+Morocco,MAR,MA,0,,,,,,,MAR
+Monaco,MCO,MC,0,,,,,,,MCO
+Moldova,MDA,MD,0,,,,,,,MDA
+Mauritania,MRT,MR,0,,,,,,,MRT
+Montserrat,MSR,MS,0,,,,,,,MSR
+Madagascar,MDG,MG,0,,,,,,,MDG
+Maldives,MDV,MV,0,,,,,,,MDV
+Mexico,MEX,MX,0,,,,,,,MEX
+Marshall Islands,MHL,MH,0,,,,,,,MHL
+Mali,MLI,ML,0,,,,,,,MLI
+Malta,MLT,MT,0,,,,,,,MLT
+Myanmar,MMR,MM,0,,,,,,,MMR
+Montenegro,MNE,ME,0,,,,,,,MNE
+Martinique,MTQ,MQ,0,,,,,,,MTQ
+Mauritius,MUS,MU,0,,,,,,,MUS
+Seychelles,SYC,SC,0,,,,,,,SYC
+Mongolia,MNG,MN,0,,,,,,,MNG
+Northern Mariana Islands,MNP,MP,0,,,,,,,MNP
+Mozambique,MOZ,MZ,0,,,,,,,MOZ
+Syria,SYR,SY,0,,,,,,,SYR
+Namibia,NAM,NaN,0,,,,,,,NAM
+New Caledonia,NCL,NC,0,,,,,,,NCL
+Niger,NER,NE,0,,,,,,,NER
+Norfolk Island,NFK,NF,0,,,,,,,NFK
+Nigeria,NGA,NG,0,,,,,,,NGA
+Nicaragua,NIC,NI,0,,,,,,,NIC
+Niue,NIU,NU,0,,,,,,,NIU
+Netherlands,NLD,NL,0,,,,,,,NLD
+Norway,NOR,NO,0,,,,,,,NOR
+Nepal,NPL,NP,0,,,,,,,NPL
+Oman,OMN,OM,0,,,,,,,OMN
+Pakistan,PAK,PK,0,,,,,,,PAK
+Panama,PAN,PA,0,,,,,,,PAN
+Pitcairn Islands,PCN,PN,0,,,,,,,PCN
+Peru,PER,PE,0,,,,,,,PER
+Philippines,PHL,PH,0,,,,,,,PHL
+Palau,PLW,PW,0,,,,,,,PLW
+Papua New Guinea,PNG,PG,0,,,,,,,PNG
+Poland,POL,PL,0,,,,,,,POL
+Puerto Rico,PRI,PR,0,,,,,,,PRI
+Portugal,PRT,PT,0,,,,,,,PRT
+North Korea,PRK,KP,0,,,,,,,PRK
+Paraguay,PRY,PY,0,,,,,,,PRY
+French Polynesia,PYF,PF,0,,,,,,,PYF
+Qatar,QAT,QA,0,,,,,,,QAT
+Reunion,REU,RE,0,,,,,,,REU
+Turks and Caicos Islands,TCA,TC,0,,,,,,,TCA
+Romania,ROU,RO,0,,,,,,,ROU
+Russia,RUS,RU,0,,,,,,,RUS
+Rwanda,RWA,RW,0,,,,,,,RWA
+Sudan,SDN,SD,0,,,,,,,SDN
+Tuvalu,TUV,TV,0,,,,,,,TUV
+Saudi Arabia,SAU,SA,0,,,,,,,SAU
+Sierra Leone,SLE,SL,0,,,,,,,SLE
+Senegal,SEN,SN,0,,,,,,,SEN
+Singapore,SGP,SG,0,,,,,,,SGP
+South Georgia and the South Sandwich Islands,SGS,GS,0,,,,,,,SGS
+Saint Helena,SHN,SH,0,,,,,,,SHN
+El Salvador,SLV,SV,0,,,,,,,SLV
+San Marino,SMR,SM,0,,,,,,,SMR
+Svalbard and Jan Mayen,SJM,SJ,0,,,,,,,SJM
+Solomon Islands,SLB,SB,0,,,,,,,SLB
+São Tomé and Príncipe,STP,ST,0,,,,,,,STP
+Somalia,SOM,SO,0,,,,,,,SOM
+Saint Pierre and Miquelon,SPM,PM,0,,,,,,,SPM
+Serbia,SRB,RS,0,,,,,,,SRB
+South Sudan,SSD,SS,0,,,,,,,SSD
+Chad,TCD,TD,0,,,,,,,TCD
+Togo,TGO,TG,0,,,,,,,TGO
+Thailand,THA,TH,0,,,,,,,THA
+Tajikistan,TJK,TJ,0,,,,,,,TJK
+Tokelau,TKL,TK,0,,,,,,,TKL
+Turkmenistan,TKM,TM,0,,,,,,,TKM
+Timor-Leste,TLS,TL,0,,,,,,,TLS
+Tonga,TON,TO,0,,,,,,,TON
+Trinidad and Tobago,TTO,TT,0,,,,,,,TTO
+Tunisia,TUN,TN,0,,,,,,,TUN
+Taiwan,TWN,TW,0,,,,,,,TWN
+Uruguay,URY,UY,0,,,,,,,URY
+United States,USA,US,0,,,,,,,USA
+Turkey,TUR,TR,0,,,,,,,TUR
+Tanzania,TZA,TZ,0,,,,,,,TZA
+Uganda,UGA,UG,0,,,,,,,UGA
+Ukraine,UKR,UA,0,,,,,,,UKR
+United States Minor Outlying Islands,UMI,UM,0,,,,,,,UMI
+British Virgin Islands,VGB,VG,0,,,,,,,VGB
+"Virgin Islands, U.S.",VIR,VI,0,,,,,,,VIR
+Uzbekistan,UZB,UZ,0,,,,,,,UZB
+Vatican City,VAT,VA,0,,,,,,,VAT
+Saint Vincent and the Grenadines,VCT,VC,0,,,,,,,VCT
+Venezuela,VEN,VE,0,,,,,,,VEN
+Vietnam,VNM,VN,0,,,,,,,VNM
+Vanuatu,VUT,VU,0,,,,,,,VUT
+Wallis and Futuna,WLF,WF,0,,,,,,,WLF
+Samoa,WSM,WS,0,,,,,,,WSM
+Akrotiri and Dhekelia,XAD,NaN,0,,,,,,,XAD
+Spratly Islands,XSP,NaN,0,,,,,,,XSP
+Caspian Sea,XCA,NaN,0,,,,,,,XCA
+Clipperton Island,XCL,NaN,0,,,,,,,XCL
+Kosovo,XKO,NaN,0,,,,,,,XKO
+Northern Cyprus,XNC,NaN,0,,,,,,,XNC
+Paracel Islands,XPI,NaN,0,,,,,,,XPI
+Yemen,YEM,YE,0,,,,,,,YEM
+Zambia,ZMB,ZM,0,,,,,,,ZMB
+South Africa,ZAF,ZA,0,,,,,,,ZAF
+Zimbabwe,ZWE,ZW,0,,,,,,,ZWE

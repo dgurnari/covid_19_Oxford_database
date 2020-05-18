@@ -2,3 +2,4 @@
 .DS_Store
 *.ipynb
 country_stats/Integrated Value Survey/input/Integrated_data.csv
+country_stats/input/IVS/Integrated_data.csv
