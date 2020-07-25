@@ -1,30 +1,6 @@
 # covid_19_Oxford_database
 # COUNTRY STATISTICS
 
-The country_statistics table contains data from two different source: the Word Bank and the Integrated Value Survey. The original dataset are very different so a bit of preprocessing is needed.
-
-
-# WORD BANK
-## Fetcher
-
-We load the entire dataset "WDIData.csv" either from the World Bank website or from a local file.
-Slice it keeping only the the rows relative to the indicators in <indicators.csv> and for each row keeps only the most recent value and its year.
-
-The resulting table has the following columns\
-Country Name, Country Code, Indicator Name, Indicator Code, Most Recent Value, Year
-
-Note: in the "WDIData.csv" dataset there are not only single countries but also groups of them such as Arab World and European Union. Since thoose region do not have a GID we drop them.
-
-
-## what about the world bank APIs
-Downloading the entire dataset seems to be the easiest way to go, but the Worlds Bank has its own API to query the dataset. Moreover there is a python wrapper of such APIs
-https://wbdata.readthedocs.io/en/stable/index.html
-the wbdata.get_dataframe method returns takes as input a dictionary of indicators and returns a multi-index (country, year) pandas dataframe which makes the slicing more complicated
-
-
-
-
-
 # Integrated Value Survey
 
 ## About the Integrated Values Survey and data fetching
@@ -56,19 +32,18 @@ In the same two notebooks we also associated to each country/region its GID code
 Because of this our database contains the full IVS data aggregated by country and a subset of it (the most recent and important one) aggregated by region.
 
 # COUNTRY STATISTICS TABLE
-In order to be able to insert in the same table data from WB and IVS we aggregated the WB data by country. For each country we constructed a "properties" dictionary that contains all its indicators.\
 
 The country_statistics table has the following columns:\
 
-| source | year| country | countrycode | adm_level | gid | samplesize | properties | \
-
-- source: can be WVS, EVS, WB;
-- year: is 2020 for WB data, the wave period for IVS data;
-- country: name of the country in English;
-- countrycode: alpha-3 ISO code of the country;
-- adm_level: level of the aggregation, 0 for WB and IVS by country, 1 for IVS by region;
-- gid: array of GADM identifiers for the considered country/region;
-- samplesize: number of questions for IVS data, -1 for WB;
-- properties: the dictionaries described above. \
+source |	varchar	| Data source of the survey
+wave |	varchar |	Wave period of the survey
+gid |	array	| Unique geographical ID, for more details see gadm.org
+country |	varchar |	English name for the country
+countrycode |	varchar |	ISO 3166-1 alpha-3 country codes
+adm_area_1 |	varchar |	Level-1 administrative country subdivision
+adm_area_2 |	varchar |	Level-2 administrative country subdivision
+adm_area_3 |	varchar |	Level-3 administrative country subdivision
+samplesize |	int |	Number of people that took part in the survey
+properties |	dict |	Dictionary containing the region/country statistics.
 
 The user must be aware that the dictionaries found in "properties" will have different structures depending on the source.   
