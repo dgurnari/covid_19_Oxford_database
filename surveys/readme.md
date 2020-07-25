@@ -35,11 +35,11 @@ Because of this our database contains the full IVS data aggregated by country an
 
 The country_statistics table has the following columns:\
 
-source |	varchar	| Data source of the survey
-wave |	varchar |	Wave period of the survey
-gid |	array	| Unique geographical ID, for more details see gadm.org
-country |	varchar |	English name for the country
-countrycode |	varchar |	ISO 3166-1 alpha-3 country codes
+source |	varchar	| Data source of the survey \
+wave |	varchar |	Wave period of the survey \
+gid |	array	| Unique geographical ID, for more details see gadm.org \
+country |	varchar |	English name for the country \
+countrycode |	varchar |	ISO 3166-1 alpha-3 country codes \
 adm_area_1 |	varchar |	Level-1 administrative country subdivision
 adm_area_2 |	varchar |	Level-2 administrative country subdivision
 adm_area_3 |	varchar |	Level-3 administrative country subdivision
