@@ -40,10 +40,10 @@ wave |	varchar |	Wave period of the survey \
 gid |	array	| Unique geographical ID, for more details see gadm.org \
 country |	varchar |	English name for the country \
 countrycode |	varchar |	ISO 3166-1 alpha-3 country codes \
-adm_area_1 |	varchar |	Level-1 administrative country subdivision
-adm_area_2 |	varchar |	Level-2 administrative country subdivision
-adm_area_3 |	varchar |	Level-3 administrative country subdivision
-samplesize |	int |	Number of people that took part in the survey
-properties |	dict |	Dictionary containing the region/country statistics.
+adm_area_1 |	varchar |	Level-1 administrative country subdivision \
+adm_area_2 |	varchar |	Level-2 administrative country subdivision \
+adm_area_3 |	varchar |	Level-3 administrative country subdivision \
+samplesize |	int |	Number of people that took part in the survey \
+properties |	dict |	Dictionary containing the region/country statistics. \
 
 The user must be aware that the dictionaries found in "properties" will have different structures depending on the source.   
