@@ -1,5 +1,5 @@
 # covid_19_Oxford_database
-# COUNTRY STATISTICS
+# SURVEYS TABLE
 
 # Integrated Value Survey
 
@@ -31,9 +31,9 @@ As an effect of the one hot encoding the resulting table has more than 15000 row
 In the same two notebooks we also associated to each country/region its GID code. This procedure is immediate for data at the country level (the GID is the ISO3 code of the country), but it is not when considering regions. The region codes used in the IVS vary from country to country and they often do not match the GADM regions at a particular level. We manually matched the IVS region to one or more GADM codes only for the 35 most important countries (see borda count table) and for each country we only considered its most recent survey. The resulting dictionary can be found in the folder "/gid".\
 Because of this our database contains the full IVS data aggregated by country and a subset of it (the most recent and important one) aggregated by region.
 
-# COUNTRY STATISTICS TABLE
+# TABLE SCHEMA
 
-The country_statistics table has the following columns:\
+The SURVEYS table has the following columns:\
 
 source |	varchar	| Data source of the survey \
 wave |	varchar |	Wave period of the survey \
