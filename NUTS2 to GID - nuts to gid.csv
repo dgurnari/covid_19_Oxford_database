@@ -1,0 +1,109 @@
+countrycode,adm_area_1,adm_area_2,adm_area_3,nuts,gid
+ITA,Abruzzo,,,ITF1,ITA.1_1
+ITA,Apulia,,,ITF5,ITA.3_1
+ITA,Basilicata,,,ITH1,ITA.17.1_1
+ITA,Bolzano,,,ITF6,ITA.4_1
+ITA,Calabria,,,ITF3,ITA.5_1
+ITA,Campania,,,ITH5,ITA.6_1
+ITA,Emilia-Romagna,,,ITH4,ITA.7_1
+ITA,Friuli-Venezia Giulia,,,ITI4,ITA.8_1
+ITA,Lazio,,,ITC3,ITA.9_1
+ITA,Liguria,,,ITC4,ITA.10_1
+ITA,Lombardia,,,ITI3,ITA.11_1
+ITA,Marche,,,ITF2,ITA.12_1
+ITA,Molise,,,ITC1,ITA.13_1
+ITA,Piemonte,,,ITF4,ITA.2_1
+ITA,Sardegna,,,ITG2,ITA.14_1
+ITA,Sicily,,,ITG1,ITA.15_1
+ITA,Toscana,,,ITI1,ITA.16_1
+ITA,Trento,,,ITH2,ITA.17.2_1
+ITA,Umbria,,,ITI2,ITA.18_1
+ITA,Valle d'Aosta,,,ITC2,ITA.19_1
+ITA,Veneto,,,ITH3,ITA.20_1
+BEL,Brussels,Brussels,,BE10,BEL.1.1_1
+BEL,Flanders,Antwerpen,,BE21,BEL.2.1_1
+BEL,Flanders,Limburg,,BE22,BEL.2.2_1
+BEL,Flanders,OostVlaanderen,,BE23,BEL.2.3_1
+BEL,Flanders,VlaamsBrabant,,BE24,BEL.2.4_1
+BEL,Flanders,WestVlaanderen,,BE25,BEL.2.5_1
+BEL,Wallonia,BrabantWallon,,BE31,BEL.3.1_1
+BEL,Wallonia,Hainaut,,BE32,BEL.3.2_1
+BEL,Wallonia,Liège,,BE33,BEL.3.3_1
+BEL,Wallonia,Luxembourg,,BE34,BEL.3.4_1
+BEL,Wallonia,Namur,,BE35,BEL.3.5_1
+DEU,Baden-Württemberg,,,DE1,DEU.1_1
+DEU,Bayern,,,DE2,DEU.2_1
+DEU,Berlin,,,DE3,DEU.3_1
+DEU,Brandenburg,,,DE4,DEU.4_1
+DEU,Bremen,,,DE5,DEU.5_1
+DEU,Hamburg,,,DE6,DEU.6_1
+DEU,Hessen,,,DE7,DEU.7_1
+DEU,Mecklenburg-Vorpommern,,,DE8,DEU.8_1
+DEU,Niedersachsen,,,DE9,DEU.9_1
+DEU,Nordrhein-Westfalen,,,DEA,DEU.10_1
+DEU,Rheinland-Pfalz,,,DEB,DEU.11_1
+DEU,Saarland,,,DEC,DEU.12_1
+DEU,Sachsen,,,DED,DEU.14_1
+DEU,Sachsen-Anhalt,,,DEE,DEU.13_1
+DEU,Schleswig-Holstein,,,DEF,DEU.15_1
+DEU,Thüringen,,,DEG,DEU.16_1
+ESP,Andalucía,,,ES61,ESP.1_1
+ESP,Aragón,,,ES24,ESP.2_1
+ESP,Cantabria,,,ES13,ESP.3_1
+ESP,Castilla-La Mancha,,,ES42,ESP.4_1
+ESP,Castilla y León,,,ES41,ESP.5_1
+ESP,Cataluña,,,ES51,ESP.6_1
+ESP,Ceuta,,,ES63,ESP.7.1_1
+ESP,Melilla,,,ES64,ESP.7.2_1
+ESP,Comunidad de Madrid,,,ES30,ESP.8_1
+ESP,Comunidad Foral de Navarra,,,ES22,ESP.9_1
+ESP,Comunidad Valenciana,,,ES52,ESP.10_1
+ESP,Extremadura,,,ES43,ESP.11_1
+ESP,Galicia,,,ES11,ESP.12_1
+ESP,Islas Baleares,,,ES53,ESP.13_1
+ESP,Islas Canarias,,,ES70,ESP.14_1
+ESP,La Rioja,,,ES23,ESP.15_1
+ESP,País Vasco,,,ES21,ESP.16_1
+ESP,Principado de Asturias,,,ES12,ESP.17_1
+ESP,Región de Murcia,,,ES62,ESP.18_1
+FRA,Auvergne-Rhône-Alpes,,,FRK,FRA.1_1
+FRA,Bourgogne-Franche-Comté,,,FRC,FRA.2_1
+FRA,Bretagne,,,FRH,FRA.3_1
+FRA,Centre-Val de Loire,,,FRB,FRA.4_1
+FRA,Corse,,,FRM,FRA.5_1
+FRA,Grand Est,,,FRF,FRA.6_1
+FRA,Hauts-de-France,,,FRE,FRA.7_1
+FRA,Île-de-France,,,FR1,FRA.8_1
+FRA,Normandie,,,FRD,FRA.9_1
+FRA,Nouvelle-Aquitaine,,,FRI,FRA.10_1
+FRA,Occitanie,,,FRJ,FRA.11_1
+FRA,Pays de la Loire,,,FRG,FRA.12_1
+FRA,Provence-Alpes-Côte d'Azur,,,FRL,FRA.13_1
+PRT,Norte,,,PT11,PRT.1.4_1:PRT.1.6_1:PRT.1.7_1:PRT.1.15_1:PRT.1.12_1:PRT.1.16_1:PRT.1.19_1:PRT.4_1:PRT.5_1:PRT.10.14_1:PRT.15_1:PRT.18_1:PRT.19_1:PRT.20.1_1:PRT.20.4_1:PRT.20.5_1:PRT.20.7_1:PRT.20.12_1:PRT.20.13_1:PRT.20.15_1:PRT.20.18_1:PRT.20.19_1:PRT.20.20_1
+PRT,Centro,,,PT16,PRT.1.1_1:PRT.1.2_1:PRT.1.3_1:PRT.1.5_1:PRT.1.8_1:PRT.1.9_1:PRT.1.10_1:PRT.1.11_1:PRT.1.13_1:PRT.1.14_1:PRT.1.17_1:PRT.1.18_1:PRT.6.1_1:PRT.6.2_1:PRT.6.3_1:PRT.6.4_1:PRT.6.5_1:PRT.6.6_1:PRT.6.7_1:PRT.6.8_1:PRT.6.11_1:PRT.7_1:PRT.10.1_1:PRT.10.2_1:PRT.10.3_1:PRT.10.4_1:PRT.10.5_1:PRT.10.6_1:PRT.10.7_1:PRT.10.8_1:PRT.10.9_1:PRT.10.10_1:PRT.10.11_1:PRT.10.12_1:PRT.10.13_1:PRT.11.2_1:PRT.11.3_1:PRT.11.4_1:PRT.11.7_1:PRT.11.8_1:PRT.11.9_1:PRT.11.10_1:PRT.11.13_1:PRT.11.15_1:PRT.11.16_1:PRT.20.2_1:PRT.20.3_1:PRT.20.6_1:PRT.20.8_1:PRT.20.9_1:PRT.20.10_1:PRT.20.11_1:PRT.20.14_1:PRT.20.16_1:PRT.20.17_1:PRT.20.21_1:PRT.20.22_1:PRT.20.23_1:PRT.20.24_1
+PRT,ARS Lisboa e Vale do Tejo,,,PT17,PRT.6.9_1:PRT.6.10_1:PRT.11.1_1:PRT.11.5_1:PRT.11.6_1:PRT.11.11_1:PRT.11.12_1:PRT.11.14_1:PRT.12_1:PRT.16_1:PRT.17.2_1:PRT.17.3_1:PRT.17.4_1:PRT.17.6_1:PRT.17.7_1:PRT.17.8_1:PRT.17.10_1:PRT.17.11_1:PRT.17.12_1
+PRT,Alentejo,,,PT18,PRT.3_1:PRT.8_1:PRT.14_1:PRT.17.1_1:PRT.17.5_1:PRT.17.9_1:PRT.17.13_1
+PRT,Algarve,,,PT15,PRT.9_1
+PRT,Azores,,,PT20,PRT.2_1
+PRT,Madeira,,,PT30,PRT.13_1
+SWE,Blekinge,,,SE221,[SWE.1_1]
+SWE,Dalarna,,,SE312,[SWE.2_1]
+SWE,Gävleborg,,,SE313,[SWE.3_1]
+SWE,Gotland,,,SE214,[SWE.4_1]
+SWE,Halland,,,SE231,[SWE.5_1]
+SWE,Jämtland,,,SE322,[SWE.6_1]
+SWE,Jönköping,,,SE211,[SWE.7_1]
+SWE,Kalmar,,,SE213,[SWE.8_1]
+SWE,Kronoberg,,,SE212,[SWE.9_1]
+SWE,Norrbotten,,,SE332,[SWE.10_1]
+SWE,Orebro,,,SE124,[SWE.11_1]
+SWE,Östergötland,,,SE123,[SWE.12_1]
+SWE,Skåne,,,SE224,[SWE.13_1]
+SWE,Södermanland,,,SE122,[SWE.14_1]
+SWE,Stockholm,,,SE110,[SWE.15_1]
+SWE,Uppsala,,,SE121,[SWE.16_1]
+SWE,Värmland,,,SE311,[SWE.17_1]
+SWE,Västerbotten,,,SE331,[SWE.18_1]
+SWE,Västernorrland,,,SE321,[SWE.19_1]
+SWE,Västmanland,,,SE125,[SWE.20_1]
+SWE,Västra Götaland,,,SE232,[SWE.21_1]
