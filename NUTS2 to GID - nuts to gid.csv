@@ -20,17 +20,6 @@ ITA,Trento,,,ITH2,ITA.17.2_1
 ITA,Umbria,,,ITI2,ITA.18_1
 ITA,Valle d'Aosta,,,ITC2,ITA.19_1
 ITA,Veneto,,,ITH3,ITA.20_1
-BEL,Brussels,Brussels,,BE10,BEL.1.1_1
-BEL,Flanders,Antwerpen,,BE21,BEL.2.1_1
-BEL,Flanders,Limburg,,BE22,BEL.2.2_1
-BEL,Flanders,OostVlaanderen,,BE23,BEL.2.3_1
-BEL,Flanders,VlaamsBrabant,,BE24,BEL.2.4_1
-BEL,Flanders,WestVlaanderen,,BE25,BEL.2.5_1
-BEL,Wallonia,BrabantWallon,,BE31,BEL.3.1_1
-BEL,Wallonia,Hainaut,,BE32,BEL.3.2_1
-BEL,Wallonia,Liège,,BE33,BEL.3.3_1
-BEL,Wallonia,Luxembourg,,BE34,BEL.3.4_1
-BEL,Wallonia,Namur,,BE35,BEL.3.5_1
 DEU,Baden-Württemberg,,,DE1,DEU.1_1
 DEU,Bayern,,,DE2,DEU.2_1
 DEU,Berlin,,,DE3,DEU.3_1
@@ -107,3 +96,6 @@ SWE,Västerbotten,,,SE331,SWE.18_1
 SWE,Västernorrland,,,SE321,SWE.19_1
 SWE,Västmanland,,,SE125,SWE.20_1
 SWE,Västra Götaland,,,SE232,SWE.21_1
+BEL,Brussels,,,BE1,BEL.1_1
+BEL,Flanders,,,BE2,BEL.2_1
+BEL,Wallonia,,,BE3,BEL.3_1
