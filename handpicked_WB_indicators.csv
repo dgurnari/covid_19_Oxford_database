@@ -3,8 +3,6 @@ SH.UHC.SRVS.CV.XD,UHC service coverage index
 NY.GDP.FCST.CD,Gross value added at basic prices (GVA) (current US$)
 NY.GDP.PCAP.CD,GDP per capita (current US$)
 SP.URB.TOTL.IN.ZS,Urban population (% of total population)
-EN.POP.DNST,Population density (people per sq. km of land area)
 SP.POP.80UP.MA.5Y,"Population ages 80 and above, male (% of male population)"
 SP.POP.80UP.FE.5Y,"Population ages 80 and above, female (% of female population)"
-SP.DYN.CDRT.IN,"Death rate, crude (per 1,000 people)"
 SP.DYN.LE00.IN,"Life expectancy at birth, total (years)"
